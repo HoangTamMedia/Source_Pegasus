@@ -1,0 +1,29 @@
+//===================================================================
+//-- Index chữ trong ghi chú đồ
+//====================================================================
+//Wing 1
+1   "+11 +2% Resistência a Remoção de SD"
+2   "+12 +2% Resistência a Remoção de Defesa"
+3   "+13 +2% Resistência a Dano Excelente"
+4   "+14 +2% Resistência a Dano X2"
+5   "+15 +2% Resistência a Dano Crítico"
+//Wing 2
+6   "+11 +6% Resistência a Remoção de SD"
+7   "+12 +6% Resistência a Remoção de Defesa"
+8   "+13 +6% Resistência a Dano Excelente"
+9   "+14 +6% Resistência a Dano X2"
+10  "+15 +6% Resistência a Dano Crítico"
+//Wing 3
+11  "+11 +12% Resistência a Remoção de SD"
+12  "+12 +12% Resistência a Remoção de Defesa"
+13  "+13 +12% Resistência a Dano Excelente"
+14  "+14 +12% Resistência a Dano X2"
+15  "+15 +12% Resistência a Dano Crítico"	
+//Wing 4
+16  "+11 +20% Resistência a Remoção de SD"
+17  "+12 +20% Resistência a Remoção de Defesa"
+18  "+13 +20% Resistência a Dano Excelente"
+19  "+14 +20% Resistência a Dano X2"
+20  "+15 +20% Resistência a Dano Crítico"	
+end		
+

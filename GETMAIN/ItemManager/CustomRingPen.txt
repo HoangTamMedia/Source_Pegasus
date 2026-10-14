@@ -1,0 +1,7 @@
+// 									Custom Option Ring pen Exl
+// type 1 là ring , type 2 là pen sát thương type 3 là pen phép
+//===============================================================================================================
+//ItemID        Model                   		Type    ColorR  ColorG  ColorB
+
+
+end

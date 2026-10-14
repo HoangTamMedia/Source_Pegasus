@@ -1,0 +1,52 @@
+# ============================================================
+#  MU Online - Pegasus Source & Server & Client
+# ============================================================
+
+# --- Archives -------------------------------------------------
+*.rar
+*.zip
+*.7z
+*.tar.gz
+*.tgz
+
+# --- Database Large Log Files ---------------------------------
+*.ldf
+
+# --- Build Outputs & Caches -----------------------------------
+.vs/
+ipch/
+tmp/
+[Dd]ebug/
+[Dd]ebug*/
+[Rr]elease/
+[Rr]elease*/
+Global Debug/
+Global Release/
+Source/**/Bin/
+Source/**/bin/
+
+*.VC.db
+*.VC.opendb
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.obj
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.tlog
+*.lastbuildstate
+*.unsuccessfulbuild
+*.aps
+*.cache
+*.bsc
+*.sbr
+
+# --- Logs & OS Files ------------------------------------------
+*.log
+Thumbs.db
+Desktop.ini
+Client/Screenshots/

@@ -1,0 +1,10 @@
+//--world		MapName				TgaMapName					MusicMp3
+   87          "Thần Ma"          	"ThanMaChien.tga"			""
+   88          "Map Sự Kiện"         "NewMap88.tga"				""
+   89          "Hỗn Chiến"          "NewMap88.tga"				""
+   90          "Boss Guild"          		"NewMap88.tga"		""
+   92          "Đấu Trường Class"          "NewMap93.tga"		""
+   96          "Chiến Trường Cổ"          "CustomMap16.tga"		""
+   97          "Tháp"          		"NewMap93.tga"				""
+   98          "CTC MINI"          "MapNameAddStrife.tga"		""
+end
