@@ -1,0 +1,551 @@
+<?xml version="1.0"?>
+<NPCData>
+    <NPC Id="0" Name="Bull Fighter"/>
+    <NPC Id="1" Name="Hound"/>
+    <NPC Id="2" Name="Budge Dragon"/>
+    <NPC Id="3" Name="Spider"/>
+	<NPC Id="4" Name="Elite Bull Fighter"/>
+    <NPC Id="5" Name="Hell Hound"/>
+    <NPC Id="6" Name="LIch"/>
+    <NPC Id="7" Name="Giant"/>
+    <NPC Id="8" Name="Poison Bull Fighter"/>
+    <NPC Id="9" Name="Thunder Lich"/>
+    <NPC Id="10" Name="Dark Knight"/>
+    <NPC Id="11" Name="Ghost"/>
+    <NPC Id="12" Name="Larva"/>
+    <NPC Id="13" Name="Hell Spider"/>
+    <NPC Id="14" Name="Skeleton"/>
+    <NPC Id="15" Name="Skeleton Archer"/>
+    <NPC Id="16" Name="Chief Skeleton Warrior"/>
+    <NPC Id="17" Name="Cyclops"/>
+    <NPC Id="18" Name="Gorgon"/>
+    <NPC Id="19" Name="Yeti"/>
+    <NPC Id="20" Name="Elite Yeti"/>
+    <NPC Id="21" Name="Assassin"/>
+    <NPC Id="22" Name="Ice Monster"/>
+    <NPC Id="23" Name="Hommerd"/>
+    <NPC Id="24" Name="Worm"/>
+    <NPC Id="25" Name="Ice Queen"/>
+    <NPC Id="26" Name="Goblin"/>
+    <NPC Id="27" Name="Chain Scorpion"/>
+    <NPC Id="28" Name="Beetle Monster"/>
+    <NPC Id="29" Name="Hunter"/>
+    <NPC Id="30" Name="Forest Monster"/>
+    <NPC Id="31" Name="Agon"/>
+    <NPC Id="32" Name="Stone Golem"/>
+    <NPC Id="33" Name="Elite Goblin"/>
+    <NPC Id="34" Name="Cursed Wizard"/>
+    <NPC Id="35" Name="Death Gorgon"/>
+    <NPC Id="36" Name="Shadow"/>
+    <NPC Id="37" Name="Devil"/>
+    <NPC Id="38" Name="Balrog"/>
+    <NPC Id="39" Name="Poison Shadow"/>
+    <NPC Id="40" Name="Death Knight"/>
+    <NPC Id="41" Name="Death Cow"/>
+    <NPC Id="42" Name="Red Dragon"/>
+    <NPC Id="43" Name="Golden Budge Dragon"/>
+    <NPC Id="44" Name="Dragon"/>
+    <NPC Id="45" Name="Bahamut"/>
+    <NPC Id="46" Name="Vepar"/>
+    <NPC Id="47" Name="Valkyrie"/>
+    <NPC Id="48" Name="Lizard King"/>
+    <NPC Id="49" Name="Hydra"/>
+    <NPC Id="50" Name="Sea Spider"/>
+	<NPC Id="51" Name="Great Bahamut"/>
+    <NPC Id="52" Name="Silver Valkyrie"/>
+    <NPC Id="53" Name="Golden Titan" />
+    <NPC Id="54" Name="Golden Soldier"/>
+    <NPC Id="55" Name="Death King"/>
+    <NPC Id="56" Name="Death Bone"/>
+    <NPC Id="57" Name="Iron Wheel"/>
+    <NPC Id="58" Name="Tantalos"/>
+    <NPC Id="59" Name="Zaikan"/>
+    <NPC Id="60" Name="Bloody wolf"/>
+    <NPC Id="61" Name="Beam Knight"/>
+    <NPC Id="62" Name="Mutant"/>
+    <NPC Id="63" Name="Death Beam Knight"/>
+    <NPC Id="64" Name="Ogre archer"/>
+    <NPC Id="65" Name="Elite Ogre"/>
+    <NPC Id="66" Name="Cursed king"/>
+    <NPC Id="67" Name="Metal Balrog"/>
+    <NPC Id="68" Name="Ant"/>
+    <NPC Id="69" Name="Alquamos"/>
+    <NPC Id="70" Name="Queen Rainier"/>
+    <NPC Id="71" Name="Mega Crust"/>
+    <NPC Id="72" Name="Phantom Knight"/>
+    <NPC Id="73" Name="Drakan"/>
+    <NPC Id="74" Name="Alpha Crust"/>
+    <NPC Id="75" Name="Great Drakan"/>
+    <NPC Id="76" Name="Phoenix Darkness shield"/>
+    <NPC Id="77" Name="Phoenix of Darkness"/>
+    <NPC Id="78" Name="Golden Goblin"/>
+    <NPC Id="79" Name="Golden Derkon"/>
+    <NPC Id="80" Name="Golden Lizard King"/>
+    <NPC Id="81" Name="Golden Vepar"/>
+    <NPC Id="82" Name="Golden Tantalos"/>
+    <NPC Id="83" Name="Golden Wheel"/>
+    <NPC Id="84" Name="Chief Skeleton Warrior"/>
+    <NPC Id="85" Name="Chief Skeleton Archer"/>
+    <NPC Id="86" Name="Dark Skull Soldier"/>
+    <NPC Id="87" Name="Giant Ogre"/>
+    <NPC Id="88" Name="Red Skeleton Knight"/>
+    <NPC Id="89" Name="Magic Skeleton"/>
+    <NPC Id="90" Name="Chief Skeleton Warrior"/>
+    <NPC Id="91" Name="Chief Skeleton Archer"/>
+    <NPC Id="92" Name="Dark Skull Soldier"/>
+    <NPC Id="93" Name="Giant Ogre"/>
+    <NPC Id="94" Name="Red Skeleton Knight"/>
+    <NPC Id="95" Name="Magic Skeleton"/>
+    <NPC Id="96" Name="Chief Skeleton Warrior"/>
+    <NPC Id="97" Name="Chief Skeleton Archer"/>
+    <NPC Id="98" Name="Dark Skull Soldier"/>
+    <NPC Id="99" Name="Giant Ogre"/>
+    <NPC Id="100" Name="Lance"/>
+    <NPC Id="101" Name="Iron Stick"/>
+    <NPC Id="102" Name="Fire"/>
+    <NPC Id="103" Name="Meteorite"/>
+    <NPC Id="104" Name="Trap"/>
+    <NPC Id="105" Name="Canon Trap"/>
+    <NPC Id="106" Name="Laser Trap"/>
+    <NPC Id="111" Name="Red Skeleton Knight"/>
+    <NPC Id="112" Name="Magic Skeleton"/>
+    <NPC Id="113" Name="Chief Skeleton Warrior"/>
+    <NPC Id="114" Name="Chief Skeleton Archer"/>
+    <NPC Id="115" Name="Dark Skull Soldier"/>
+    <NPC Id="116" Name="Giant Ogre"/>
+    <NPC Id="117" Name="Red Skeleton Knight"/>
+    <NPC Id="118" Name="Magic Skeleton"/>
+    <NPC Id="119" Name="Chief Skeleton Warrior"/>
+    <NPC Id="120" Name="Chief Skeleton Archer"/>
+    <NPC Id="121" Name="Dark Skull Soldier"/>
+    <NPC Id="122" Name="Giant Ogre"/>
+    <NPC Id="123" Name="Red Skeleton Knight"/>
+    <NPC Id="124" Name="Magic Skeleton"/>
+    <NPC Id="125" Name="Chief Skeleton Warrior"/>
+    <NPC Id="126" Name="Chief Skeleton Archer"/>
+    <NPC Id="127" Name="Dark Skull Soldier"/>
+    <NPC Id="128" Name="Giant Ogre"/>
+    <NPC Id="129" Name="Red Skeleton Knight"/>
+    <NPC Id="130" Name="Magic Skeleton"/>
+    <NPC Id="131" Name="Castle Gate"/>
+    <NPC Id="132" Name="Statue of Saint"/>
+    <NPC Id="133" Name="Statue of Saint"/>
+    <NPC Id="134" Name="Statue of Saint"/>
+    <NPC Id="135" Name="White wizard"/>
+    <NPC Id="136" Name="Destructive ogre soldier"/>
+    <NPC Id="137" Name="Destructive ogre archer"/>
+    <NPC Id="138" Name="Chief Skeleton Warrior"/>
+    <NPC Id="139" Name="Chief Skeleton Archer"/>
+    <NPC Id="140" Name="Dark Skull Soldier"/>
+    <NPC Id="141" Name="Giant Ogre"/>
+    <NPC Id="142" Name="Red Skeleton Knight"/>
+    <NPC Id="143" Name="Magic Skeleton"/>
+    <NPC Id="144" Name="Death Angel"/>
+    <NPC Id="145" Name="Death Centurion"/>
+    <NPC Id="146" Name="Blood Soldier"/>
+    <NPC Id="147" Name="Aegis"/>
+    <NPC Id="148" Name="Rogue Centurion"/>
+    <NPC Id="149" Name="Necron"/>
+    <NPC Id="150" Name="Bali"/>
+    <NPC Id="151" Name="Soldier"/>
+    <NPC Id="152" Name="Magic stone of %s"/>
+    <NPC Id="153" Name="Magic stone of %s"/>
+    <NPC Id="154" Name="Magic stone of %s"/>
+    <NPC Id="155" Name="Magic stone of %s"/>
+    <NPC Id="156" Name="Magic stone of %s"/>
+    <NPC Id="157" Name="Magic stone of %s"/>
+    <NPC Id="158" Name="Magic stone of %s"/>
+    <NPC Id="160" Name="Schriker"/>
+    <NPC Id="161" Name="Illusion of Kundun"/>
+    <NPC Id="162" Name="Chaos Castle 1"/>
+    <NPC Id="163" Name="Chaos Castle 2"/>
+    <NPC Id="164" Name="Chaos Castle 3"/>
+    <NPC Id="165" Name="Chaos Castle 4"/>
+    <NPC Id="166" Name="Chaos Castle 5"/>
+    <NPC Id="167" Name="Chaos Castle 6"/>
+    <NPC Id="168" Name="Chaos Castle 7"/>
+    <NPC Id="169" Name="Chaos Castle 8"/>
+    <NPC Id="170" Name="Chaos Castle 9"/>
+    <NPC Id="171" Name="Chaos Castle 10"/>
+    <NPC Id="172" Name="Chaos Castle 11"/>
+    <NPC Id="173" Name="Chaos Castle 12"/>
+    <NPC Id="174" Name="Death Angel"/>
+    <NPC Id="175" Name="Death Centurion"/>
+    <NPC Id="176" Name="Blood Soldier"/>
+    <NPC Id="177" Name="Aegis"/>
+    <NPC Id="178" Name="Rogue Centurion"/>
+    <NPC Id="179" Name="Necron"/>
+    <NPC Id="180" Name="Schriker"/>
+    <NPC Id="181" Name="Illusion of Kundun"/>
+    <NPC Id="182" Name="Death Angel"/>
+    <NPC Id="183" Name="Death Centurion"/>
+    <NPC Id="184" Name="Blood Soldier"/>
+    <NPC Id="185" Name="Aegis"/>
+    <NPC Id="186" Name="Rogue Centurion"/>
+    <NPC Id="187" Name="Necron"/>
+    <NPC Id="188" Name="Schriker"/>
+    <NPC Id="189" Name="Illusion of Kundun"/>
+    <NPC Id="190" Name="Death Angel"/>
+    <NPC Id="191" Name="Death Centurion"/>
+    <NPC Id="192" Name="Blood Soldier"/>
+    <NPC Id="193" Name="Aegis"/>
+    <NPC Id="194" Name="Rogue Centurion"/>
+    <NPC Id="195" Name="Necron"/>
+    <NPC Id="196" Name="Schriker"/>
+    <NPC Id="197" Name="Illusion of Kundun"/>
+    <NPC Id="200" Name="Soccer Ball"/>
+    <NPC Id="204" Name="Wolf Status"/>
+    <NPC Id="205" Name="Wolf Altar 1"/>
+    <NPC Id="206" Name="Wolf Altar 2"/>
+    <NPC Id="207" Name="Wolf Altar 3"/>
+    <NPC Id="208" Name="Wolf Altar 4"/>
+    <NPC Id="209" Name="Wolf Altar 5"/>
+    <NPC Id="215" Name="Shield"/>
+    <NPC Id="216" Name="Crown"/>
+    <NPC Id="217" Name="Crown Switch 2"/>
+    <NPC Id="218" Name="Crown Switch 1"/>
+    <NPC Id="219" Name="Castle Gate Switch"/>
+    <NPC Id="220" Name="Gatekeeper"/>
+    <NPC Id="221" Name="Slingshot attack"/>
+    <NPC Id="222" Name="Slingshot defense"/>
+    <NPC Id="223" Name="Senior"/>
+    <NPC Id="224" Name="Guardsman"/>
+    <NPC Id="226" Name="Trainer"/>
+    <NPC Id="229" Name="Marlon"/>
+    <NPC Id="230" Name="Wandering Merchant Alex"/>
+    <NPC Id="231" Name="Thompson Kenel"/>
+    <NPC Id="232" Name="Archangel"/>
+    <NPC Id="233" Name="Messenger of Archangel"/>
+    <NPC Id="234" Name="Pet Trainer"/>
+    <NPC Id="235" Name="Sebina the Priest"/>
+    <NPC Id="236" Name="Golden Archer"/>
+    <NPC Id="237" Name="Charon"/>
+    <NPC Id="238" Name="Chaos Goblin"/>
+    <NPC Id="239" Name="Arena Guard"/>
+    <NPC Id="240" Name="Safety Guardian"/>
+    <NPC Id="241" Name="Royal Guard Captain Lorence"/>
+    <NPC Id="242" Name="Elf Lala"/>
+    <NPC Id="243" Name="Eo the Craftsman"/>
+    <NPC Id="244" Name="Caren the Barmaid"/>
+    <NPC Id="245" Name="Wizard Izabel"/>
+    <NPC Id="246" Name="Weapons Merchant Zienna"/>
+    <NPC Id="247" Name="Guard"/>
+    <NPC Id="248" Name="Wandering Merchant Martin"/>
+    <NPC Id="249" Name="Guard"/>
+    <NPC Id="250" Name="Wandering Merchant"/>
+    <NPC Id="251" Name="Hanzo the Blacksmith"/>
+    <NPC Id="252" Name=""/>
+    <NPC Id="253" Name="Potion Girl Amy"/>
+    <NPC Id="254" Name="Pasi the Mage"/>
+    <NPC Id="255" Name="Lumen the Barmaid"/>
+    <NPC Id="256" Name="Lahap"/>
+    <NPC Id="257" Name="Shadow Phantom Soldier"/>
+    <NPC Id="258" Name="Luke the Helper"/>
+    <NPC Id="259" Name="Oracle Layla"/>
+    <NPC Id="260" Name="Death Angel"/>
+    <NPC Id="261" Name="Death Centurion"/>
+    <NPC Id="262" Name="Blood Soldier"/>
+    <NPC Id="263" Name="Aegis"/>
+    <NPC Id="264" Name="Rogue Centurion"/>
+    <NPC Id="265" Name="Necron"/>
+    <NPC Id="266" Name="Schriker"/>
+    <NPC Id="267" Name="Illusion of Kundun"/>
+    <NPC Id="268" Name="Death Angel"/>
+    <NPC Id="269" Name="Death Centurion"/>
+    <NPC Id="270" Name="Blood Soldier"/>
+    <NPC Id="271" Name="Aegis"/>
+    <NPC Id="272" Name="Rogue Centurion"/>
+    <NPC Id="273" Name="Necron"/>
+    <NPC Id="274" Name="Schriker"/>
+    <NPC Id="275" Name="Kundun"/>
+    <NPC Id="277" Name="Castle Gate"/>
+    <NPC Id="278" Name="Life Stone"/>
+    <NPC Id="283" Name="Guardian Statue"/>
+    <NPC Id="285" Name="Guardian"/>
+    <NPC Id="286" Name="Archer"/>
+    <NPC Id="287" Name="Spearman"/>
+    <NPC Id="288" Name="Canon Tower"/>
+    <NPC Id="290" Name="Lizard Warrior"/>
+    <NPC Id="291" Name="Fire Golem"/>
+    <NPC Id="292" Name="Queen Bee"/>
+    <NPC Id="293" Name="Poison Golem"/>
+    <NPC Id="294" Name="Ax Warrior"/>
+    <NPC Id="295" Name="Erohim"/>
+    <NPC Id="296" Name="Beast"/>
+    <NPC Id="300" Name="Hero Mutant"/>
+    <NPC Id="301" Name="Omega Wing"/>
+    <NPC Id="302" Name="Axl Hero"/>
+    <NPC Id="303" Name="Gigas Golem"/>
+    <NPC Id="304" Name="Witch Queen"/>
+    <NPC Id="305" Name="Blue Golem"/>
+    <NPC Id="306" Name="Death Rider"/>
+    <NPC Id="307" Name="Forest Orc"/>
+    <NPC Id="308" Name="Death Tree"/>
+    <NPC Id="309" Name="Hell Maine"/>
+    <NPC Id="310" Name="Hammer Scout"/>
+    <NPC Id="311" Name="Lance Scout"/>
+    <NPC Id="312" Name="Bow Scout"/>
+    <NPC Id="313" Name="Werewolf"/>
+    <NPC Id="314" Name="Scout(Hero)"/>
+    <NPC Id="315" Name="Werewolf(Hero)"/>
+    <NPC Id="316" Name="Balram"/>
+    <NPC Id="317" Name="Soram"/>
+    <NPC Id="331" Name="Aegis"/>
+    <NPC Id="332" Name="Rogue Centurion"/>
+    <NPC Id="333" Name="Blood Soldier"/>
+    <NPC Id="334" Name="Death Angel"/>
+    <NPC Id="335" Name="Necron"/>
+    <NPC Id="336" Name="Death Centurion"/>
+    <NPC Id="337" Name="Schriker"/>
+    <NPC Id="338" Name="Illusion of Kundun"/>
+    <NPC Id="340" Name="Dark Elf"/>
+    <NPC Id="341" Name="Soram"/>
+    <NPC Id="344" Name="Balram"/>
+    <NPC Id="345" Name="Death spirit"/>
+    <NPC Id="348" Name="Tanker"/>
+    <NPC Id="349" Name="Balgass"/>
+    <NPC Id="350" Name="Berserker"/>
+    <NPC Id="351" Name="Splinter Wolf"/>
+    <NPC Id="352" Name="Iron Rider"/>
+    <NPC Id="353" Name="Satyros"/>
+    <NPC Id="354" Name="Blade Hunter"/>
+    <NPC Id="355" Name="Kentauros"/>
+    <NPC Id="356" Name="Gigantis"/>
+    <NPC Id="357" Name="Genocider"/>
+    <NPC Id="358" Name="Persona"/>
+    <NPC Id="359" Name="Twin Tale"/>
+    <NPC Id="360" Name="Dreadfear"/>
+    <NPC Id="361" Name="Nightmare"/>
+    <NPC Id="362" Name="Maya Hand"/>
+    <NPC Id="363" Name="Maya Hand"/>
+    <NPC Id="364" Name="Maya"/>
+    <NPC Id="365" Name="Pouch of Blessing"/>
+    <NPC Id="367" Name="Gateway Machine"/>
+    <NPC Id="368" Name="Elpis"/>
+    <NPC Id="369" Name="Osbourne"/>
+    <NPC Id="370" Name="Jerridon"/>
+    <NPC Id="371" Name="Leo the Helper"/>
+    <NPC Id="372" Name="Elite Skull Soldier"/>
+    <NPC Id="373" Name="Jack Olantern"/>
+    <NPC Id="374" Name="Santa"/>
+    <NPC Id="375" Name="Chaos Card Master"/>
+    <NPC Id="376" Name="Pamela the Supplier"/>
+    <NPC Id="377" Name="Angela the Supplier"/>
+    <NPC Id="378" Name="GameMaster"/>
+    <NPC Id="379" Name="Natasha the Firecracker Merchan"/>
+    <NPC Id="380" Name="Stone Statue"/>
+    <NPC Id="381" Name="MU Allies General"/>
+    <NPC Id="382" Name="Illusion Sorcerer Elder"/>
+    <NPC Id="383" Name="Alliance Sacred Item Storage"/>
+    <NPC Id="384" Name="Illusion Castle Sacred Item Sto"/>
+    <NPC Id="385" Name="Mirage"/>
+    <NPC Id="386" Name="Illusion Sorcerer Spirit"/>
+    <NPC Id="387" Name="Illusion Sorcerer Spirit"/>
+    <NPC Id="388" Name="Illusion Sorcerer Spirit"/>
+    <NPC Id="389" Name="Illusion Sorcerer Spirit"/>
+    <NPC Id="390" Name="Illusion Sorcerer Spirit"/>
+    <NPC Id="391" Name="Illusion Sorcerer Spirit"/>
+    <NPC Id="392" Name="Illusion Sorcerer Spirit"/>
+    <NPC Id="393" Name="Illusion Sorcerer Spirit"/>
+    <NPC Id="394" Name="Illusion Sorcerer Spirit"/>
+    <NPC Id="395" Name="Illusion Sorcerer Spirit"/>
+    <NPC Id="396" Name="Illusion Sorcerer Spirit"/>
+    <NPC Id="397" Name="Illusion Sorcerer Spirit"/>
+    <NPC Id="398" Name="Illusion Sorcerer Spirit"/>
+    <NPC Id="399" Name="Illusion Sorcerer Spirit"/>
+    <NPC Id="400" Name="Illusion Sorcerer Spirit"/>
+    <NPC Id="401" Name="Illusion Sorcerer Spirit"/>
+    <NPC Id="402" Name="Illusion Sorcerer Spirit"/>
+    <NPC Id="403" Name="Illusion Sorcerer Spirit"/>
+    <NPC Id="404" Name="MU Allies"/>
+    <NPC Id="405" Name="Illusion Sorcerer"/>
+    <NPC Id="406" Name="Apostle Devin"/>
+    <NPC Id="407" Name="Werewolf Quarel"/>
+    <NPC Id="408" Name="Gatekeeper"/>
+    <NPC Id="409" Name="Balram"/>
+    <NPC Id="410" Name="Death Spirit"/>
+    <NPC Id="411" Name="Soram"/>
+    <NPC Id="412" Name="Dark Elf"/>
+    <NPC Id="413" Name="Lunar Rabbit"/>
+    <NPC Id="414" Name="Helper Ellen"/>
+    <NPC Id="415" Name="Silvia"/>
+    <NPC Id="416" Name="Rhea"/>
+    <NPC Id="417" Name="Marce"/>
+    <NPC Id="418" Name="Strange Rabbit"/>
+    <NPC Id="419" Name="Hideous Rabbit"/>
+    <NPC Id="420" Name="Werewolf"/>
+    <NPC Id="421" Name="Polluted Butterfly"/>
+    <NPC Id="422" Name="Cursed Lich"/>
+    <NPC Id="423" Name="Totem Golem"/>
+    <NPC Id="424" Name="Grizzly"/>
+    <NPC Id="425" Name="Captain Grizzly"/>
+    <NPC Id="426" Name="Chaos Castle 13"/>
+    <NPC Id="427" Name="Chaos Castle 14"/>
+    <NPC Id="428" Name="Chief Skeleton Warrior"/>
+    <NPC Id="429" Name="Chief Skeleton Archer"/>
+    <NPC Id="430" Name="Dark Skull Soldier"/>
+    <NPC Id="431" Name="Giant Ogre"/>
+    <NPC Id="432" Name="Red Skeleton Knight"/>
+    <NPC Id="433" Name="Magic Skeleton"/>
+    <NPC Id="434" Name="Gigantis"/>
+    <NPC Id="435" Name="Berserker"/>
+    <NPC Id="436" Name="Balram"/>
+    <NPC Id="437" Name="Soram"/>
+    <NPC Id="438" Name="Persona"/>
+    <NPC Id="439" Name="Dreadfear"/>
+    <NPC Id="440" Name="Dark Elf"/>
+    <NPC Id="441" Name="Sapi-Unus"/>
+    <NPC Id="442" Name="Sapi-Duo"/>
+    <NPC Id="443" Name="Sapi-Tres"/>
+    <NPC Id="444" Name="Shadow Pawn"/>
+    <NPC Id="445" Name="Shadow Knight"/>
+    <NPC Id="446" Name="Shadow Look"/>
+    <NPC Id="447" Name="Thunder Napin"/>
+    <NPC Id="448" Name="Ghost Napin"/>
+    <NPC Id="449" Name="Blaze Napin"/>
+    <NPC Id="450" Name="Cherry Blossom Spirit"/>
+    <NPC Id="451" Name="Cherry Blossom Tree"/>
+    <NPC Id="452" Name="Seed Master"/>
+    <NPC Id="453" Name="Seed Researcher"/>
+    <NPC Id="454" Name="Ice Walker"/>
+    <NPC Id="455" Name="Giant Mammoth"/>
+    <NPC Id="456" Name="Ice Giant"/>
+    <NPC Id="457" Name="Coolutin"/>
+    <NPC Id="458" Name="Iron Knight"/>
+    <NPC Id="459" Name="Selupan"/>
+    <NPC Id="460" Name="Spider Eggs"/>
+    <NPC Id="461" Name="Spider Eggs"/>
+    <NPC Id="462" Name="Spider Eggs"/>
+    <NPC Id="463" Name="Fire Flame Ghost"/>
+    <NPC Id="465" Name="Santa Claus"/>
+    <NPC Id="466" Name="Cursed Goblin"/>
+    <NPC Id="467" Name="Snowman"/>
+    <NPC Id="468" Name="Dasher"/>
+    <NPC Id="469" Name="Kermit"/>
+    <NPC Id="470" Name="Little Santa"/>
+    <NPC Id="471" Name="Cupid"/>
+    <NPC Id="472" Name="Prancer"/>
+    <NPC Id="473" Name="Donner"/>
+    <NPC Id="474" Name="Vixen"/>
+    <NPC Id="475" Name="Blitzen"/>
+    <NPC Id="476" Name="Cursed Santa"/>
+    <NPC Id="477" Name="Transformed Snowman"/>
+    <NPC Id="478" Name="Delgado"/>
+    <NPC Id="479" Name="Doorkeeper Titus"/>
+    <NPC Id="480" Name="Zombie Fighter"/>
+    <NPC Id="481" Name="Zombie Fighter"/>
+    <NPC Id="482" Name="Resurrected Gladiator"/>
+    <NPC Id="483" Name="Resurrected Gladiator"/>
+    <NPC Id="484" Name="Ash Slaughterer"/>
+    <NPC Id="485" Name="Ash Slaughterer"/>
+    <NPC Id="486" Name="Blood Assassin"/>
+    <NPC Id="487" Name="Cruel Blood Assassin"/>
+    <NPC Id="488" Name="Cruel Blood Assassin"/>
+    <NPC Id="489" Name="Burning Lava Giant"/>
+    <NPC Id="490" Name="Ruthless Lava Giant"/>
+    <NPC Id="491" Name="Ruthless Lava Giant"/>
+    <NPC Id="492" Name="Moss"/>
+    <NPC Id="493" Name="Golden Dark Knight"/>
+    <NPC Id="494" Name="Golden Devil"/>
+    <NPC Id="495" Name="Golden Stone Golem"/>
+    <NPC Id="496" Name="Golden Crust"/>
+    <NPC Id="497" Name="Golden Satyros"/>
+    <NPC Id="498" Name="Golden Twin Tail"/>
+    <NPC Id="499" Name="Golden Iron Knight"/>
+    <NPC Id="500" Name="Golden Napin"/>
+    <NPC Id="501" Name="Great Golden Dragon"/>
+    <NPC Id="502" Name="Golden Rabbit"/>
+    <NPC Id="503" Name="Transformed Panda"/>
+    <NPC Id="504" Name="Gaion Kharein"/>
+    <NPC Id="505" Name="Jerint"/>
+    <NPC Id="506" Name="Raymond"/>
+    <NPC Id="507" Name="Erkanne"/>
+    <NPC Id="508" Name="Destler"/>
+    <NPC Id="509" Name="Vermont"/>
+    <NPC Id="510" Name="Kato"/>
+    <NPC Id="511" Name="Galia"/>
+    <NPC Id="512" Name="Quartermaster"/>
+    <NPC Id="513" Name="Combat Instructor"/>
+    <NPC Id="514" Name="Knight Commander"/>
+    <NPC Id="515" Name="Grand Wizard"/>
+    <NPC Id="516" Name="Master Assassin"/>
+    <NPC Id="517" Name="Cavalry Captain"/>
+    <NPC Id="518" Name="Shield Bearer"/>
+    <NPC Id="519" Name="Medic"/>
+    <NPC Id="520" Name="Knights"/>
+    <NPC Id="521" Name="Bodyguard"/>
+    <NPC Id="522" Name="Jerint the Assistant"/>
+    <NPC Id="523" Name="Trap"/>
+    <NPC Id="524" Name="Castle Gate 1"/>
+    <NPC Id="525" Name="Castle Gate 2"/>
+    <NPC Id="526" Name="Stone Statue 1"/>
+    <NPC Id="527" Name="Castle Gate 3"/>
+    <NPC Id="528" Name="Castle Gate 4"/>
+    <NPC Id="529" Name="Furious Slaughterer"/>
+    <NPC Id="530" Name="Slaughterer"/>
+    <NPC Id="531" Name="Ice Walker"/>
+    <NPC Id="532" Name="Larva"/>
+    <NPC Id="533" Name="Doppelganger"/>
+    <NPC Id="534" Name="Doppelganger Elf"/>
+    <NPC Id="535" Name="Doppelganger Knight"/>
+    <NPC Id="536" Name="Doppelganger Wizard"/>
+    <NPC Id="537" Name="Doppelganger Magic Gladiator"/>
+    <NPC Id="538" Name="Doppelganger Dark Lord"/>
+    <NPC Id="539" Name="Doppelganger Summoner"/>
+    <NPC Id="540" Name="Lugard"/>
+    <NPC Id="541" Name="Interim Reward Chest"/>
+    <NPC Id="542" Name="Final Reward Chest"/>
+    <NPC Id="543" Name="Gens Duprian Steward"/>
+    <NPC Id="544" Name="Gens Vanert Steward"/>
+    <NPC Id="545" Name="Christine the General Goods Mer"/>
+    <NPC Id="546" Name="Jeweler Raul"/>
+    <NPC Id="547" Name="Market Union Member Julia"/>
+    <NPC Id="548" Name="Transformed Skeleton"/>
+    <NPC Id="549" Name="Bloody Orc"/>
+    <NPC Id="550" Name="Bloody Death Rider"/>
+    <NPC Id="551" Name="Bloody Golem"/>
+    <NPC Id="552" Name="Bloody Witch Queen"/>
+    <NPC Id="553" Name="Berserker Warrior"/>
+    <NPC Id="554" Name="Kentauros Warrior"/>
+    <NPC Id="555" Name="Gigantis Warrior"/>
+    <NPC Id="556" Name="Genocider Warrior"/>
+    <NPC Id="557" Name="Sapi Queen"/>
+    <NPC Id="558" Name="Ice Napin"/>
+    <NPC Id="559" Name="Shadow Master"/>
+    <NPC Id="560" Name="Sapi Queen"/>
+    <NPC Id="561" Name="Medusa"/>
+    <NPC Id="562" Name="Dark Mammoth"/>
+    <NPC Id="563" Name="Dark Giant"/>
+    <NPC Id="564" Name="Dark Coolutin"/>
+    <NPC Id="565" Name="Dark Iron Knight"/>
+    <NPC Id="566" Name="Mercenary Guild Manager Tercia"/>
+    <NPC Id="567" Name="Priestess Veina"/>
+    <NPC Id="568" Name="Wandering Merchant Zyro"/>
+    <NPC Id="569" Name="Venomous Chain Scorpion"/>
+    <NPC Id="570" Name="Bone Scorpion"/>
+    <NPC Id="571" Name="Orcus"/>
+    <NPC Id="572" Name="Gollock"/>
+    <NPC Id="573" Name="Crypta"/>
+    <NPC Id="574" Name="Crypos"/>
+    <NPC Id="575" Name="Condra"/>
+    <NPC Id="576" Name="Narcondra"/>
+    <NPC Id="577" Name="Leina the General Goods Merchan"/>
+    <NPC Id="578" Name="Weapons Merchant Bolo"/>
+	<NPC Id="579" Name="David"/>
+	<NPC Id="650" Name="Lesnar"/>
+	<NPC Id="651" Name="Deruvish"/>
+	<NPC Id="652" Name="Livain"/>
+    <NPC Id="700" Name="Khazra"/>
+    <NPC Id="701" Name="Belial"/>
+    <NPC Id="800" Name="Andariel"/>
+    <NPC Id="801" Name="DragonSlave"/>
+    <NPC Id="802" Name="FireTurtle"/>
+    <NPC Id="803" Name="NinjaWarrior"/>
+    <NPC Id="900" Name="Lord of Darkness"/>
+    <NPC Id="901" Name="Mine Porter"/>
+    <NPC Id="902" Name="Aquila"/>
+</NPCData>
+
+
+
+

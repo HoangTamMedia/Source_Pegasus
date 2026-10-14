@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<Ranks>
+    <Rank Index="1"  TypeRank="1" Text="Beginner"               Color="FF66FF66" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="2"  TypeRank="1" Text="Apprentice"             Color="FF66FF66" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="3"  TypeRank="1" Text="Adventurer"             Color="FF66FF66" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="4"  TypeRank="1" Text="Warrior"                Color="FF66FF66" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="5"  TypeRank="1" Text="Hunter"                 Color="FF66FF66" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="6"  TypeRank="1" Text="Guardian"               Color="FF66FF66" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="7"  TypeRank="1" Text="Knight"                 Color="FF66FF66" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="8"  TypeRank="1" Text="Mage Adept"             Color="FF66FF66" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="9"  TypeRank="1" Text="Dark Disciple"          Color="FF66FF66" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="10" TypeRank="1" Text="Battle Ready"           Color="FF66FF66" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="11" TypeRank="1" Text="Duelist"                Color="FF87CEFA" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="12" TypeRank="1" Text="Soul Seeker"            Color="FF87CEFA" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="13" TypeRank="1" Text="Arena Challenger"       Color="FF87CEFA" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="14" TypeRank="1" Text="Monster Slayer"         Color="FF87CEFA" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="15" TypeRank="1" Text="Treasure Hunter"        Color="FF87CEFA" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="16" TypeRank="1" Text="Rune Master"            Color="FF87CEFA" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="17" TypeRank="1" Text="Blood Knight"           Color="FF87CEFA" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="18" TypeRank="1" Text="Chaos Adventurer"       Color="FF87CEFA" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="19" TypeRank="1" Text="Shadow Stalker"         Color="FF87CEFA" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="20" TypeRank="1" Text="Spirit Walker"          Color="FF87CEFA" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="21" TypeRank="1" Text="Castle Defender"        Color="FF87CEFA" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="22" TypeRank="1" Text="Blood Castle Hero"      Color="FF87CEFA" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="23" TypeRank="1" Text="Devil Square Conqueror" Color="FF87CEFA" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="24" TypeRank="1" Text="Chaos Castle Champion"  Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="25" TypeRank="1" Text="Golden Hunter"          Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="26" TypeRank="1" Text="Arena Victor"           Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="27" TypeRank="1" Text="Battle Master"          Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="28" TypeRank="1" Text="Elite Knight"           Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="29" TypeRank="1" Text="High Sorcerer"          Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="30" TypeRank="1" Text="Dark Avenger"           Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="31" TypeRank="1" Text="Dragon Slayer"          Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="32" TypeRank="1" Text="Fenrir Rider"           Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="33" TypeRank="1" Text="Master of Chaos"        Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="34" TypeRank="1" Text="Blood Lord"             Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="35" TypeRank="1" Text="Immortal Warrior"       Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="36" TypeRank="1" Text="Archmage"               Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="37" TypeRank="1" Text="Shadow Emperor"         Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="38" TypeRank="1" Text="Battlefield Legend"     Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="39" TypeRank="1" Text="Grand Champion"         Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="40" TypeRank="1" Text="Lord of MU"             Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="41" TypeRank="1" Text="Hero of Continent"      Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="42" TypeRank="1" Text="Legendary Conqueror"    Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="43" TypeRank="1" Text="Mythical King"          Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="44" TypeRank="1" Text="Eternal Guardian"       Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+	<Rank Index="45" TypeRank="1" Text="Ascended Hero"          Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="46" TypeRank="1" Text="Ascended Champion"      Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="47" TypeRank="1" Text="Ascended Warlord"       Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="48" TypeRank="1" Text="Ascended Overlord"      Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="49" TypeRank="1" Text="Ascended Sovereign"     Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="50" TypeRank="1" Text="Void Initiate"          Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="51" TypeRank="1" Text="Void Adept"             Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="52" TypeRank="1" Text="Void Disciple"          Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="53" TypeRank="1" Text="Void Champion"          Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="54" TypeRank="1" Text="Void Emperor"           Color="FF1E90FF" Width="200" Height="140" PosX="0" PosY="50.0"/>   
+    <Rank Index="55" TypeRank="1" Text="Cosmic Initiate"        Color="FFBA55D3" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="56" TypeRank="1" Text="Cosmic Adept"           Color="FFBA55D3" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="57" TypeRank="1" Text="Cosmic Warrior"         Color="FFBA55D3" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="58" TypeRank="1" Text="Cosmic Overlord"        Color="FFBA55D3" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="59" TypeRank="1" Text="Cosmic Paragon"         Color="FFBA55D3" Width="200" Height="140" PosX="0" PosY="50.0"/>   
+    <Rank Index="60" TypeRank="1" Text="Astral Wanderer"        Color="FFBA55D3" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="61" TypeRank="1" Text="Astral Hunter"          Color="FFBA55D3" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="62" TypeRank="1" Text="Astral Knight"          Color="FFBA55D3" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="63" TypeRank="1" Text="Astral Champion"        Color="FFBA55D3" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="64" TypeRank="1" Text="Astral Ascendant"       Color="FFBA55D3" Width="200" Height="140" PosX="0" PosY="50.0"/>   
+    <Rank Index="65" TypeRank="1" Text="Eternal Vanguard"       Color="FFBA55D3" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="66" TypeRank="1" Text="Eternal Conqueror"      Color="FFBA55D3" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="67" TypeRank="1" Text="Eternal Overlord"       Color="FFBA55D3" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="68" TypeRank="1" Text="Eternal Sovereign"      Color="FFBA55D3" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="69" TypeRank="1" Text="Eternal Emperor"        Color="FFBA55D3" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="70" TypeRank="1" Text="Eternal Paragon"        Color="FFBA55D3" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="71" TypeRank="1" Text="Divine Initiate"        Color="FFFFA500" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="72" TypeRank="1" Text="Divine Guardian"        Color="FFFFA500" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="73" TypeRank="1" Text="Divine Crusader"        Color="FFFFA500" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="74" TypeRank="1" Text="Divine Exemplar"        Color="FFFFA500" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="75" TypeRank="1" Text="Divine Paragon"         Color="FFFFA500" Width="200" Height="140" PosX="0" PosY="50.0"/> 
+    <Rank Index="76" TypeRank="1" Text="Celestial Herald"       Color="FFFFA500" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="77" TypeRank="1" Text="Celestial Avenger"      Color="FFFFA500" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="78" TypeRank="1" Text="Celestial Champion"     Color="FFFFA500" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="79" TypeRank="1" Text="Celestial Overlord"     Color="FFFFA500" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="80" TypeRank="1" Text="Celestial Supreme"      Color="FFFFA500" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="81" TypeRank="1" Text="Godborne"               Color="FFFF8C00" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="82" TypeRank="1" Text="Godslayer"              Color="FFFF8C00" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="83" TypeRank="1" Text="Godbreaker"             Color="FFFF8C00" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="84" TypeRank="1" Text="God Dominator"          Color="FFFF8C00" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="85" TypeRank="1" Text="God Emperor"            Color="FFFF8C00" Width="200" Height="140" PosX="0" PosY="50.0"/>   
+    <Rank Index="86" TypeRank="1" Text="Ancient Deity"          Color="FFFFD700" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="87" TypeRank="1" Text="Prime Deity"            Color="FFFFD700" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="88" TypeRank="1" Text="Elder God"              Color="FFFFD700" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="89" TypeRank="1" Text="Myth God"               Color="FFFFD700" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="90" TypeRank="1" Text="Supreme God"            Color="FFFFD700" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="91" TypeRank="1" Text="Origin Keeper"          Color="FFDC143C" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="92" TypeRank="1" Text="Reality Shaper"         Color="FFDC143C" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="93" TypeRank="1" Text="Time Weaver"            Color="FFDC143C" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="94" TypeRank="1" Text="Dimension Lord"         Color="FFDC143C" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="95" TypeRank="1" Text="Cosmos Architect"       Color="FFDC143C" Width="200" Height="140" PosX="0" PosY="50.0"/>   
+    <Rank Index="96" TypeRank="1" Text="Creator's Hand"         Color="FFDC143C" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="97" TypeRank="1" Text="Origin Sovereign"       Color="FFDC143C" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="98" TypeRank="1" Text="Absolute Creator"       Color="FFDC143C" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="99" TypeRank="1" Text="Eternal Architect"      Color="FFDC143C" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="100" TypeRank="1" Text="God of Creation"       Color="FFDC143C" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="101" TypeRank="1" Text="Transcendent Being"     Color="FF8B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="102" TypeRank="1" Text="Beyond Origin"          Color="FF8B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="103" TypeRank="1" Text="Lawbreaker"             Color="FF8B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="104" TypeRank="1" Text="Existence Rewriter"     Color="FF8B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="105" TypeRank="1" Text="Reality Devourer"       Color="FF8B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="106" TypeRank="1" Text="Void Creator"           Color="FF8B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="107" TypeRank="1" Text="Chaos Architect"        Color="FF8B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="108" TypeRank="1" Text="Supreme Existence"      Color="FF8B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="109" TypeRank="1" Text="Absolute Entity"        Color="FF8B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="110" TypeRank="1" Text="Omniversal Being"       Color="FF8B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="111" TypeRank="1" Text="Omniversal Initiate"    Color="FF7A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="112" TypeRank="1" Text="Omniversal Guardian"    Color="FF7A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="113" TypeRank="1" Text="Omniversal Judge"       Color="FF7A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="114" TypeRank="1" Text="Omniversal Dominator"   Color="FF7A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="115" TypeRank="1" Text="Omniversal Sovereign"   Color="FF7A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="116" TypeRank="1" Text="Omniversal Overlord"    Color="FF7A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="117" TypeRank="1" Text="Omniversal Paragon"     Color="FF7A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="118" TypeRank="1" Text="Omniversal Apex"        Color="FF7A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="119" TypeRank="1" Text="Omniversal Eternal"     Color="FF7A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="120" TypeRank="1" Text="Omniversal Absolute"    Color="FF7A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="121" TypeRank="1" Text="Void Incarnate"         Color="FF5C0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="122" TypeRank="1" Text="Oblivion Walker"        Color="FF5C0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="123" TypeRank="1" Text="Oblivion Hunter"        Color="FF5C0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="124" TypeRank="1" Text="Oblivion Lord"          Color="FF5C0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="125" TypeRank="1" Text="Oblivion Emperor"       Color="FF5C0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="126" TypeRank="1" Text="Void Singularity"       Color="FF5C0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="127" TypeRank="1" Text="End of All Things"      Color="FF5C0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="128" TypeRank="1" Text="Final Existence"        Color="FF5C0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="129" TypeRank="1" Text="The Last One"           Color="FF5C0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="130" TypeRank="1" Text="The One Who Remains"    Color="FF5C0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="131" TypeRank="1" Text="Living Paradox"         Color="FF3B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="132" TypeRank="1" Text="Living Law"             Color="FF3B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="133" TypeRank="1" Text="Walking Concept"        Color="FF3B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="134" TypeRank="1" Text="Absolute Concept"       Color="FF3B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="135" TypeRank="1" Text="Embodiment of All"      Color="FF3B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="136" TypeRank="1" Text="The First Existence"    Color="FF3B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="137" TypeRank="1" Text="The Final Existence"    Color="FF3B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="138" TypeRank="1" Text="Alpha and Omega"        Color="FF3B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="139" TypeRank="1" Text="The One Above All"      Color="FF3B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="140" TypeRank="1" Text="True Absolute"          Color="FF3B0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="141" TypeRank="1" Text="The Source"             Color="FF1A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="142" TypeRank="1" Text="The Nameless One"       Color="FF1A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="143" TypeRank="1" Text="The Unwritten"          Color="FF1A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="144" TypeRank="1" Text="The Unknown"            Color="FF1A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="145" TypeRank="1" Text="Reality Administrator"  Color="FF1A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="146" TypeRank="1" Text="System Overseer"        Color="FF1A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="147" TypeRank="1" Text="Absolute Overseer"      Color="FF1A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="148" TypeRank="1" Text="Master of All"          Color="FF1A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="149" TypeRank="1" Text="Beyond Absolute"        Color="FF1A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+    <Rank Index="150" TypeRank="1" Text="Rich Merchant’s"        Color="FF1A0000" Width="200" Height="140" PosX="0" PosY="50.0"/>
+
+</Ranks>

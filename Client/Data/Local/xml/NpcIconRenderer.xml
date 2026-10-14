@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NpcIconRenderer Enable="1">
+    <Npc MonsterIndex="254" EffectSpeed="1" Icon="900" />
+	<Npc MonsterIndex="230" EffectSpeed="1" Icon="900" />
+    <Npc MonsterIndex="379" EffectSpeed="1" Icon="900" />
+    <Npc MonsterIndex="417" EffectSpeed="1" Icon="900" />
+	<Npc MonsterIndex="240" EffectSpeed="1" Icon="902" />
+	<Npc MonsterIndex="251" EffectSpeed="1" Icon="903" />
+    <Npc MonsterIndex="246" EffectSpeed="1" Icon="903" />
+	<Npc MonsterIndex="243" EffectSpeed="1" Icon="903" />
+    <Npc MonsterIndex="255" EffectSpeed="1" Icon="904" />
+	<Npc MonsterIndex="253" EffectSpeed="1" Icon="904" />
+    <Npc MonsterIndex="242" EffectSpeed="1" Icon="904" />
+    <Npc MonsterIndex="452" EffectSpeed="1" Icon="905" />
+    <Npc MonsterIndex="453" EffectSpeed="1" Icon="905" />
+	<Npc MonsterIndex="650" EffectSpeed="1" Icon="906" />
+    <Npc MonsterIndex="241" EffectSpeed="1" Icon="907" />
+    <Npc MonsterIndex="369" EffectSpeed="1" Icon="907" />
+    <Npc MonsterIndex="370" EffectSpeed="1" Icon="907" />
+    <Npc MonsterIndex="479" EffectSpeed="1" Icon="908" />
+    <Npc MonsterIndex="226" EffectSpeed="1" Icon="909" />
+    <Npc MonsterIndex="406" EffectSpeed="1" Icon="910" />
+    <Npc MonsterIndex="235" EffectSpeed="1" Icon="910" />
+	<Npc MonsterIndex="651" EffectSpeed="1" Icon="911" />
+    <Npc MonsterIndex="543" EffectSpeed="1" Icon="912" />
+    <Npc MonsterIndex="544" EffectSpeed="1" Icon="912" />
+	<Npc MonsterIndex="238" EffectSpeed="1" Icon="914" />
+    <Npc MonsterIndex="237" EffectSpeed="1" Icon="915" />
+    <Npc MonsterIndex="233" EffectSpeed="1" Icon="915" />
+    <Npc MonsterIndex="522" EffectSpeed="1" Icon="915" />
+	<Npc MonsterIndex="579" EffectSpeed="1" Icon="916" />
+	<Npc MonsterIndex="652" EffectSpeed="1" Icon="917" />
+    <Npc MonsterIndex="649" EffectSpeed="1" Icon="928" />
+
+</NpcIconRenderer>

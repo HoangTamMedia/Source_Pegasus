@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<Texts>
+    <Global>
+        <Text Index="0"  Value="Items for Sale" />
+        <Text Index="1"  Value="Pega Coin" />
+        <Text Index="2"  Value="To Purchase Items With Jewels, They Must Be In The Jewel Bank" />
+        <Text Index="3"  Value="When The Seller Receives The Jewels, They Will Be Transferred To The Jewel Bank" />
+        <Text Index="4"  Value="Price:" />
+        <Text Index="5"  Value="Sell Item" />
+        <Text Index="6"  Value="Right-click an item to sell it" />
+        <Text Index="7"  Value="Your listed items appear in 'Your Items'" />
+        <Text Index="8"  Value="Note: Check carefully before selling!" />
+        <Text Index="10" Value="Self-Select Store" />
+        <Text Index="11" Value="Seller : %s " />
+        <Text Index="12" Value="Price: %s [%s]" />
+        <Text Index="13" Value="Classify: %s" />
+        <Text Index="14" Value="Remove" />
+        <Text Index="15" Value="Try it" />
+        <Text Index="16" Value="Buy Item" />
+        <Text Index="17" Value="Note" />
+        <Text Index="18" Value="You Want To buy item##Item %s Price : %s (%s)" />
+        <Text Index="19" Value="Category : %s" />
+        <Text Index="20" Value="Find keywords..." />
+        <Text Index="21" Value="Lọc List Item" />
+        <Text Index="22" Value="SKILL" />
+        <Text Index="23" Value="LUCK" />
+        <Text Index="24" Value="OPTION" />
+        <Text Index="25" Value="EXE" /> 
+        <Text Index="26" Value="All Item" />
+        <Text Index="27" Value="Weapon" />
+        <Text Index="28" Value="Helm" />
+        <Text Index="29" Value="Armor" />
+        <Text Index="30" Value="Pants" />
+        <Text Index="31" Value="Gloves" />
+        <Text Index="32" Value="Boots" />
+        <Text Index="33" Value="Wings" />
+        <Text Index="34" Value="Pets" />
+        <Text Index="35" Value="Pendant" />
+        <Text Index="36" Value="Rings" />
+        <Text Index="37" Value="Other" />
+        <Text Index="38" Value="Item Sell" />
+        <Text Index="39" Value="View Item" />
+        <Text Index="40" Value="Reload Item" />
+        <Text Index="41" Value="Time : %d Days" />
+        <Text Index="42" Value="Time : %d Hours" />
+        <Text Index="43" Value="Days: " />
+        <Text Index="44" Value="Items for Sale" />
+        <Text Index="45" Value="List Item" />
+        <Text Index="46" Value="Selling Items" />		
+		<Text Index="47" Value="Auto Attack" />
+        <Text Index="48" Value="END: Off Auto" />
+        <Text Index="49" Value="Do Not Use Special Characters" />
+        <Text Index="50" Value="Error - Unable To Create" />
+        <Text Index="51" Value="Account Registration Successful" />
+        <Text Index="52" Value="Account Already In Use" />
+		<Text Index="53" Value="Pega Bonuses" />
+		<Text Index="54" Value="Valor Coin" />
+    </Global>
+
+    <Option>
+        <Text Index="80" Value="Damage PVE / PVP: +%s" />
+        <Text Index="81" Value="Increase Magic Damage: +%s" />
+        <Text Index="82" Value="Increase Defense Success Rate: +%s" />
+        <Text Index="83" Value="Increase Defense: +%s" />
+        <Text Index="84" Value="Critical Damage: +%s" />
+        <Text Index="85" Value="Increase HP Recovery Rate: +%s" />
+        <Text Index="86" Value="Increase Zen Drop Rate: +%s" />
+        <Text Index="87" Value="Defense Success Rate: +%s%%" />
+        <Text Index="88" Value="Reflect Damage: +%s" />
+        <Text Index="89" Value="Damage Reduction: +%s" />
+        <Text Index="90" Value="Increase Mana Rate: +%s%%" />
+        <Text Index="91" Value="Increase HP Rate: +%s%%" />
+        <Text Index="92" Value="Excellent Damage: +%s%%" />
+        <Text Index="93" Value="Increase Physical Damage By Level: +%s" />
+        <Text Index="94" Value="Increase Physical Damage Rate: +%s" />
+        <Text Index="95" Value="Increase Magic Damage By Level: +%s" />
+        <Text Index="96" Value="Increase Magic Damage Rate: +%s" />
+        <Text Index="97" Value="Increase Attack Speed: +%s" />
+        <Text Index="98" Value="Increase HP After Killing Monsters: +%s" />
+        <Text Index="99" Value="Increase MP After Killing Monsters: +%s" />
+        <Text Index="100" Value="Increase Wing HP: +%s" />
+        <Text Index="101" Value="Increase Wing MP: +%s" />
+        <Text Index="102" Value="Ignore Enemy Defense: +%s" />
+        <Text Index="103" Value="Increase Stamina: %s" />
+        <Text Index="104" Value="Increase Stamina Rate: +%s%%" />
+        <Text Index="105" Value="Increase Wing Leadership: +%s" />
+        <Text Index="106" Value="Increase Fenrir1: +%s" />
+        <Text Index="107" Value="Increase Fenrir2: +%s" />
+        <Text Index="108" Value="Increase Fenrir3: +%s" />
+        <Text Index="109" Value="Increase Reflect All Damage Rate: +%s%%" />
+        <Text Index="110" Value="Increase HP Recovery From Defense: +%s%%" />
+        <Text Index="111" Value="Increase MP Recovery From Defense: +%s%%" />
+        <Text Index="112" Value="Increase Dinorant1" />
+        <Text Index="113" Value="Increase Curse Damage: +%s" />
+        <Text Index="114" Value="Increase Curse Damage By Level: +%s" />
+        <Text Index="115" Value="Increase Curse Damage Rate: +%s%%" />
+        <Text Index="116" Value="Increase Double Damage Rate: +%s%%" />
+        <Text Index="117" Value="Increase Experience Rate: +%s%%" />
+        <Text Index="118" Value="Increase Combo Experience Rate: +%s%%" />
+        <Text Index="119" Value="Maximum Life: +%s%%" />
+        <Text Index="120" Value="Increase MP: +%s" />
+        <Text Index="121" Value="Increase HP By Level: +%s" />
+        <Text Index="122" Value="Increase MP By Level: +%s" />
+        <Text Index="123" Value="Damage Increase: +%s%%" />
+        <Text Index="124" Value="Increase Damage By Level: +%s" />
+        <Text Index="125" Value="Coefficient: +%s%" />
+        <Text Index="126" Value="Increase Defense By Level: +%s" />
+        <Text Index="127" Value="Increase Defense Rate: +%s%%" />
+        <Text Index="128" Value="Increase Damage Percentage: +%s%%" />
+    </Option>
+</Texts>

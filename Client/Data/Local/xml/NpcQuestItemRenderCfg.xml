@@ -1,0 +1,15 @@
+<NpcQuestItemRenderConfig>
+
+    <!-- TRACKED -->
+    <Item Type="12" Index="15" OffsetX="-3" OffsetY="-5" Scale="1.2" UI="TRACKED"/>
+    <Item Type="12" Index="137" OffsetX="2" OffsetY="1" Scale="1.2" UI="TRACKED"/>
+    <Item Type="14" Index="141" OffsetX="7" OffsetY="2" Scale="1.6" UI="TRACKED"/>
+    <Item Type="12" Index="30" OffsetX="0" OffsetY="0" Scale="1.2" UI="TRACKED"/>
+
+    <!-- QUEST -->
+    <Item Type="12" Index="15" OffsetX="-4" OffsetY="0" Scale="1.0" UI="QUEST"/>
+    <Item Type="12" Index="137" OffsetX="0" OffsetY="4" Scale="1.0" UI="QUEST"/>
+    <Item Type="12" Index="30" OffsetX="0" OffsetY="5" Scale="1.2" UI="QUEST"/>
+    <Item Type="14" Index="141" OffsetX="5" OffsetY="5" Scale="1.2" UI="QUEST"/>
+
+</NpcQuestItemRenderConfig>

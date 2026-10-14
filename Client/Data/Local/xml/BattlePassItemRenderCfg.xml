@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<BattlePassItemRenderConfig>
+
+    <Item Type="14" Index="13" OffsetX="0" OffsetY="-10" Scale="1.0"/>
+    <Item Type="14" Index="14" OffsetX="0" OffsetY="-10" Scale="1.0"/>
+    <Item Type="14" Index="16" OffsetX="0" OffsetY="-10" Scale="1.0"/>
+    <Item Type="14" Index="240" OffsetX="0" OffsetY="-8" Scale="1.0"/>
+    <Item Type="14" Index="22" OffsetX="0" OffsetY="-10" Scale="1.0"/>
+    <Item Type="14" Index="70" OffsetX="0" OffsetY="-8" Scale="1.0"/>
+    <Item Type="14" Index="244" OffsetX="0" OffsetY="-8" Scale="1.0"/>
+    <Item Type="14" Index="245" OffsetX="0" OffsetY="-8" Scale="1.0"/>
+    <Item Type="14" Index="246" OffsetX="0" OffsetY="-8" Scale="1.0"/>
+    <Item Type="14" Index="250" OffsetX="0" OffsetY="-8" Scale="1.0"/>
+    <Item Type="14" Index="247" OffsetX="0" OffsetY="-8" Scale="1.0"/>
+    <Item Type="14" Index="151" OffsetX="0" OffsetY="0" Scale="1.4"/>
+    <Item Type="14" Index="152" OffsetX="0" OffsetY="0" Scale="1.4"/>
+</BattlePassItemRenderConfig>

@@ -1,0 +1,635 @@
+<?xml version="1.0"?>
+<BuffEffectData>
+    <BuffEffect Index="1" Group="1" ItemId="255:255" Name="Increase Attack Power" Description="Attack power increases.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="2" Group="2" ItemId="255:255" Name="Increase Defense" Description="Defensibility increases.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="3" Group="3" ItemId="255:255" Name="Shadow Phantom effect" Description="Attack power and Defensibility increases.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="4" Group="4" ItemId="255:255" Name="Soul Barrier" Description="Manna absorbs the damage.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="5" Group="5" ItemId="255:255" Name="Critical Damage increase" Description="Critical damage increases.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="6" Group="6" ItemId="255:255" Name="Infinity Arrow" Description="Arrows do not become consumed.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="7" Group="7" ItemId="255:255" Name="AG recovery speed increase" Description="">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="8" Group="8" ItemId="255:255" Name="Swell Life" Description="Health stat increases to maximum.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="9" Group="9" ItemId="255:255" Name="Swell Mana" Description="Mana stat increases to maximum.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="10" Group="10" ItemId="255:255" Name="Potion of Blessing" Description="Attack power +20%% increase">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="11" Group="11" ItemId="255:255" Name="Potion of Soul" Description="AG recovery speed increase +8/Lightning and Ice resistance increase/attack speed increase +20">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="12" Group="12" ItemId="255:255" Name="Abolish Magic" Description="">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="13" Group="13" ItemId="255:255" Name="Gate Open/Close Status" Description="">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="14" Group="14" ItemId="255:255" Name="Watchtower" Description="Watching over the castle.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="15" Group="14" ItemId="255:255" Name="Besiegement Guild1" Description="In the process of attacking the castle.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="16" Group="14" ItemId="255:255" Name="Besiegement Guild2" Description="In the process of attacking the castle.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="17" Group="14" ItemId="255:255" Name="Besiegement Guild3" Description="In the process of attacking the castle.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="18" Group="15" ItemId="255:255" Name="Invisibility" Description="Transparency Status.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="19" Group="16" ItemId="255:255" Name="Dark Rod Battle Skill" Description="">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="20" Group="17" ItemId="255:255" Name="Crown Registration Status" Description="">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="21" Group="18" ItemId="255:255" Name="Altar of Wolf contract enabled" Description="">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="22" Group="18" ItemId="255:255" Name="Altar of Wolf contract disabled" Description="">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="23" Group="18" ItemId="255:255" Name="Altar of Wolf contract Status" Description="">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="24" Group="18" ItemId="255:255" Name="Altar of Wolf contract attempt" Description="">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="25" Group="18" ItemId="255:255" Name="Altar of Wolf besiegement Status" Description="">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="26" Group="18" ItemId="255:255" Name="Altar of Wolf hero contract Status" Description="">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="27" Group="19" ItemId="255:255" Name="Cry Wolf NPC transparency" Description="">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="28" Group="20" ItemId="255:255" Name="GM" Description="">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="29" Group="24" ItemId="13:43" Name="Seal of Ascension" Description="EXP gain increase 150%%.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="30" Group="24" ItemId="13:44" Name="Seal of Wealth" Description="EXP gain increase 150%%/item gain increase 200%%.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+	
+	<BuffEffect Index="31" Group="24" ItemId="13:45" Name="Seal of Sustenance" Description="EXP gain disabled.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="32" Group="22" ItemId="255:255" Name="Temple - Spell of Quickness" Description="">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="33" Group="22" ItemId="255:255" Name="Temple - Spell of Sublimation" Description="">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="34" Group="22" ItemId="255:255" Name="Spell of Protection" Description="Damage absorbed at 100%.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="35" Group="23" ItemId="14:46" Name="Jack O'Lantern Blessings" Description="Attack speed increase +10.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="36" Group="23" ItemId="14:47" Name="Jack O'Lantern Wrath" Description="Attack power increase +25.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="37" Group="23" ItemId="14:48" Name="Jack O'Lantern Cry" Description="Defensibility increase +100.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="38" Group="23" ItemId="14:49" Name="Jack O'Lantern Food" Description="Maximum Life increase +500.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="39" Group="23" ItemId="14:50" Name="Jack O'Lantern Drink" Description="Maximum Mana increase +500.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="40" Group="24" ItemId="13:43" Name="Seal of Ascension" Description="EXP gain increase 150%.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="41" Group="24" ItemId="13:44" Name="Seal of Wealth" Description="EXP gain increase 200% / Item gain increase 150%.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="42" Group="24" ItemId="13:45" Name="Seal of Sustenance" Description="EXP gain disabled.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="43" Group="24" ItemId="13:59" Name="Seal of Mobility" Description="Mobility enabled.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="44" Group="67" ItemId="14:72" Name="Scroll of Quickness" Description="Attack speed increase +15.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="45" Group="68" ItemId="14:73" Name="Scroll of Defense" Description="Defensibility increase +60.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="46" Group="69" ItemId="14:74" Name="Scroll of Wrath" Description="Attack power increase +30.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="47" Group="70" ItemId="14:75" Name="Scroll of Wizardry" Description="Wizardry increase +30.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="48" Group="71" ItemId="14:76" Name="Scroll of Health" Description="HP increase +200.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="49" Group="72" ItemId="14:77" Name="Scroll of Mana" Description="Mana increase +300.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="50" Group="26" ItemId="14:78" Name="Elixir of Strength" Description="Strength Status +50.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="51" Group="26" ItemId="14:79" Name="Elixir of Agility" Description="Agility Status +50.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="52" Group="26" ItemId="14:80" Name="Elixir of Health" Description="Health Status +50.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="53" Group="26" ItemId="14:81" Name="Elixir of Energy" Description="Energy Status +50.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="54" Group="26" ItemId="14:82" Name="Elixir of Control" Description="Control Status +50.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="55" Group="27" ItemId="255:255" Name="Poison" Description="Poisoned status of condition.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="56" Group="28" ItemId="255:255" Name="Ice" Description="Mobility speed decreases.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="57" Group="29" ItemId="255:255" Name="Iced Arrow" Description="Mobility disabled.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="58" Group="30" ItemId="255:255" Name="Defensibility reduction" Description="Random defensibility decreases at 10%.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="59" Group="31" ItemId="255:255" Name="Attack power reduction" Description="">
+        <Property BuffType="1" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="60" Group="32" ItemId="255:255" Name="Wizardry increase reduction" Description="">
+        <Property BuffType="1" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="61" Group="33" ItemId="255:255" Name="Stun" Description="Mobility disabled.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="62" Group="34" ItemId="255:255" Name="Magic Defense" Description="">
+        <Property BuffType="1" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="63" Group="35" ItemId="255:255" Name="Monster Magic Attack Resistance" Description="">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="64" Group="36" ItemId="255:255" Name="Monster Chemistry Attack Resistance" Description="">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="65" Group="37" ItemId="255:255" Name="Spell of Restriction" Description="Mobility disabled.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="66" Group="38" ItemId="255:255" Name="Cry Wolf Divine Protection Status" Description="Cry Wolf Divine Protection Status.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="67" Group="38" ItemId="255:255" Name="Cry Wolf Divine Protection Status" Description="Cry Wolf Divine Protection Status.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="68" Group="38" ItemId="255:255" Name="Cry Wolf Divine Protection Status" Description="Cry Wolf Divine Protection Status.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="69" Group="38" ItemId="255:255" Name="Cry Wolf Divine Protection Status" Description="Cry Wolf Divine Protection Status.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="70" Group="38" ItemId="255:255" Name="Cry Wolf Divine Protection Status" Description="Cry Wolf Divine Protection Status.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="71" Group="39" ItemId="255:255" Name="Damage Reflection" Description="Partial damage reflected out.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="72" Group="40" ItemId="255:255" Name="Sleep" Description="Short period of nap.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="73" Group="40" ItemId="255:255" Name="Blind" Description="Shortened view and the attack accuracy decreases.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="74" Group="41" ItemId="255:255" Name="Requiem" Description="Summoner Neil attack.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="75" Group="42" ItemId="255:255" Name="Explosion" Description="Summoner Shamut attack.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="76" Group="43" ItemId="255:255" Name="Weakness" Description="Attack power reduction.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="77" Group="44" ItemId="255:255" Name="Innovation" Description="Defensibility reduction.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="78" Group="23" ItemId="14:85" Name="Cherry Blossom Wine" Description="Maximum Mana increase +700.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="79" Group="23" ItemId="14:86" Name="Cherry Blossom Rice Cake" Description="Maximum Life increase +700.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="80" Group="23" ItemId="14:87" Name="Cherry Blossom Flower Petal" Description="Attack power increase +40.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="81" Group="1" ItemId="255:255" Name="Berserker" Description="Curse spell, Wizardry, Attack power and Maximum Mana increases, Defense and Maximum Life decreases.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="82" Group="45" ItemId="255:255" Name="Expansion of Wizardry" Description="Minimum Wizardry increases.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="83" Group="46" ItemId="255:255" Name="Flame Strike" Description="">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="84" Group="47" ItemId="255:255" Name="Gigantic Storm" Description="">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="85" Group="48" ItemId="255:255" Name="Lightning Shock" Description="">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="86" Group="49" ItemId="255:255" Name="Cold" Description="Detrimental cold reduces the mobility speed.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="87" Group="13" ItemId="13:62" Name="Seal of Healing" Description="EXP gain increase 150% / Automatic Life recovery at 5%.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="88" Group="13" ItemId="13:63" Name="Seal of Divinity" Description="Item gain increase 150% / Automatic Mana recovery at 5%.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="89" Group="14" ItemId="14:97" Name="Scroll of Battle" Description="Critical damage increase at 20%.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="90" Group="14" ItemId="14:98" Name="Scroll of Strength" Description="Excellent damage increase at 20%.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="91" Group="23" ItemId="255:255" Name="Blessing of Christmas" Description="Attack power and Defensibility increases.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="92" Group="23" ItemId="255:255" Name="Santa Healing" Description="Maximum Life increase +500.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="93" Group="23" ItemId="255:255" Name="Santa Protection" Description="Maximum Mana increase +500.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="94" Group="23" ItemId="255:255" Name="Santa Strengthener" Description="Attack power +30.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="95" Group="23" ItemId="255:255" Name="Santa Defense" Description="Defensibility +100.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="96" Group="23" ItemId="255:255" Name="Santa Quickness" Description="Attack speed +15.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="97" Group="23" ItemId="255:255" Name="Santa Fortune" Description="AG recovery speed increase +10.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="98" Group="50" ItemId="255:255" Name="Watch" Description="You may enter and watch a duel in Arena.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="99" Group="52" ItemId="13:81" Name="Talisman of Guardian" Description="No penalty for dying.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="100" Group="53" ItemId="13:82" Name="Talisman of Item Protection" Description="Keeps item durable.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="101" Group="24" ItemId="13:93" Name="Master Seal of Ascension" Description="EXP gain increase 150%.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="102" Group="24" ItemId="13:94" Name="Master Seal of Wealth" Description="EXP gain increase 200% / Item gain increase 150%.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="103" Group="51" ItemId="13:95" Name="Gladiator's Honor" Description="Increases EXP by 20% / Rare Item drop rate / usable in Vulcanus only.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="104" Group="21" ItemId="13:96" Name="Seal of Strength" Description="Increases Attack Rate and Defense Rate.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="105" Group="54" ItemId="255:255" Name="Ascension" Description="">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="106" Group="55" ItemId="255:255" Name="PK Penalty" Description="Warp Command Window access restricted for five minutes.">
+        <Property BuffType="1" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="107" Group="56" ItemId="255:255" Name="You feel tired." Description="50% EXP Gain / 50% Item Drop Rate.">
+        <Property BuffType="1" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="108" Group="56" ItemId="255:255" Name="You feel exhausted." Description="50% EXP Gain / 0% Item Drop Rate.">
+        <Property BuffType="1" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="112" Group="24" ItemId="13:103" Name="Party EXP Bonus Item" Description="Up to 170% EXP gain depending on the number of members in the party.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="113" Group="58" ItemId="13:104" Name="Max AG Boost Aura" Description="Increases your max AG.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="114" Group="59" ItemId="13:105" Name="Max SD Boost Aura" Description="Increases your max SD.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="115" Group="56" ItemId="13:117" Name="Minimum Vitality" Description="100% EXP Gain / 100% Item Drop Rate / Stops stamina from diminishing for a fixed duration.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="116" Group="56" ItemId="13:118" Name="Low Vitality" Description="100% EXP Gain / 100% Item Drop Rate / Stops stamina from diminishing for a fixed duration.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="117" Group="56" ItemId="13:119" Name="Medium Vitality" Description="100% EXP Gain / 100% Item Drop Rate / Stops stamina from diminishing for a fixed duration.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="118" Group="56" ItemId="13:120" Name="High Vitality" Description="100% EXP Gain / 100% Item Drop Rate / Stops stamina from diminishing for a fixed duration.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="119" Group="66" ItemId="13:116" Name="Seal of Wealth" Description="Increases Item Drop Rate to 150%.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="120" Group="59" ItemId="255:255" Name="Punishment for Illicit Software Use" Description="50% EXP Gain / 0% Item Drop Rate.">
+        <Property BuffType="1" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+	 <BuffEffect Index="121" Group="75" ItemId="14:140" Name="Scroll of Healing" Description="+3% HP Regen / +100 HP.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="129" Group="79" ItemId="255:255" Name="Ignore Enemy's Defense" Description="Increases chance to ignore enemy's defense and inflict damage.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="130" Group="80" ItemId="255:255" Name="Increase Health" Description="Increases health stat.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="131" Group="81" ItemId="255:255" Name="Increase Defense Rate" Description="Increases maximum defend rate.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="132" Group="82" ItemId="255:255" Name="Defense success rate decrease" Description="Decreases defense success rate.">
+        <Property BuffType="1" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="133" Group="83" ItemId="255:255" Name="Invincibility" Description="Invincible.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="134" Group="84" ItemId="255:255" Name="Iron Defense" Description="Significantly increases defense and HP.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="135" Group="8" ItemId="255:255" Name="Swell Life" Description="Increases max Life and Mana.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="136" Group="8" ItemId="255:255" Name="Swell Life" Description="Increases max Life, Mana, and AG.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="137" Group="85" ItemId="255:255" Name="Bleeding" Description="Drains HP every second.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="138" Group="45" ItemId="255:255" Name="Expansion of Wizardry" Description="Increases min and max Wizardry.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="139" Group="45" ItemId="255:255" Name="Expansion of Wizardry" Description="Increases min and max Wizardry, and critical damage rate.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="140" Group="4" ItemId="255:255" Name="Soul Barrier" Description="Uses Mana to absorb damage and increases max Mana.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="141" Group="86" ItemId="255:255" Name="Reduce attack speed" Description="Reduces attack speed.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="142" Group="87" ItemId="255:255" Name="Bless" Description="Increases all stats by %d.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="143" Group="6" ItemId="255:255" Name="Infinity Arrow" Description="Arrows are not consumed and increases your damage.">
+        <Property BuffType="0" NoticeType="0" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="144" Group="88" ItemId="255:255" Name="Blind" Description="You are blinded and your attack success rate decreases.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="145" Group="89" ItemId="255:255" Name="Vampiric" Description="HP is drained every second and transferred to the target.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="146" Group="90" ItemId="255:255" Name="Freeze" Description="Immobilized when you are frozen.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="147" Group="91" ItemId="255:255" Name="Earth Binds" Description="Earth Binds.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="148" Group="5" ItemId="255:255" Name="Critical Damage increase" Description="Increases critical damage and critical damage rate.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="149" Group="5" ItemId="255:255" Name="Critical Damage increase" Description="Increases critical and excellent damage rates.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="150" Group="1" ItemId="255:255" Name="Berserker" Description="Curse spell: increases Wizardry, Attack power, and Max Mana, but decreases Defense and Max Life.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="151" Group="1" ItemId="255:255" Name="Berserker" Description="Curse spell: increases Wizardry, Attack power, and Max Mana, but decreases Defense and Max Life.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="152" Group="1" ItemId="255:255" Name="Berserker" Description="Curse spell: increases Wizardry, Attack power, and Max Mana, but decreases Defense and Max Life.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="153" Group="81" ItemId="255:255" Name="Increase Defense Success Rate" Description="Increases defense success rate.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="154" Group="81" ItemId="255:255" Name="Increase Defense Success Rate" Description="Increases maximum defense and defense success rate.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="155" Group="80" ItemId="255:255" Name="Increase HP" Description="Increases HP.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="156" Group="79" ItemId="255:255" Name="Ignore Enemy's Defense" Description="Increases the chance to ignore enemy DEF. If successful, enemy receives Penetrate Armor.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="157" Group="92" ItemId="255:255" Name="Fire" Description="HP is reduced every second by fire damage.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="158" Group="93" ItemId="255:255" Name="Frost" Description="HP is reduced every second by frost damage.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="159" Group="94" ItemId="255:255" Name="Poison" Description="HP is reduced every second by poison damage.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="160" Group="94" ItemId="255:255" Name="Poison" Description="HP is reduced every second by poison damage.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="161" Group="87" ItemId="255:255" Name="Bless" Description="Increases all stats by %d.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="162" Group="43" ItemId="255:255" Name="Weaken" Description="Decreases attack rate.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="163" Group="44" ItemId="255:255" Name="Innovate" Description="Decreases defense rate.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="164" Group="30" ItemId="255:255" Name="Decrease Defense Rate" Description="Decreases defense rate.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="165" Group="84" ItemId="255:255" Name="Iron Defense" Description="Significantly increases defense rate and HP.">
+        <Property BuffType="0" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="166" Group="95" ItemId="255:255" Name="Blood Howl" Description="HP is reduced every second.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="167" Group="95" ItemId="255:255" Name="Blood Howl" Description="HP is reduced every second.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+    <BuffEffect Index="169" Group="96" ItemId="255:255" Name="Penetrate Armor" Description="Decreases defense and defense success rate.">
+        <Property BuffType="1" NoticeType="1" ClearType="1"/>
+    </BuffEffect>
+
+</BuffEffectData>

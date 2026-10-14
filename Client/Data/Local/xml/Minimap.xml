@@ -1,0 +1,421 @@
+<?xml version="1.0"?>
+<MiniMap>
+    <NPC IDMAP="0" Type="25" Text="Livain"                TextInfo="Quest System Main"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="147" PosY="137" />
+    <NPC IDMAP="0" Type="15" Text="Deruvish"              TextInfo="Quest System Event"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="139" PosY="140" />
+    <NPC IDMAP="0" Type="10" Text="Lesnar Lorencia"       TextInfo="Quest System Daily"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="144" PosY="128" />
+    <NPC IDMAP="0" Type="12" Text="Gatekeeper Titus"      TextInfo="Duel PvP"                ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="132" PosY="135" />
+    <NPC IDMAP="0" Type="16" Text="Baneruter Genus Manager" TextInfo="Gens Vanert"           ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="137" PosY="122" />
+    <NPC IDMAP="0" Type="16" Text="Duprion Genus Manager" TextInfo="Gens Duprian"            ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="137" PosY="133" />
+	<NPC IDMAP="0" Type="14" Text="Pastor Delbin"         TextInfo="Quest Class 3"           ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="159" PosY="128" />
+    <NPC IDMAP="0" Type="13" Text="Beast Trainer"         TextInfo="Beast Trainer"           ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="129" PosY="116" />
+    <NPC IDMAP="0" Type="1" Text="Pasi"                   TextInfo="Sell Wizard Items"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="119" PosY="116" />
+    <NPC IDMAP="0" Type="2" Text="Holy Maiden’s Soul"     TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="171" PosY="128" />
+    <NPC IDMAP="0" Type="2" Text="Holy Maiden’s Soul"     TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="132" PosY="89" />
+    <NPC IDMAP="0" Type="2" Text="Holy Maiden’s Soul"     TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="97"  PosY="129" />
+    <NPC IDMAP="0" Type="2" Text="Holy Maiden’s Soul"     TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="132" PosY="165" />
+    <NPC IDMAP="0" Type="1" Text="Alex"                   TextInfo="Sell Lord Items"         ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="131" PosY="125" />
+    <NPC IDMAP="0" Type="4" Text="Bas"                    TextInfo="Item Storage"            ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="147" PosY="143" />
+    <NPC IDMAP="0" Type="4" Text="Bas"                    TextInfo="Item Storage"            ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="149" PosY="119" />
+    <NPC IDMAP="0" Type="5" Text="Hanzo"                  TextInfo="Sell Warrior Items"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="120" PosY="144" />
+    <NPC IDMAP="0" Type="6" Text="Liaman"                 TextInfo="General Merchant"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="125" PosY="128" />
+    <NPC IDMAP="0" Type="5" Text="Zienna"                 TextInfo="Sell Gladiator Items"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="142" PosY="117" />
+    <NPC IDMAP="0" Type="1" Text="Natasha"                TextInfo="Sell Rage Fighter Items" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="129" PosY="144" />
+    <NPC IDMAP="0" Type="8" Text="Spider"                 TextInfo="HP : 50 - Level 2"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="184" PosY="114" />
+    <NPC IDMAP="0" Type="8" Text="Budge Dragon"           TextInfo="HP : 80 - Level 4"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="194" PosY="142" />
+    <NPC IDMAP="0" Type="8" Text="Budge Dragon"           TextInfo="HP : 80 - Level 4"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="207" PosY="123" />
+    <NPC IDMAP="0" Type="8" Text="Hound"                  TextInfo="HP : 140 - Level 9"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="141" PosY="82" />
+    <NPC IDMAP="0" Type="8" Text="Bull Fighter"           TextInfo="HP : 100 - Level 6"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="153" PosY="66" />
+    <NPC IDMAP="0" Type="8" Text="Bull Fighter"           TextInfo="HP : 100 - Level 6"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="170" PosY="73" />
+    <NPC IDMAP="0" Type="8" Text="Elite Bull Fighter"     TextInfo="HP : 190 - Level 12"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="80"  PosY="124" />
+    <NPC IDMAP="0" Type="8" Text="Elite Bull Fighter"     TextInfo="HP : 190 - Level 12"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="90"  PosY="100" />
+    <NPC IDMAP="0" Type="8" Text="Giant"                  TextInfo="HP : 400 - Level 17"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="65"  PosY="135" />
+    <NPC IDMAP="0" Type="8" Text="Skeleton"               TextInfo="HP : 525 - Level 19"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="128" PosY="181" />
+    <NPC IDMAP="0" Type="8" Text="Lich"                   TextInfo="HP : 255 - Level 14"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="144" PosY="187" />
+    <NPC IDMAP="0" Type="8" Text="Lich"                   TextInfo="HP : 255 - Level 14"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="97"  PosY="177" />
+    <NPC IDMAP="0" Type="24" Text="Dragon Red"            TextInfo="Event World Boss"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="56"  PosY="202" />
+    <NPC IDMAP="0" Type="24" Text="Dragon Red"            TextInfo="Event World Boss"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="40"  PosY="63" />
+    <NPC IDMAP="0" Type="24" Text="Dragon Red"            TextInfo="Event World Boss"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="220" PosY="51" />
+    <NPC IDMAP="0" Type="24" Text="Dragon Red"            TextInfo="Event World Boss"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="225" PosY="204" />
+    <NPC IDMAP="0" Type="24" Text="Dragon Red"            TextInfo="Event World Boss"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="130" PosY="228" />
+    <NPC IDMAP="0" Type="17" Text="Teleport"              TextInfo="TelePort Maps"           ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="220" PosY="245" />
+	<NPC IDMAP="3" Type="15" Text="Deruvish"              TextInfo="Quest System Event"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="183" PosY="126" />
+	<NPC IDMAP="3" Type="10" Text="Lesnar Noria"          TextInfo="Quest System Daily"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="187" PosY="104" />
+    <NPC IDMAP="3" Type="2" Text="Holy Maiden’s Soul"     TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="167" PosY="117" />
+    <NPC IDMAP="3" Type="2" Text="Holy Maiden’s Soul"     TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="202" PosY="130" />
+    <NPC IDMAP="3" Type="2" Text="Holy Maiden’s Soul"     TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="169" PosY="84" />
+    <NPC IDMAP="3" Type="4" Text="Bas"                    TextInfo="Sand Holds Items"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="172" PosY="95" />
+    <NPC IDMAP="3" Type="18" Text="Chaos Mix"             TextInfo="Chaos Mix Item"          ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="183" PosY="103" />
+    <NPC IDMAP="3" Type="6" Text="Elf LaLa"               TextInfo="Elf LaLa"                ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="175" PosY="126" />
+    <NPC IDMAP="3" Type="5" Text="Ellio"                  TextInfo="Sell Elf Items"          ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="196" PosY="124" />
+    <NPC IDMAP="3" Type="20" Text="Charon"                TextInfo="Devil Square"            ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="172" PosY="105" />
+    <NPC IDMAP="3" Type="8" Text="Golbin"                 TextInfo="HP : 45 - Level 3"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="140" PosY="121" />
+    <NPC IDMAP="3" Type="8" Text="Golbin"                 TextInfo="HP : 45 - Level 3"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="144" PosY="147" />
+    <NPC IDMAP="3" Type="8" Text="Elite Goblin"           TextInfo="HP : 120 - Level 8"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="104" PosY="135" />
+    <NPC IDMAP="3" Type="8" Text="Elite Goblin"           TextInfo="HP : 120 - Level 8"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="106" PosY="109" />
+    <NPC IDMAP="3" Type="8" Text="Chain Scorpion"         TextInfo="HP : 80 - Level 5"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="204" PosY="146" />
+    <NPC IDMAP="3" Type="8" Text="Chain Scorpion"         TextInfo="HP : 80 - Level 5"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="190" PosY="165" />
+    <NPC IDMAP="3" Type="8" Text="Beetle Monster"         TextInfo="HP : 165 - Level 10"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="225" PosY="116" />
+    <NPC IDMAP="3" Type="8" Text="Beetle Monster"         TextInfo="HP : 165 - Level 10"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="215" PosY="90" />
+    <NPC IDMAP="3" Type="8" Text="Hunter"                 TextInfo="HP : 220 - Level 13"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="165" PosY="68" />
+    <NPC IDMAP="3" Type="8" Text="Hunter"                 TextInfo="HP : 220 - Level 13"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="150" PosY="68" />
+    <NPC IDMAP="3" Type="8" Text="Agon"                   TextInfo="HP : 340 - Level 16"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="128" PosY="86" />
+    <NPC IDMAP="3" Type="8" Text="Agon"                   TextInfo="HP : 340 - Level 16"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="103" PosY="78" />
+    <NPC IDMAP="3" Type="8" Text="Forest Monster"         TextInfo="HP : 295 - Level 15"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="126" PosY="165" />
+    <NPC IDMAP="3" Type="8" Text="Forest Monster"         TextInfo="HP : 295 - Level 15"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="161" PosY="179" />
+    <NPC IDMAP="3" Type="8" Text="Stone Golem"            TextInfo="HP : 465 - Level 18"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="202" PosY="63" />
+    <NPC IDMAP="3" Type="8" Text="Stone Golem"            TextInfo="HP : 465 - Level 18"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="119" PosY="41" />
+    <NPC IDMAP="2" Type="20" Text="Angel’s Soul"          TextInfo="Blood Castle"            ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="210" PosY="31" />
+    <NPC IDMAP="2" Type="20" Text="Jerinter"              TextInfo="Event Baruka"            ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="229" PosY="221" />
+	<NPC IDMAP="2" Type="11" Text="Guild Management"      TextInfo="Create Guild"            ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="215" PosY="46" />
+	<NPC IDMAP="2" Type="14" Text="Sister Seniba"         TextInfo="Quest Class 2"           ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="185" PosY="32" />
+    <NPC IDMAP="2" Type="4" Text="Bas"                    TextInfo="Item Storage"            ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="219" PosY="63" />
+    <NPC IDMAP="2" Type="2" Text="Holy Maiden’s Soul"     TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="220" PosY="73" />
+    <NPC IDMAP="2" Type="6" Text="Amy"                    TextInfo="General Merchant"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="226" PosY="24" />
+    <NPC IDMAP="2" Type="2" Text="Holy Maiden’s Soul"     TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="173" PosY="44" />
+    <NPC IDMAP="2" Type="8" Text="Worm"                   TextInfo="HP : 600 - Level 20"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="223" PosY="84" />
+    <NPC IDMAP="2" Type="8" Text="Worm"                   TextInfo="HP : 600 - Level 20"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="198" PosY="80" />
+    <NPC IDMAP="2" Type="8" Text="Hommerd"                TextInfo="HP : 700 - Level 24"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="164" PosY="41" />
+    <NPC IDMAP="2" Type="8" Text="Hommerd"                TextInfo="HP : 700 - Level 24"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="165" PosY="17" />
+    <NPC IDMAP="2" Type="8" Text="Worm"                   TextInfo="HP : 600 - Level 20"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="134" PosY="27" />
+    <NPC IDMAP="2" Type="8" Text="Ice Monster"            TextInfo="HP : 650 - Level 22"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="37"  PosY="39" />
+    <NPC IDMAP="2" Type="8" Text="Ice Monster"            TextInfo="HP : 650 - Level 22"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="61"  PosY="19" />
+    <NPC IDMAP="2" Type="8" Text="Ice Monster"            TextInfo="HP : 650 - Level 22"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="77"  PosY="34" />
+    <NPC IDMAP="2" Type="8" Text="Assassin"               TextInfo="HP : 800 - Level 26"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="28"  PosY="10" />
+    <NPC IDMAP="2" Type="8" Text="Assassin"               TextInfo="HP : 800 - Level 26"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="58"  PosY="64" />
+    <NPC IDMAP="2" Type="8" Text="Assassin"               TextInfo="HP : 800 - Level 26"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="27"  PosY="95" />
+    <NPC IDMAP="2" Type="8" Text="Yeti"                   TextInfo="HP : 900 - Level 30"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="218" PosY="216" />
+    <NPC IDMAP="2" Type="8" Text="Yeti"                   TextInfo="HP : 900 - Level 30"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="238" PosY="217" />
+    <NPC IDMAP="2" Type="8" Text="Yeti"                   TextInfo="HP : 900 - Level 30"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="215" PosY="192" />
+    <NPC IDMAP="2" Type="8" Text="Yeti"                   TextInfo="HP : 900 - Level 30"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="237" PosY="189" />
+    <NPC IDMAP="2" Type="8" Text="Ice Queen"              TextInfo="HP : 4000 - Level 52"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="206" PosY="163" />
+    <NPC IDMAP="2" Type="8" Text="Elite Yeti"             TextInfo="HP : 1200 - Level 36"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="198" PosY="224" />
+    <NPC IDMAP="2" Type="8" Text="Elite Yeti"             TextInfo="HP : 1200 - Level 36"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="147" PosY="225" />
+    <NPC IDMAP="2" Type="8" Text="Ice Queen"              TextInfo="HP : 4000 - Level 52"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="90"  PosY="168" />
+    <NPC IDMAP="2" Type="8" Text="Ice Queen"              TextInfo="HP : 4000 - Level 52"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="39"  PosY="221" />
+	<NPC IDMAP="51" Type="10" Text="Lesnar Elbeland"      TextInfo="Quest System Daily"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="50" PosY="215" />
+    <NPC IDMAP="51" Type="6" Text="Amy"                   TextInfo="General Merchant"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="44"  PosY="229" />
+    <NPC IDMAP="51" Type="4" Text="Bas"                   TextInfo="Item Storage"            ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="50"  PosY="228" />
+    <NPC IDMAP="51" Type="2" Text="Holy Maiden’s Soul"    TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="58"  PosY="232" />
+    <NPC IDMAP="51" Type="1" Text="Marseille"             TextInfo="Sell Summoner Items"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="37"  PosY="219" />
+    <NPC IDMAP="51" Type="2" Text="Holy Maiden’s Soul"    TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="44"  PosY="191" />
+    <NPC IDMAP="51" Type="2" Text="Holy Maiden’s Soul"    TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="72"  PosY="220" />
+    <NPC IDMAP="51" Type="9" Text="Socket Master"        TextInfo="Elemental Socketing"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="55"  PosY="243" />
+    <NPC IDMAP="51" Type="9" Text="Researcher"           TextInfo="Element Refinement"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="44"  PosY="243" />
+    <NPC IDMAP="51" Type="8" Text="Strange Rabbit"        TextInfo="HP : 60 - Level 4"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="53"  PosY="154" />
+    <NPC IDMAP="51" Type="8" Text="Strange Rabbit"        TextInfo="HP : 60 - Level 4"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="24"  PosY="147" />
+    <NPC IDMAP="51" Type="8" Text="Strange Rabbit"        TextInfo="HP : 60 - Level 4"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="78"  PosY="155" />
+    <NPC IDMAP="51" Type="8" Text="Polluted Butterfly"    TextInfo="HP : 230 - Level 13"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="115" PosY="218" />
+    <NPC IDMAP="51" Type="8" Text="Polluted Butterfly"    TextInfo="HP : 230 - Level 13"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="103" PosY="190" />
+    <NPC IDMAP="51" Type="8" Text="Polluted Butterfly"    TextInfo="HP : 230 - Level 13"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="125" PosY="169" />
+    <NPC IDMAP="51" Type="8" Text="Hideous Rabbit"        TextInfo="HP : 520 - Level 19"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="96"  PosY="43" />
+    <NPC IDMAP="51" Type="8" Text="Hideous Rabbit"        TextInfo="HP : 520 - Level 19"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="74"  PosY="65" />
+    <NPC IDMAP="51" Type="8" Text="Hideous Rabbit"        TextInfo="HP : 520 - Level 19"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="84"  PosY="19" />
+    <NPC IDMAP="51" Type="8" Text="Cursed Lich"           TextInfo="HP : 900 - Level 30"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="116" PosY="91" />
+    <NPC IDMAP="51" Type="8" Text="Cursed Lich"           TextInfo="HP : 900 - Level 30"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="97"  PosY="110" />
+    <NPC IDMAP="51" Type="8" Text="Cursed Lich"           TextInfo="HP : 900 - Level 30"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="132" PosY="119" />
+    <NPC IDMAP="51" Type="8" Text="Totem Golem"           TextInfo="HP : 1200 - Level 36"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="176" PosY="177" />
+    <NPC IDMAP="51" Type="8" Text="Totem Golem"           TextInfo="HP : 1200 - Level 36"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="200" PosY="151" />
+    <NPC IDMAP="51" Type="8" Text="Totem Golem"           TextInfo="HP : 1200 - Level 36"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="211" PosY="120" />
+    <NPC IDMAP="51" Type="8" Text="Grizzly"               TextInfo="HP : 2400 - Level 43"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="192" PosY="96" />
+    <NPC IDMAP="51" Type="8" Text="Grizzly"               TextInfo="HP : 2400 - Level 43"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="232" PosY="151" />
+    <NPC IDMAP="51" Type="8" Text="Grizzly"               TextInfo="HP : 2400 - Level 43"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="170" PosY="78" />
+    <NPC IDMAP="51" Type="8" Text="Captain Grizzly"       TextInfo="HP : 3000 - Level 48"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="175" PosY="32" />
+    <NPC IDMAP="51" Type="8" Text="Captain Grizzly"       TextInfo="HP : 3000 - Level 48"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="206" PosY="28" />
+    <NPC IDMAP="51" Type="8" Text="Captain Grizzly"       TextInfo="HP : 3000 - Level 48"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="225" PosY="91" />
+	<NPC IDMAP="51" Type="21" Text="David"                TextInfo="Exchange LuckyItem"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="30"  PosY="235" />
+    <NPC IDMAP="1" Type="8" Text="Skeleton"               TextInfo="HP : 525 - Level 19"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="109" PosY="235" />
+    <NPC IDMAP="1" Type="8" Text="Skeleton"               TextInfo="HP : 525 - Level 19"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="101" PosY="211" />
+    <NPC IDMAP="1" Type="8" Text="Skeleton"               TextInfo="HP : 525 - Level 19"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="80"  PosY="231" />
+    <NPC IDMAP="1" Type="8" Text="Skeleton"               TextInfo="HP : 525 - Level 19"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="92"  PosY="223" />
+    <NPC IDMAP="1" Type="8" Text="Cyclops"                TextInfo="HP : 850 - Level 28"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="99"  PosY="187" />
+    <NPC IDMAP="1" Type="8" Text="Cyclops"                TextInfo="HP : 850 - Level 28"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="74"  PosY="180" />
+    <NPC IDMAP="1" Type="8" Text="Cyclops"                TextInfo="HP : 850 - Level 28"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="69"  PosY="207" />
+    <NPC IDMAP="1" Type="8" Text="Larva"                  TextInfo="HP : 750 - Level 25"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="229" PosY="115" />
+    <NPC IDMAP="1" Type="8" Text="Larva"                  TextInfo="HP : 750 - Level 25"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="181" PosY="122" />
+    <NPC IDMAP="1" Type="8" Text="Larva"                  TextInfo="HP : 750 - Level 25"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="160" PosY="119" />
+    <NPC IDMAP="1" Type="8" Text="Ghost"                  TextInfo="HP : 1000 - Level 32"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="80"  PosY="90" />
+    <NPC IDMAP="1" Type="8" Text="Ghost"                  TextInfo="HP : 1000 - Level 32"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="114" PosY="115" />
+    <NPC IDMAP="1" Type="8" Text="Ghost"                  TextInfo="HP : 1000 - Level 32"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="91"  PosY="119" />
+    <NPC IDMAP="1" Type="8" Text="Hell Spider"            TextInfo="HP : 1600 - Level 40"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="74"  PosY="58" />
+    <NPC IDMAP="1" Type="8" Text="Hell Spider"            TextInfo="HP : 1600 - Level 40"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="116" PosY="67" />
+    <NPC IDMAP="1" Type="8" Text="Hell Spider"            TextInfo="HP : 1600 - Level 40"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="143" PosY="90" />
+    <NPC IDMAP="1" Type="8" Text="Skeleton Archer"        TextInfo="HP : 1100 - Level 34"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="122" PosY="180" />
+    <NPC IDMAP="1" Type="8" Text="Skeleton Archer"        TextInfo="HP : 1100 - Level 34"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="101" PosY="160" />
+    <NPC IDMAP="1" Type="8" Text="Skeleton Archer"        TextInfo="HP : 1100 - Level 34"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="67"  PosY="168" />
+    <NPC IDMAP="1" Type="8" Text="Hell Hound"             TextInfo="HP : 1400 - Level 38"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="146" PosY="195" />
+    <NPC IDMAP="1" Type="8" Text="Hell Hound"             TextInfo="HP : 1400 - Level 38"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="170" PosY="218" />
+    <NPC IDMAP="1" Type="8" Text="Chief Skeleton Warrior" TextInfo="HP : 1800 - Level 42"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="163" PosY="152" />
+    <NPC IDMAP="1" Type="8" Text="Chief Skeleton Warrior" TextInfo="HP : 1800 - Level 42"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="200" PosY="172" />
+    <NPC IDMAP="1" Type="8" Text="Thunder Lich"           TextInfo="HP : 2000 - Level 44"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="186" PosY="239" />
+    <NPC IDMAP="1" Type="8" Text="Thunder Lich"           TextInfo="HP : 2000 - Level 44"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="218" PosY="225" />
+    <NPC IDMAP="1" Type="8" Text="Dark Knight"            TextInfo="HP : 3000 - Level 48"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="84"  PosY="152" />
+    <NPC IDMAP="1" Type="8" Text="Dark Knight"            TextInfo="HP : 3000 - Level 48"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="52"  PosY="157" />
+    <NPC IDMAP="1" Type="8" Text="Dark Knight"            TextInfo="HP : 3000 - Level 48"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="23"  PosY="223" />
+    <NPC IDMAP="1" Type="8" Text="Poison Bull Fighter"    TextInfo="HP : 2500 - Level 46"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="13"  PosY="59" />
+    <NPC IDMAP="1" Type="8" Text="Poison Bull Fighter"    TextInfo="HP : 2500 - Level 46"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="42"  PosY="83" />
+    <NPC IDMAP="1" Type="8" Text="Poison Bull Fighter"    TextInfo="HP : 2500 - Level 46"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="12"  PosY="121" />
+    <NPC IDMAP="1" Type="8" Text="Gorgon"                 TextInfo="HP : 6000 - Level 55"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="222" PosY="16" />
+    <NPC IDMAP="1" Type="8" Text="Gorgon"                 TextInfo="HP : 6000 - Level 55"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="190" PosY="15" />
+    <NPC IDMAP="1" Type="8" Text="Gorgon"                 TextInfo="HP : 6000 - Level 55"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="80"  PosY="9" />
+    <NPC IDMAP="7" Type="4" Text="Bas"                    TextInfo="Item Storage"            ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="24"  PosY="24" />
+    <NPC IDMAP="7" Type="2" Text="Holy Maiden’s Soul"     TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="18"  PosY="25" />
+    <NPC IDMAP="7" Type="6" Text="Amy"                    TextInfo="General Merchant"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="32"  PosY="18" />
+    <NPC IDMAP="7" Type="8" Text="Bahamut"                TextInfo="HP : 2400 - Level 43"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="35"  PosY="54" />
+    <NPC IDMAP="7" Type="8" Text="Bahamut"                TextInfo="HP : 2400 - Level 43"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="53"  PosY="37" />
+    <NPC IDMAP="7" Type="8" Text="Bahamut"                TextInfo="HP : 2400 - Level 43"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="78"  PosY="23" />
+    <NPC IDMAP="7" Type="8" Text="Bahamut"                TextInfo="HP : 2400 - Level 43"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="29"  PosY="112" />
+    <NPC IDMAP="7" Type="8" Text="Bahamut"                TextInfo="HP : 2400 - Level 43"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="72"  PosY="85" />
+    <NPC IDMAP="7" Type="8" Text="Valkyrie"               TextInfo="HP : 3200 - Level 46"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="118" PosY="31" />
+    <NPC IDMAP="7" Type="8" Text="Valkyrie"               TextInfo="HP : 3200 - Level 46"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="147" PosY="16" />
+    <NPC IDMAP="7" Type="8" Text="Valkyrie"               TextInfo="HP : 3200 - Level 46"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="221" PosY="18" />
+    <NPC IDMAP="7" Type="8" Text="Valkyrie"               TextInfo="HP : 3200 - Level 46"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="188" PosY="21" />
+    <NPC IDMAP="7" Type="8" Text="Vepar"                  TextInfo="HP : 2800 - Level 45"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="218" PosY="64" />
+    <NPC IDMAP="7" Type="8" Text="Vepar"                  TextInfo="HP : 2800 - Level 45"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="196" PosY="51" />
+    <NPC IDMAP="7" Type="8" Text="Vepar"                  TextInfo="HP : 2800 - Level 45"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="222" PosY="100" />
+    <NPC IDMAP="7" Type="8" Text="Great Bahamut"          TextInfo="HP : 7000 - Level 66"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="165" PosY="62" />
+    <NPC IDMAP="7" Type="8" Text="Great Bahamut"          TextInfo="HP : 7000 - Level 66"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="135" PosY="69" />
+    <NPC IDMAP="7" Type="8" Text="Great Bahamut"          TextInfo="HP : 7000 - Level 66"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="114" PosY="95" />
+    <NPC IDMAP="7" Type="8" Text="Silver Valkyrie"        TextInfo="HP : 8000 - Level 68"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="80"  PosY="133" />
+    <NPC IDMAP="7" Type="8" Text="Silver Valkyrie"        TextInfo="HP : 8000 - Level 68"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="39"  PosY="167" />
+    <NPC IDMAP="7" Type="8" Text="Silver Valkyrie"        TextInfo="HP : 8000 - Level 68"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="120" PosY="135" />
+    <NPC IDMAP="7" Type="8" Text="Hydra"                  TextInfo="HP : 19000 - Level 74"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="161" PosY="117" />
+    <NPC IDMAP="7" Type="8" Text="Hydra"                  TextInfo="HP : 19000 - Level 74"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="115" PosY="181" />
+    <NPC IDMAP="7" Type="8" Text="Hydra"                  TextInfo="HP : 19000 - Level 74"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="174" PosY="146" />
+    <NPC IDMAP="7" Type="8" Text="Lizard King"            TextInfo="HP : 9000 - Level 70"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="225" PosY="193" />
+    <NPC IDMAP="7" Type="8" Text="Lizard King"            TextInfo="HP : 9000 - Level 70"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="229" PosY="142" />
+    <NPC IDMAP="7" Type="8" Text="Lizard King"            TextInfo="HP : 9000 - Level 70"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="126" PosY="209" />
+    <NPC IDMAP="4" Type="6" Text="Amy"                    TextInfo="General Merchant"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="211" PosY="81" />
+    <NPC IDMAP="4" Type="4" Text="Bas"                    TextInfo="Item Storage"            ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="200" PosY="78" />
+    <NPC IDMAP="4" Type="2" Text="Holy Maiden’s Soul"     TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="203" PosY="83" />
+    <NPC IDMAP="4" Type="8" Text="ShaDow"                 TextInfo="HP : 2800 - Level 47"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="200" PosY="108" />
+    <NPC IDMAP="4" Type="8" Text="ShaDow"                 TextInfo="HP : 2800 - Level 47"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="207" PosY="49" />
+    <NPC IDMAP="4" Type="8" Text="ShaDow"                 TextInfo="HP : 2800 - Level 47"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="200" PosY="131" />
+    <NPC IDMAP="4" Type="8" Text="Cursed Wizard"          TextInfo="HP : 4000 - Level 54"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="235" PosY="242" />
+    <NPC IDMAP="4" Type="8" Text="Cursed Wizard"          TextInfo="HP : 4000 - Level 54"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="183" PosY="228" />
+    <NPC IDMAP="4" Type="8" Text="Cursed Wizard"          TextInfo="HP : 4000 - Level 54"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="240" PosY="213" />
+    <NPC IDMAP="4" Type="8" Text="Poison Shadow"          TextInfo="HP : 3500 - Level 50"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="215" PosY="190" />
+    <NPC IDMAP="4" Type="8" Text="Poison Shadow"          TextInfo="HP : 3500 - Level 50"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="194" PosY="179" />
+    <NPC IDMAP="4" Type="8" Text="Poison Shadow"          TextInfo="HP : 3500 - Level 50"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="171" PosY="206" />
+    <NPC IDMAP="4" Type="8" Text="Death Cow"              TextInfo="HP : 4500 - Level 57"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="98"  PosY="172" />
+    <NPC IDMAP="4" Type="8" Text="Death Cow"              TextInfo="HP : 4500 - Level 57"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="90"  PosY="215" />
+    <NPC IDMAP="4" Type="8" Text="Death Cow"              TextInfo="HP : 4500 - Level 57"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="103" PosY="219" />
+    <NPC IDMAP="4" Type="8" Text="Poison Shadow"          TextInfo="HP : 3500 - Level 50"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="120" PosY="231" />
+    <NPC IDMAP="4" Type="8" Text="Poison Shadow"          TextInfo="HP : 3500 - Level 50"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="124" PosY="187" />
+    <NPC IDMAP="4" Type="8" Text="Devil"                  TextInfo="HP : 5000 - Level 60"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="87"  PosY="102" />
+    <NPC IDMAP="4" Type="8" Text="Devil"                  TextInfo="HP : 5000 - Level 60"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="112" PosY="136" />
+    <NPC IDMAP="4" Type="8" Text="Devil"                  TextInfo="HP : 5000 - Level 60"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="124" PosY="112" />
+    <NPC IDMAP="4" Type="8" Text="Death Knight"           TextInfo="HP : 5500 - Level 62"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="130" PosY="45" />
+    <NPC IDMAP="4" Type="8" Text="Death Knight"           TextInfo="HP : 5500 - Level 62"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="115" PosY="28" />
+    <NPC IDMAP="4" Type="8" Text="Death Knight"           TextInfo="HP : 5500 - Level 62"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="87"  PosY="33" />
+    <NPC IDMAP="4" Type="8" Text="Death Gorgon"           TextInfo="HP : 6000 - Level 64"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="46"  PosY="46" />
+    <NPC IDMAP="4" Type="8" Text="Death Gorgon"           TextInfo="HP : 6000 - Level 64"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="32"  PosY="28" />
+    <NPC IDMAP="4" Type="8" Text="Death Gorgon"           TextInfo="HP : 6000 - Level 64"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="18"  PosY="42" />
+    <NPC IDMAP="4" Type="8" Text="Death Gorgon"           TextInfo="HP : 6000 - Level 64"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="57"  PosY="91" />
+    <NPC IDMAP="4" Type="8" Text="Death Gorgon"           TextInfo="HP : 6000 - Level 64"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="24"  PosY="106" />
+    <NPC IDMAP="4" Type="8" Text="Death Gorgon"           TextInfo="HP : 6000 - Level 64"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="30"  PosY="128" />
+    <NPC IDMAP="4" Type="8" Text="Balrog"                 TextInfo="HP : 9000 - Level 66"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="33"  PosY="173" />
+    <NPC IDMAP="4" Type="8" Text="Balrog"                 TextInfo="HP : 9000 - Level 66"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="11"  PosY="203" />
+    <NPC IDMAP="4" Type="8" Text="Balrog"                 TextInfo="HP : 9000 - Level 66"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="56"  PosY="208" />
+    <NPC IDMAP="4" Type="8" Text="Balrog"                 TextInfo="HP : 9000 - Level 66"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="33"  PosY="244" />
+    <NPC IDMAP="8" Type="4" Text="Bas"                    TextInfo="Item Storage"            ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="187" PosY="65" />
+    <NPC IDMAP="8" Type="6" Text="Amy"                    TextInfo="General Merchant"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="192" PosY="73" />
+    <NPC IDMAP="8" Type="2" Text="Holy Maiden’s Soul"     TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="157" PosY="59" />
+    <NPC IDMAP="8" Type="2" Text="Holy Maiden’s Soul"     TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="205" PosY="95" />
+    <NPC IDMAP="8" Type="8" Text="Mutant"                 TextInfo="HP : 10000 - Level 72"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="136" PosY="73" />
+    <NPC IDMAP="8" Type="8" Text="Mutant"                 TextInfo="HP : 10000 - Level 72"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="104" PosY="44" />
+    <NPC IDMAP="8" Type="8" Text="Mutant"                 TextInfo="HP : 10000 - Level 72"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="112" PosY="84" />
+    <NPC IDMAP="8" Type="8" Text="Iron Wheel"             TextInfo="HP : 17000 - Level 80"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="77"  PosY="78" />
+    <NPC IDMAP="8" Type="8" Text="Iron Wheel"             TextInfo="HP : 17000 - Level 80"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="33"  PosY="92" />
+    <NPC IDMAP="8" Type="8" Text="Iron Wheel"             TextInfo="HP : 17000 - Level 80"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="39"  PosY="65" />
+    <NPC IDMAP="8" Type="8" Text="Bloody wolf"            TextInfo="HP : 13500 - Level 76"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="156" PosY="104" />
+    <NPC IDMAP="8" Type="8" Text="Bloody wolf"            TextInfo="HP : 13500 - Level 76"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="160" PosY="150" />
+    <NPC IDMAP="8" Type="8" Text="Bloody wolf"            TextInfo="HP : 13500 - Level 76"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="120" PosY="160" />
+    <NPC IDMAP="8" Type="8" Text="Tantalos"               TextInfo="HP : 22000 - Level 83"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="106" PosY="131" />
+    <NPC IDMAP="8" Type="8" Text="Tantalos"               TextInfo="HP : 22000 - Level 83"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="76"  PosY="129" />
+    <NPC IDMAP="8" Type="8" Text="Tantalos"               TextInfo="HP : 22000 - Level 83"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="37"  PosY="147" />
+    <NPC IDMAP="8" Type="8" Text="Beam Knight"            TextInfo="HP : 25000 - Level 84"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="61"  PosY="161" />
+    <NPC IDMAP="8" Type="8" Text="Beam Knight"            TextInfo="HP : 25000 - Level 84"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="81"  PosY="181" />
+    <NPC IDMAP="8" Type="8" Text="Beam Knight"            TextInfo="HP : 25000 - Level 84"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="96"  PosY="150" />
+    <NPC IDMAP="8" Type="8" Text="Death Beam Knight"      TextInfo="HP : 40000 - Level 93"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="115" PosY="210" />
+    <NPC IDMAP="8" Type="8" Text="Death Beam Knight"      TextInfo="HP : 40000 - Level 93"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="85"  PosY="206" />
+    <NPC IDMAP="8" Type="8" Text="Death Beam Knight"      TextInfo="HP : 40000 - Level 93"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="39"  PosY="213" />
+    <NPC IDMAP="8" Type="8" Text="Zaikan"                 TextInfo="HP : 34000 - Level 90"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="168" PosY="198" />
+    <NPC IDMAP="8" Type="8" Text="Zaikan"                 TextInfo="HP : 34000 - Level 90"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="21"  PosY="237" />
+    <NPC IDMAP="8" Type="8" Text="Zaikan"                 TextInfo="HP : 34000 - Level 90"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="170" PosY="222" />
+    <NPC IDMAP="33" Type="11" Text="Cheris"               TextInfo="Enhancement Restoration" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="86"  PosY="13" />
+    <NPC IDMAP="33" Type="11" Text="Osbourne"             TextInfo="Craft Enhancement Stone" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="76"  PosY="12" />
+    <NPC IDMAP="33" Type="2" Text="Holy Maiden’s Soul"    TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="94"  PosY="12" />
+    <NPC IDMAP="33" Type="8" Text="Death Tree"            TextInfo="HP : 10000 - Level 72"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="117" PosY="21" />
+    <NPC IDMAP="33" Type="8" Text="Death Tree"            TextInfo="HP : 10000 - Level 72"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="144" PosY="21" />
+    <NPC IDMAP="33" Type="8" Text="Death Tree"            TextInfo="HP : 10000 - Level 72"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="179" PosY="18" />
+    <NPC IDMAP="33" Type="8" Text="Blue Golem"            TextInfo="HP : 25000 - Level 84"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="168" PosY="49" />
+    <NPC IDMAP="33" Type="8" Text="Blue Golem"            TextInfo="HP : 25000 - Level 84"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="196" PosY="33" />
+    <NPC IDMAP="33" Type="8" Text="Blue Golem"            TextInfo="HP : 25000 - Level 84"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="232" PosY="53" />
+    <NPC IDMAP="33" Type="8" Text="Blue Golem"            TextInfo="HP : 25000 - Level 84"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="202" PosY="103" />
+    <NPC IDMAP="33" Type="8" Text="Blue Golem"            TextInfo="HP : 25000 - Level 84"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="225" PosY="117" />
+    <NPC IDMAP="33" Type="8" Text="Death Tree"            TextInfo="HP : 10000 - Level 72"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="232" PosY="158" />
+    <NPC IDMAP="33" Type="8" Text="Witch Queen"           TextInfo="HP : 38500 - Level 94"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="172" PosY="167" />
+    <NPC IDMAP="33" Type="8" Text="Witch Queen"           TextInfo="HP : 38500 - Level 94"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="171" PosY="126" />
+    <NPC IDMAP="33" Type="8" Text="Witch Queen"           TextInfo="HP : 38500 - Level 94"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="136" PosY="150" />
+    <NPC IDMAP="33" Type="8" Text="Death Rider"           TextInfo="HP : 14000 - Level 78"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="192" PosY="179" />
+    <NPC IDMAP="33" Type="8" Text="Death Rider"           TextInfo="HP : 14000 - Level 78"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="199" PosY="206" />
+    <NPC IDMAP="33" Type="8" Text="Death Rider"           TextInfo="HP : 14000 - Level 78"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="176" PosY="212" />
+    <NPC IDMAP="33" Type="8" Text="Forest Orc"            TextInfo="HP : 11000 - Level 74"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="146" PosY="197" />
+    <NPC IDMAP="33" Type="8" Text="Forest Orc"            TextInfo="HP : 11000 - Level 74"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="225" PosY="236" />
+    <NPC IDMAP="33" Type="8" Text="Witch Queen"           TextInfo="HP : 38500 - Level 94"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="80"  PosY="224" />
+    <NPC IDMAP="33" Type="8" Text="Death Rider"           TextInfo="HP : 14000 - Level 78"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="48"  PosY="210" />
+    <NPC IDMAP="33" Type="8" Text="Death Rider"           TextInfo="HP : 14000 - Level 78"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="55"  PosY="160" />
+    <NPC IDMAP="10" Type="8" Text="Alquamos"              TextInfo="HP : 11500 - Level 75"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="18"  PosY="31" />
+    <NPC IDMAP="10" Type="8" Text="Alquamos"              TextInfo="HP : 11500 - Level 75"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="46"  PosY="34" />
+    <NPC IDMAP="10" Type="8" Text="Alquamos"              TextInfo="HP : 11500 - Level 75"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="83"  PosY="40" />
+    <NPC IDMAP="10" Type="8" Text="Queen Rainier"         TextInfo="HP : 19000 - Level 82"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="96"  PosY="64" />
+    <NPC IDMAP="10" Type="8" Text="Queen Rainier"         TextInfo="HP : 19000 - Level 82"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="75"  PosY="79" />
+    <NPC IDMAP="10" Type="8" Text="Queen Rainier"         TextInfo="HP : 19000 - Level 82"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="38"  PosY="74" />
+    <NPC IDMAP="10" Type="8" Text="Drakan"                TextInfo="HP : 29000 - Level 86"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="41"  PosY="106" />
+    <NPC IDMAP="10" Type="8" Text="Drakan"                TextInfo="HP : 29000 - Level 86"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="46"  PosY="131" />
+    <NPC IDMAP="10" Type="8" Text="Alpha Crust"           TextInfo="HP : 34500 - Level 92"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="51"  PosY="154" />
+    <NPC IDMAP="10" Type="8" Text="Alpha Crust"           TextInfo="HP : 34500 - Level 92"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="55"  PosY="183" />
+    <NPC IDMAP="10" Type="8" Text="Phoenix of Darkness"   TextInfo="HP : 95000 - Level 108"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="44"  PosY="218" />
+    <NPC IDMAP="37" Type="8" Text="Splinter Wolf"         TextInfo="HP : 16000 - Level 80"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="49"  PosY="229" />
+    <NPC IDMAP="37" Type="8" Text="Splinter Wolf"         TextInfo="HP : 16000 - Level 80"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="85"  PosY="236" />
+    <NPC IDMAP="37" Type="8" Text="Splinter Wolf"         TextInfo="HP : 16000 - Level 80"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="126" PosY="234" />
+    <NPC IDMAP="37" Type="8" Text="Satyros"               TextInfo="HP : 22000 - Level 85"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="160" PosY="200" />
+    <NPC IDMAP="37" Type="8" Text="Satyros"               TextInfo="HP : 22000 - Level 85"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="188" PosY="220" />
+    <NPC IDMAP="37" Type="8" Text="Satyros"               TextInfo="HP : 22000 - Level 85"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="201" PosY="184" />
+    <NPC IDMAP="37" Type="8" Text="Iron Rider"            TextInfo="HP : 18000 - Level 82"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="178" PosY="164" />
+    <NPC IDMAP="37" Type="8" Text="Iron Rider"            TextInfo="HP : 18000 - Level 82"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="220" PosY="158" />
+    <NPC IDMAP="37" Type="8" Text="Iron Rider"            TextInfo="HP : 18000 - Level 82"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="228" PosY="136" />
+    <NPC IDMAP="37" Type="8" Text="Blade Hunter"          TextInfo="HP : 32000 - Level 88"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="238" PosY="96" />
+    <NPC IDMAP="37" Type="8" Text="Blade Hunter"          TextInfo="HP : 32000 - Level 88"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="231" PosY="66" />
+    <NPC IDMAP="37" Type="8" Text="Blade Hunter"          TextInfo="HP : 32000 - Level 88"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="222" PosY="42" />
+    <NPC IDMAP="37" Type="8" Text="Kentauros"             TextInfo="HP : 38500 - Level 93"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="185" PosY="22" />
+    <NPC IDMAP="37" Type="8" Text="Kentauros"             TextInfo="HP : 38500 - Level 93"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="157" PosY="52" />
+    <NPC IDMAP="37" Type="8" Text="Kentauros"             TextInfo="HP : 38500 - Level 93"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="153" PosY="16" />
+    <NPC IDMAP="37" Type="8" Text="Berserker"             TextInfo="HP : 44370 - Level 100"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="123" PosY="35" />
+    <NPC IDMAP="37" Type="8" Text="Berserker"             TextInfo="HP : 44370 - Level 100"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="117" PosY="62" />
+    <NPC IDMAP="37" Type="8" Text="Berserker"             TextInfo="HP : 44370 - Level 100"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="80"  PosY="57" />
+    <NPC IDMAP="37" Type="8" Text="Gigantis"              TextInfo="HP : 43000 - Level 98"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="69"  PosY="30" />
+    <NPC IDMAP="37" Type="8" Text="Gigantis"              TextInfo="HP : 43000 - Level 98"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="44"  PosY="71" />
+    <NPC IDMAP="37" Type="8" Text="Gigantis"              TextInfo="HP : 43000 - Level 98"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="62"  PosY="99" />
+    <NPC IDMAP="37" Type="8" Text="Genocider"             TextInfo="HP : 48500 - Level 105"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="78"  PosY="165" />
+    <NPC IDMAP="37" Type="8" Text="Genocider"             TextInfo="HP : 48500 - Level 105"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="60"  PosY="136" />
+    <NPC IDMAP="37" Type="8" Text="Genocider"             TextInfo="HP : 48500 - Level 105"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="105" PosY="154" />
+    <NPC IDMAP="37" Type="8" Text="Genocider"             TextInfo="HP : 48500 - Level 105"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="94"  PosY="125" />
+    <NPC IDMAP="37" Type="8" Text="Gigantis"              TextInfo="HP : 43000 - Level 98"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="138" PosY="131" />
+    <NPC IDMAP="37" Type="8" Text="Gigantis"              TextInfo="HP : 43000 - Level 98"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="124" PosY="104" />
+    <NPC IDMAP="37" Type="8" Text="Gigantis"              TextInfo="HP : 43000 - Level 98"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="174" PosY="109" />
+    <NPC IDMAP="38" Type="8" Text="Twin Tale"             TextInfo="HP : 87500 - Level 117"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="102" PosY="96" />
+    <NPC IDMAP="38" Type="8" Text="Twin Tale"             TextInfo="HP : 87500 - Level 117"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="126" PosY="94" />
+    <NPC IDMAP="38" Type="8" Text="Twin Tale"             TextInfo="HP : 87500 - Level 117"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="128" PosY="75" />
+    <NPC IDMAP="38" Type="8" Text="Dreadfear"             TextInfo="HP : 94000 - Level 119"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="148" PosY="101" />
+    <NPC IDMAP="38" Type="8" Text="Dreadfear"             TextInfo="HP : 94000 - Level 119"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="155" PosY="81" />
+    <NPC IDMAP="38" Type="8" Text="Dreadfear"             TextInfo="HP : 94000 - Level 119"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="166" PosY="93" />
+    <NPC IDMAP="38" Type="8" Text="Dreadfear"             TextInfo="HP : 94000 - Level 119"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="178" PosY="113" />
+    <NPC IDMAP="38" Type="8" Text="Persona"               TextInfo="HP : 68000 - Level 118"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="179" PosY="139" />
+    <NPC IDMAP="38" Type="8" Text="Persona"               TextInfo="HP : 68000 - Level 118"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="153" PosY="148" />
+    <NPC IDMAP="38" Type="8" Text="Persona"               TextInfo="HP : 68000 - Level 118"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="112" PosY="137" />
+    <NPC IDMAP="82" Type="6" Text="Amy"                   TextInfo="General Merchant"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="126" PosY="44" />
+    <NPC IDMAP="82" Type="4" Text="Bas"                   TextInfo="Item Storage"            ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="136" PosY="23" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="152" PosY="59" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="200" PosY="15" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="243" PosY="30" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="90"  PosY="17" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="82"  PosY="61" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="72"  PosY="11" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="48"  PosY="11" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="50"  PosY="57" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="10"  PosY="37" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="241" PosY="51" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="232" PosY="11" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="12"  PosY="9" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="162" PosY="10" />
+    <NPC IDMAP="82" Type="8" Text="Belial"                TextInfo="HP : 3000000 - Level 300" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="65"  PosY="88" />
+    <NPC IDMAP="82" Type="8" Text="Belial"                TextInfo="HP : 3000000 - Level 300" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="84"  PosY="96" />
+    <NPC IDMAP="82" Type="8" Text="Belial"                TextInfo="HP : 3000000 - Level 300" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="109" PosY="79" />
+    <NPC IDMAP="82" Type="8" Text="Belial"                TextInfo="HP : 3000000 - Level 300" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="157" PosY="85" />
+    <NPC IDMAP="82" Type="8" Text="Belial"                TextInfo="HP : 3000000 - Level 300" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="167" PosY="129" />
+    <NPC IDMAP="82" Type="8" Text="Belial"                TextInfo="HP : 3000000 - Level 300" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="192" PosY="128" />
+    <NPC IDMAP="82" Type="8" Text="Belial"                TextInfo="HP : 3000000 - Level 300" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="217" PosY="134" />
+    <NPC IDMAP="82" Type="8" Text="Belial"                TextInfo="HP : 3000000 - Level 300" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="241" PosY="108" />
+    <NPC IDMAP="82" Type="8" Text="Belial"                TextInfo="HP : 3000000 - Level 300" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="243" PosY="86" />
+    <NPC IDMAP="82" Type="8" Text="Andariel"              TextInfo="HP : 4000000 - Level 400" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="209" PosY="158" />
+    <NPC IDMAP="82" Type="8" Text="Andariel"              TextInfo="HP : 4000000 - Level 400" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="233" PosY="180" />
+    <NPC IDMAP="82" Type="8" Text="Andariel"              TextInfo="HP : 4000000 - Level 400" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="211" PosY="208" />
+    <NPC IDMAP="82" Type="8" Text="Andariel"              TextInfo="HP : 4000000 - Level 400" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="37"  PosY="196" />
+    <NPC IDMAP="82" Type="8" Text="Andariel"              TextInfo="HP : 4000000 - Level 400" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="53"  PosY="218" />
+    <NPC IDMAP="82" Type="8" Text="Andariel"              TextInfo="HP : 4000000 - Level 400" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="91"  PosY="202" />
+    <NPC IDMAP="82" Type="22" Text="Lord of Darkness"     TextInfo="Event World Boss"         ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="171" PosY="239" />
+    <NPC IDMAP="82" Type="22" Text="Lord of Darkness"     TextInfo="Event World Boss"         ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="120" PosY="210" />
+    <NPC IDMAP="82" Type="22" Text="Lord of Darkness"     TextInfo="Event World Boss"         ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="168" PosY="209" />
+    <NPC IDMAP="83" Type="4" Text="Bas"                   TextInfo="Item Storage"             ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="136" PosY="140" />
+    <NPC IDMAP="83" Type="6" Text="Amy"                   TextInfo="General Merchant"         ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="112" PosY="131" />
+    <NPC IDMAP="83" Type="8" Text="DragonSlave"           TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="164" PosY="22" />
+    <NPC IDMAP="83" Type="8" Text="DragonSlave"           TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="203" PosY="29" />
+    <NPC IDMAP="83" Type="8" Text="DragonSlave"           TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="230" PosY="53" />
+    <NPC IDMAP="83" Type="8" Text="DragonSlave"           TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="241" PosY="92" />
+    <NPC IDMAP="83" Type="8" Text="DragonSlave"           TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="125" PosY="22" />
+    <NPC IDMAP="83" Type="8" Text="DragonSlave"           TextInfo="HP : 2000000 - Level 200" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="74"  PosY="27" />
+    <NPC IDMAP="83" Type="8" Text="FireTurtle"            TextInfo="HP : 3000000 - Level 300" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="90"  PosY="103" />
+    <NPC IDMAP="83" Type="8" Text="FireTurtle"            TextInfo="HP : 3000000 - Level 300" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="35"  PosY="57" />
+    <NPC IDMAP="83" Type="8" Text="FireTurtle"            TextInfo="HP : 3000000 - Level 300" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="26"  PosY="115" />
+    <NPC IDMAP="83" Type="8" Text="FireTurtle"            TextInfo="HP : 3000000 - Level 300" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="30"  PosY="147" />
+    <NPC IDMAP="83" Type="8" Text="FireTurtle"            TextInfo="HP : 3000000 - Level 300" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="51"  PosY="181" />
+    <NPC IDMAP="83" Type="8" Text="FireTurtle"            TextInfo="HP : 3000000 - Level 300" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="45"  PosY="214" />
+    <NPC IDMAP="83" Type="8" Text="NinjaWarrior"          TextInfo="HP : 4000000 - Level 400" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="161" PosY="163" />
+    <NPC IDMAP="83" Type="8" Text="NinjaWarrior"          TextInfo="HP : 4000000 - Level 400" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="235" PosY="160" />
+    <NPC IDMAP="83" Type="8" Text="NinjaWarrior"          TextInfo="HP : 4000000 - Level 400" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="89"  PosY="229" />
+    <NPC IDMAP="83" Type="8" Text="NinjaWarrior"          TextInfo="HP : 4000000 - Level 400" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="128" PosY="225" />
+    <NPC IDMAP="83" Type="8" Text="NinjaWarrior"          TextInfo="HP : 4000000 - Level 400" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="188" PosY="232" />
+    <NPC IDMAP="83" Type="8" Text="NinjaWarrior"          TextInfo="HP : 4000000 - Level 400" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="239" PosY="229" />
+    <NPC IDMAP="83" Type="22" Text="Mine Porter"          TextInfo="Event World Boss"         ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="192" PosY="190" />
+    <NPC IDMAP="83" Type="22" Text="Mine Porter"          TextInfo="Event World Boss"         ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="60"  PosY="119" />
+    <NPC IDMAP="83" Type="22" Text="Mine Porter"          TextInfo="Event World Boss"         ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="204" PosY="115" />
+    <NPC IDMAP="79" Type="6" Text="Liaman"                TextInfo="General Merchant"         ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="82" PosY="127" />
+    <NPC IDMAP="79" Type="18" Text="Chaos Mix"            TextInfo="Chaos Mix Item"           ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="138" PosY="139" />
+
+    <NPC IDMAP="85" Type="4"  Text="Bas"                  TextInfo="Sand Holds Items"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="84" PosY="193" />
+    <NPC IDMAP="85" Type="19" Text="Chaos"                TextInfo="Quest Dungeon"           ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="100" PosY="201" />
+    <NPC IDMAP="85" Type="18" Text="Chaos Mix"            TextInfo="Chaos Mix Item"          ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="95" PosY="202" />
+
+
+
+    <NPC IDMAP="91" StageIndex="0"  ClearStageIndex="1"  Type="3" Text="Kanturu Dungeon" TextInfo="Eternal Conflict" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="44"  PosY="233" />
+    <NPC IDMAP="91" StageIndex="1"  ClearStageIndex="2"  Type="3" Text="Kanturu Dungeon" TextInfo="Shadow Gate"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="64"  PosY="234" />
+    <NPC IDMAP="91" StageIndex="2"  ClearStageIndex="3"  Type="3" Text="Kanturu Dungeon" TextInfo="Iron Vanguard"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="104" PosY="239" />
+    <NPC IDMAP="91" StageIndex="3"  ClearStageIndex="4"  Type="3" Text="Kanturu Dungeon" TextInfo="Dark Legion"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="140" PosY="222" />
+    <NPC IDMAP="91" StageIndex="4"  ClearStageIndex="5"  Type="3" Text="Kanturu Dungeon" TextInfo="Crimson Tide"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="162" PosY="197" />
+    <NPC IDMAP="91" StageIndex="5"  ClearStageIndex="6"  Type="3" Text="Kanturu Dungeon" TextInfo="Forsaken Army"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="199" PosY="181" />
+    <NPC IDMAP="91" StageIndex="6"  ClearStageIndex="7"  Type="3" Text="Kanturu Dungeon" TextInfo="Death March"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="223" PosY="150" />
+    <NPC IDMAP="91" StageIndex="7"  ClearStageIndex="8"  Type="3" Text="Kanturu Dungeon" TextInfo="Blood Siege"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="226" PosY="113" />
+    <NPC IDMAP="91" StageIndex="8"  ClearStageIndex="9"  Type="3" Text="Kanturu Dungeon" TextInfo="Nightmare Gate"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="230" PosY="105" />
+    <NPC IDMAP="91" StageIndex="9"  ClearStageIndex="10" Type="3" Text="Kanturu Dungeon" TextInfo="Soul Reaper"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="229" PosY="83"  />
+    <NPC IDMAP="91" StageIndex="10" ClearStageIndex="11" Type="3" Text="Kanturu Dungeon" TextInfo="Dark Overlord"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="227" PosY="63"  />
+    <NPC IDMAP="91" StageIndex="11" ClearStageIndex="12" Type="3" Text="Kanturu Dungeon" TextInfo="Abyss Horde"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="221" PosY="44"  />
+    <NPC IDMAP="91" StageIndex="12" ClearStageIndex="13" Type="3" Text="Kanturu Dungeon" TextInfo="Shadow Crypt"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="171" PosY="39"  />
+    <NPC IDMAP="91" StageIndex="13" ClearStageIndex="14" Type="3" Text="Kanturu Dungeon" TextInfo="Blood Tyrant"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="173" PosY="43"  />
+    <NPC IDMAP="91" StageIndex="14" ClearStageIndex="15" Type="3" Text="Kanturu Dungeon" TextInfo="Doom Bringers"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="176" PosY="39"  />
+    <NPC IDMAP="91" StageIndex="15" ClearStageIndex="16" Type="3" Text="Kanturu Dungeon" TextInfo="The Reckoning"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="176" PosY="39"  />
+    <NPC IDMAP="91" StageIndex="16" ClearStageIndex="-1" Type="7" Text="Kanturu Dungeon" TextInfo="Bulgasal"         ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="176" PosY="39"  />
+
+    <NPC IDMAP="93" StageIndex="0"  ClearStageIndex="1"  Type="3" Text="Karutan Dungeon" TextInfo="Desert Awakening"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="179" PosY="117" />
+    <NPC IDMAP="93" StageIndex="1"  ClearStageIndex="2"  Type="3" Text="Karutan Dungeon" TextInfo="Sand Vanguard"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="193" PosY="154" />
+    <NPC IDMAP="93" StageIndex="2"  ClearStageIndex="3"  Type="3" Text="Karutan Dungeon" TextInfo="Scorched Legion"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="223" PosY="155" />
+    <NPC IDMAP="93" StageIndex="3"  ClearStageIndex="4"  Type="3" Text="Karutan Dungeon" TextInfo="Dune Siege"         ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="206" PosY="191" />
+    <NPC IDMAP="93" StageIndex="4"  ClearStageIndex="5"  Type="3" Text="Karutan Dungeon" TextInfo="Burning Sands"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="187" PosY="174" />
+    <NPC IDMAP="93" StageIndex="5"  ClearStageIndex="6"  Type="3" Text="Karutan Dungeon" TextInfo="Cursed Dunes"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="151" PosY="166" />
+    <NPC IDMAP="93" StageIndex="6"  ClearStageIndex="7"  Type="3" Text="Karutan Dungeon" TextInfo="Sandstorm Horde"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="127" PosY="168" />
+    <NPC IDMAP="93" StageIndex="7"  ClearStageIndex="8"  Type="3" Text="Karutan Dungeon" TextInfo="Blood Dunes"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="107" PosY="189" />
+    <NPC IDMAP="93" StageIndex="8"  ClearStageIndex="9"  Type="3" Text="Karutan Dungeon" TextInfo="Ancient Wrath"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="81"  PosY="176" />
+    <NPC IDMAP="93" StageIndex="9"  ClearStageIndex="10" Type="3" Text="Karutan Dungeon" TextInfo="Desert Overlord"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="81"  PosY="176" />
+    <NPC IDMAP="93" StageIndex="10" ClearStageIndex="11" Type="3" Text="Karutan Dungeon" TextInfo="Tomb Raiders"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="38"  PosY="170" />
+    <NPC IDMAP="93" StageIndex="11" ClearStageIndex="12" Type="3" Text="Karutan Dungeon" TextInfo="Crypt of Souls"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="35"  PosY="140" />
+    <NPC IDMAP="93" StageIndex="12" ClearStageIndex="13" Type="3" Text="Karutan Dungeon" TextInfo="Tomb Guardian"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="39"  PosY="126" />
+    <NPC IDMAP="93" StageIndex="13" ClearStageIndex="14" Type="3" Text="Karutan Dungeon" TextInfo="Forsaken Ruins"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="40"  PosY="115" />
+    <NPC IDMAP="93" StageIndex="14" ClearStageIndex="15" Type="3" Text="Karutan Dungeon" TextInfo="Cursed Catacombs"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="41"  PosY="97"  />
+    <NPC IDMAP="93" StageIndex="15" ClearStageIndex="16" Type="3" Text="Karutan Dungeon" TextInfo="Abyss of Karutan"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="37"  PosY="71"  />
+    <NPC IDMAP="93" StageIndex="16" ClearStageIndex="17" Type="3" Text="Karutan Dungeon" TextInfo="Twin Warlords"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="86"  PosY="72"  />
+    <NPC IDMAP="93" StageIndex="17" ClearStageIndex="18" Type="3" Text="Karutan Dungeon" TextInfo="Bone Crusher Army"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="86"  PosY="86"  />
+    <NPC IDMAP="93" StageIndex="18" ClearStageIndex="19" Type="3" Text="Karutan Dungeon" TextInfo="Last Stand"         ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="65"  PosY="119" />
+    <NPC IDMAP="93" StageIndex="19" ClearStageIndex="-1" Type="7" Text="Karutan Dungeon" TextInfo="DevilLord"          ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="98"  PosY="119" />
+
+</MiniMap>

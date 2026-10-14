@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<MoveData>
+    <Move Id="92" Name="Pega Land"  Key="Pega Land" Zen="10000" MinLevel="10" Gate="354" MaxLevel="400"/>
+	<Move Id="93" Name="Event Zone" Key="Event Zone" Zen="10000" MinLevel="10" Gate="355" MaxLevel="400"/>
+	<Move Id="94" Name="Craft Zone" Key="Craft Zone" Zen="10000" MinLevel="10" Gate="356" MaxLevel="400"/>
+    <Move Id="2"  Name="Lorencia"   Key="Lorencia" Zen="2000" MinLevel="10" Gate="17" MaxLevel="400"/>
+    <Move Id="3"  Name="Noria" Key="Noria" Zen="2000" MinLevel="10" Gate="27" MaxLevel="400"/>
+    <Move Id="31" Name="Elveland 1" Key="Elbeland 1" Zen="2000" MinLevel="10" Gate="267" MaxLevel="400"/>
+    <Move Id="32" Name="Elveland 2" Key="Elbeland 2" Zen="2500" MinLevel="20" Gate="268" MaxLevel="400"/>
+    <Move Id="43" Name="Elveland 3" Key="Elbeland 3" Zen="2500" MinLevel="30" Gate="269" MaxLevel="400"/>
+    <Move Id="4"  Name="Devias 1" Key="Devias 1" Zen="2000" MinLevel="20" Gate="22" MaxLevel="400"/>
+    <Move Id="5"  Name="Devias 2" Key="Devias 2" Zen="2500" MinLevel="30" Gate="72" MaxLevel="400"/>
+    <Move Id="6"  Name="Devias 3" Key="Devias 3" Zen="3000" MinLevel="40" Gate="73" MaxLevel="400"/>
+    <Move Id="11" Name="Atlans 1" Key="Atlans 1" Zen="4000" MinLevel="75" Gate="49" MaxLevel="220"/>
+    <Move Id="12" Name="Atlans 2" Key="Atlans 2" Zen="4500" MinLevel="80" Gate="75" MaxLevel="220"/>
+    <Move Id="13" Name="Atlans 3" Key="Atlans 3" Zen="5000" MinLevel="90" Gate="76" MaxLevel="220"/>
+    <Move Id="14" Name="LostTower 1" Key="LostTower 1" Zen="5000" MinLevel="50" Gate="42" MaxLevel="400"/>
+    <Move Id="21" Name="Tarkan" Key="Tarkan" Zen="8000" MinLevel="140" Gate="57" MaxLevel="400"/>
+    <Move Id="22" Name="Tarkan 2" Key="Tarkan 2" Zen="8500" MinLevel="160" Gate="77" MaxLevel="400"/>
+    <Move Id="25" Name="Aida 1" Key="Aida 1" Zen="8500" MinLevel="150" Gate="119" MaxLevel="400"/>
+    <Move Id="27" Name="Aida 2" Key="Aida 2" Zen="8500" MinLevel="170" Gate="140" MaxLevel="400"/>
+    <Move Id="23" Name="Icarus" Key="Icarus" Zen="10000" MinLevel="170" Gate="63" MaxLevel="400"/>
+    <Move Id="95" Name="Crimson Icarus" Key="Crimson Icarus" Zen="10000" MinLevel="250" Gate="357" MaxLevel="400"/>
+    <Move Id="28" Name="KanturuRuins 1" Key="Kanturu_ruin 1" Zen="9000" MinLevel="170" Gate="138" MaxLevel="350"/>
+    <Move Id="29" Name="KanturuRuins 2" Key="Kanturu_ruin 2" Zen="9000" MinLevel="190" Gate="141" MaxLevel="350"/>
+    <Move Id="45" Name="KanturuRuins 3" Key="Kanturu_ruin 3" Zen="15000" MinLevel="210" Gate="334" MaxLevel="400"/>
+    <Move Id="30" Name="KanturuRelics" Key="Kanturu_Remain" Zen="2000" MinLevel="230" Gate="139" MaxLevel="400"/>
+    <Move Id="34" Name="Raklion" Key="Raklion" Zen="15000" MinLevel="280" Gate="287" MaxLevel="400"/>
+	<Move Id="90" Name="Dungeon Gateway" Key="Dungeon Gateway" Zen="10000" MinLevel="300" Gate="352" MaxLevel="400"/>
+    <Move Id="87" Name="Kardamahal Under" Key="Kardamahal Under" Zen="10000" MinLevel="400" Gate="346" MaxLevel="400"/>
+    <Move Id="88" Name="Twisted Under" Key="Twisted Under" Zen="10000" MinLevel="400" Gate="347" MaxLevel="400"/>
+	<Move Id="89" Name="Aquila Temple" Key="Aquila Temple" Zen="10000" MinLevel="400" Gate="348" MaxLevel="400"/>
+</MoveData>

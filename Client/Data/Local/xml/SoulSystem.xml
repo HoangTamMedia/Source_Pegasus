@@ -1,0 +1,93 @@
+<SoulSystem Enable="1" ResetRewardCount="5" GResetRewardCount="75" SubElementMode="0">
+    <ResetSettings PriceDC="100" ItemId="14:13" ItemLevel="-1" ItemCount="15"/>
+    <RewardSettings>
+        <Type Id="0" Name="Attack">
+            <Element OptionId="125" ValuePerPoint="0.15" IsPercentValue="true" Name="Damage" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Attack\\Element1\\Main.png">
+                <SubElement ReqPoints="40" OptionId="123" Value="100" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Attack\\Element1\Sub1.png" Name="Add Physical and Wizardry" Description="Increases Min. Max. Damage +100"/>
+                <SubElement ReqPoints="70" OptionId="123" Value="200" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Attack\\Element1\Sub2.png" Name="Add Physical and Wizardry" Description="Increases Min. Max. Damage +200"/>
+                <SubElement ReqPoints="100" OptionId="123" Value="300" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Attack\\Element1\Sub3.png" Name="Add Physical and Wizardry" Description="Increases Min. Max. Damage +300"/>
+            </Element>
+            <Element OptionId="92" ValuePerPoint="0.1" IsPercentValue="true"  Name="Excellent Damage Rate" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Attack\\Element2\\Main.png">
+                <SubElement ReqPoints="40" OptionId="146" Value="500" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Attack\\Element2\Sub1.png" Name="Add Excellent Damage" Description="Increases Excellent Damage +500"/>
+                <SubElement ReqPoints="70" OptionId="146" Value="1000" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Attack\\Element2\Sub2.png" Name="Add Excellent Damage" Description="Increases Excellent Damage +1000"/>
+                <SubElement ReqPoints="100" OptionId="146" Value="1500" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Attack\\Element2\Sub3.png" Name="Add Excellent Damage" Description="Increases Excellent Damage +1500"/>
+            </Element>
+            <Element OptionId="84" ValuePerPoint="0.1" IsPercentValue="true"  Name="Critical Damage Rate" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Attack\\Element3\\Main.png">
+                <SubElement ReqPoints="40" OptionId="145" Value="500" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Attack\\Element3\Sub1.png" Name="Add Critical Damage" Description="Increases Critical Damage +500"/>
+                <SubElement ReqPoints="70" OptionId="145" Value="1000" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Attack\\Element3\Sub2.png" Name="Add Critical Damage" Description="Increases Critical Damage +1000"/>
+                <SubElement ReqPoints="100" OptionId="145" Value="1500" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Attack\\Element3\Sub3.png" Name="Add Critical Damage" Description="Increases Critical Damage +1500"/>
+            </Element>
+            <Element OptionId="97" ValuePerPoint="0.5" IsPercentValue="false"  Name="Attack Speed" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Attack\\Element4\\Main.png">
+                <SubElement ReqPoints="40" OptionId="97" Value="10" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Attack\\Element4\Sub1.png" Name="Add Attack Speed" Description="Increases Attack Speed +10"/>
+                <SubElement ReqPoints="70" OptionId="97" Value="20" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Attack\\Element4\Sub2.png" Name="Add Attack Speed" Description="Increases Attack Speed +20"/>
+                <SubElement ReqPoints="100" OptionId="97" Value="30" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Attack\\Element4\Sub3.png" Name="Add Attack Speed" Description="Increases Attack Speed +30"/>
+            </Element>
+        </Type>
+        <Type Id="1" Name="Defense">
+            <Element OptionId="127" ValuePerPoint="0.15" IsPercentValue="true"  Name="Defense" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Defense\\Element1\\Main.png">
+                <SubElement ReqPoints="40" OptionId="83" Value="200" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Defense\\Element1\Sub1.png" Name="Add Defense" Description="Increases Defense +200"/>
+                <SubElement ReqPoints="70" OptionId="83" Value="400" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Defense\\Element1\Sub2.png" Name="Add Defense" Description="Increases Defense +400"/>
+                <SubElement ReqPoints="100" OptionId="83" Value="600" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Defense\\Element1\Sub3.png" Name="Add Defense" Description="Increases Defense +600"/>
+            </Element>
+            <Element OptionId="88" ValuePerPoint="0.1" IsPercentValue="true"  Name="Reflect Damage" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Defense\\Element2\\Main.png">
+                <SubElement ReqPoints="40" OptionId="88" Value="1" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Defense\\Element2\Sub1.png" Name="Add Reflect Damage" Description="Increases Reflect Damage +1%"/>
+                <SubElement ReqPoints="70" OptionId="88" Value="2" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Defense\\Element2\Sub2.png" Name="Add Reflect Damage" Description="Increases Reflect Damage +2%"/>
+                <SubElement ReqPoints="100" OptionId="88" Value="3" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Defense\\Element2\Sub3.png" Name="Add Reflect Damage" Description="Increases Reflect Damage +3%"/>
+            </Element>
+            <Element OptionId="91" ValuePerPoint="0.2" IsPercentValue="true"  Name="Health" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Defense\\Element3\\Main.png">
+                <SubElement ReqPoints="40" OptionId="119" Value="1000" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Defense\\Element3\Sub1.png" Name="Add Max. Life" Description="Increases Max. Life +1000"/>
+                <SubElement ReqPoints="70" OptionId="119" Value="2000" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Defense\\Element3\Sub2.png" Name="Add Max. Life" Description="Increases Max. Life +2000"/>
+                <SubElement ReqPoints="100" OptionId="119" Value="3000" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Defense\\Element3\Sub3.png" Name="Add Max. Life" Description="Increases Max. Life +3000"/>
+            </Element>
+            <Element OptionId="89" ValuePerPoint="0.030" IsPercentValue="true"  Name="Damage Decrease" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Defense\\Element4\\Main.png">
+                <SubElement ReqPoints="40" OptionId="89" Value="0.5" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Defense\\Element4\Sub1.png" Name="Add Damage Decrease" Description="Increases Damage Decrease +0.5%"/>
+                <SubElement ReqPoints="70" OptionId="89" Value="1" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Defense\\Element4\Sub2.png" Name="Add Damage Decrease" Description="Increases Damage Decrease +1%"/>
+                <SubElement ReqPoints="100" OptionId="89" Value="1.5" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Defense\\Element4\Sub3.png" Name="Add Damage Decrease" Description="Increases Damage Decrease +1.5%"/>
+            </Element>
+        </Type>
+        <Type Id="2" Name="Support">
+            <Element OptionId="135" ValuePerPoint="0.1" IsPercentValue="true"  Name="Excellent DMG Resist" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Support\\Element1\\Main.png">
+                <SubElement ReqPoints="40" OptionId="135" Value="1" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Support\\Element1\Sub1.png" Name="Add Excellent Resistance" Description="Increases Excellent Damage Resistance +1%"/>
+                <SubElement ReqPoints="70" OptionId="135" Value="3" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Support\\Element1\Sub2.png" Name="Add Excellent Resistance" Description="Increases Excellent Damage Resistance +3%"/>
+                <SubElement ReqPoints="100" OptionId="135" Value="6" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Support\\Element1\Sub3.png" Name="Add Excellent Resistance" Description="Increases Excellent Damage Resistance +6%"/>
+            </Element>
+            <Element OptionId="134" ValuePerPoint="0.1" IsPercentValue="true"  Name="Critical DMG Resist" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Support\\Element2\\Main.png">
+                <SubElement ReqPoints="40" OptionId="134" Value="1" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Support\\Element2\Sub1.png" Name="Add Critical Resistance" Description="Increases Critical Damage Resistance +1%"/>
+                <SubElement ReqPoints="70" OptionId="134" Value="3" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Support\\Element2\Sub2.png" Name="Add Critical Resistance" Description="Increases Critical Damage Resistance +3%"/>
+                <SubElement ReqPoints="100" OptionId="134" Value="6" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Support\\Element2\Sub3.png" Name="Add Critical Resistance" Description="Increases Critical Damage Resistance +6%"/>
+            </Element>
+            <Element OptionId="136" ValuePerPoint="0.2" IsPercentValue="true"  Name="Shield Defense (SD)" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Support\\Element3\\Main.png">
+                <SubElement ReqPoints="40" OptionId="136" Value="3" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Support\\Element3\Sub1.png" Name="Add Shield Defense" Description="Increases Shield Defense +3%"/>
+                <SubElement ReqPoints="70" OptionId="136" Value="5" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Support\\Element3\Sub2.png" Name="Add Shield Defense" Description="Increases Shield Defense +5%"/>
+                <SubElement ReqPoints="100" OptionId="136" Value="7" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Support\\Element3\Sub3.png" Name="Add Shield Defense" Description="Increases Shield Defense +7%"/>
+            </Element>
+            <Element OptionId="133" ValuePerPoint="2.0" IsPercentValue="false"  Name="All Stats" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Support\\Element4\\Main.png">
+                <SubElement ReqPoints="40" OptionId="133" Value="30" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Support\\Element4\Sub1.png" Name="Add All Stats" Description="Increases All Stats +30"/>
+                <SubElement ReqPoints="70" OptionId="133" Value="60" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Support\\Element4\Sub2.png" Name="Add All Stats" Description="Increases All Stats +60"/>
+                <SubElement ReqPoints="100" OptionId="133" Value="90" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Support\\Element4\Sub3.png" Name="Add All Stats" Description="Increases All Stats +90"/>
+            </Element>
+        </Type>
+        <Type Id="3" Name="Misc">
+            <Element OptionId="86" ValuePerPoint="0.1" IsPercentValue="true"  Name="Zen Drop" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Misc\\Element1\\Main.png">
+                <SubElement ReqPoints="40" OptionId="86" Value="3" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Misc\\Element1\Sub1.png" Name="Add Zen Drop Rate" Description="Increases Zen Drop Rate +3%"/>
+                <SubElement ReqPoints="70" OptionId="86" Value="6" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Misc\\Element1\Sub2.png" Name="Add Zen Drop Rate" Description="Increases Zen Drop Rate +6%"/>
+                <SubElement ReqPoints="100" OptionId="86" Value="9" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Misc\\Element1\Sub3.png" Name="Add Zen Drop Rate" Description="Increases Zen Drop Rate +9%"/>
+            </Element>
+            <Element OptionId="147" ValuePerPoint="0.025" IsPercentValue="true"  Name="Normal Experience" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Misc\\Element2\\Main.png">
+                <SubElement ReqPoints="40" OptionId="147" Value="0.5" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Misc\\Element2\Sub1.png" Name="Add Normal Experience Rate" Description="Increases Normal Experience Rate +0.5%"/>
+                <SubElement ReqPoints="70" OptionId="147" Value="1" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Misc\\Element2\Sub2.png" Name="Add Normal Experience Rate" Description="Increases Normal Experience Rate +1%"/>
+                <SubElement ReqPoints="100" OptionId="147" Value="1.5" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Misc\\Element2\Sub3.png" Name="Add Normal Experience Rate" Description="Increases Normal Experience Rate +1.5%"/>
+            </Element>
+            <Element OptionId="148" ValuePerPoint="0.025" IsPercentValue="true"  Name="Master Experience" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Misc\\Element3\\Main.png">
+                <SubElement ReqPoints="40" OptionId="148" Value="1" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Misc\\Element3\Sub1.png" Name="Add Master Experience Rate" Description="Increases Master Experience Rate +1%"/>
+                <SubElement ReqPoints="70" OptionId="148" Value="1.5" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Misc\\Element3\Sub2.png" Name="Add Master Experience Rate" Description="Increases Master Experience Rate +1.5%"/>
+                <SubElement ReqPoints="100" OptionId="148" Value="2" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Misc\\Element3\Sub3.png" Name="Add Master Experience Rate" Description="Increases Master Experience Rate +2%"/>
+            </Element>
+            <Element OptionId="85" ValuePerPoint="0.05" IsPercentValue="true"  Name="Automatic HP Recovery" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Misc\\Element4\\Main.png">
+                <SubElement ReqPoints="40" OptionId="85" Value="2" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Misc\\Element4\Sub1.png" Name="Add Automatic HP Recovery" Description="Increases Automatic HP Recovery +2%"/>
+                <SubElement ReqPoints="70" OptionId="85" Value="4" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Misc\\Element4\Sub2.png" Name="Add Automatic HP Recovery" Description="Increases Automatic HP Recovery +4%"/>
+                <SubElement ReqPoints="100" OptionId="85" Value="6" ImagePath="Interface\\Pegasus\\Pegasus_SoulSystem\\Misc\\Element4\Sub3.png" Name="Add Automatic HP Recovery" Description="Increases Automatic HP Recovery +6%"/>
+            </Element>
+        </Type>
+    </RewardSettings>
+</SoulSystem>
