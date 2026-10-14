@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language>
+	<Text Index="0"  Value="Config file not found! \nPlease reinstall client!" />
+	<Text Index="1"  Value="Launcher already in use." />
+	<Text Index="2"  Value="Image file don't exist" />
+	<Text Index="3"  Value="MU Launcher minimized!" />
+	<Text Index="4"  Value="Checking for updates..." />
+	<Text Index="5"  Value="OFFLINE" />
+	<Text Index="6"  Value="ONLINE" />
+	<Text Index="7"  Value="An error occurred while updating..." />
+	<Text Index="8"  Value="Failed to download! [{0}] - Please close all active window and update." />
+	<Text Index="9"  Value="Preparation for renewal..." />
+	<Text Index="10" Value="Checking [{0}]..." />
+	<Text Index="11" Value="Loading: [{0}]" />
+	<Text Index="12" Value="Client updating in progress." />
+	<Text Index="13" Value="Check is over, you can start the game!" />
+	<Text Index="14" Value="Client is fully updated." />
+	<Text Index="15" Value="Launcher started, have a good game." />
+	<Text Index="16" Value="Online now: {0}" />
+	<Text Index="17" Value="ENTER" />
+	<Text Index="18" Value="Home" />
+	<Text Index="19" Value="Features" />
+	<Text Index="20" Value="Performance" />
+	<Text Index="21" Value="Compare" />
+	<Text Index="22" Value="Pricing" />
+	<Text Index="23" Value="Settings" />
+	<Text Index="24" Value="Start" />
+	<Text Index="25" Value="Online" />
+	<Text Index="26" Value="Build your team" />
+	<Text Index="27" Value="Our professional approach to our work fully justifies your time spent." />
+	<Text Index="28" Value="GAME SETTINGS" />
+	<Text Index="29" Value="User ID" />
+	<Text Index="30" Value="Screen Resolution" />
+	<Text Index="31" Value="Boarderless Mode" />
+	<Text Index="32" Value="Color Depth" />
+	<Text Index="33" Value="16 bit" />
+	<Text Index="34" Value="32 bit" />
+	<Text Index="35" Value="Sounds" />
+	<Text Index="36" Value="Effects" />
+	<Text Index="37" Value="Music" />
+	<Text Index="38" Value="Color depth increase the range of colors you can display" />
+	<Text Index="39" Value="Enable or disable sounds in the Game" />
+	<Text Index="40" Value="CANCEL" />
+	<Text Index="41" Value="OK" />
+	<Text Index="42" Value="Anisotropic Filtering" />
+	<Text Index="43" Value="Mipmapping" />
+	<Text Index="44" Value="Multisample Anti-Aliasing" />
+	<Text Index="45" Value="Anisotropic filtering - Anisotropic Filtering is a type of texture filtering that is often listed alongside bilinear and &#x0a;trilinear filtering techniques. Texture filtering is a process through which game graphics are modified to improve &#x0a;smoothness of objects and ensure textures are proportionate to the screen's viewing angle. For example, a road &#x0a;leading to a vanishing point would require a more trapezoidal application of textures to the surface to ensure &#x0a;the road's dashed lines are not skewed with viewing distance (if using a square or oblique application)." />
+	<Text Index="46" Value="MIP mapping is a texturing method that uses multiple copies of the same texture &#x0a;with different levels of detail. The name comes from Lat. multum in parvo - «much in little»." />
+	<Text Index="47" Value="Multisample anti-aliasing (MSAA) is a type of spatial anti-aliasing, &#x0a;a technique used in computer graphics to remove jaggies." />
+	<Text Index="48" Value="Graphics level" />
+	<Text Index="50" Value="News" />
+	<Text Index="51" Value="Announcements" />
+	<Text Index="52" Value="Events" />
+	<!-- Rotating quotes for launcher -->
+	<Text Index="60" Value="Forge your legacy" />
+	<Text Index="61" Value="Where warriors rise and legends never die." />
+	<Text Index="62" Value="Assemble your squad" />
+	<Text Index="63" Value="Excellence that respects your time, quality that earns your trust." />
+	<Text Index="64" Value="Unite your forces" />
+	<Text Index="65" Value="Crafted with passion, delivered with precision." />
+	<Text Index="66" Value="Rally your warriors" />
+	<Text Index="67" Value="Your adventure. Our dedication. Pure excellence." />
+	<Text Index="68" Value="Build your empire" />
+	<Text Index="69" Value="Every second counts. Every detail matters." />
+	<Text Index="70" Value="Join the adventure" />
+	<Text Index="71" Value="Where quality meets passion, and legends are forged." />
+</Language>

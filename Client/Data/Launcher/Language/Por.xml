@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language>
+	<Text Index="0"  Value="Arquivo de configurações não encontrado! \nReinstale o cliente." />
+	<Text Index="1"  Value="O launcher já está em uso." />
+	<Text Index="2"  Value="Arquivo de imagem não encontrado" />
+	<Text Index="3"  Value="Launcher minimizado!" />
+	<Text Index="4"  Value="Verificando atualizações..." />
+	<Text Index="5"  Value="Offline" />
+	<Text Index="6"  Value="Online" />
+	<Text Index="7"  Value="Ocorreu um erro ao atualizar..." />
+	<Text Index="8"  Value="Erro de download: [{0}] - Feche todas as janelas ativas e tente novamente." />
+	<Text Index="9"  Value="Preparando atualização..." />
+	<Text Index="10" Value="Verificando: [{0}]..." />
+	<Text Index="11" Value="Baixando: [{0}]" />
+	<Text Index="12" Value="Atualizando cliente..." />
+	<Text Index="13" Value="Verificação concluída!" />
+	<Text Index="14" Value="Cliente totalmente atualizado." />
+	<Text Index="15" Value="Launcher iniciado, bom jogo!" />
+	<Text Index="16" Value="Atualmente online: {0}" />
+	<Text Index="17" Value="IR" />
+	<Text Index="18" Value="Visitar site" />
+	<Text Index="19" Value="Cadastro" />
+	<Text Index="20" Value="Servidor" />
+	<Text Index="21" Value="Doação" />
+	<Text Index="22" Value="Rankings" />
+	<Text Index="23" Value="Configurações" />
+	<Text Index="24" Value="Jogar" />
+	<Text Index="25" Value="ONLINE" />
+	<Text Index="26" Value="Monte sua equipe" />
+	<Text Index="27" Value="Nossa abordagem profissional ao trabalho justifica totalmente o seu tempo gasto." />
+	<Text Index="28" Value="CONFIGURAÇÕES DO JOGO" />
+	<Text Index="29" Value="Login" />
+	<Text Index="30" Value="Resolução da tela" />
+	<Text Index="31" Value="Modo sem borda" />
+	<Text Index="32" Value="Profundidade de cor" />
+	<Text Index="33" Value="16 bits" />
+	<Text Index="34" Value="32 bits" />
+	<Text Index="35" Value="Sons" />
+	<Text Index="36" Value="Efeitos" />
+	<Text Index="37" Value="Música" />
+	<Text Index="38" Value="A profundidade de cor aumenta a gama de cores que podem ser exibidas" />
+	<Text Index="39" Value="Ative ou desative os sons do jogo" />
+	<Text Index="40" Value="CANCELAR" />
+	<Text Index="41" Value="SALVAR" />
+	<Text Index="42" Value="Filtragem anisotrópica" />
+	<Text Index="43" Value="Mapeamento MIP" />
+	<Text Index="44" Value="Anti-Aliasing Multisample" />
+	<Text Index="45" Value="Filtragem anisotrópica (Anisotropic Filtering, AF) — método em gráficos 3D que melhora a qualidade da imagem de texturas em superfícies inclinadas em relação à câmera. Assim como as filtragens bilinear e trilinear, &#x0a;a filtragem anisotrópica elimina o aliasing, mas com menos desfoque, preservando mais detalhes. A filtragem anisotrópica exige mais cálculos, tornando-se “gratuita” (sem perda de FPS) apenas por volta de 2004 nas placas gráficas de consumo." />
+	<Text Index="46" Value="Mapeamento MIP (MIP mapping) — método de texturização que usa várias cópias &#x0a;de uma textura com diferentes níveis de detalhe. O nome vem do latim 'multum in parvo' — 'muito em pouco'." />
+	<Text Index="47" Value="Anti-aliasing multisample (MSAA) — uma das técnicas mais simples de suavização, substituindo o supersampling &#x0a;e oferecendo efeito similar com menor consumo de recursos." />
+	<Text Index="48" Value="Nível de gráficos" />
+	<Text Index="50" Value="Notícias" />
+	<Text Index="51" Value="Anúncios" />
+	<Text Index="52" Value="Eventos" />
+	<Text Index="53" Value="Idioma do jogo" />
+	<Text Index="54" Value="Selecionar Proxy:" />
+	<Text Index="55" Value="Use isto para melhorar a conectividade em regiões com aumento de censura na rede." />
+	<Text Index="60" Value="Lute pela glória" />
+    <Text Index="61" Value="Enfrente inimigos poderosos e torne-se uma lenda." />   
+    <Text Index="62" Value="Domine o campo de batalha" />
+    <Text Index="63" Value="Participe de guerras épicas com sua guilda." />  
+    <Text Index="64" Value="Explore novas aventuras" />
+    <Text Index="65" Value="Descubra mapas secretos e recompensas raras." /> 
+    <Text Index="66" Value="Fortaleça seu personagem" />
+    <Text Index="67" Value="Equipe itens lendários e evolua seu poder." />  
+    <Text Index="68" Value="Conquiste o servidor" />
+    <Text Index="69" Value="Mostre suas habilidades contra outros jogadores." /> 
+    <Text Index="70" Value="Sua jornada começa agora" />
+    <Text Index="71" Value="Entre no mundo Pegasus e faça história." />
+	
+</Language>
