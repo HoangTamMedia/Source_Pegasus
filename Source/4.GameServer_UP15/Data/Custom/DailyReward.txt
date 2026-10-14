@@ -1,0 +1,58 @@
+//==============================================================================
+// DailyReward.txt
+//
+// The 28-day attendance calendar. Read by CPegasusDaily::Load.
+//
+// Section 0, one row per day, closed by "end". The "end" is mandatory - the
+// MemScript parser has no other way out of its loop, and a missing one shows up
+// as the misleading "The file were not configured correctly", which is really a
+// 1-second watchdog firing on a loop that never terminated.
+//
+//   Day        1..28
+//   ItemType   item group: 0 Sword 1 Axe 2 Mace 3 Spear 4 Bow 5 Staff
+//                          6 Shield 7 Helm 8 Armor 9 Pants 10 Gloves 11 Boots
+//                          12 Wings 13 Misc 14 Potion/Jewel
+//   ItemIndex  number inside that group
+//   Level      item level, 0 for none
+//   Durability 0 = the item's default
+//   Premium    1 = paid track only; a non-premium account is refused this day
+//
+// Days 7, 14, 21 and 28 are the premium ones, which is what the client's
+// calendar already draws a VIP tag on.
+//==============================================================================
+
+0
+// Day  Type  Index  Level  Dur  Premium
+
+   1    14    13     0      0    0
+   2    14    13     0      0    0
+   3    14    14     0      0    0
+   4    14    14     0      0    0
+   5    14    16     0      0    0
+   6    14    16     0      0    0
+   7    14    22     0      0    1
+
+   8    14    13     0      0    0
+   9    14    13     0      0    0
+   10   14    14     0      0    0
+   11   14    14     0      0    0
+   12   14    16     0      0    0
+   13   14    16     0      0    0
+   14   14    22     0      0    1
+
+   15   14    13     0      0    0
+   16   14    13     0      0    0
+   17   14    14     0      0    0
+   18   14    14     0      0    0
+   19   14    16     0      0    0
+   20   14    16     0      0    0
+   21   14    22     0      0    1
+
+   22   14    13     0      0    0
+   23   14    13     0      0    0
+   24   14    14     0      0    0
+   25   14    14     0      0    0
+   26   14    16     0      0    0
+   27   14    16     0      0    0
+   28   14    31     0      0    1
+end
