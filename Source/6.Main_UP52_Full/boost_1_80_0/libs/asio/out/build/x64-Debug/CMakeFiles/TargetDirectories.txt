@@ -1,0 +1,2 @@
+E:/Pegasus52/Server+Cliente+Source 5.2.0/Source-Cliente/boost_1_80_0/libs/asio/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+E:/Pegasus52/Server+Cliente+Source 5.2.0/Source-Cliente/boost_1_80_0/libs/asio/out/build/x64-Debug/CMakeFiles/edit_cache.dir

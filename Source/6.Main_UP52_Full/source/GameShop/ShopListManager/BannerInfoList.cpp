@@ -1,0 +1,88 @@
+
+#include "stdafx.h"
+#ifdef KJH_ADD_INGAMESHOP_UI_SYSTEM
+#include "BannerInfoList.h"
+#include "BannerInfo.h"
+#include <fstream>
+
+CBannerInfoList::CBannerInfoList()
+{
+	this->Clear();
+}
+
+CBannerInfoList::~CBannerInfoList()
+{
+
+}
+
+WZResult CBannerInfoList::LoadBanner(std::string strDirPath,std::string strScriptFileName,bool bDonwLoad)
+{
+	static WZResult result;
+
+	result.BuildSuccessResult();
+
+	std::ifstream ifs;
+
+	std::string path = strDirPath+strScriptFileName;
+
+	ifs.open(path.c_str(),std::ifstream::in);
+
+	if(ifs.is_open())
+	{
+		this->Clear();
+
+		char buff[1024] = {0};
+
+		while(true)
+		{
+			if(!ifs.getline(buff,sizeof(buff)))
+				break;
+
+			CBannerInfo info;
+
+			if(info.SetBanner(buff,strDirPath,bDonwLoad))
+			{
+				this->Append(info);
+			}
+		}
+
+		ifs.close();
+	}
+	else
+	{
+		result.SetResult(6,GetLastError(),"Banner file open fail");
+	}
+
+	return result;
+}
+
+void CBannerInfoList::Clear()
+{
+	this->m_BannerInfos.clear();
+}
+
+int CBannerInfoList::GetSize()
+{
+	return this->m_BannerInfos.size();
+}
+
+void CBannerInfoList::Append(CBannerInfo banner)
+{
+	this->m_BannerInfos.insert(std::make_pair(banner.BannerSeq,banner));
+}
+
+void CBannerInfoList::SetFirst()
+{
+	this->m_BannerInfoIter = this->m_BannerInfos.begin();
+}
+bool CBannerInfoList::GetNext(CBannerInfo& banner)
+{
+	if(this->m_BannerInfoIter==this->m_BannerInfos.end())
+		return 0;
+
+	banner = this->m_BannerInfoIter->second;
+
+	this->m_BannerInfoIter++;
+	return 1;
+}
+#endif
