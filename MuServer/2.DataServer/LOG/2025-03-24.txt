@@ -1,0 +1,18 @@
+11:03:29 [SocketManager] Server started at port [55960]
+11:03:37 [ServerManager][0] AddServer (127.0.0.1)
+11:03:37 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+16:59:56 [SocketManager] Server started at port [55960]
+17:00:03 [ServerManager][0] AddServer (127.0.0.1)
+17:00:03 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+17:04:49 [SocketManager] Server started at port [55960]
+17:04:55 [ServerManager][0] AddServer (127.0.0.1)
+17:04:55 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+17:12:43 [SocketManager] Server started at port [55960]
+17:12:49 [ServerManager][0] AddServer (127.0.0.1)
+17:12:49 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+17:23:37 [SocketManager] Server started at port [55960]
+17:23:44 [ServerManager][0] AddServer (127.0.0.1)
+17:23:44 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+17:27:01 [SocketManager] Server started at port [55960]
+17:27:07 [ServerManager][0] AddServer (127.0.0.1)
+17:27:07 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)

@@ -1,0 +1,41 @@
+10:45:45 [SocketManager] Server started at port [55960]
+10:45:53 [ServerManager][0] AddServer (127.0.0.1)
+10:45:53 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+11:18:06 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='Ahihi'
+11:18:06 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+12:02:36 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='Ahihi'
+12:02:36 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+12:07:23 [ServerManager][0] DelServer (127.0.0.1)
+12:07:25 [ServerManager][1] AddServer (127.0.0.1)
+12:07:25 [ServerManager][1] ServerInfo (Pegasus-01) (55901) (0)
+15:20:31 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='Ahihi'
+15:20:31 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+15:46:49 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='Ahihi'
+15:46:49 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+15:48:54 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='Ahihi'
+15:48:54 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+15:48:56 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='Ahihi'
+15:48:56 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+15:48:59 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='Ahihi'
+15:48:59 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+21:07:49 [SocketManager] Server started at port [55960]
+21:07:56 [ServerManager][0] AddServer (127.0.0.1)
+21:07:56 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+22:45:32 [ServerManager][0] DelServer (127.0.0.1)
+22:50:31 [ServerManager][0] AddServer (127.0.0.1)
+22:50:31 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+22:54:10 [ServerManager][0] DelServer (127.0.0.1)
+22:54:28 [ServerManager][0] AddServer (127.0.0.1)
+22:54:28 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+22:58:28 [ServerManager][0] DelServer (127.0.0.1)
+22:58:57 [ServerManager][0] AddServer (127.0.0.1)
+22:58:57 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+23:02:16 [ServerManager][0] DelServer (127.0.0.1)
+23:02:48 [ServerManager][0] AddServer (127.0.0.1)
+23:02:48 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+23:04:06 [ServerManager][0] DelServer (127.0.0.1)
+23:04:30 [ServerManager][0] AddServer (127.0.0.1)
+23:04:30 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+23:09:42 [ServerManager][0] DelServer (127.0.0.1)
+23:11:04 [ServerManager][0] AddServer (127.0.0.1)
+23:11:04 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)

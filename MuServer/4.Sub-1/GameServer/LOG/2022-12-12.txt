@@ -1,0 +1,87 @@
+00:02:25 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+00:02:25 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+00:04:11 [Obj][9000] AddClient (192.168.2.200)
+00:04:17 [Obj][9000] DelClient (192.168.2.200)
+00:04:56 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+00:04:56 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+00:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 132 Y: 194)
+00:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 132 Y: 194)
+00:05:28 [Obj][9000] AddClient (192.168.2.200)
+00:05:30 [Obj][9000] AddAccount (2010)
+00:05:38 [Obj][9000] LogInCharacter (redf0x)
+00:07:26 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:07:26 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:09:57 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:09:57 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:09:59 [Obj][9000] LogOutCharacter (redf0x)
+00:09:59 [Obj][9000] LogOutCharacter ()
+00:09:59 [Obj][9000] DelAccount (2010)
+00:09:59 [Obj][9000] DelClient (192.168.2.200)
+00:10:00 [CustomQuiz] Start
+00:10:49 [Obj][9000] AddClient (192.168.2.200)
+00:10:51 [Obj][9000] AddAccount (2010)
+00:10:53 [Obj][9000] LogInCharacter (redf0x)
+00:11:41 [Set BC Start] At  0:13:00
+00:12:27 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+00:12:27 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+00:13:00 [CustomQuiz] Finish
+00:14:31 [Obj][9000] LogOutCharacter (redf0x)
+00:14:31 [Obj][9000] LogOutCharacter ()
+00:14:31 [Obj][9000] DelAccount (2010)
+00:14:31 [Obj][9000] DelClient (192.168.2.200)
+00:14:58 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+00:14:58 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 27 Y: 63)
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 27 Y: 63)
+00:17:28 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+00:17:28 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+00:19:59 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:19:59 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:22:29 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:22:29 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:22:35 [Obj][9000] AddClient (192.168.2.200)
+00:22:38 [Obj][9000] AddAccount (2010)
+00:22:39 [Obj][9000] LogInCharacter (redf0x)
+00:22:47 [Obj][9000] LogOutCharacter (redf0x)
+00:22:47 [Obj][9000] LogOutCharacter ()
+00:22:47 [Obj][9000] DelAccount (2010)
+00:22:47 [Obj][9000] DelClient (192.168.2.200)
+00:25:00 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+00:25:00 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+00:27:30 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+00:27:30 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+00:30:01 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+00:30:01 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+00:32:31 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+00:32:31 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+00:35:02 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+00:35:02 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+00:36:01 [OnlineLoterry] No Winner
+00:37:32 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:37:32 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:40:03 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:40:03 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:42:33 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+00:42:33 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+00:45:04 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+00:45:04 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+00:47:34 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+00:47:34 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+00:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 160 Y: 15)
+00:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 160 Y: 15)
+00:50:05 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:50:05 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:52:35 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:52:35 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:55:06 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+00:55:06 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+00:57:36 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+00:57:36 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+01:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 155 Y: 14)
+01:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 155 Y: 14)
+01:00:07 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+01:00:07 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+01:02:37 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+01:02:37 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+01:05:08 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+01:05:08 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25

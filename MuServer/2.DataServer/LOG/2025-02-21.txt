@@ -1,0 +1,1491 @@
+00:00:12 [ServerManager][0] DelServer (127.0.0.1)
+00:00:46 [ServerManager][0] AddServer (127.0.0.1)
+00:00:46 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+00:01:00 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:01:00 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:01:14 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TTTTTTTTTT',0,0,0,?)
+00:01:14 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:01:14 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:03:22 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:03:22 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:03:31 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TTTTTTTTTT',0,0,0,?)
+00:03:31 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:03:31 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:04:25 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:04:25 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:05:31 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TTTTTTTTTT',0,0,0,?)
+00:05:31 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:05:31 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:05:51 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:05:51 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:05:57 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TTTTTTTTTT',0,0,0,?)
+00:05:57 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:05:57 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:06:59 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:06:59 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:07:23 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TTTTTTTTTT',0,0,0,?)
+00:07:23 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:07:23 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:08:11 [ServerManager][0] DelServer (127.0.0.1)
+00:08:49 [ServerManager][0] AddServer (127.0.0.1)
+00:08:49 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+00:09:02 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:09:02 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:09:23 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TTTTTTTTTT',0,0,0,?)
+00:09:23 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:09:23 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:11:40 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:11:40 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:12:09 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TTTTTTTTTT',0,0,0,?)
+00:12:09 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:12:09 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:12:10 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:12:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:12:46 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TTTTTTTTTT',0,0,0,?)
+00:12:46 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:12:46 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:12:50 [ServerManager][0] DelServer (127.0.0.1)
+00:13:11 [ServerManager][0] AddServer (127.0.0.1)
+00:13:11 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+00:13:22 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:13:22 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:13:41 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TTTTTTTTTT',0,0,0,?)
+00:13:41 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:13:41 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:14:24 [ServerManager][0] DelServer (127.0.0.1)
+00:15:07 [ServerManager][0] AddServer (127.0.0.1)
+00:15:07 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+00:15:20 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:15:20 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:16:27 [ServerManager][0] DelServer (127.0.0.1)
+00:16:50 [ServerManager][0] AddServer (127.0.0.1)
+00:16:50 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+00:16:57 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:16:57 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:20:12 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TTTTTTTTTT',0,0,0,?)
+00:20:12 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:20:12 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:20:22 [ServerManager][0] DelServer (127.0.0.1)
+00:21:05 [ServerManager][0] AddServer (127.0.0.1)
+00:21:05 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+00:21:13 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:21:13 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:23:04 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:23:04 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:23:06 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:23:06 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:23:08 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:23:08 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:23:32 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:23:32 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:23:33 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:23:33 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:23:36 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:23:36 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:23:40 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:23:40 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:24:11 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:24:11 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:26:51 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TTTTTTTTTT',0,0,0,?)
+00:26:51 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:26:51 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:27:09 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:27:09 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:29:01 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TTTTTTTTTT',0,0,0,?)
+00:29:01 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:29:01 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:29:09 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:29:09 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:29:18 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:29:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:29:41 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:29:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:31:42 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:31:42 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:31:55 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:31:55 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:34:13 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:34:13 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:34:15 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:34:15 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:34:17 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:34:17 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:34:18 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:34:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:31 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:31 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:40 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:40 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:40 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:40 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:41 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:41 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:41 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:41 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:41 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:41 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:41 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:41 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:42 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:42 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:42 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:42 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:42 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:42 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:42 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:42 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:42 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:42 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:42 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:42 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:42 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:42 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:35:43 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:35:43 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:36:00 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TTTTTTTTTT',0,0,0,?)
+00:36:00 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:36:00 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:36:57 [ServerManager][0] DelServer (127.0.0.1)
+00:41:12 [ServerManager][0] AddServer (127.0.0.1)
+00:41:12 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+00:41:23 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:41:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:42:16 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TTTTTTTTTT',0,0,0,?)
+00:42:16 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:42:16 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:42:25 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:42:25 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:42:32 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TTTTTTTTTT',0,0,0,?)
+00:42:32 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:42:32 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:43:26 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:43:26 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:43:29 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TTTTTTTTTT',0,0,0,?)
+00:43:29 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:43:29 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:43:49 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:43:49 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:44:57 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TTTTTTTTTT',0,0,0,?)
+00:44:57 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:44:57 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:45:05 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:45:05 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:45:19 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:45:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:46:19 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+00:46:19 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:46:19 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:46:42 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:46:42 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:48:56 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+00:48:56 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:48:56 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:49:02 [ServerManager][0] DelServer (127.0.0.1)
+00:49:04 [ServerManager][1] AddServer (127.0.0.1)
+00:49:04 [ServerManager][1] ServerInfo (MUMexico) (55901) (0)
+00:49:44 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:49:44 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:50:39 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+00:50:39 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:50:39 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:50:57 [ServerManager][1] DelServer (127.0.0.1)
+00:51:16 [ServerManager][0] AddServer (127.0.0.1)
+00:51:16 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+00:51:25 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:51:25 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:51:55 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+00:51:55 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:51:55 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:52:21 [ServerManager][0] DelServer (127.0.0.1)
+00:52:44 [ServerManager][1] AddServer (127.0.0.1)
+00:52:44 [ServerManager][1] ServerInfo (MUMexico) (55901) (0)
+00:52:51 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:52:51 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:53:34 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+00:53:34 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:53:34 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:53:37 [ServerManager][1] DelServer (127.0.0.1)
+00:53:39 [ServerManager][0] AddServer (127.0.0.1)
+00:53:39 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+00:53:49 [ServerManager][0] DelServer (127.0.0.1)
+00:54:26 [ServerManager][1] AddServer (127.0.0.1)
+00:54:26 [ServerManager][1] ServerInfo (MUMexico) (55901) (0)
+00:54:33 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:54:33 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:55:12 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+00:55:12 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:55:12 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:55:28 [ServerManager][1] DelServer (127.0.0.1)
+00:55:30 [ServerManager][0] AddServer (127.0.0.1)
+00:55:30 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+00:55:37 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:55:37 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+00:56:57 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+00:56:57 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+00:56:57 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+00:57:19 [ServerManager][0] DelServer (127.0.0.1)
+00:59:17 [ServerManager][1] AddServer (127.0.0.1)
+00:59:17 [ServerManager][1] ServerInfo (MUMexico) (55901) (0)
+00:59:24 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+00:59:24 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+01:00:12 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+01:00:12 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+01:00:12 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+01:00:13 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+01:00:13 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+01:00:57 [ServerManager][1] DelServer (127.0.0.1)
+01:01:00 [ServerManager][0] AddServer (127.0.0.1)
+01:01:00 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+01:01:03 [ServerManager][0] DelServer (127.0.0.1)
+01:01:30 [ServerManager][1] AddServer (127.0.0.1)
+01:01:30 [ServerManager][1] ServerInfo (MUMexico) (55901) (0)
+01:04:03 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+01:04:03 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+01:06:25 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+01:06:25 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+01:06:25 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+01:06:43 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+01:06:43 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+01:06:53 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+01:06:53 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+01:06:53 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+01:07:26 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+01:07:26 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+01:07:29 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+01:07:29 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+01:07:29 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+01:08:30 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+01:08:30 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+01:08:33 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+01:08:33 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+01:08:33 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+01:08:57 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+01:08:57 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+01:08:58 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+01:08:58 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+01:08:58 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+01:09:20 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+01:09:20 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+01:09:22 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+01:09:22 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+01:09:22 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+01:09:36 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+01:09:36 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+01:10:55 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+01:10:55 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+01:10:55 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+10:43:18 [SocketManager] Server started at port [55960]
+10:43:26 [ServerManager][0] AddServer (127.0.0.1)
+10:43:26 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+10:44:03 [SocketManager] Server started at port [55960]
+10:44:10 [ServerManager][0] AddServer (127.0.0.1)
+10:44:10 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+10:44:24 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+10:44:24 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+10:45:05 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+10:45:05 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+10:45:05 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+10:45:15 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+10:45:15 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+10:45:19 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+10:45:19 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+10:45:19 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+10:46:18 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+10:46:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+10:46:49 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+10:46:49 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+10:46:49 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:15:02 [ServerManager][0] DelServer (127.0.0.1)
+11:18:25 [SocketManager] Server started at port [55960]
+11:39:40 [SocketManager] Server started at port [55960]
+11:39:47 [ServerManager][0] AddServer (127.0.0.1)
+11:39:47 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+11:40:50 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:40:50 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:41:01 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:41:01 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:41:01 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:41:48 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:41:48 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:42:00 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:42:00 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:42:00 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:42:48 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:42:48 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:43:43 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:43:43 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:43:43 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:44:10 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:44:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:44:22 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:44:22 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:44:22 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:45:02 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:45:02 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:45:43 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:45:43 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:45:43 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:46:02 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:46:02 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:46:20 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:46:20 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:46:20 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:46:31 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:46:31 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:47:14 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:47:14 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:47:14 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:47:22 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:47:22 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:47:29 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:47:29 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:47:29 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:47:42 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:47:42 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:47:44 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:47:44 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:47:44 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:47:59 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:47:59 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:48:02 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:48:02 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:48:02 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:48:14 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:48:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:48:42 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:48:42 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:48:42 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:48:43 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:48:43 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:48:51 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:48:51 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:48:51 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:48:56 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:48:56 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:49:11 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:49:11 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:49:11 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:49:36 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:49:36 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:57:08 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:57:08 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:57:08 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:57:18 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:57:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:57:54 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:57:54 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:57:54 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:58:09 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:58:09 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:58:20 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:58:20 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:58:20 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:58:38 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:58:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:58:40 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:58:40 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:58:40 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:58:53 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:58:53 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:59:04 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:59:04 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:59:04 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:59:16 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:59:16 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+11:59:18 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+11:59:18 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+11:59:18 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+11:59:29 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+11:59:29 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:01:33 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:01:33 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:01:33 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:01:41 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:01:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:01:46 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:01:46 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:01:46 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:01:58 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:01:58 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:02:03 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:02:03 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:02:03 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:02:15 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:02:15 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:02:22 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:02:22 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:02:22 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:03:03 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:03:03 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:04:47 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:04:47 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:04:47 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:04:58 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:04:58 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:07:17 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:07:17 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:07:17 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:07:26 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:07:26 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:12:19 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:12:19 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:12:19 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:12:28 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:12:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:12:42 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:12:42 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:12:42 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:15:17 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:15:17 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:15:23 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:15:23 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:15:23 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:15:36 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:15:36 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:15:47 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:15:47 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:15:47 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:15:59 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:15:59 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:16:11 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:16:11 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:16:11 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:16:23 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:16:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:16:41 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:16:41 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:16:41 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:16:55 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:16:55 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:17:02 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:17:02 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:17:02 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:17:25 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:17:25 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:17:37 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:17:37 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:17:37 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:18:00 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:18:00 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:18:10 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:18:10 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:18:10 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:18:24 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:18:24 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:18:45 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:18:45 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:18:45 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:18:54 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:18:54 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:18:57 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:18:57 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:18:57 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:19:11 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:19:11 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:19:15 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:19:15 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:19:15 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:19:38 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:19:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:19:46 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:19:46 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:19:46 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:20:09 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:20:09 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:20:16 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:20:16 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:20:16 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:20:27 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:20:27 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:20:32 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:20:32 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:20:32 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:20:45 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:20:45 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:20:47 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:20:47 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:20:47 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:21:27 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:21:27 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:21:29 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:21:29 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:21:29 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:21:49 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:21:49 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:21:51 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:21:51 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:21:51 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:23:19 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:23:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:23:28 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:23:28 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:23:28 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:23:41 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:23:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:23:47 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:23:47 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:23:47 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:24:00 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:24:00 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:24:09 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:24:09 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:24:09 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:24:22 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:24:22 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:24:33 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:24:33 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:24:33 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:26:21 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:26:21 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:26:26 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:26:26 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:26:26 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:27:17 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:27:17 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:27:41 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:27:41 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:27:41 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:28:43 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:28:43 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:29:34 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:29:34 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:29:34 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:29:35 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:29:35 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:29:46 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:29:46 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:30:00 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:30:00 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:30:00 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:30:01 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:30:01 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:30:45 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:30:45 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:31:23 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:31:23 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:31:23 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:31:36 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:31:36 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:31:41 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:31:41 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:31:41 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:31:52 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:31:52 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:36:07 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:36:07 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:36:07 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:36:34 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:36:34 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:40:54 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:40:54 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:40:54 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:41:10 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:41:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:41:17 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:41:17 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:41:17 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:41:42 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:41:42 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:41:47 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:41:47 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:41:47 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:44:23 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:44:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:44:57 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:44:57 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:44:57 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:45:10 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:45:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:45:12 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:45:12 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:45:12 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:45:35 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:45:35 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:45:38 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:45:38 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:45:38 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:45:54 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:45:54 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:45:56 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:45:56 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:45:56 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:46:07 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:46:07 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:46:11 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:46:11 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:46:11 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:46:21 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:46:21 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:46:36 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:46:36 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:46:36 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:46:48 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:46:48 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:49:55 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:49:55 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:49:55 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:50:02 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:50:02 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:57:01 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:57:01 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:57:01 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:57:10 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:57:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:57:49 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:57:49 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:57:49 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:58:05 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:58:05 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:58:30 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:58:30 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:58:30 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+12:58:38 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+12:58:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+12:58:49 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+12:58:49 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+12:58:49 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:23:28 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:23:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:24:19 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:24:19 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:24:19 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:24:38 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:24:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:25:12 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:25:12 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:25:12 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:25:27 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:25:27 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:26:01 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:26:01 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:26:01 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:26:14 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:26:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:28:12 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:28:12 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:28:12 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:28:23 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:28:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:28:36 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:28:36 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:28:36 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:29:18 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:29:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:30:04 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:30:04 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:30:04 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:30:15 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:30:15 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:30:46 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:30:46 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:30:46 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:30:54 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:30:54 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:31:02 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:31:02 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:31:02 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:31:45 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:31:45 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:31:56 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:31:56 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:31:56 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:32:48 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:32:48 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:32:58 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:32:58 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:32:58 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:36:12 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:36:12 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:36:16 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:36:16 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:36:16 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:38:08 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:38:08 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:38:10 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:38:10 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:38:10 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:38:36 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:38:36 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:38:49 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:38:49 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:38:49 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:41:15 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:41:15 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:41:17 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:41:17 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:41:17 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:41:30 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:41:30 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:41:32 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:41:32 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:41:32 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:42:49 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:42:49 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:43:16 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:43:16 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:43:16 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:43:47 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:43:47 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:43:49 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:43:49 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:43:49 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:43:59 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:43:59 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:44:01 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:44:01 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:44:01 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:44:26 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:44:26 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:44:30 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:44:30 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:44:30 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:44:47 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:44:47 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:45:35 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:45:35 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:45:35 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:46:24 INSERT INTO CashShopData (AccountID,WCoinC,WCoinP,GoblinPoint,Ruud) VALUES ('admin',0,0,0,0)
+13:46:24 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ruud'.
+13:48:15 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:48:15 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:48:15 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:58:19 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:58:19 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:58:19 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+13:59:43 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+13:59:43 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+13:59:43 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+14:00:13 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+14:00:13 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+14:00:13 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+14:02:04 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+14:02:04 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+14:02:04 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+14:20:23 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+14:20:23 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+14:20:23 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+14:22:52 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+14:22:52 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+14:22:52 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+14:28:52 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+14:28:52 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+14:28:52 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+14:37:13 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+14:37:13 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+14:37:13 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+14:39:42 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+14:39:42 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+14:39:42 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+14:39:58 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+14:39:58 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+14:39:58 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+14:40:20 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+14:40:20 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+14:40:20 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+14:40:42 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+14:40:42 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+14:40:42 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+14:41:03 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+14:41:03 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+14:41:03 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+14:41:27 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+14:41:27 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+14:41:27 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+14:42:23 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+14:42:23 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+14:42:23 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+14:44:35 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+14:44:35 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+14:44:35 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+14:45:51 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+14:45:51 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+14:45:51 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+14:56:04 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+14:56:04 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+14:56:04 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+15:06:05 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+15:06:05 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+15:06:05 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+15:09:07 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+15:09:07 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+15:09:07 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+15:09:20 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+15:09:20 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+15:09:20 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+15:19:56 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+15:19:56 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+15:19:56 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+15:26:16 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+15:26:16 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+15:26:16 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+15:30:37 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+15:30:37 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+15:30:37 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+15:43:13 [SocketManager] Server started at port [55960]
+15:43:20 [ServerManager][0] AddServer (127.0.0.1)
+15:43:20 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+15:45:21 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+15:45:21 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+15:45:21 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+15:45:50 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+15:45:50 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+15:45:50 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+15:47:33 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+15:47:33 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+15:47:33 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+15:49:16 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+15:49:16 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+15:49:16 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+15:49:54 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+15:49:54 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+15:49:54 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+15:50:13 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+15:50:13 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+15:50:13 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+15:52:01 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+15:52:01 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+15:52:01 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+15:52:58 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+15:52:58 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+15:52:58 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+15:54:50 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+15:54:50 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+15:54:50 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+15:55:35 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+15:55:35 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+15:55:35 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+15:56:54 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+15:56:54 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+15:56:54 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:00:10 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:00:10 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:00:10 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:32:01 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:32:01 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:32:01 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:32:39 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:32:39 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:32:39 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:34:15 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:34:15 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:34:15 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:34:28 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:34:28 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:34:28 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:35:35 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:35:35 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:35:35 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:37:59 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:37:59 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:37:59 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:38:40 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:38:40 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:38:40 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:39:27 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:39:27 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:39:27 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:39:59 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:39:59 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:39:59 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:41:06 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:41:06 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:41:06 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:41:26 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:41:26 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:41:26 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:41:48 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:41:48 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:41:48 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:42:25 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:42:25 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:42:25 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:43:36 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:43:36 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:43:36 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:43:57 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:43:57 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:43:57 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:44:40 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:44:40 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:44:40 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:45:19 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:45:19 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:45:19 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:54:17 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:54:17 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:54:17 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:55:28 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:55:28 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:55:28 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:55:41 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:55:41 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:55:41 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:56:30 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:56:30 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:56:30 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:57:06 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:57:06 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:57:06 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:58:00 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TTTTTTTTTT',0,0,0,?)
+16:58:00 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:58:00 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:58:54 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:58:54 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:58:54 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+16:59:19 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+16:59:19 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+16:59:19 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:03:27 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:03:27 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:03:27 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:03:41 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:03:41 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:03:41 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:04:40 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:04:40 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:04:40 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:05:09 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:05:09 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:05:09 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:05:37 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:05:37 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:05:37 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:05:52 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:05:52 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:05:52 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:06:15 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:06:15 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:06:15 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:06:37 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:06:37 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:06:37 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:06:57 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:06:57 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:06:57 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:07:19 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:07:19 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:07:19 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:07:55 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:07:55 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:07:55 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:08:26 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:08:26 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:08:26 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:08:38 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:08:38 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:08:38 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:09:08 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:09:08 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:09:08 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:11:56 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:11:56 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:11:56 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:12:29 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:12:29 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:12:29 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:18:59 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:18:59 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:18:59 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:19:46 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:19:46 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:19:46 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:20:23 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:20:23 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:20:23 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:21:33 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:21:33 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:21:33 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:22:57 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:22:57 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:22:57 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:23:45 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:23:45 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:23:45 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:26:01 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:26:01 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:26:01 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:27:01 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:27:01 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:27:01 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:29:39 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:29:39 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:29:39 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:30:11 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:30:11 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:30:11 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:33:05 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:33:05 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:33:05 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:33:24 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:33:24 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:33:24 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:33:46 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:33:46 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:33:46 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:34:14 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:34:14 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:34:14 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:34:37 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:34:37 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:34:37 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:35:04 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:35:04 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:35:04 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:35:21 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:35:21 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:35:21 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:35:37 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:35:37 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:35:37 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:36:50 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:36:50 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:36:50 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:37:05 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:37:05 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:37:05 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:37:32 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:37:32 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:37:32 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:37:52 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:37:52 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:37:52 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:38:06 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:38:06 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:38:06 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:39:38 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:39:38 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:39:38 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:40:12 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:40:12 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:40:12 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:40:51 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:40:51 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:40:51 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:41:10 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:41:10 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:41:10 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:41:34 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:41:34 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:41:34 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:42:04 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:42:04 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:42:04 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:42:25 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:42:25 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:42:25 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:42:44 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:42:44 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:42:44 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:43:08 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:43:08 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:43:08 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:43:35 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:43:35 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:43:35 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:45:46 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:45:46 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:45:46 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:46:57 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:46:57 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:46:57 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:48:53 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:48:53 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:48:53 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:49:47 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:49:47 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:49:47 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:52:56 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:52:56 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:52:56 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:53:09 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:53:09 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:53:09 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:53:31 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:53:31 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:53:31 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:53:47 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:53:47 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:53:47 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:54:27 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:54:27 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:54:27 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:54:50 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:54:50 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:54:50 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:55:12 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:55:12 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:55:12 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:56:05 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:56:05 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:56:05 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:56:34 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:56:34 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:56:34 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:57:04 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:57:04 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:57:04 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:57:22 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:57:22 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:57:22 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+17:58:29 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+17:58:29 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:58:29 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:00:03 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:00:03 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:00:03 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:00:20 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:00:20 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:00:20 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:01:18 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:01:18 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:01:18 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:02:15 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:02:15 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:02:15 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:03:33 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:03:33 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:03:33 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:04:03 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:04:03 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:04:03 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:04:27 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:04:27 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:04:27 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:04:42 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:04:42 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:04:42 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:05:02 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:05:02 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:05:02 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:05:20 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:05:20 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:05:20 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:05:36 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:05:36 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:05:36 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:05:50 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:05:50 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:05:50 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:06:22 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:06:22 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:06:22 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:16:34 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:16:34 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:16:34 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:26:34 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:26:34 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:26:34 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:28:39 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:28:39 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:28:39 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:32:05 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:32:05 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:32:05 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:33:33 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:33:33 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:33:33 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:34:08 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:34:08 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:34:08 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:34:27 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:34:27 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:34:27 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:34:56 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:34:56 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:34:56 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:35:15 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:35:15 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:35:15 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:37:06 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:37:06 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:37:06 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:46:33 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:46:33 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:46:33 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:50:16 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:50:16 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:50:16 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:54:23 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:54:23 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:54:23 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:55:58 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:55:58 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:55:58 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+18:56:47 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+18:56:47 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:56:47 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:02:54 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:02:54 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:02:54 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:03:28 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:03:28 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:03:28 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:03:57 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:03:57 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:03:57 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:08:44 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:08:44 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:08:44 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:11:57 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:11:57 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:11:57 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:16:54 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:16:54 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:16:54 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:20:59 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:20:59 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:20:59 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:22:01 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:22:01 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:22:01 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:27:31 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:27:31 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:27:31 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:27:37 [ServerManager][0] DelServer (127.0.0.1)
+19:27:58 [ServerManager][0] AddServer (127.0.0.1)
+19:27:58 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+19:30:14 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:30:14 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:30:14 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:37:04 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:37:04 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:37:04 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:42:40 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:42:40 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:42:40 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:43:39 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:43:39 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:43:39 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:45:37 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:45:37 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:45:37 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:50:13 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:50:13 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:50:13 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:56:34 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:56:34 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:56:34 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:57:04 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:57:04 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:57:04 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:57:32 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:57:32 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:57:32 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:57:59 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:57:59 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:57:59 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:59:35 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+19:59:35 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:59:35 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:04:56 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:04:56 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:04:56 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:05:31 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('TESTFAKE',0,0,0,?)
+20:05:31 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:05:31 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:06:38 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:06:38 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:06:38 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:08:00 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:08:00 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:08:00 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:11:29 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:11:29 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:11:29 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:14:53 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:14:53 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:14:53 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:16:31 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:16:31 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:16:31 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:17:28 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:17:28 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:17:28 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:18:59 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:18:59 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:18:59 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:23:31 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:23:31 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:23:31 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:24:11 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:24:11 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:24:11 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:26:15 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:26:15 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:26:15 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:26:45 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:26:45 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:26:45 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:27:39 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:27:39 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:27:39 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:28:01 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:28:01 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:28:01 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:31:55 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:31:55 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:31:55 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:33:40 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:33:40 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:33:40 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:47:56 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:47:56 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:47:56 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:50:14 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:50:14 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:50:14 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:51:15 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:51:15 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:51:15 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:51:37 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:51:37 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:51:37 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:51:55 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:51:55 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:51:55 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:53:56 [ServerManager][0] DelServer (127.0.0.1)
+20:54:15 [ServerManager][0] AddServer (127.0.0.1)
+20:54:15 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+20:54:42 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:54:42 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:54:42 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:58:47 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:58:47 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:58:47 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:58:57 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:58:57 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:58:57 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:59:57 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+20:59:57 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:59:57 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:08:42 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+21:08:42 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:08:42 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:13:09 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+21:13:09 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:13:09 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:20:50 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+21:20:50 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:20:50 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:23:37 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+21:23:37 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:23:37 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:24:27 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+21:24:27 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:24:27 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:25:57 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+21:25:57 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:25:57 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:26:57 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+21:26:57 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:26:57 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:28:22 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+21:28:22 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:28:22 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:31:08 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+21:31:08 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:31:08 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:48:22 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+21:48:22 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:48:22 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:55:05 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+21:55:05 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:55:05 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:05:56 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+22:05:56 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:05:56 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:13:59 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+22:13:59 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:13:59 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:16:21 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+22:16:21 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:16:21 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:20:07 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+22:20:07 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:20:07 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:21:26 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+22:21:26 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:21:26 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:22:24 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+22:22:24 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:22:24 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:24:22 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+22:24:22 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:24:22 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:33:20 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+22:33:20 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:33:20 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:42:29 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+22:42:29 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:42:29 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:44:11 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+22:44:11 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:44:11 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:48:50 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+22:48:50 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:48:50 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:49:44 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+22:49:44 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:49:44 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:52:14 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+22:52:14 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:52:14 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:54:37 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+22:54:37 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:54:37 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:01:42 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+23:01:42 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:01:42 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:03:08 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+23:03:08 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:03:08 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:03:57 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+23:03:57 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:03:57 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:07:15 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+23:07:15 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:07:15 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:07:50 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+23:07:50 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:07:50 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:08:51 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+23:08:51 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:08:51 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:09:38 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+23:09:38 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:09:38 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:10:30 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+23:10:30 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:10:30 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:11:23 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+23:11:23 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:11:23 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:11:46 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+23:11:46 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:11:46 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:12:13 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+23:12:13 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:12:13 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:18:42 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+23:18:42 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:18:42 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:19:26 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+23:19:26 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:19:26 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:22:38 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+23:22:38 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:22:38 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:35:38 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+23:35:38 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:35:38 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:53:15 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('Admin',0,0,0,?)
+23:53:15 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:53:15 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.

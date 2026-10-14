@@ -1,0 +1,14 @@
+04:18:22 [SocketManager] Server started at port [55970]
+04:18:27 [ServerManager][0] AddServer (127.0.0.1)
+04:18:27 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+04:21:56 EXEC WZ_DesblocAccount 'matan359'
+04:21:56 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'WZ_DesblocAccount'.
+04:22:18 EXEC WZ_DesblocAccount 'matan359'
+04:22:18 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'WZ_DesblocAccount'.
+04:23:04 [ServerManager][0] DelServer (127.0.0.1)
+04:24:16 [SocketManager] Server started at port [55970]
+04:24:23 [ServerManager][0] AddServer (127.0.0.1)
+04:24:23 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+09:11:08 [SocketManager] Server started at port [55970]
+09:11:17 [ServerManager][0] AddServer (127.0.0.1)
+09:11:17 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)

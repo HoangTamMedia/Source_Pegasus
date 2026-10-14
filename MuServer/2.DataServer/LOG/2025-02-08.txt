@@ -1,0 +1,118 @@
+17:56:16 [SocketManager] Server started at port [55960]
+17:56:44 [ServerManager][0] AddServer (127.0.0.1)
+17:56:44 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+18:18:11 [ServerManager][0] DelServer (127.0.0.1)
+18:18:34 [ServerManager][0] AddServer (127.0.0.1)
+18:18:34 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+18:33:25 Could not connect to database
+18:41:50 Could not connect to database
+18:43:23 [SocketManager] Server started at port [55960]
+18:49:11 [SocketManager] Server started at port [55960]
+18:49:14 [ServerManager][0] AddServer (127.0.0.1)
+18:49:14 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+18:52:17 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+18:52:17 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18:52:17 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:05:17 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+19:05:17 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:05:17 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:39:25 [SocketManager] Server started at port [55960]
+19:39:29 [ServerManager][0] AddServer (127.0.0.1)
+19:39:29 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+19:39:56 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+19:39:56 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:39:56 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:48:08 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+19:48:08 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:48:08 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+19:52:53 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+19:52:53 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+19:52:53 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:09:29 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+20:09:29 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:09:29 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:22:19 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+20:22:19 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:22:19 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:28:23 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+20:28:23 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:28:23 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:29:17 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+20:29:17 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:29:17 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+20:34:05 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+20:34:05 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20:34:05 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:19:37 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+21:19:37 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:19:37 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:22:22 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+21:22:22 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:22:22 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:28:15 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+21:28:15 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:28:15 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:36:14 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+21:36:14 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:36:14 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:41:21 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+21:41:21 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:41:21 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:43:32 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+21:43:32 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:43:32 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:47:34 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+21:47:34 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:47:34 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:50:15 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+21:50:15 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:50:15 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:50:36 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+21:50:36 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:50:36 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:52:06 UPDATE MasterSkillTree SET MasterLevel=2,MasterPoint=1849,MasterExperience=84130220,MasterSkill=? WHERE Name='KmmR'
+21:52:06 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:52:06 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:53:51 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+21:53:51 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:53:51 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+21:59:17 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+21:59:17 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+21:59:17 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:09:22 [SocketManager] Server started at port [55960]
+22:09:26 [ServerManager][0] AddServer (127.0.0.1)
+22:09:26 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+22:12:44 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+22:12:44 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:12:44 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:12:56 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='Teste3'
+22:12:56 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+22:12:58 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='Teste3'
+22:12:58 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+22:13:05 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+22:13:05 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:13:05 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:13:48 INSERT INTO MasterSkillTree (Name,MasterLevel,MasterPoint,MasterExperience,MasterSkill) VALUES ('312321321',0,0,0,?)
+22:13:48 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:13:48 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:15:03 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+22:15:03 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:15:03 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:37:00 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+22:37:00 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:37:00 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+22:41:50 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+22:41:50 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22:41:50 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:06:15 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+23:06:15 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:06:15 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:14:46 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+23:14:46 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:14:46 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:17:52 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+23:17:52 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:17:52 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+23:24:39 UPDATE MasterSkillTree SET MasterLevel=21,MasterPoint=21,MasterExperience=846093150,MasterSkill=? WHERE Name='LuisADM'
+23:24:39 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+23:24:39 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.

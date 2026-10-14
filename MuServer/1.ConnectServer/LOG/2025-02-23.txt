@@ -1,0 +1,16 @@
+14:50:04 [SocketManager] Server started at port [44405]
+14:50:04 [ServerList] ServerList loaded successfully
+14:50:15 [ServerList] JoinServer online
+14:50:18 [ServerList] GameServer online (MUMexico) (0)
+20:33:48 [SocketManager] Server started at port [44405]
+20:33:48 [ServerList] ServerList loaded successfully
+20:34:00 [ServerList] JoinServer online
+20:34:01 [ServerList] GameServer online (MUMexico) (0)
+23:14:59 [SocketManager] Server started at port [44405]
+23:14:59 [ServerList] ServerList loaded successfully
+23:15:11 [ServerList] JoinServer online
+23:15:12 [ServerList] GameServer online (MUMexico) (0)
+23:49:17 [SocketManager] Server started at port [44405]
+23:49:17 [ServerList] ServerList loaded successfully
+23:49:28 [ServerList] JoinServer online
+23:49:29 [ServerList] GameServer online (MUMexico) (0)

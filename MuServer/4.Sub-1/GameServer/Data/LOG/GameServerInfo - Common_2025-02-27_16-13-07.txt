@@ -1,0 +1,7 @@
+File: E:\Pegasus52\MuServer\4-GameServer\Data\GameServerInfo - Common.dat
+Saved at: 2025-02-27 16:13:07
+Changes:
+GuildCreateSwitch: 1	 -> 1
+AddExperienceRate_AL0: 5000 -> 6000
+MGCreateType: 0				 -> 0
+DLCreateType: 0		 -> 0

@@ -1,0 +1,449 @@
+04:18:14 [ServerInfo] CashShop loaded successfully
+04:18:14 [ServerInfo] ChaosMix loaded successfully
+04:18:14 [ServerInfo] Character loaded successfully
+04:18:14 [FakeOnline] Load Data OK
+04:18:14 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+04:18:14 [EventTime] [1] Size 4 
+04:18:14 [CustomItemBank] (1) Load 10 Item In List
+04:18:14 [ServerInfo] Custom loaded successfully
+04:18:14 [ServerInfo] Command loaded successfully
+04:18:14 [ServerInfo] Common loaded successfully
+04:18:14 [ Crywolf ] State (0) -> NONE
+04:18:14 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+04:18:14 [ServerInfo] Event loaded successfully
+04:18:14 [ServerInfo] EventItemBag loaded successfully
+04:18:14 [ServerInfo] Hack loaded successfully
+04:18:14 [ServerInfo] Item loaded successfully
+04:18:14 [ServerInfo] Monster loaded successfully
+04:18:14 [ServerInfo] Move loaded successfully
+04:18:14 [ServerInfo] Quest loaded successfully
+04:18:14 [ServerInfo] Shop loaded successfully
+04:18:14 [ServerInfo] Skill loaded successfully
+04:18:14 [ServerInfo] Util loaded successfully
+04:18:14 [ReadBotInfo] BotSystem loaded successfully
+04:21:55 [Obj][9000] AddClient (192.168.68.107)
+04:21:57 [Obj][9000] DelClient (192.168.68.107)
+04:22:17 [Obj][9000] AddClient (192.168.68.107)
+04:22:19 [Obj][9000] DelClient (192.168.68.107)
+04:24:12 [ServerInfo] CashShop loaded successfully
+04:24:12 [ServerInfo] ChaosMix loaded successfully
+04:24:12 [ServerInfo] Character loaded successfully
+04:24:12 [FakeOnline] Load Data OK
+04:24:12 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+04:24:12 [EventTime] [1] Size 4 
+04:24:12 [CustomItemBank] (1) Load 10 Item In List
+04:24:12 [ServerInfo] Custom loaded successfully
+04:24:12 [ServerInfo] Command loaded successfully
+04:24:12 [ServerInfo] Common loaded successfully
+04:24:12 [ Crywolf ] State (0) -> NONE
+04:24:12 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+04:24:12 [ServerInfo] Event loaded successfully
+04:24:12 [ServerInfo] EventItemBag loaded successfully
+04:24:12 [ServerInfo] Hack loaded successfully
+04:24:12 [ServerInfo] Item loaded successfully
+04:24:12 [ServerInfo] Monster loaded successfully
+04:24:12 [ServerInfo] Move loaded successfully
+04:24:12 [ServerInfo] Quest loaded successfully
+04:24:12 [ServerInfo] Shop loaded successfully
+04:24:12 [ServerInfo] Skill loaded successfully
+04:24:12 [ServerInfo] Util loaded successfully
+04:24:12 [ReadBotInfo] BotSystem loaded successfully
+04:24:20 [Obj][9000] AddClient (192.168.68.107)
+04:24:40 [Obj][9000] DelClient (192.168.68.107)
+04:26:23 [Obj][9000] AddClient (192.168.68.107)
+04:26:28 [Obj][9000] AddAccount (admin)
+04:26:52 [BotThuMua] (TK(admin)(NV(Phanh) Open
+04:30:24 [Obj][9000] LogOutCharacter (Phanh)
+04:30:24 [Obj][9000] LogOutCharacter ()
+04:30:41 [Obj][9000] LogOutCharacter (Phanh)
+04:30:41 [Obj][9000] LogOutCharacter ()
+04:30:41 [Obj][9000] DelAccount (admin)
+04:30:41 [Obj][9000] DelClient (192.168.68.107)
+04:31:37 [Obj][9000] AddClient (192.168.68.107)
+04:31:38 [Obj][9000] AddAccount (admin)
+04:32:13 [Obj][9000] LogOutCharacter (Phanh)
+04:32:13 [Obj][9000] LogOutCharacter ()
+04:32:13 [Obj][9000] DelAccount (admin)
+04:32:13 [Obj][9000] DelClient (192.168.68.107)
+04:36:01 [OnlineLoterry] No Winner
+04:47:11 [Obj][9000] AddClient (192.168.68.107)
+04:47:11 [Obj][9000] AddAccount (admin)
+04:56:58 [Obj][9001] AddClient (192.168.68.107)
+04:56:59 [Obj][9000] LogOutCharacter (Phanh)
+04:56:59 [Obj][9000] LogOutCharacter ()
+04:56:59 [Obj][9000] DelAccount (admin)
+04:56:59 [Obj][9000] DelClient (192.168.68.107)
+04:57:00 [Obj][9001] AddAccount (admin)
+04:57:03 [Obj][9001] DelAccount (admin)
+04:57:03 [Obj][9001] DelClient (192.168.68.107)
+05:00:57 [Obj][9000] AddClient (192.168.68.107)
+05:00:59 [Obj][9000] AddAccount (admin)
+05:04:28 [Obj][9000] LogOutCharacter (Phanh)
+05:04:28 [Obj][9000] LogOutCharacter ()
+05:04:28 [Obj][9000] DelAccount (admin)
+05:04:28 [Obj][9000] DelClient (192.168.68.107)
+05:10:00 [CustomQuiz] Start
+05:13:00 [CustomQuiz] Finish
+05:16:10 [Obj][9001] AddClient (192.168.68.107)
+05:16:11 [Obj][9001] AddAccount (admin)
+05:16:18 [Obj][9001] LogOutCharacter (Phanh)
+05:16:18 [Obj][9001] LogOutCharacter ()
+05:16:18 [Obj][9001] DelAccount (admin)
+05:16:18 [Obj][9001] DelClient (192.168.68.107)
+05:16:31 [Obj][9000] AddClient (192.168.68.107)
+05:16:32 [Obj][9000] AddAccount (admin)
+05:16:40 [Obj][9000] LogOutCharacter (Phanh)
+05:16:40 [Obj][9000] LogOutCharacter ()
+05:16:40 [Obj][9000] DelAccount (admin)
+05:16:40 [Obj][9000] DelClient (192.168.68.107)
+05:17:48 [Obj][9001] AddClient (192.168.68.107)
+05:17:49 [Obj][9001] AddAccount (admin)
+05:18:58 [Obj][9001] LogOutCharacter (Phanh)
+05:18:58 [Obj][9001] LogOutCharacter ()
+05:18:58 [Obj][9001] DelAccount (admin)
+05:18:58 [Obj][9001] DelClient (192.168.68.107)
+05:20:55 [Obj][9000] AddClient (192.168.68.107)
+05:20:56 [Obj][9000] AddAccount (admin)
+05:21:47 [Obj][9000] LogOutCharacter (Phanh)
+05:21:47 [Obj][9000] LogOutCharacter ()
+05:21:47 [Obj][9000] DelAccount (admin)
+05:21:47 [Obj][9000] DelClient (192.168.68.107)
+05:26:58 [Obj][9001] AddClient (192.168.68.107)
+05:26:59 [Obj][9001] AddAccount (admin)
+05:27:59 [Obj][9001] LogOutCharacter (Phanh)
+05:27:59 [Obj][9001] LogOutCharacter ()
+05:27:59 [Obj][9001] DelAccount (admin)
+05:27:59 [Obj][9001] DelClient (192.168.68.107)
+05:30:15 [Obj][9000] AddClient (192.168.68.107)
+05:30:16 [Obj][9000] AddAccount (admin)
+05:31:04 [Obj][9000] LogOutCharacter (Phanh)
+05:31:04 [Obj][9000] LogOutCharacter ()
+05:31:04 [Obj][9000] DelAccount (admin)
+05:31:04 [Obj][9000] DelClient (192.168.68.107)
+05:35:05 [Obj][9001] AddClient (192.168.68.107)
+05:35:05 [Obj][9001] AddAccount (admin)
+05:35:18 [Obj][9001] LogOutCharacter (Phanh)
+05:35:18 [Obj][9001] LogOutCharacter ()
+05:35:18 [Obj][9001] DelAccount (admin)
+05:35:18 [Obj][9001] DelClient (192.168.68.107)
+05:36:01 [OnlineLoterry] No Winner
+09:11:02 [ServerInfo] CashShop loaded successfully
+09:11:02 [ServerInfo] ChaosMix loaded successfully
+09:11:02 [ServerInfo] Character loaded successfully
+09:11:02 [FakeOnline] Load Data OK
+09:11:02 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+09:11:02 [EventTime] [1] Size 4 
+09:11:02 [CustomItemBank] (1) Load 10 Item In List
+09:11:02 [ServerInfo] Custom loaded successfully
+09:11:02 [ServerInfo] Command loaded successfully
+09:11:02 [ServerInfo] Common loaded successfully
+09:11:02 [ Crywolf ] State (0) -> NONE
+09:11:02 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:11:02 [ServerInfo] Event loaded successfully
+09:11:02 [ServerInfo] EventItemBag loaded successfully
+09:11:02 [ServerInfo] Hack loaded successfully
+09:11:02 [ServerInfo] Item loaded successfully
+09:11:03 [ServerInfo] Monster loaded successfully
+09:11:03 [ServerInfo] Move loaded successfully
+09:11:03 [ServerInfo] Quest loaded successfully
+09:11:03 [ServerInfo] Shop loaded successfully
+09:11:03 [ServerInfo] Skill loaded successfully
+09:11:03 [ServerInfo] Util loaded successfully
+09:11:03 [ReadBotInfo] BotSystem loaded successfully
+09:14:02 [Obj][9000] AddClient (192.168.68.107)
+09:14:26 [Obj][9000] DelClient (192.168.68.107)
+09:15:09 [Obj][9000] AddClient (192.168.68.107)
+09:15:42 [Obj][9000] DelClient (192.168.68.107)
+09:16:24 [Obj][9000] AddClient (192.168.68.107)
+09:16:24 [Obj][9000] AddAccount (admin)
+09:18:12 [Obj][9000] LogOutCharacter (Phanh)
+09:18:12 [Obj][9000] LogOutCharacter ()
+09:18:12 [Obj][9000] DelAccount (admin)
+09:18:12 [Obj][9000] DelClient (192.168.68.107)
+09:18:55 [Obj][9000] AddClient (192.168.68.107)
+09:18:55 [Obj][9000] AddAccount (admin)
+09:19:18 [Obj][9000] LogOutCharacter (Phanh)
+09:19:18 [Obj][9000] LogOutCharacter ()
+09:19:18 [Obj][9000] DelAccount (admin)
+09:19:18 [Obj][9000] DelClient (192.168.68.107)
+09:20:34 [Obj][9000] AddClient (192.168.68.107)
+09:20:35 [Obj][9000] AddAccount (admin)
+09:21:10 [Obj][9000] LogOutCharacter (Phanh)
+09:21:10 [Obj][9000] LogOutCharacter ()
+09:21:10 [Obj][9000] DelAccount (admin)
+09:21:10 [Obj][9000] DelClient (192.168.68.107)
+09:22:52 [Obj][9000] AddClient (192.168.68.107)
+09:22:52 [Obj][9000] AddAccount (admin)
+09:23:05 [Obj][9000] LogOutCharacter (Phanh)
+09:23:05 [Obj][9000] LogOutCharacter ()
+09:23:05 [Obj][9000] DelAccount (admin)
+09:23:05 [Obj][9000] DelClient (192.168.68.107)
+09:24:57 [Obj][9000] AddClient (192.168.68.107)
+09:24:57 [Obj][9000] AddAccount (admin)
+09:26:41 [Obj][9000] LogOutCharacter (Phanh)
+09:26:41 [Obj][9000] LogOutCharacter ()
+09:26:41 [Obj][9000] DelAccount (admin)
+09:26:41 [Obj][9000] DelClient (192.168.68.107)
+09:28:32 [Obj][9000] AddClient (192.168.68.107)
+09:28:33 [Obj][9000] AddAccount (admin)
+09:30:26 [Obj][9000] LogOutCharacter (Phanh)
+09:30:26 [Obj][9000] LogOutCharacter ()
+09:30:26 [Obj][9000] DelAccount (admin)
+09:30:26 [Obj][9000] DelClient (192.168.68.107)
+09:32:52 [Obj][9000] AddClient (192.168.68.107)
+09:32:52 [Obj][9000] AddAccount (admin)
+09:36:01 [OnlineLoterry] Add Member (Phanh)
+09:36:01 [OnlineLoterry] Winner (Phanh)
+09:36:01 [admin][Phanh] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+09:36:48 [Obj][9000] LogOutCharacter (Phanh)
+09:36:48 [Obj][9000] LogOutCharacter ()
+09:36:48 [Obj][9000] DelAccount (admin)
+09:36:48 [Obj][9000] DelClient (192.168.68.107)
+09:37:58 [Obj][9000] AddClient (192.168.68.107)
+09:37:58 [Obj][9000] AddAccount (admin)
+09:40:12 [Obj][9000] LogOutCharacter (Phanh)
+09:40:12 [Obj][9000] LogOutCharacter ()
+09:40:12 [Obj][9000] DelAccount (admin)
+09:40:12 [Obj][9000] DelClient (192.168.68.107)
+09:41:40 [Obj][9000] AddClient (192.168.68.107)
+09:41:40 [Obj][9000] AddAccount (admin)
+09:42:32 [Obj][9000] LogOutCharacter (Phanh)
+09:42:32 [Obj][9000] LogOutCharacter ()
+09:42:32 [Obj][9000] DelAccount (admin)
+09:42:32 [Obj][9000] DelClient (192.168.68.107)
+09:43:00 [Obj][9000] AddClient (192.168.68.107)
+09:43:00 [Obj][9000] AddAccount (admin)
+09:44:18 [Obj][9000] LogOutCharacter (Phanh)
+09:44:18 [Obj][9000] LogOutCharacter ()
+09:44:18 [Obj][9000] DelAccount (admin)
+09:44:18 [Obj][9000] DelClient (192.168.68.107)
+09:45:31 [Obj][9000] AddClient (192.168.68.107)
+09:45:31 [Obj][9000] AddAccount (admin)
+09:45:54 [Obj][9000] LogOutCharacter (Phanh)
+09:45:54 [Obj][9000] LogOutCharacter ()
+09:45:54 [Obj][9000] DelAccount (admin)
+09:45:54 [Obj][9000] DelClient (192.168.68.107)
+09:51:49 [Obj][9000] AddClient (192.168.68.107)
+09:51:49 [Obj][9000] AddAccount (admin)
+09:52:17 [Obj][9000] LogOutCharacter (Phanh)
+09:52:17 [Obj][9000] LogOutCharacter ()
+09:52:17 [Obj][9000] DelAccount (admin)
+09:52:17 [Obj][9000] DelClient (192.168.68.107)
+09:52:29 [Obj][9000] AddClient (192.168.68.107)
+09:52:29 [Obj][9000] AddAccount (admin)
+09:54:41 [Obj][9000] LogOutCharacter (Phanh)
+09:54:41 [Obj][9000] LogOutCharacter ()
+09:54:41 [Obj][9000] DelAccount (admin)
+09:54:41 [Obj][9000] DelClient (192.168.68.107)
+09:55:02 [Obj][9000] AddClient (192.168.68.107)
+09:55:03 [Obj][9000] AddAccount (admin)
+09:55:56 [Obj][9000] LogOutCharacter (Phanh)
+09:55:56 [Obj][9000] LogOutCharacter ()
+09:55:56 [Obj][9000] DelAccount (admin)
+09:55:56 [Obj][9000] DelClient (192.168.68.107)
+09:56:18 [Obj][9000] AddClient (192.168.68.107)
+09:56:18 [Obj][9000] AddAccount (admin)
+09:57:42 [Obj][9000] LogOutCharacter (Phanh)
+09:57:42 [Obj][9000] LogOutCharacter ()
+09:57:42 [Obj][9000] DelAccount (admin)
+09:57:42 [Obj][9000] DelClient (192.168.68.107)
+09:58:08 [Obj][9000] AddClient (192.168.68.107)
+09:58:08 [Obj][9000] AddAccount (admin)
+09:59:43 [Obj][9000] LogOutCharacter (Phanh)
+09:59:43 [Obj][9000] LogOutCharacter ()
+09:59:43 [Obj][9000] DelAccount (admin)
+09:59:43 [Obj][9000] DelClient (192.168.68.107)
+10:00:07 [Obj][9000] AddClient (192.168.68.107)
+10:00:07 [Obj][9000] AddAccount (admin)
+10:03:08 [Obj][9000] LogOutCharacter (Phanh)
+10:03:08 [Obj][9000] LogOutCharacter ()
+10:03:29 [Obj][9000] LogOutCharacter (Admin)
+10:03:29 [Obj][9000] LogOutCharacter ()
+10:03:29 [Obj][9000] DelAccount (admin)
+10:03:29 [Obj][9000] DelClient (192.168.68.107)
+10:04:47 [Obj][9000] AddClient (192.168.68.107)
+10:04:48 [Obj][9000] AddAccount (admin)
+10:07:41 [Obj][9000] LogOutCharacter (Phanh)
+10:07:41 [Obj][9000] LogOutCharacter ()
+10:07:41 [Obj][9000] DelAccount (admin)
+10:07:41 [Obj][9000] DelClient (192.168.68.107)
+10:10:00 [CustomQuiz] Start
+10:11:11 [Obj][9000] AddClient (192.168.68.107)
+10:11:12 [Obj][9000] AddAccount (admin)
+10:11:54 [Obj][9000] LogOutCharacter (Phanh)
+10:11:54 [Obj][9000] LogOutCharacter ()
+10:11:54 [Obj][9000] DelAccount (admin)
+10:11:54 [Obj][9000] DelClient (192.168.68.107)
+10:13:00 [CustomQuiz] Finish
+10:19:36 [Obj][9000] AddClient (192.168.68.107)
+10:19:37 [Obj][9000] AddAccount (admin)
+10:20:11 [Obj][9000] LogOutCharacter (Phanh)
+10:20:11 [Obj][9000] LogOutCharacter ()
+10:20:11 [Obj][9000] DelAccount (admin)
+10:20:11 [Obj][9000] DelClient (192.168.68.107)
+10:30:20 [Obj][9000] AddClient (192.168.68.107)
+10:30:20 [Obj][9000] AddAccount (admin)
+10:30:52 [Obj][9000] LogOutCharacter (Phanh)
+10:30:52 [Obj][9000] LogOutCharacter ()
+10:30:52 [Obj][9000] DelAccount (admin)
+10:30:52 [Obj][9000] DelClient (192.168.68.107)
+10:34:43 [Obj][9000] AddClient (192.168.68.107)
+10:34:43 [Obj][9000] AddAccount (admin)
+10:34:53 [Obj][9000] LogOutCharacter (Phanh)
+10:34:53 [Obj][9000] LogOutCharacter ()
+10:34:53 [Obj][9000] DelAccount (admin)
+10:34:53 [Obj][9000] DelClient (192.168.68.107)
+10:36:01 [OnlineLoterry] No Winner
+10:42:46 [Obj][9000] AddClient (192.168.68.107)
+10:42:47 [Obj][9000] AddAccount (admin)
+10:43:07 [Obj][9000] LogOutCharacter (Phanh)
+10:43:07 [Obj][9000] LogOutCharacter ()
+10:43:07 [Obj][9000] DelAccount (admin)
+10:43:07 [Obj][9000] DelClient (192.168.68.107)
+10:49:14 [Obj][9000] AddClient (192.168.68.107)
+10:49:14 [Obj][9000] AddAccount (admin)
+10:49:45 [Obj][9000] LogOutCharacter (Phanh)
+10:49:45 [Obj][9000] LogOutCharacter ()
+10:49:45 [Obj][9000] DelAccount (admin)
+10:49:45 [Obj][9000] DelClient (192.168.68.107)
+11:04:50 [Obj][9000] AddClient (192.168.68.107)
+11:04:50 [Obj][9000] AddAccount (admin)
+11:05:26 [Obj][9000] LogOutCharacter (Phanh)
+11:05:26 [Obj][9000] LogOutCharacter ()
+11:05:26 [Obj][9000] DelAccount (admin)
+11:05:26 [Obj][9000] DelClient (192.168.68.107)
+11:09:00 [Obj][9000] AddClient (192.168.68.107)
+11:09:01 [Obj][9000] AddAccount (admin)
+11:10:00 [CustomQuiz] Start
+11:10:41 [Obj][9000] LogOutCharacter (Phanh)
+11:10:41 [Obj][9000] LogOutCharacter ()
+11:10:41 [Obj][9000] DelAccount (admin)
+11:10:41 [Obj][9000] DelClient (192.168.68.107)
+11:11:09 [Obj][9000] AddClient (192.168.68.107)
+11:11:09 [Obj][9000] AddAccount (admin)
+11:11:34 [Obj][9000] LogOutCharacter (Phanh)
+11:11:34 [Obj][9000] LogOutCharacter ()
+11:11:34 [Obj][9000] DelAccount (admin)
+11:11:34 [Obj][9000] DelClient (192.168.68.107)
+11:13:00 [CustomQuiz] Finish
+11:34:40 [Obj][9000] AddClient (192.168.68.107)
+11:34:41 [Obj][9000] AddAccount (admin)
+11:35:04 [Obj][9000] LogOutCharacter (Phanh)
+11:35:04 [Obj][9000] LogOutCharacter ()
+11:35:04 [Obj][9000] DelAccount (admin)
+11:35:04 [Obj][9000] DelClient (192.168.68.107)
+11:36:01 [OnlineLoterry] No Winner
+11:37:41 [Obj][9000] AddClient (192.168.68.107)
+11:37:41 [Obj][9000] AddAccount (admin)
+11:45:28 [Obj][9000] LogOutCharacter (Phanh)
+11:45:28 [Obj][9000] LogOutCharacter ()
+11:45:28 [Obj][9000] DelAccount (admin)
+11:45:28 [Obj][9000] DelClient (192.168.68.107)
+11:46:38 [Obj][9000] AddClient (192.168.68.107)
+11:46:38 [Obj][9000] AddAccount (admin)
+11:48:04 [Obj][9000] LogOutCharacter (Phanh)
+11:48:04 [Obj][9000] LogOutCharacter ()
+11:48:04 [Obj][9000] DelAccount (admin)
+11:48:04 [Obj][9000] DelClient (192.168.68.107)
+11:48:59 [Obj][9000] AddClient (192.168.68.107)
+11:48:59 [Obj][9000] AddAccount (admin)
+11:50:46 [Obj][9000] LogOutCharacter (Phanh)
+11:50:46 [Obj][9000] LogOutCharacter ()
+11:50:46 [Obj][9000] DelAccount (admin)
+11:50:46 [Obj][9000] DelClient (192.168.68.107)
+11:51:41 [Obj][9000] AddClient (192.168.68.107)
+11:51:42 [Obj][9000] AddAccount (admin)
+11:52:09 [Obj][9000] LogOutCharacter (Phanh)
+11:52:09 [Obj][9000] LogOutCharacter ()
+11:52:09 [Obj][9000] DelAccount (admin)
+11:52:09 [Obj][9000] DelClient (192.168.68.107)
+11:53:25 [Obj][9000] AddClient (192.168.68.107)
+11:53:26 [Obj][9000] AddAccount (admin)
+11:53:56 [Obj][9000] LogOutCharacter (Phanh)
+11:53:56 [Obj][9000] LogOutCharacter ()
+11:53:56 [Obj][9000] DelAccount (admin)
+11:53:56 [Obj][9000] DelClient (192.168.68.107)
+11:54:45 [Obj][9000] AddClient (192.168.68.107)
+11:54:45 [Obj][9000] AddAccount (admin)
+11:56:14 [Obj][9000] LogOutCharacter (Phanh)
+11:56:14 [Obj][9000] LogOutCharacter ()
+11:56:14 [Obj][9000] DelAccount (admin)
+11:56:14 [Obj][9000] DelClient (192.168.68.107)
+11:56:38 [Obj][9000] AddClient (192.168.68.107)
+11:56:39 [Obj][9000] AddAccount (admin)
+11:57:33 [Obj][9000] LogOutCharacter (Phanh)
+11:57:33 [Obj][9000] LogOutCharacter ()
+11:57:33 [Obj][9000] DelAccount (admin)
+11:57:33 [Obj][9000] DelClient (192.168.68.107)
+12:07:11 [Obj][9000] AddClient (192.168.68.107)
+12:07:12 [Obj][9000] AddAccount (admin)
+12:10:00 [CustomQuiz] Start
+12:10:21 [Obj][9000] LogOutCharacter (Phanh)
+12:10:21 [Obj][9000] LogOutCharacter ()
+12:10:21 [Obj][9000] DelAccount (admin)
+12:10:21 [Obj][9000] DelClient (192.168.68.107)
+12:10:47 [Obj][9000] AddClient (192.168.68.107)
+12:10:47 [Obj][9000] AddAccount (admin)
+12:13:00 [CustomQuiz] Finish
+12:13:33 [Obj][9000] LogOutCharacter (Phanh)
+12:13:33 [Obj][9000] LogOutCharacter ()
+12:13:33 [Obj][9000] DelAccount (admin)
+12:13:33 [Obj][9000] DelClient (192.168.68.107)
+12:13:55 [Obj][9000] AddClient (192.168.68.107)
+12:13:55 [Obj][9000] AddAccount (admin)
+12:17:20 [Obj][9000] LogOutCharacter (Phanh)
+12:17:20 [Obj][9000] LogOutCharacter ()
+12:17:20 [Obj][9000] DelAccount (admin)
+12:17:20 [Obj][9000] DelClient (192.168.68.107)
+12:17:46 [Obj][9000] AddClient (192.168.68.107)
+12:17:46 [Obj][9000] AddAccount (admin)
+12:24:14 [Obj][9000] LogOutCharacter (Phanh)
+12:24:14 [Obj][9000] LogOutCharacter ()
+12:24:14 [Obj][9000] DelAccount (admin)
+12:24:14 [Obj][9000] DelClient (192.168.68.107)
+12:25:20 [Obj][9000] AddClient (192.168.68.107)
+12:25:21 [Obj][9000] AddAccount (admin)
+12:26:22 [Obj][9000] LogOutCharacter (Phanh)
+12:26:22 [Obj][9000] LogOutCharacter ()
+12:26:22 [Obj][9000] DelAccount (admin)
+12:26:22 [Obj][9000] DelClient (192.168.68.107)
+12:26:33 [Obj][9000] AddClient (192.168.68.107)
+12:26:33 [Obj][9000] AddAccount (admin)
+12:27:21 [admin][Phanh] BuyVip (Level: 3)
+12:27:21 [admin][Phanh] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+12:27:36 [Obj][9000] LogOutCharacter (Phanh)
+12:27:36 [Obj][9000] LogOutCharacter ()
+12:27:36 [Obj][9000] DelAccount (admin)
+12:27:36 [Obj][9000] DelClient (192.168.68.107)
+12:29:23 [Obj][9000] AddClient (192.168.68.107)
+12:29:23 [Obj][9000] AddAccount (admin)
+12:31:00 [BotThuMua] (TK(admin)(NV(Phanh) Open
+12:33:44 [BotBuffer] CharName: Phanh - ADD_SKILL_MANA SecondSkillTime: 5
+12:33:44 [BotBuffer] CharName: Phanh - ADD_SKILL_MANA SecondSkillTime: 5
+12:33:46 [BotBuffer] CharName: Phanh - ADD_GREATER_DAMAGE SecondSkillTime: 5
+12:33:46 [BotBuffer] CharName: Phanh - ADD_SKILL_MANA SecondSkillTime: 5
+12:33:58 [Obj][9000] LogOutCharacter (Phanh)
+12:33:58 [Obj][9000] LogOutCharacter ()
+12:33:58 [Obj][9000] DelAccount (admin)
+12:33:58 [Obj][9000] DelClient (192.168.68.107)
+12:34:22 [Obj][9000] AddClient (192.168.68.107)
+12:34:22 [Obj][9000] AddAccount (admin)
+12:36:01 [OnlineLoterry] Add Member (Phanh)
+12:36:01 [OnlineLoterry] Winner (Phanh)
+12:36:01 [admin][Phanh] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+12:36:34 [Obj][9000] LogOutCharacter (Phanh)
+12:36:34 [Obj][9000] LogOutCharacter ()
+12:36:34 [Obj][9000] DelAccount (admin)
+12:36:34 [Obj][9000] DelClient (192.168.68.107)
+12:40:46 [Obj][9000] AddClient (192.168.68.107)
+12:40:46 [Obj][9000] AddAccount (admin)
+12:41:52 [Obj][9000] LogOutCharacter (Phanh)
+12:41:52 [Obj][9000] LogOutCharacter ()
+12:41:52 [Obj][9000] DelAccount (admin)
+12:41:52 [Obj][9000] DelClient (192.168.68.107)
+12:43:03 [Obj][9000] AddClient (192.168.68.107)
+12:43:03 [Obj][9000] AddAccount (admin)
+12:43:34 [Obj][9000] LogOutCharacter (Phanh)
+12:43:34 [Obj][9000] LogOutCharacter ()
+12:43:34 [Obj][9000] DelAccount (admin)
+12:43:34 [Obj][9000] DelClient (192.168.68.107)

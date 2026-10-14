@@ -1,0 +1,13 @@
+00:07:33 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='Ahihi'
+00:07:33 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+00:08:05 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='Ahihi'
+00:08:05 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+14:52:37 [SocketManager] Server started at port [55960]
+14:52:45 [ServerManager][0] AddServer (127.0.0.1)
+14:52:45 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+15:10:06 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='Ahihi'
+15:10:06 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+15:16:12 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='Ahihi'
+15:16:12 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+17:46:18 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='Ahihi'
+17:46:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.

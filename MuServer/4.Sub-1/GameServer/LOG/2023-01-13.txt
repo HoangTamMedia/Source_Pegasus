@@ -1,0 +1,276 @@
+20:43:28 [ServerInfo] CashShop loaded successfully
+20:43:28 [ServerInfo] ChaosMix loaded successfully
+20:43:28 [ServerInfo] Character loaded successfully
+20:43:28 [ServerInfo] Custom loaded successfully
+20:43:28 [ServerInfo] Command loaded successfully
+20:43:28 [ServerInfo] Common loaded successfully
+20:43:28 [ Crywolf ] State (0) -> NONE
+20:43:28 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+20:43:28 [ServerInfo] Event loaded successfully
+20:43:28 [ServerInfo] EventItemBag loaded successfully
+20:43:28 [ServerInfo] Hack loaded successfully
+20:43:28 [ServerInfo] Item loaded successfully
+20:43:28 [ServerInfo] Monster loaded successfully
+20:43:28 [ServerInfo] Move loaded successfully
+20:43:28 [ServerInfo] Quest loaded successfully
+20:43:28 [ServerInfo] Shop loaded successfully
+20:43:28 [ServerInfo] Skill loaded successfully
+20:43:28 [ServerInfo] Util loaded successfully
+20:43:28 [ReadBotInfo] BotSystem loaded successfully
+20:43:58 [Obj][9000] AddClient (192.168.2.200)
+20:44:00 [Obj][9000] AddAccount (redf0x)
+20:44:07 [Obj][9000] LogInCharacter (344444)
+20:44:21 [Obj][9000] LogOutCharacter (344444)
+20:44:21 [Obj][9000] LogOutCharacter ()
+20:44:21 [Obj][9000] DelAccount (redf0x)
+20:44:21 [Obj][9000] DelClient (192.168.2.200)
+20:45:59 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:45:59 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:47:46 [Obj][9000] AddClient (192.168.2.200)
+20:47:49 [Obj][9000] AddAccount (redf0x)
+20:47:51 [Obj][9000] LogInCharacter (344444)
+20:48:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:48:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 201 Y: 79)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 201 Y: 79)
+20:51:00 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:51:00 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:53:55 [ServerInfo] CashShop loaded successfully
+20:53:55 [ServerInfo] ChaosMix loaded successfully
+20:53:55 [ServerInfo] Character loaded successfully
+20:53:55 [ServerInfo] Custom loaded successfully
+20:53:55 [ServerInfo] Command loaded successfully
+20:53:55 [ServerInfo] Common loaded successfully
+20:53:55 [ Crywolf ] State (0) -> NONE
+20:53:55 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+20:53:55 [ServerInfo] Event loaded successfully
+20:53:55 [ServerInfo] EventItemBag loaded successfully
+20:53:55 [ServerInfo] Hack loaded successfully
+20:53:55 [ServerInfo] Item loaded successfully
+20:53:55 [ServerInfo] Monster loaded successfully
+20:53:55 [ServerInfo] Move loaded successfully
+20:53:55 [ServerInfo] Quest loaded successfully
+20:53:55 [ServerInfo] Shop loaded successfully
+20:53:55 [ServerInfo] Skill loaded successfully
+20:53:55 [ServerInfo] Util loaded successfully
+20:53:55 [ReadBotInfo] BotSystem loaded successfully
+20:54:10 [Obj][9000] AddClient (192.168.2.200)
+20:54:12 [Obj][9000] AddAccount (redf0x)
+20:54:15 [Obj][9000] LogInCharacter (2231111x)
+20:54:20 Send to DS
+20:54:28 Send to DS
+20:54:33 [Obj][9000] LogOutCharacter (2231111x)
+20:54:33 [Obj][9000] LogOutCharacter ()
+20:54:33 [Obj][9000] DelAccount (redf0x)
+20:54:33 [Obj][9000] DelClient (192.168.2.200)
+20:55:26 [Obj][9000] AddClient (192.168.2.200)
+20:55:29 [Obj][9000] AddAccount (redf0x)
+20:55:33 [Obj][9000] LogInCharacter (2231111x)
+20:55:35 Send to DS
+20:55:43 Send to DS
+20:55:46 [Obj][9000] LogOutCharacter (2231111x)
+20:55:46 [Obj][9000] LogOutCharacter ()
+20:55:46 [Obj][9000] DelAccount (redf0x)
+20:55:46 [Obj][9000] DelClient (192.168.2.200)
+20:56:26 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:56:26 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:58:56 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:58:56 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:59:09 [Obj][9000] AddClient (192.168.2.200)
+20:59:11 [Obj][9000] AddAccount (redf0x)
+20:59:13 [Obj][9000] LogInCharacter (2231111x)
+20:59:16 Send to DS
+20:59:22 Send to DS
+20:59:27 Send to DS
+20:59:31 [Obj][9000] LogOutCharacter (2231111x)
+20:59:31 [Obj][9000] LogOutCharacter ()
+20:59:31 [Obj][9000] DelAccount (redf0x)
+20:59:31 [Obj][9000] DelClient (192.168.2.200)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 159 Y: 14)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 159 Y: 14)
+21:01:12 [ServerInfo] CashShop loaded successfully
+21:01:12 [ServerInfo] ChaosMix loaded successfully
+21:01:12 [ServerInfo] Character loaded successfully
+21:01:12 [ServerInfo] Custom loaded successfully
+21:01:12 [ServerInfo] Command loaded successfully
+21:01:12 [ServerInfo] Common loaded successfully
+21:01:12 [ Crywolf ] State (0) -> NONE
+21:01:12 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+21:01:12 [ServerInfo] Event loaded successfully
+21:01:12 [ServerInfo] EventItemBag loaded successfully
+21:01:12 [ServerInfo] Hack loaded successfully
+21:01:12 [ServerInfo] Item loaded successfully
+21:01:13 [ServerInfo] Monster loaded successfully
+21:01:13 [ServerInfo] Move loaded successfully
+21:01:13 [ServerInfo] Quest loaded successfully
+21:01:13 [ServerInfo] Shop loaded successfully
+21:01:13 [ServerInfo] Skill loaded successfully
+21:01:13 [ServerInfo] Util loaded successfully
+21:01:13 [ReadBotInfo] BotSystem loaded successfully
+21:01:25 [Obj][9000] AddClient (192.168.2.200)
+21:01:28 [Obj][9000] AddAccount (redf0x)
+21:01:30 [Obj][9000] LogInCharacter (2231111x)
+21:01:32 Send to DS
+21:01:38 Send to DS
+21:01:41 [Obj][9000] LogOutCharacter (2231111x)
+21:01:41 [Obj][9000] LogOutCharacter ()
+21:01:41 [Obj][9000] DelAccount (redf0x)
+21:01:41 [Obj][9000] DelClient (192.168.2.200)
+21:02:47 [ServerInfo] CashShop loaded successfully
+21:02:48 [ServerInfo] ChaosMix loaded successfully
+21:02:48 [ServerInfo] Character loaded successfully
+21:02:48 [ServerInfo] Custom loaded successfully
+21:02:48 [ServerInfo] Command loaded successfully
+21:02:48 [ServerInfo] Common loaded successfully
+21:02:48 [ Crywolf ] State (0) -> NONE
+21:02:48 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+21:02:48 [ServerInfo] Event loaded successfully
+21:02:48 [ServerInfo] EventItemBag loaded successfully
+21:02:48 [ServerInfo] Hack loaded successfully
+21:02:48 [ServerInfo] Item loaded successfully
+21:02:48 [ServerInfo] Monster loaded successfully
+21:02:48 [ServerInfo] Move loaded successfully
+21:02:48 [ServerInfo] Quest loaded successfully
+21:02:48 [ServerInfo] Shop loaded successfully
+21:02:48 [ServerInfo] Skill loaded successfully
+21:02:48 [ServerInfo] Util loaded successfully
+21:02:48 [ReadBotInfo] BotSystem loaded successfully
+21:03:01 [Obj][9000] AddClient (192.168.2.200)
+21:03:03 [Obj][9000] AddAccount (redf0x)
+21:03:04 [Obj][9000] LogInCharacter (2231111x)
+21:03:07 Send to DS
+21:05:42 [ServerInfo] CashShop loaded successfully
+21:05:42 [ServerInfo] ChaosMix loaded successfully
+21:05:42 [ServerInfo] Character loaded successfully
+21:05:42 [ServerInfo] Custom loaded successfully
+21:05:42 [ServerInfo] Command loaded successfully
+21:05:42 [ServerInfo] Common loaded successfully
+21:05:42 [ Crywolf ] State (0) -> NONE
+21:05:42 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+21:05:42 [ServerInfo] Event loaded successfully
+21:05:42 [ServerInfo] EventItemBag loaded successfully
+21:05:42 [ServerInfo] Hack loaded successfully
+21:05:42 [ServerInfo] Item loaded successfully
+21:05:42 [ServerInfo] Monster loaded successfully
+21:05:42 [ServerInfo] Move loaded successfully
+21:05:42 [ServerInfo] Quest loaded successfully
+21:05:42 [ServerInfo] Shop loaded successfully
+21:05:42 [ServerInfo] Skill loaded successfully
+21:05:42 [ServerInfo] Util loaded successfully
+21:05:42 [ReadBotInfo] BotSystem loaded successfully
+21:05:52 [Obj][9000] AddClient (192.168.2.200)
+21:06:02 [Obj][9000] AddAccount (redf0x)
+21:06:02 [Obj][9000] LogInCharacter (2231111x)
+21:06:20 Send to DS
+21:07:46 [ServerInfo] CashShop loaded successfully
+21:07:47 [ServerInfo] ChaosMix loaded successfully
+21:07:47 [ServerInfo] Character loaded successfully
+21:07:47 [ServerInfo] Custom loaded successfully
+21:07:47 [ServerInfo] Command loaded successfully
+21:07:47 [ServerInfo] Common loaded successfully
+21:07:47 [ Crywolf ] State (0) -> NONE
+21:07:47 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+21:07:47 [ServerInfo] Event loaded successfully
+21:07:47 [ServerInfo] EventItemBag loaded successfully
+21:07:47 [ServerInfo] Hack loaded successfully
+21:07:47 [ServerInfo] Item loaded successfully
+21:07:47 [ServerInfo] Monster loaded successfully
+21:07:47 [ServerInfo] Move loaded successfully
+21:07:47 [ServerInfo] Quest loaded successfully
+21:07:47 [ServerInfo] Shop loaded successfully
+21:07:47 [ServerInfo] Skill loaded successfully
+21:07:47 [ServerInfo] Util loaded successfully
+21:07:47 [ReadBotInfo] BotSystem loaded successfully
+21:08:12 [Obj][9000] AddClient (192.168.2.200)
+21:08:22 [Obj][9000] AddAccount (redf0x)
+21:08:22 [Obj][9000] LogInCharacter (2231111x)
+21:08:31 Send to DS
+21:08:31 Send to CL 2231111x
+21:08:41 Send to DS
+21:08:41 Send to CL 2231111x
+21:08:46 [Obj][9000] LogOutCharacter (2231111x)
+21:08:46 [Obj][9000] LogOutCharacter ()
+21:08:46 [Obj][9000] DelAccount (redf0x)
+21:08:46 [Obj][9000] DelClient (192.168.2.200)
+21:10:00 [CustomQuiz] Start
+21:10:18 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:10:18 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:12:14 [Obj][9000] AddClient (192.168.2.200)
+21:12:17 [Obj][9000] AddAccount (redf0x)
+21:12:19 [Obj][9000] LogInCharacter (2231111x)
+21:12:22 Send to DS
+21:12:22 Send to CL 2231111x
+21:12:26 Send to DS
+21:12:26 Send to CL 2231111x
+21:12:32 Send to DS
+21:12:32 Send to CL 2231111x
+21:12:48 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:12:48 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:12:48 Send to DS
+21:12:48 Send to CL 2231111x
+21:12:56 Send to DS
+21:12:56 Send to CL 2231111x
+21:13:00 [CustomQuiz] Finish
+21:13:04 [Obj][9000] LogOutCharacter (2231111x)
+21:13:04 [Obj][9000] LogOutCharacter ()
+21:13:04 [Obj][9000] DelAccount (redf0x)
+21:13:04 [Obj][9000] DelClient (192.168.2.200)
+21:15:19 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:15:19 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:17:49 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:17:49 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:20:20 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:20:20 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:22:50 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:22:50 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:25:21 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:25:21 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:27:51 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:27:51 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:30:22 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:30:22 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:32:52 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:32:52 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:35:23 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:35:23 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:36:01 [OnlineLoterry] No Winner
+21:37:53 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:37:53 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:40:24 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:40:24 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:42:54 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:42:54 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:45:25 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:45:25 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:47:55 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:47:55 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:50:26 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:50:26 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:52:56 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:52:56 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:55:27 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:55:27 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:57:57 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:57:57 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:00:28 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:00:28 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:02:58 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:02:58 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:05:29 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:05:29 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:07:59 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:07:59 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:10:00 [CustomQuiz] Start
+22:10:30 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:10:30 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:13:00 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:13:00 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:13:00 [CustomQuiz] Finish
+22:15:31 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:15:31 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:18:01 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:18:01 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:20:32 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:20:32 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:23:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:23:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25

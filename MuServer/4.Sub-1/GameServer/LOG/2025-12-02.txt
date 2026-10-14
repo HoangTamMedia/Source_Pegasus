@@ -1,0 +1,752 @@
+17:50:45 [ServerInfo] CashShop loaded successfully
+17:50:45 [ServerInfo] ChaosMix loaded successfully
+17:50:45 [ServerInfo] Character loaded successfully
+17:50:45 [FakeOnline] Load Data OK
+17:50:45 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+17:50:45 [EventTime] [1] Size 4 
+17:50:45 [CustomItemBank] (1) Load 10 Item In List
+17:50:45 [ServerInfo] Custom loaded successfully
+17:50:45 [ServerInfo] Command loaded successfully
+17:50:45 [ServerInfo] Common loaded successfully
+17:50:45 [ Crywolf ] State (0) -> NONE
+17:50:45 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+17:50:45 [ServerInfo] Event loaded successfully
+17:50:45 [ServerInfo] EventItemBag loaded successfully
+17:50:45 [ServerInfo] Hack loaded successfully
+17:50:45 [ServerInfo] Item loaded successfully
+17:50:45 [ServerInfo] Monster loaded successfully
+17:50:45 [ServerInfo] Move loaded successfully
+17:50:45 [ServerInfo] Quest loaded successfully
+17:50:45 [ServerInfo] Shop loaded successfully
+17:50:45 [ServerInfo] Skill loaded successfully
+17:50:45 [ServerInfo] Util loaded successfully
+17:50:45 [ReadBotInfo] BotSystem loaded successfully
+18:10:00 [CustomQuiz] Start
+18:13:00 [CustomQuiz] Finish
+18:13:15 [Obj][9000] AddClient (192.168.1.227)
+18:13:49 [Obj][9000] DelClient (192.168.1.227)
+18:14:19 [Obj][9000] AddClient (192.168.1.227)
+18:14:23 [Obj][9000] AddAccount (test)
+18:14:40 [Obj][9000] LogOutCharacter (DarkMall)
+18:14:40 [Obj][9000] LogOutCharacter ()
+18:14:40 [Obj][9000] DelAccount (test)
+18:14:40 [Obj][9000] DelClient (192.168.1.227)
+18:14:54 [Obj][9000] AddClient (192.168.1.227)
+18:14:55 [Obj][9000] AddAccount (test)
+18:21:34 [Obj][9000] LogOutCharacter (DarkMall)
+18:21:34 [Obj][9000] LogOutCharacter ()
+18:21:34 [Obj][9000] DelAccount (test)
+18:21:34 [Obj][9000] DelClient (192.168.1.227)
+18:21:41 [Obj][9001] AddClient (192.168.1.227)
+18:21:45 [Obj][9001] AddAccount (test)
+18:22:07 [Obj][9001] LogOutCharacter (DarkMall)
+18:22:07 [Obj][9001] LogOutCharacter ()
+18:22:07 [Obj][9001] DelAccount (test)
+18:22:07 [Obj][9001] DelClient (192.168.1.227)
+18:36:01 [OnlineLoterry] No Winner
+18:43:43 [Obj][9000] AddClient (192.168.1.227)
+18:43:45 [Obj][9000] AddAccount (test)
+18:43:52 [Obj][9000] LogOutCharacter (DarkMall)
+18:43:52 [Obj][9000] LogOutCharacter ()
+18:43:52 [Obj][9000] DelAccount (test)
+18:43:52 [Obj][9000] DelClient (192.168.1.227)
+18:44:26 [Obj][9001] AddClient (192.168.1.227)
+18:44:28 [Obj][9001] AddAccount (test)
+18:44:33 [Obj][9001] LogOutCharacter (DarkMall)
+18:44:33 [Obj][9001] LogOutCharacter ()
+18:44:33 [Obj][9001] DelAccount (test)
+18:44:33 [Obj][9001] DelClient (192.168.1.227)
+18:46:34 [Obj][9000] AddClient (192.168.1.227)
+18:46:35 [Obj][9000] AddAccount (test)
+18:46:44 [Obj][9000] LogOutCharacter (DarkMall)
+18:46:44 [Obj][9000] LogOutCharacter ()
+18:46:44 [Obj][9000] DelAccount (test)
+18:46:44 [Obj][9000] DelClient (192.168.1.227)
+18:46:58 [Obj][9001] AddClient (192.168.1.227)
+18:46:59 [Obj][9001] AddAccount (test)
+19:06:48 [Obj][9001] LogOutCharacter (DarkMall)
+19:06:48 [Obj][9001] LogOutCharacter ()
+19:06:48 [Obj][9001] DelAccount (test)
+19:06:48 [Obj][9001] DelClient (192.168.1.227)
+19:07:16 [Obj][9000] AddClient (192.168.1.227)
+19:07:17 [Obj][9000] AddAccount (test)
+19:08:48 [Set Invasion Start] Index 0 At 19:10:00
+19:09:00 [Obj][9000] LogOutCharacter (DarkMall)
+19:09:00 [Obj][9000] LogOutCharacter ()
+19:09:00 [Obj][9000] DelAccount (test)
+19:09:00 [Obj][9000] DelClient (192.168.1.227)
+19:09:09 [Obj][9001] AddClient (192.168.1.227)
+19:09:10 [Obj][9001] AddAccount (test)
+19:09:16 [Obj][9001] LogOutCharacter (DarkMall)
+19:09:16 [Obj][9001] LogOutCharacter ()
+19:09:16 [Obj][9001] DelAccount (test)
+19:09:16 [Obj][9001] DelClient (192.168.1.227)
+19:09:21 [Obj][9000] AddClient (192.168.1.227)
+19:09:22 [Obj][9000] AddAccount (test)
+19:09:30 [Obj][9000] LogOutCharacter (DarkMall)
+19:09:30 [Obj][9000] LogOutCharacter ()
+19:09:30 [Obj][9000] DelAccount (test)
+19:09:30 [Obj][9000] DelClient (192.168.1.227)
+19:09:38 [Obj][9001] AddClient (192.168.1.227)
+19:09:40 [Obj][9001] AddAccount (test)
+19:09:47 [Obj][9001] LogOutCharacter (DarkMall)
+19:09:47 [Obj][9001] LogOutCharacter ()
+19:09:47 [Obj][9001] DelAccount (test)
+19:09:47 [Obj][9001] DelClient (192.168.1.227)
+19:09:54 [Obj][9000] AddClient (192.168.1.227)
+19:09:55 [Obj][9000] AddAccount (test)
+19:10:00 [CustomQuiz] Start
+19:10:01 [Obj][9000] LogOutCharacter (DarkMall)
+19:10:01 [Obj][9000] LogOutCharacter ()
+19:10:01 [Obj][9000] DelAccount (test)
+19:10:01 [Obj][9000] DelClient (192.168.1.227)
+19:11:08 [Obj][9001] AddClient (192.168.1.227)
+19:11:09 [Obj][9001] AddAccount (test)
+19:11:14 [Obj][9001] LogOutCharacter (DarkMall)
+19:11:14 [Obj][9001] LogOutCharacter ()
+19:11:14 [Obj][9001] DelAccount (test)
+19:11:14 [Obj][9001] DelClient (192.168.1.227)
+19:11:19 [Obj][9000] AddClient (192.168.1.227)
+19:11:19 [Obj][9000] AddAccount (test)
+19:11:37 [Obj][9000] LogOutCharacter (DarkMall)
+19:11:37 [Obj][9000] LogOutCharacter ()
+19:11:37 [Obj][9000] DelAccount (test)
+19:11:37 [Obj][9000] DelClient (192.168.1.227)
+19:13:00 [CustomQuiz] Finish
+19:26:21 [Obj][9001] AddClient (192.168.1.227)
+19:26:27 [Obj][9001] DelClient (192.168.1.227)
+19:27:16 [Obj][9000] AddClient (192.168.1.227)
+19:27:19 [Obj][9000] DelClient (192.168.1.227)
+19:30:23 [Obj][9001] AddClient (192.168.1.227)
+19:30:24 [Obj][9001] AddAccount (test)
+19:30:46 [Obj][9001] LogOutCharacter (DarkMall)
+19:30:46 [Obj][9001] LogOutCharacter ()
+19:30:46 [Obj][9001] DelAccount (test)
+19:30:46 [Obj][9001] DelClient (192.168.1.227)
+19:31:17 [Obj][9000] AddClient (192.168.1.227)
+19:31:18 [Obj][9000] AddAccount (test)
+19:31:23 [Obj][9000] LogOutCharacter (DarkMall)
+19:31:23 [Obj][9000] LogOutCharacter ()
+19:31:23 [Obj][9000] DelAccount (test)
+19:31:23 [Obj][9000] DelClient (192.168.1.227)
+19:36:01 [OnlineLoterry] No Winner
+19:38:03 [Obj][9001] AddClient (192.168.1.227)
+19:38:04 [Obj][9001] AddAccount (test)
+19:38:10 [Obj][9001] LogOutCharacter (DarkMall)
+19:38:10 [Obj][9001] LogOutCharacter ()
+19:38:10 [Obj][9001] DelAccount (test)
+19:38:10 [Obj][9001] DelClient (192.168.1.227)
+19:38:16 [Obj][9000] AddClient (192.168.1.227)
+19:38:17 [Obj][9000] AddAccount (test)
+19:38:23 [Obj][9000] LogOutCharacter (DarkMall)
+19:38:23 [Obj][9000] LogOutCharacter ()
+19:38:23 [Obj][9000] DelAccount (test)
+19:38:23 [Obj][9000] DelClient (192.168.1.227)
+19:38:39 [Obj][9001] AddClient (192.168.1.227)
+19:38:40 [Obj][9001] AddAccount (test)
+19:38:46 [Obj][9001] LogOutCharacter (DarkMall)
+19:38:46 [Obj][9001] LogOutCharacter ()
+19:38:46 [Obj][9001] DelAccount (test)
+19:38:46 [Obj][9001] DelClient (192.168.1.227)
+19:40:06 [Obj][9000] AddClient (192.168.1.227)
+19:40:07 [Obj][9000] AddAccount (test)
+19:40:12 [Obj][9000] LogOutCharacter (DarkMall)
+19:40:12 [Obj][9000] LogOutCharacter ()
+19:40:12 [Obj][9000] DelAccount (test)
+19:40:12 [Obj][9000] DelClient (192.168.1.227)
+19:53:32 [Obj][9001] AddClient (192.168.1.227)
+19:53:32 [Obj][9001] AddAccount (test)
+19:54:33 [Obj][9001] LogOutCharacter (DarkMall)
+19:54:33 [Obj][9001] LogOutCharacter ()
+19:54:33 [Obj][9001] DelAccount (test)
+19:54:33 [Obj][9001] DelClient (192.168.1.227)
+19:55:13 [Obj][9000] AddClient (192.168.1.227)
+19:55:14 [Obj][9000] AddAccount (test)
+19:55:24 [Obj][9000] LogOutCharacter (DarkMall)
+19:55:24 [Obj][9000] LogOutCharacter ()
+19:55:24 [Obj][9000] DelAccount (test)
+19:55:24 [Obj][9000] DelClient (192.168.1.227)
+19:55:36 [Obj][9001] AddClient (192.168.1.227)
+19:55:37 [Obj][9001] AddAccount (test)
+19:56:33 [Obj][9001] LogOutCharacter (DarkMall)
+19:56:33 [Obj][9001] LogOutCharacter ()
+19:57:38 [Obj][9001] LogOutCharacter (DarkMall)
+19:57:38 [Obj][9001] LogOutCharacter ()
+19:59:55 [Obj][9001] LogOutCharacter (DarkMall)
+19:59:55 [Obj][9001] LogOutCharacter ()
+20:02:51 [ServerInfo] CashShop loaded successfully
+20:02:51 [ServerInfo] ChaosMix loaded successfully
+20:02:51 [ServerInfo] Character loaded successfully
+20:02:51 [ServerInfo] Command loaded successfully
+20:02:51 [ServerInfo] Common loaded successfully
+20:02:51 [FakeOnline] Load Data OK
+20:02:51 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+20:02:51 [EventTime] [1] Size 4 
+20:02:51 [CustomItemBank] (1) Load 10 Item In List
+20:02:51 [ServerInfo] Custom loaded successfully
+20:02:51 [ Crywolf ] State (0) -> NONE
+20:02:51 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+20:02:51 [ServerInfo] Event loaded successfully
+20:02:51 [ServerInfo] EventItemBag loaded successfully
+20:02:51 [ServerInfo] Hack loaded successfully
+20:02:51 [ServerInfo] Monster loaded successfully
+20:02:51 [ServerInfo] Move loaded successfully
+20:02:51 [ServerInfo] Quest loaded successfully
+20:02:51 [ServerInfo] Shop loaded successfully
+20:02:51 [ServerInfo] Skill loaded successfully
+20:02:51 [ServerInfo] Util loaded successfully
+20:02:51 [ReadBotInfo] BotSystem loaded successfully
+20:05:06 [ServerInfo] CashShop loaded successfully
+20:05:06 [ServerInfo] ChaosMix loaded successfully
+20:05:06 [ServerInfo] Character loaded successfully
+20:05:06 [ServerInfo] Command loaded successfully
+20:05:06 [ServerInfo] Common loaded successfully
+20:05:06 [FakeOnline] Load Data OK
+20:05:06 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+20:05:06 [EventTime] [1] Size 4 
+20:05:06 [CustomItemBank] (1) Load 10 Item In List
+20:05:06 [ServerInfo] Custom loaded successfully
+20:05:06 [ Crywolf ] State (0) -> NONE
+20:05:06 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+20:05:06 [ServerInfo] Event loaded successfully
+20:05:06 [ServerInfo] EventItemBag loaded successfully
+20:05:06 [ServerInfo] Hack loaded successfully
+20:05:06 [ServerInfo] Monster loaded successfully
+20:05:06 [ServerInfo] Move loaded successfully
+20:05:06 [ServerInfo] Quest loaded successfully
+20:05:06 [ServerInfo] Shop loaded successfully
+20:05:06 [ServerInfo] Skill loaded successfully
+20:05:06 [ServerInfo] Util loaded successfully
+20:05:06 [ReadBotInfo] BotSystem loaded successfully
+20:06:19 [ServerInfo] CashShop loaded successfully
+20:06:19 [ServerInfo] ChaosMix loaded successfully
+20:06:19 [ServerInfo] Character loaded successfully
+20:06:19 [ServerInfo] Command loaded successfully
+20:06:19 [ServerInfo] Common loaded successfully
+20:06:19 [FakeOnline] Load Data OK
+20:06:19 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+20:06:19 [EventTime] [1] Size 4 
+20:06:19 [CustomItemBank] (1) Load 10 Item In List
+20:06:19 [ServerInfo] Custom loaded successfully
+20:06:19 [ Crywolf ] State (0) -> NONE
+20:06:19 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+20:06:19 [ServerInfo] Event loaded successfully
+20:06:19 [ServerInfo] EventItemBag loaded successfully
+20:06:19 [ServerInfo] Hack loaded successfully
+20:06:19 [ServerInfo] Monster loaded successfully
+20:06:19 [ServerInfo] Move loaded successfully
+20:06:19 [ServerInfo] Quest loaded successfully
+20:06:19 [ServerInfo] Shop loaded successfully
+20:06:19 [ServerInfo] Skill loaded successfully
+20:06:19 [ServerInfo] Util loaded successfully
+20:06:19 [ReadBotInfo] BotSystem loaded successfully
+20:10:00 [CustomQuiz] Start
+20:13:00 [CustomQuiz] Finish
+20:22:36 [Obj][9001] LogOutCharacter (DarkMall)
+20:22:36 [Obj][9001] LogOutCharacter ()
+20:22:36 [Obj][9001] DelAccount (test)
+20:22:36 [Obj][9001] DelClient (192.168.1.227)
+20:23:52 [ServerInfo] CashShop loaded successfully
+20:23:52 [ServerInfo] ChaosMix loaded successfully
+20:23:52 [ServerInfo] Character loaded successfully
+20:23:52 [FakeOnline] Load Data OK
+20:23:52 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+20:23:52 [EventTime] [1] Size 4 
+20:23:52 [CustomItemBank] (1) Load 10 Item In List
+20:23:52 [ServerInfo] Custom loaded successfully
+20:23:52 [ServerInfo] Command loaded successfully
+20:23:52 [ServerInfo] Common loaded successfully
+20:23:52 [ Crywolf ] State (0) -> NONE
+20:23:52 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+20:23:52 [ServerInfo] Event loaded successfully
+20:23:52 [ServerInfo] EventItemBag loaded successfully
+20:23:52 [ServerInfo] Hack loaded successfully
+20:23:52 [ServerInfo] Item loaded successfully
+20:23:52 [ServerInfo] Monster loaded successfully
+20:23:52 [ServerInfo] Move loaded successfully
+20:23:52 [ServerInfo] Quest loaded successfully
+20:23:52 [ServerInfo] Shop loaded successfully
+20:23:52 [ServerInfo] Skill loaded successfully
+20:23:52 [ServerInfo] Util loaded successfully
+20:23:52 [ReadBotInfo] BotSystem loaded successfully
+20:24:19 [Obj][9000] AddClient (192.168.1.227)
+20:24:20 [Obj][9000] AddAccount (test)
+20:24:28 [Obj][9000] LogOutCharacter (DarkMall)
+20:24:28 [Obj][9000] LogOutCharacter ()
+20:24:28 [Obj][9000] DelAccount (test)
+20:24:28 [Obj][9000] DelClient (192.168.1.227)
+20:24:46 [Obj][9000] AddClient (192.168.1.227)
+20:24:47 [Obj][9000] AddAccount (test)
+20:29:38 [Obj][9000] LogOutCharacter (DarkMall)
+20:29:38 [Obj][9000] LogOutCharacter ()
+20:29:38 [Obj][9000] DelAccount (test)
+20:29:38 [Obj][9000] DelClient (192.168.1.227)
+20:29:45 [ServerInfo] CashShop loaded successfully
+20:29:45 [ServerInfo] ChaosMix loaded successfully
+20:29:45 [ServerInfo] Character loaded successfully
+20:29:45 [FakeOnline] Load Data OK
+20:29:45 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+20:29:45 [EventTime] [1] Size 4 
+20:29:45 [CustomItemBank] (1) Load 10 Item In List
+20:29:45 [ServerInfo] Custom loaded successfully
+20:29:45 [ServerInfo] Command loaded successfully
+20:29:45 [ServerInfo] Common loaded successfully
+20:29:45 [ Crywolf ] State (0) -> NONE
+20:29:45 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+20:29:45 [ServerInfo] Event loaded successfully
+20:29:45 [ServerInfo] EventItemBag loaded successfully
+20:29:45 [ServerInfo] Hack loaded successfully
+20:29:45 [ServerInfo] Item loaded successfully
+20:29:45 [ServerInfo] Monster loaded successfully
+20:29:45 [ServerInfo] Move loaded successfully
+20:29:45 [ServerInfo] Quest loaded successfully
+20:29:45 [ServerInfo] Shop loaded successfully
+20:29:45 [ServerInfo] Skill loaded successfully
+20:29:45 [ServerInfo] Util loaded successfully
+20:29:45 [ReadBotInfo] BotSystem loaded successfully
+20:30:01 [Obj][9000] AddClient (192.168.1.227)
+20:30:02 [Obj][9000] AddAccount (test)
+20:36:01 [OnlineLoterry] No Winner
+20:36:49 [Obj][9000] LogOutCharacter (DarkMall)
+20:36:49 [Obj][9000] LogOutCharacter ()
+20:36:49 [Obj][9000] DelAccount (test)
+20:36:49 [Obj][9000] DelClient (192.168.1.227)
+20:41:15 [Obj][9000] AddClient (192.168.1.227)
+20:41:16 [Obj][9000] AddAccount (test)
+20:41:24 [Obj][9000] LogOutCharacter (DarkMall)
+20:41:24 [Obj][9000] LogOutCharacter ()
+20:41:24 [Obj][9000] DelAccount (test)
+20:41:24 [Obj][9000] DelClient (192.168.1.227)
+20:42:33 [Obj][9000] AddClient (192.168.1.227)
+20:42:33 [Obj][9000] AddAccount (test)
+20:45:17 [Obj][9000] LogOutCharacter (DarkMall)
+20:45:17 [Obj][9000] LogOutCharacter ()
+20:45:17 [Obj][9000] DelAccount (test)
+20:45:17 [Obj][9000] DelClient (192.168.1.227)
+20:45:53 [Obj][9000] AddClient (192.168.1.227)
+20:45:54 [Obj][9000] AddAccount (test)
+20:46:18 [Obj][9000] LogOutCharacter (DarkMall)
+20:46:18 [Obj][9000] LogOutCharacter ()
+20:46:18 [Obj][9000] DelAccount (test)
+20:46:18 [Obj][9000] DelClient (192.168.1.227)
+20:46:27 [Obj][9001] AddClient (192.168.1.227)
+20:46:28 [Obj][9001] AddAccount (test)
+20:53:31 [Obj][9001] LogOutCharacter (DarkMall)
+20:53:31 [Obj][9001] LogOutCharacter ()
+20:53:31 [Obj][9001] DelAccount (test)
+20:53:31 [Obj][9001] DelClient (192.168.1.227)
+20:53:43 [Obj][9000] AddClient (192.168.1.227)
+20:53:44 [Obj][9000] AddAccount (test)
+20:58:03 [Obj][9000] LogOutCharacter (DarkMall)
+20:58:03 [Obj][9000] LogOutCharacter ()
+20:58:03 [Obj][9000] DelAccount (test)
+20:58:03 [Obj][9000] DelClient (192.168.1.227)
+20:58:15 [Obj][9001] AddClient (192.168.1.227)
+20:58:15 [Obj][9001] AddAccount (test)
+20:59:55 [Obj][9001] LogOutCharacter (DarkMall)
+20:59:55 [Obj][9001] LogOutCharacter ()
+20:59:55 [Obj][9001] DelAccount (test)
+20:59:55 [Obj][9001] DelClient (192.168.1.227)
+21:00:04 [Obj][9000] AddClient (192.168.1.227)
+21:00:05 [Obj][9000] AddAccount (test)
+21:01:25 [Obj][9000] LogOutCharacter (DarkMall)
+21:01:25 [Obj][9000] LogOutCharacter ()
+21:01:25 [Obj][9000] DelAccount (test)
+21:01:25 [Obj][9000] DelClient (192.168.1.227)
+21:01:35 [Obj][9001] AddClient (192.168.1.227)
+21:01:36 [Obj][9001] AddAccount (test)
+21:02:24 [Obj][9001] LogOutCharacter (DarkMall)
+21:02:24 [Obj][9001] LogOutCharacter ()
+21:02:24 [Obj][9001] DelAccount (test)
+21:02:24 [Obj][9001] DelClient (192.168.1.227)
+21:02:34 [Obj][9000] AddClient (192.168.1.227)
+21:02:35 [Obj][9000] AddAccount (test)
+21:04:18 [Obj][9000] LogOutCharacter (DarkMall)
+21:04:18 [Obj][9000] LogOutCharacter ()
+21:04:18 [Obj][9000] DelAccount (test)
+21:04:18 [Obj][9000] DelClient (192.168.1.227)
+21:05:04 [Obj][9001] AddClient (192.168.1.227)
+21:05:04 [Obj][9001] AddAccount (test)
+21:10:00 [CustomQuiz] Start
+21:13:00 [CustomQuiz] Finish
+21:13:06 [Obj][9000] AddClient (192.168.1.227)
+21:13:12 [Obj][9000] AddAccount (test1)
+21:13:32 [Obj][9000] LogOutCharacter (Hilander)
+21:13:32 [Obj][9000] LogOutCharacter ()
+21:13:32 [Obj][9000] DelAccount (test1)
+21:13:32 [Obj][9000] DelClient (192.168.1.227)
+21:13:47 [Obj][9001] LogOutCharacter (DarkMall)
+21:13:47 [Obj][9001] LogOutCharacter ()
+21:13:47 [Obj][9001] DelAccount (test)
+21:13:47 [Obj][9001] DelClient (192.168.1.227)
+21:14:32 [Obj][9000] AddClient (192.168.1.227)
+21:14:32 [Obj][9001] AddClient (192.168.1.227)
+21:14:33 [Obj][9001] AddAccount (test1)
+21:14:34 [Obj][9001] DelAccount (test1)
+21:14:34 [Obj][9001] DelClient (192.168.1.227)
+21:14:35 [Obj][9000] AddAccount (test1)
+21:15:23 [Obj][9000] LogOutCharacter (Hilander)
+21:15:23 [Obj][9000] LogOutCharacter ()
+21:15:23 [Obj][9000] DelAccount (test1)
+21:15:23 [Obj][9000] DelClient (192.168.1.227)
+21:15:34 [Obj][9001] AddClient (192.168.1.227)
+21:15:35 [Obj][9001] AddAccount (test1)
+21:15:45 [Obj][9000] AddClient (192.168.1.227)
+21:15:47 [Obj][9000] AddAccount (test)
+21:17:37 [Obj][9000] LogOutCharacter (DarkMall)
+21:17:37 [Obj][9000] LogOutCharacter ()
+21:17:37 [Obj][9000] DelAccount (test)
+21:17:37 [Obj][9000] DelClient (192.168.1.227)
+21:17:39 [Obj][9001] LogOutCharacter (Hilander)
+21:17:39 [Obj][9001] LogOutCharacter ()
+21:17:39 [Obj][9001] DelAccount (test1)
+21:17:39 [Obj][9001] DelClient (192.168.1.227)
+21:17:48 [Obj][9000] AddClient (192.168.1.227)
+21:17:49 [Obj][9000] AddAccount (test)
+21:18:55 [Obj][9000] LogOutCharacter (DarkMall)
+21:18:55 [Obj][9000] LogOutCharacter ()
+21:18:55 [Obj][9000] DelAccount (test)
+21:18:55 [Obj][9000] DelClient (192.168.1.227)
+21:19:04 [Obj][9001] AddClient (192.168.1.227)
+21:19:05 [Obj][9001] AddAccount (test)
+21:19:11 [Obj][9001] LogOutCharacter (DarkMall)
+21:19:11 [Obj][9001] LogOutCharacter ()
+21:19:11 [Obj][9001] DelAccount (test)
+21:19:11 [Obj][9001] DelClient (192.168.1.227)
+21:20:35 [Obj][9000] AddClient (192.168.1.227)
+21:20:36 [Obj][9000] AddAccount (test)
+21:23:50 [Obj][9000] LogOutCharacter (DarkMall)
+21:23:50 [Obj][9000] LogOutCharacter ()
+21:23:50 [Obj][9000] DelAccount (test)
+21:23:50 [Obj][9000] DelClient (192.168.1.227)
+21:24:04 [Obj][9001] AddClient (192.168.1.227)
+21:24:05 [Obj][9001] AddAccount (test)
+21:25:43 [Obj][9001] LogOutCharacter (DarkMall)
+21:25:43 [Obj][9001] LogOutCharacter ()
+21:25:43 [Obj][9001] DelAccount (test)
+21:25:43 [Obj][9001] DelClient (192.168.1.227)
+21:26:05 [Obj][9000] AddClient (192.168.1.227)
+21:26:06 [Obj][9000] AddAccount (test)
+21:26:14 [Obj][9000] LogOutCharacter (DarkMall)
+21:26:14 [Obj][9000] LogOutCharacter ()
+21:26:14 [Obj][9000] DelAccount (test)
+21:26:14 [Obj][9000] DelClient (192.168.1.227)
+21:27:48 [Obj][9001] AddClient (192.168.1.227)
+21:27:49 [Obj][9001] AddAccount (test)
+21:29:20 [Obj][9001] LogOutCharacter (DarkMall)
+21:29:20 [Obj][9001] LogOutCharacter ()
+21:29:20 [Obj][9001] DelAccount (test)
+21:29:20 [Obj][9001] DelClient (192.168.1.227)
+21:29:31 [Obj][9000] AddClient (192.168.1.227)
+21:29:31 [Obj][9000] AddAccount (test)
+21:30:44 [Obj][9000] LogOutCharacter (DarkMall)
+21:30:44 [Obj][9000] LogOutCharacter ()
+21:30:44 [Obj][9000] DelAccount (test)
+21:30:44 [Obj][9000] DelClient (192.168.1.227)
+21:30:55 [Obj][9001] AddClient (192.168.1.227)
+21:30:55 [Obj][9001] AddAccount (test)
+21:32:25 [Obj][9001] LogOutCharacter (DarkMall)
+21:32:25 [Obj][9001] LogOutCharacter ()
+21:32:25 [Obj][9001] DelAccount (test)
+21:32:25 [Obj][9001] DelClient (192.168.1.227)
+21:32:36 [Obj][9000] AddClient (192.168.1.227)
+21:32:36 [Obj][9000] AddAccount (test)
+21:36:01 [OnlineLoterry] Add Member (DarkMall)
+21:36:01 [OnlineLoterry] Winner (DarkMall)
+21:36:01 [test][DarkMall] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+21:49:28 [Obj][9000] LogOutCharacter (DarkMall)
+21:49:28 [Obj][9000] LogOutCharacter ()
+21:49:28 [Obj][9000] DelAccount (test)
+21:49:28 [Obj][9000] DelClient (192.168.1.227)
+21:49:39 [Obj][9001] AddClient (192.168.1.227)
+21:49:40 [Obj][9001] AddAccount (test)
+21:56:55 [ServerInfo] CashShop loaded successfully
+21:56:55 [ServerInfo] ChaosMix loaded successfully
+21:56:55 [ServerInfo] Character loaded successfully
+21:56:56 [ServerInfo] Command loaded successfully
+21:56:56 [ServerInfo] Common loaded successfully
+21:56:56 [FakeOnline] Load Data OK
+21:56:56 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+21:56:56 [EventTime] [1] Size 4 
+21:56:56 [CustomItemBank] (1) Load 10 Item In List
+21:56:56 [ServerInfo] Custom loaded successfully
+21:56:56 [ Crywolf ] State (0) -> NONE
+21:56:56 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+21:56:56 [ServerInfo] Event loaded successfully
+21:56:56 [ServerInfo] EventItemBag loaded successfully
+21:56:56 [ServerInfo] Hack loaded successfully
+21:56:56 [ServerInfo] Monster loaded successfully
+21:56:56 [ServerInfo] Move loaded successfully
+21:56:56 [ServerInfo] Quest loaded successfully
+21:56:56 [ServerInfo] Shop loaded successfully
+21:56:56 [ServerInfo] Skill loaded successfully
+21:56:56 [ServerInfo] Util loaded successfully
+21:56:56 [ReadBotInfo] BotSystem loaded successfully
+22:10:00 [CustomQuiz] Start
+22:12:59 [Obj][9001] LogOutCharacter (DarkMall)
+22:12:59 [Obj][9001] LogOutCharacter ()
+22:12:59 [Obj][9001] DelAccount (test)
+22:12:59 [Obj][9001] DelClient (192.168.1.227)
+22:13:00 [CustomQuiz] Finish
+22:13:01 [Obj][9000] AddClient (192.168.1.227)
+22:13:02 [Obj][9000] AddAccount (test)
+22:13:22 [Obj][9000] LogOutCharacter (Teste)
+22:13:22 [Obj][9000] LogOutCharacter ()
+22:13:50 [Obj][9000] LogOutCharacter (Abrer)
+22:13:50 [Obj][9000] LogOutCharacter ()
+22:23:04 [Obj][9000] LogOutCharacter (Ggast)
+22:23:04 [Obj][9000] LogOutCharacter ()
+22:23:04 [Obj][9000] DelAccount (test)
+22:23:04 [Obj][9000] DelClient (192.168.1.227)
+22:23:15 [Obj][9001] AddClient (192.168.1.227)
+22:23:15 [Obj][9001] AddAccount (test)
+22:24:13 [Obj][9001] LogOutCharacter (DarkMall)
+22:24:13 [Obj][9001] LogOutCharacter ()
+22:24:13 [Obj][9001] DelAccount (test)
+22:24:13 [Obj][9001] DelClient (192.168.1.227)
+22:24:23 [Obj][9000] AddClient (192.168.1.227)
+22:24:24 [Obj][9000] AddAccount (test)
+22:25:21 [Obj][9000] LogOutCharacter (DarkMall)
+22:25:21 [Obj][9000] LogOutCharacter ()
+22:25:21 [Obj][9000] DelAccount (test)
+22:25:21 [Obj][9000] DelClient (192.168.1.227)
+22:25:31 [Obj][9001] AddClient (192.168.1.227)
+22:25:31 [Obj][9001] AddAccount (test)
+22:27:55 [Obj][9001] LogOutCharacter (DarkMall)
+22:27:55 [Obj][9001] LogOutCharacter ()
+22:27:55 [Obj][9001] DelAccount (test)
+22:27:55 [Obj][9001] DelClient (192.168.1.227)
+22:28:10 [Obj][9000] AddClient (192.168.1.227)
+22:28:10 [Obj][9000] AddAccount (test)
+22:35:31 [Obj][9000] LogOutCharacter (DarkMall)
+22:35:31 [Obj][9000] LogOutCharacter ()
+22:35:31 [Obj][9000] DelAccount (test)
+22:35:31 [Obj][9000] DelClient (192.168.1.227)
+22:35:42 [Obj][9001] AddClient (192.168.1.227)
+22:35:43 [Obj][9001] AddAccount (test)
+22:36:01 [OnlineLoterry] No Winner
+22:36:18 [Obj][9001] LogOutCharacter (DarkMall)
+22:36:18 [Obj][9001] LogOutCharacter ()
+22:36:18 [Obj][9001] DelAccount (test)
+22:36:18 [Obj][9001] DelClient (192.168.1.227)
+22:36:29 [Obj][9000] AddClient (192.168.1.227)
+22:36:30 [Obj][9000] AddAccount (test)
+22:38:46 [Obj][9000] LogOutCharacter (Teste)
+22:38:46 [Obj][9000] LogOutCharacter ()
+22:38:46 [Obj][9000] DelAccount (test)
+22:38:46 [Obj][9000] DelClient (192.168.1.227)
+22:38:59 [Obj][9001] AddClient (192.168.1.227)
+22:39:00 [Obj][9001] AddAccount (test)
+22:39:06 [Obj][9001] DelAccount (test)
+22:39:06 [Obj][9001] DelClient (192.168.1.227)
+22:39:13 [Obj][9000] AddClient (192.168.1.227)
+22:39:14 [Obj][9000] AddAccount (test)
+22:39:24 [Obj][9000] DelAccount (test)
+22:39:24 [Obj][9000] DelClient (192.168.1.227)
+22:40:19 [Obj][9001] AddClient (192.168.1.227)
+22:40:20 [Obj][9001] AddAccount (test)
+22:40:28 [Obj][9001] LogOutCharacter (Teste)
+22:40:28 [Obj][9001] LogOutCharacter ()
+22:40:28 [Obj][9001] DelAccount (test)
+22:40:28 [Obj][9001] DelClient (192.168.1.227)
+22:40:49 [Obj][9000] AddClient (192.168.1.227)
+22:40:50 [Obj][9000] AddAccount (test)
+22:41:04 [Obj][9000] LogOutCharacter (DarkMall)
+22:41:04 [Obj][9000] LogOutCharacter ()
+22:41:04 [Obj][9000] DelAccount (test)
+22:41:04 [Obj][9000] DelClient (192.168.1.227)
+22:42:31 [Obj][9001] AddClient (192.168.1.227)
+22:42:32 [Obj][9001] AddAccount (test)
+22:43:56 [Obj][9001] LogOutCharacter (Teste)
+22:43:56 [Obj][9001] LogOutCharacter ()
+22:43:56 [Obj][9001] DelAccount (test)
+22:43:56 [Obj][9001] DelClient (192.168.1.227)
+22:45:49 [Obj][9000] AddClient (192.168.1.227)
+22:45:51 [Obj][9000] AddAccount (test)
+22:46:03 [Obj][9000] DelAccount (test)
+22:46:03 [Obj][9000] DelClient (192.168.1.227)
+22:46:20 [Obj][9001] AddClient (192.168.1.227)
+22:46:21 [Obj][9001] AddAccount (test)
+22:48:39 [Obj][9001] LogOutCharacter (Teste)
+22:48:39 [Obj][9001] LogOutCharacter ()
+22:48:39 [Obj][9001] DelAccount (test)
+22:48:39 [Obj][9001] DelClient (192.168.1.227)
+22:48:51 [Obj][9000] AddClient (192.168.1.227)
+22:48:52 [Obj][9000] AddAccount (test)
+22:52:12 [Obj][9000] LogOutCharacter (Teste)
+22:52:12 [Obj][9000] LogOutCharacter ()
+22:52:12 [Obj][9000] DelAccount (test)
+22:52:12 [Obj][9000] DelClient (192.168.1.227)
+22:52:22 [Obj][9001] AddClient (192.168.1.227)
+22:52:23 [Obj][9001] AddAccount (test)
+22:52:41 [Obj][9001] LogOutCharacter (Teste)
+22:52:41 [Obj][9001] LogOutCharacter ()
+22:52:41 [Obj][9001] DelAccount (test)
+22:52:41 [Obj][9001] DelClient (192.168.1.227)
+22:57:42 [Obj][9000] AddClient (192.168.1.227)
+22:57:43 [Obj][9000] AddAccount (test)
+22:57:50 [Obj][9000] LogOutCharacter (Teste)
+22:57:50 [Obj][9000] LogOutCharacter ()
+22:57:50 [Obj][9000] DelAccount (test)
+22:57:50 [Obj][9000] DelClient (192.168.1.227)
+22:59:56 [Obj][9001] AddClient (192.168.1.227)
+22:59:57 [Obj][9001] AddAccount (test)
+23:00:19 [Obj][9001] LogOutCharacter (DarkMall)
+23:00:19 [Obj][9001] LogOutCharacter ()
+23:00:19 [Obj][9001] DelAccount (test)
+23:00:19 [Obj][9001] DelClient (192.168.1.227)
+23:01:46 [Obj][9000] AddClient (192.168.1.227)
+23:01:47 [Obj][9000] AddAccount (test)
+23:02:38 [Obj][9000] LogOutCharacter (DarkMall)
+23:02:38 [Obj][9000] LogOutCharacter ()
+23:02:38 [Obj][9000] DelAccount (test)
+23:02:38 [Obj][9000] DelClient (192.168.1.227)
+23:02:46 [Obj][9001] AddClient (192.168.1.227)
+23:02:46 [Obj][9001] AddAccount (test)
+23:03:02 [Obj][9001] LogOutCharacter (Teste)
+23:03:02 [Obj][9001] LogOutCharacter ()
+23:03:02 [Obj][9001] DelAccount (test)
+23:03:02 [Obj][9001] DelClient (192.168.1.227)
+23:03:10 [Obj][9000] AddClient (192.168.1.227)
+23:03:10 [Obj][9000] AddAccount (test)
+23:03:16 [Obj][9000] DelAccount (test)
+23:03:16 [Obj][9000] DelClient (192.168.1.227)
+23:03:25 [Obj][9001] AddClient (192.168.1.227)
+23:03:25 [Obj][9001] AddAccount (test)
+23:03:37 [Obj][9001] LogOutCharacter (Abrer)
+23:03:37 [Obj][9001] LogOutCharacter ()
+23:03:39 [Obj][9001] DelAccount (test)
+23:03:39 [Obj][9001] DelClient (192.168.1.227)
+23:03:49 [Obj][9000] AddClient (192.168.1.227)
+23:03:50 [Obj][9000] AddAccount (test)
+23:04:01 [Obj][9000] LogOutCharacter (Teste)
+23:04:01 [Obj][9000] LogOutCharacter ()
+23:04:01 [Obj][9000] DelAccount (test)
+23:04:01 [Obj][9000] DelClient (192.168.1.227)
+23:04:08 [Obj][9001] AddClient (192.168.1.227)
+23:04:09 [Obj][9001] AddAccount (test)
+23:04:51 [Obj][9001] LogOutCharacter (Teste)
+23:04:51 [Obj][9001] LogOutCharacter ()
+23:04:51 [Obj][9001] DelAccount (test)
+23:04:51 [Obj][9001] DelClient (192.168.1.227)
+23:05:00 [Obj][9000] AddClient (192.168.1.227)
+23:05:01 [Obj][9000] AddAccount (test)
+23:05:08 [Obj][9000] LogOutCharacter (Teste)
+23:05:08 [Obj][9000] LogOutCharacter ()
+23:05:08 [Obj][9000] DelAccount (test)
+23:05:08 [Obj][9000] DelClient (192.168.1.227)
+23:05:26 [Obj][9001] AddClient (192.168.1.227)
+23:05:27 [Obj][9001] AddAccount (test)
+23:05:33 [Obj][9001] LogOutCharacter (DarkMall)
+23:05:33 [Obj][9001] LogOutCharacter ()
+23:05:33 [Obj][9001] DelAccount (test)
+23:05:33 [Obj][9001] DelClient (192.168.1.227)
+23:06:06 [Obj][9000] AddClient (192.168.1.227)
+23:06:07 [Obj][9000] AddAccount (test)
+23:06:40 [Obj][9000] LogOutCharacter (Teste)
+23:06:40 [Obj][9000] LogOutCharacter ()
+23:06:40 [Obj][9000] DelAccount (test)
+23:06:40 [Obj][9000] DelClient (192.168.1.227)
+23:06:49 [Obj][9001] AddClient (192.168.1.227)
+23:06:50 [Obj][9001] AddAccount (test)
+23:08:03 [Obj][9001] LogOutCharacter (Teste)
+23:08:03 [Obj][9001] LogOutCharacter ()
+23:08:03 [Obj][9001] DelAccount (test)
+23:08:03 [Obj][9001] DelClient (192.168.1.227)
+23:08:13 [Obj][9000] AddClient (192.168.1.227)
+23:08:14 [Obj][9000] AddAccount (test)
+23:08:24 [Obj][9000] LogOutCharacter (Teste)
+23:08:24 [Obj][9000] LogOutCharacter ()
+23:08:24 [Obj][9000] DelAccount (test)
+23:08:24 [Obj][9000] DelClient (192.168.1.227)
+23:08:39 [Obj][9001] AddClient (192.168.1.227)
+23:08:40 [Obj][9001] AddAccount (test)
+23:08:47 [Obj][9001] LogOutCharacter (Teste)
+23:08:47 [Obj][9001] LogOutCharacter ()
+23:08:47 [Obj][9001] DelAccount (test)
+23:08:47 [Obj][9001] DelClient (192.168.1.227)
+23:09:01 [Obj][9000] AddClient (192.168.1.227)
+23:09:02 [Obj][9000] AddAccount (test)
+23:09:10 [Obj][9000] LogOutCharacter (Teste)
+23:09:10 [Obj][9000] LogOutCharacter ()
+23:09:10 [Obj][9000] DelAccount (test)
+23:09:10 [Obj][9000] DelClient (192.168.1.227)
+23:09:25 [Obj][9001] AddClient (192.168.1.227)
+23:09:26 [Obj][9001] AddAccount (test)
+23:09:34 [Obj][9001] LogOutCharacter (Teste)
+23:09:34 [Obj][9001] LogOutCharacter ()
+23:09:34 [Obj][9001] DelAccount (test)
+23:09:34 [Obj][9001] DelClient (192.168.1.227)
+23:10:00 [Obj][9000] AddClient (192.168.1.227)
+23:10:00 [CustomQuiz] Start
+23:10:01 [Obj][9000] AddAccount (test)
+23:10:10 [Obj][9000] LogOutCharacter (Teste)
+23:10:10 [Obj][9000] LogOutCharacter ()
+23:10:10 [Obj][9000] DelAccount (test)
+23:10:10 [Obj][9000] DelClient (192.168.1.227)
+23:10:50 [Obj][9001] AddClient (192.168.1.227)
+23:10:50 [Obj][9001] AddAccount (test)
+23:11:03 [Obj][9001] LogOutCharacter (Teste)
+23:11:03 [Obj][9001] LogOutCharacter ()
+23:11:03 [Obj][9001] DelAccount (test)
+23:11:03 [Obj][9001] DelClient (192.168.1.227)
+23:12:03 [Obj][9000] AddClient (192.168.1.227)
+23:12:04 [Obj][9000] AddAccount (test)
+23:12:22 [test][Teste] BuyVip (Level: 1)
+23:12:22 [test][Teste] WZ_SetCoin(BuyVip) Val1: -10, Val2: 0, Val3: 0
+23:13:00 [CustomQuiz] Finish
+23:16:59 [Obj][9000] LogOutCharacter (Teste)
+23:16:59 [Obj][9000] LogOutCharacter ()
+23:16:59 [Obj][9000] DelAccount (test)
+23:16:59 [Obj][9000] DelClient (192.168.1.227)
+23:18:14 [Obj][9001] AddClient (192.168.1.227)
+23:18:15 [Obj][9001] AddAccount (test)
+23:18:28 [Obj][9001] LogOutCharacter (Teste)
+23:18:28 [Obj][9001] LogOutCharacter ()
+23:18:28 [Obj][9001] DelAccount (test)
+23:18:28 [Obj][9001] DelClient (192.168.1.227)
+23:18:35 [Obj][9000] AddClient (192.168.1.227)
+23:18:37 [Obj][9000] AddAccount (test)
+23:18:47 [Obj][9000] LogOutCharacter (Teste)
+23:18:47 [Obj][9000] LogOutCharacter ()
+23:18:47 [Obj][9000] DelAccount (test)
+23:18:47 [Obj][9000] DelClient (192.168.1.227)
+23:18:57 [Obj][9001] AddClient (192.168.1.227)
+23:18:57 [Obj][9001] AddAccount (test)
+23:19:05 [Obj][9001] LogOutCharacter (Teste)
+23:19:05 [Obj][9001] LogOutCharacter ()
+23:19:05 [Obj][9001] DelAccount (test)
+23:19:05 [Obj][9001] DelClient (192.168.1.227)
+23:19:12 [Obj][9000] AddClient (192.168.1.227)
+23:19:13 [Obj][9000] AddAccount (test)
+23:24:06 [Obj][9000] LogOutCharacter (Teste)
+23:24:06 [Obj][9000] LogOutCharacter ()
+23:24:06 [Obj][9000] DelAccount (test)
+23:24:06 [Obj][9000] DelClient (192.168.1.227)
+23:24:17 [Obj][9001] AddClient (192.168.1.227)
+23:24:18 [Obj][9001] AddAccount (test)
+23:34:03 [Obj][9001] LogOutCharacter (DarkMall)
+23:34:03 [Obj][9001] LogOutCharacter ()
+23:34:03 [Obj][9001] DelAccount (test)
+23:34:03 [Obj][9001] DelClient (192.168.1.227)
+23:36:01 [OnlineLoterry] No Winner
+23:40:39 [Obj][9000] AddClient (192.168.1.227)
+23:40:40 [Obj][9000] AddAccount (test)
+23:40:49 [Obj][9000] LogOutCharacter (Teste)
+23:40:49 [Obj][9000] LogOutCharacter ()
+23:48:14 [Obj][9000] LogOutCharacter (DarkMall)
+23:48:14 [Obj][9000] LogOutCharacter ()
+23:48:14 [Obj][9000] DelAccount (test)
+23:48:14 [Obj][9000] DelClient (192.168.1.227)
+23:48:22 [Obj][9001] AddClient (192.168.1.227)
+23:48:23 [Obj][9001] AddAccount (test)
+23:48:28 [Obj][9001] LogOutCharacter (Teste)
+23:48:28 [Obj][9001] LogOutCharacter ()
+23:48:28 [Obj][9001] DelAccount (test)
+23:48:28 [Obj][9001] DelClient (192.168.1.227)
+23:49:57 [Obj][9000] AddClient (192.168.1.227)
+23:49:58 [Obj][9000] AddAccount (test)
+23:58:34 [Obj][9000] LogOutCharacter (DarkMall)
+23:58:34 [Obj][9000] LogOutCharacter ()
+23:58:34 [Obj][9000] DelAccount (test)
+23:58:34 [Obj][9000] DelClient (192.168.1.227)

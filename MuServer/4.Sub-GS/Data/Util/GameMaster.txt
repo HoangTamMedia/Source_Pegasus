@@ -1,0 +1,4 @@
+//Account         Name         Level
+"test"	         "DarkMall"	     2
+"admin"	         "Phanh"	     2
+end

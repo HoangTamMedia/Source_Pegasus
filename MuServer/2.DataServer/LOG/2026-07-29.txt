@@ -1,0 +1,27 @@
+10:28:01 [SocketManager] Server started at port [55960]
+10:28:05 [ServerManager][0] AddServer (127.0.0.1)
+10:28:05 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+10:29:02 SELECT ExtInventory FROM AccountCharacter WHERE Id='admin'
+10:29:02 [QueryManager] State (24000), Diagnostic: [Microsoft][ODBC Driver Manager] Invalid cursor state
+10:29:02 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+10:29:02 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+10:32:37 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+10:32:37 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+10:43:03 SELECT ExtInventory FROM AccountCharacter WHERE Id='admin'
+10:43:03 [QueryManager] State (24000), Diagnostic: [Microsoft][ODBC Driver Manager] Invalid cursor state
+10:43:03 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+10:43:03 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+10:43:43 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+10:43:43 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+10:57:18 SELECT ExtInventory FROM AccountCharacter WHERE Id='admin'
+10:57:18 [QueryManager] State (24000), Diagnostic: [Microsoft][ODBC Driver Manager] Invalid cursor state
+10:57:18 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+10:57:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+10:57:55 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+10:57:55 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+11:46:58 SELECT ExtInventory FROM AccountCharacter WHERE Id='admin'
+11:46:58 [QueryManager] State (24000), Diagnostic: [Microsoft][ODBC Driver Manager] Invalid cursor state
+11:46:58 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+11:46:58 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+11:51:53 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+11:51:53 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.

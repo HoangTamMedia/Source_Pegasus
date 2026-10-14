@@ -1,0 +1,40 @@
+02:04:25 [SocketManager] Server started at port [44405]
+02:04:25 [ServerList] ServerList loaded successfully
+02:04:36 [ServerList] JoinServer online
+02:04:37 [ServerList] GameServer online (Pegasus-01) (0)
+02:12:36 [SocketManager] Server started at port [44405]
+02:12:36 [ServerList] ServerList loaded successfully
+02:12:47 [ServerList] JoinServer online
+02:12:49 [ServerList] GameServer online (Pegasus-01) (0)
+02:13:47 [SocketManager] Server started at port [44405]
+02:13:47 [ServerList] ServerList loaded successfully
+02:13:59 [ServerList] JoinServer online
+02:14:00 [ServerList] GameServer online (Pegasus-01) (0)
+02:23:42 [SocketManager] Server started at port [44405]
+02:23:42 [ServerList] ServerList loaded successfully
+02:23:54 [ServerList] JoinServer online
+02:23:55 [ServerList] GameServer online (Pegasus-01) (0)
+02:36:04 [SocketManager] Server started at port [44405]
+02:36:04 [ServerList] ServerList loaded successfully
+02:36:15 [ServerList] JoinServer online
+02:36:16 [ServerList] GameServer online (Pegasus-01) (0)
+02:49:17 [SocketManager] Server started at port [44405]
+02:49:17 [ServerList] ServerList loaded successfully
+02:49:29 [ServerList] JoinServer online
+02:49:30 [ServerList] GameServer online (Pegasus-01) (0)
+02:59:50 [SocketManager] Server started at port [44405]
+02:59:50 [ServerList] ServerList loaded successfully
+03:00:01 [ServerList] JoinServer online
+03:00:02 [ServerList] GameServer online (Pegasus-01) (0)
+03:05:04 [SocketManager] Server started at port [44405]
+03:05:04 [ServerList] ServerList loaded successfully
+03:05:15 [ServerList] JoinServer online
+03:05:17 [ServerList] GameServer online (Pegasus-01) (0)
+12:14:01 [SocketManager] Server started at port [44405]
+12:14:01 [ServerList] ServerList loaded successfully
+12:14:12 [ServerList] JoinServer online
+12:14:15 [ServerList] GameServer online (Pegasus-01) (0)
+15:49:29 [SocketManager] Server started at port [44405]
+15:49:29 [ServerList] ServerList loaded successfully
+15:49:40 [ServerList] JoinServer online
+15:49:42 [ServerList] GameServer online (Pegasus-01) (0)

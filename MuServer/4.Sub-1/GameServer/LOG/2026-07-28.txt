@@ -1,0 +1,573 @@
+05:15:50 [ServerInfo] CashShop loaded successfully
+05:15:50 [ServerInfo] ChaosMix loaded successfully
+05:15:50 [ServerInfo] Character loaded successfully
+05:16:02 [ServerInfo] CashShop loaded successfully
+05:16:02 [ServerInfo] ChaosMix loaded successfully
+05:16:02 [ServerInfo] Character loaded successfully
+05:18:44 [ServerInfo] CashShop loaded successfully
+05:18:44 [ServerInfo] ChaosMix loaded successfully
+05:18:44 [ServerInfo] Character loaded successfully
+05:19:46 [ServerInfo] CashShop loaded successfully
+05:19:46 [ServerInfo] ChaosMix loaded successfully
+05:19:46 [ServerInfo] Character loaded successfully
+05:20:08 [ServerInfo] CashShop loaded successfully
+05:20:08 [ServerInfo] ChaosMix loaded successfully
+05:20:08 [ServerInfo] Character loaded successfully
+05:20:12 [ServerInfo] CashShop loaded successfully
+05:20:12 [ServerInfo] ChaosMix loaded successfully
+05:20:12 [ServerInfo] Character loaded successfully
+05:20:38 [ServerInfo] CashShop loaded successfully
+05:20:38 [ServerInfo] ChaosMix loaded successfully
+05:20:38 [ServerInfo] Character loaded successfully
+05:20:38 [ServerInfo] Custom loaded successfully
+05:20:38 [ServerInfo] Command loaded successfully
+05:20:38 [ServerInfo] Common loaded successfully
+05:20:38 [ Crywolf ] State (0) -> NONE
+05:20:38 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:20:38 [ServerInfo] Event loaded successfully
+05:21:43 [ServerInfo] CashShop loaded successfully
+05:21:43 [ServerInfo] ChaosMix loaded successfully
+05:21:43 [ServerInfo] Character loaded successfully
+05:21:43 [ServerInfo] Custom loaded successfully
+05:21:43 [ServerInfo] Command loaded successfully
+05:21:43 [ServerInfo] Common loaded successfully
+05:21:43 [ Crywolf ] State (0) -> NONE
+05:21:43 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:21:43 [ServerInfo] Event loaded successfully
+05:24:21 [ServerInfo] CashShop loaded successfully
+05:24:21 [ServerInfo] ChaosMix loaded successfully
+05:24:21 [ServerInfo] Character loaded successfully
+05:24:21 [ServerInfo] Custom loaded successfully
+05:24:21 [ServerInfo] Command loaded successfully
+05:24:21 [ServerInfo] Common loaded successfully
+05:24:21 [ Crywolf ] State (0) -> NONE
+05:24:21 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:24:21 [ServerInfo] Event loaded successfully
+05:24:34 [ServerInfo] CashShop loaded successfully
+05:24:34 [ServerInfo] ChaosMix loaded successfully
+05:24:34 [ServerInfo] Character loaded successfully
+05:24:34 [ServerInfo] Custom loaded successfully
+05:24:34 [ServerInfo] Command loaded successfully
+05:24:34 [ServerInfo] Common loaded successfully
+05:24:34 [ Crywolf ] State (0) -> NONE
+05:24:34 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:24:34 [ServerInfo] Event loaded successfully
+05:25:05 [ServerInfo] CashShop loaded successfully
+05:25:05 [ServerInfo] ChaosMix loaded successfully
+05:25:05 [ServerInfo] Character loaded successfully
+05:25:05 [ServerInfo] Custom loaded successfully
+05:25:05 [ServerInfo] Command loaded successfully
+05:25:05 [ServerInfo] Common loaded successfully
+05:25:05 [ Crywolf ] State (0) -> NONE
+05:25:05 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:25:05 [ServerInfo] Event loaded successfully
+05:25:10 [ServerInfo] CashShop loaded successfully
+05:25:10 [ServerInfo] ChaosMix loaded successfully
+05:25:10 [ServerInfo] Character loaded successfully
+05:25:10 [ServerInfo] Custom loaded successfully
+05:25:10 [ServerInfo] Command loaded successfully
+05:25:10 [ServerInfo] Common loaded successfully
+05:25:10 [ Crywolf ] State (0) -> NONE
+05:25:10 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:25:10 [ServerInfo] Event loaded successfully
+05:25:24 [ServerInfo] CashShop loaded successfully
+05:25:24 [ServerInfo] ChaosMix loaded successfully
+05:25:24 [ServerInfo] Character loaded successfully
+05:25:24 [ServerInfo] Custom loaded successfully
+05:25:24 [ServerInfo] Command loaded successfully
+05:25:24 [ServerInfo] Common loaded successfully
+05:25:24 [ Crywolf ] State (0) -> NONE
+05:25:24 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:25:24 [ServerInfo] Event loaded successfully
+05:25:30 [ServerInfo] CashShop loaded successfully
+05:25:30 [ServerInfo] ChaosMix loaded successfully
+05:25:30 [ServerInfo] Character loaded successfully
+05:25:30 [ServerInfo] Custom loaded successfully
+05:25:30 [ServerInfo] Command loaded successfully
+05:25:30 [ServerInfo] Common loaded successfully
+05:25:30 [ Crywolf ] State (0) -> NONE
+05:25:30 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:25:30 [ServerInfo] Event loaded successfully
+05:25:44 [ServerInfo] CashShop loaded successfully
+05:25:44 [ServerInfo] ChaosMix loaded successfully
+05:25:44 [ServerInfo] Character loaded successfully
+05:25:44 [ServerInfo] Custom loaded successfully
+05:25:44 [ServerInfo] Command loaded successfully
+05:25:44 [ServerInfo] Common loaded successfully
+05:25:44 [ Crywolf ] State (0) -> NONE
+05:25:44 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:25:44 [ServerInfo] Event loaded successfully
+05:26:12 [ServerInfo] CashShop loaded successfully
+05:26:12 [ServerInfo] ChaosMix loaded successfully
+05:26:12 [ServerInfo] Character loaded successfully
+05:26:12 [ServerInfo] Custom loaded successfully
+05:26:12 [ServerInfo] Command loaded successfully
+05:26:12 [ServerInfo] Common loaded successfully
+05:26:12 [ Crywolf ] State (0) -> NONE
+05:26:12 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:26:12 [ServerInfo] Event loaded successfully
+05:27:36 [ServerInfo] CashShop loaded successfully
+05:27:36 [ServerInfo] ChaosMix loaded successfully
+05:27:36 [ServerInfo] Character loaded successfully
+05:27:36 [ServerInfo] Custom loaded successfully
+05:27:36 [ServerInfo] Command loaded successfully
+05:27:36 [ServerInfo] Common loaded successfully
+05:27:36 [ Crywolf ] State (0) -> NONE
+05:27:36 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:27:36 [ServerInfo] Event loaded successfully
+05:28:28 [ServerInfo] CashShop loaded successfully
+05:28:28 [ServerInfo] ChaosMix loaded successfully
+05:28:28 [ServerInfo] Character loaded successfully
+05:28:28 [ServerInfo] Custom loaded successfully
+05:28:28 [ServerInfo] Command loaded successfully
+05:28:28 [ServerInfo] Common loaded successfully
+05:28:28 [ Crywolf ] State (0) -> NONE
+05:28:28 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:28:28 [ServerInfo] Event loaded successfully
+05:28:43 [ServerInfo] CashShop loaded successfully
+05:28:43 [ServerInfo] ChaosMix loaded successfully
+05:28:43 [ServerInfo] Character loaded successfully
+05:28:43 [ServerInfo] Custom loaded successfully
+05:28:43 [ServerInfo] Command loaded successfully
+05:28:43 [ServerInfo] Common loaded successfully
+05:28:43 [ Crywolf ] State (0) -> NONE
+05:28:43 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:28:43 [ServerInfo] Event loaded successfully
+05:28:45 [ServerInfo] CashShop loaded successfully
+05:28:45 [ServerInfo] ChaosMix loaded successfully
+05:28:45 [ServerInfo] Character loaded successfully
+05:28:45 [ServerInfo] Custom loaded successfully
+05:28:45 [ServerInfo] Command loaded successfully
+05:28:45 [ServerInfo] Common loaded successfully
+05:28:45 [ Crywolf ] State (0) -> NONE
+05:28:45 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:28:45 [ServerInfo] Event loaded successfully
+05:28:57 [ServerInfo] CashShop loaded successfully
+05:28:57 [ServerInfo] ChaosMix loaded successfully
+05:28:57 [ServerInfo] Character loaded successfully
+05:28:57 [ServerInfo] Custom loaded successfully
+05:28:57 [ServerInfo] Command loaded successfully
+05:28:57 [ServerInfo] Common loaded successfully
+05:28:57 [ Crywolf ] State (0) -> NONE
+05:28:57 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:28:57 [ServerInfo] Event loaded successfully
+05:29:12 [ServerInfo] CashShop loaded successfully
+05:29:12 [ServerInfo] ChaosMix loaded successfully
+05:29:12 [ServerInfo] Character loaded successfully
+05:29:12 [ServerInfo] Custom loaded successfully
+05:29:12 [ServerInfo] Command loaded successfully
+05:29:12 [ServerInfo] Common loaded successfully
+05:29:12 [ Crywolf ] State (0) -> NONE
+05:29:12 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:29:12 [ServerInfo] Event loaded successfully
+05:29:26 [ServerInfo] CashShop loaded successfully
+05:29:26 [ServerInfo] ChaosMix loaded successfully
+05:29:26 [ServerInfo] Character loaded successfully
+05:29:26 [ServerInfo] Custom loaded successfully
+05:29:26 [ServerInfo] Command loaded successfully
+05:29:26 [ServerInfo] Common loaded successfully
+05:29:26 [ Crywolf ] State (0) -> NONE
+05:29:26 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:29:26 [ServerInfo] Event loaded successfully
+05:29:47 [ServerInfo] CashShop loaded successfully
+05:29:47 [ServerInfo] ChaosMix loaded successfully
+05:29:47 [ServerInfo] Character loaded successfully
+05:29:47 [ServerInfo] Custom loaded successfully
+05:29:47 [ServerInfo] Command loaded successfully
+05:29:47 [ServerInfo] Common loaded successfully
+05:29:47 [ Crywolf ] State (0) -> NONE
+05:29:47 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:29:47 [ServerInfo] Event loaded successfully
+05:30:06 [ServerInfo] CashShop loaded successfully
+05:30:06 [ServerInfo] ChaosMix loaded successfully
+05:30:06 [ServerInfo] Character loaded successfully
+05:30:06 [ServerInfo] Custom loaded successfully
+05:30:06 [ServerInfo] Command loaded successfully
+05:30:06 [ServerInfo] Common loaded successfully
+05:30:06 [ Crywolf ] State (0) -> NONE
+05:30:06 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:30:07 [ServerInfo] Event loaded successfully
+05:30:41 [ServerInfo] CashShop loaded successfully
+05:30:41 [ServerInfo] ChaosMix loaded successfully
+05:30:41 [ServerInfo] Character loaded successfully
+05:30:41 [FakeOnline] Load Data OK
+05:30:41 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+05:30:41 [EventTime] [1] Size 4 
+05:30:41 [CustomItemBank] (1) Load 10 Item In List
+05:30:41 [ServerInfo] Custom loaded successfully
+05:30:41 [ServerInfo] Command loaded successfully
+05:30:41 [ServerInfo] Common loaded successfully
+05:30:41 [ Crywolf ] State (0) -> NONE
+05:30:41 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:30:41 [ServerInfo] Event loaded successfully
+05:34:01 [ServerInfo] CashShop loaded successfully
+05:34:01 [ServerInfo] ChaosMix loaded successfully
+05:34:01 [ServerInfo] Character loaded successfully
+05:34:01 [FakeOnline] Load Data OK
+05:34:01 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+05:34:01 [EventTime] [1] Size 4 
+05:34:01 [CustomItemBank] (1) Load 10 Item In List
+05:34:01 [ServerInfo] Custom loaded successfully
+05:34:01 [ServerInfo] Command loaded successfully
+05:34:01 [ServerInfo] Common loaded successfully
+05:34:01 [ Crywolf ] State (0) -> NONE
+05:34:01 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:34:01 [ServerInfo] Event loaded successfully
+05:34:01 [ServerInfo] EventItemBag loaded successfully
+05:34:01 [ServerInfo] Hack loaded successfully
+05:34:01 [ServerInfo] Item loaded successfully
+05:34:01 [ServerInfo] Monster loaded successfully
+05:34:01 [ServerInfo] Move loaded successfully
+05:34:01 [ServerInfo] Quest loaded successfully
+05:34:01 [ServerInfo] Shop loaded successfully
+05:34:01 [ServerInfo] Skill loaded successfully
+05:34:01 [ServerInfo] Util loaded successfully
+05:34:01 [ReadBotInfo] BotSystem loaded successfully
+05:34:41 [Obj][9000] AddClient (192.168.68.104)
+05:34:41 [Obj][9000] AddAccount (admin)
+05:35:46 [Obj][9000] LogOutCharacter (Phanh)
+05:35:46 [Obj][9000] LogOutCharacter ()
+05:35:46 [Obj][9000] DelAccount (admin)
+05:35:46 [Obj][9000] DelClient (192.168.68.104)
+05:36:01 [OnlineLoterry] No Winner
+05:36:39 [ServerInfo] CashShop loaded successfully
+05:36:39 [ServerInfo] ChaosMix loaded successfully
+05:36:39 [ServerInfo] Character loaded successfully
+05:36:39 [FakeOnline] Load Data OK
+05:36:39 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+05:36:39 [EventTime] [1] Size 4 
+05:36:39 [CustomItemBank] (1) Load 10 Item In List
+05:36:39 [ServerInfo] Custom loaded successfully
+05:36:39 [ServerInfo] Command loaded successfully
+05:36:39 [ServerInfo] Common loaded successfully
+05:36:39 [ Crywolf ] State (0) -> NONE
+05:36:39 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:36:39 [ServerInfo] Event loaded successfully
+05:36:39 [ServerInfo] EventItemBag loaded successfully
+05:36:39 [ServerInfo] Hack loaded successfully
+05:36:39 [ServerInfo] Item loaded successfully
+05:36:39 [ServerInfo] Monster loaded successfully
+05:36:39 [ServerInfo] Move loaded successfully
+05:36:39 [ServerInfo] Quest loaded successfully
+05:36:39 [ServerInfo] Shop loaded successfully
+05:36:39 [ServerInfo] Skill loaded successfully
+05:36:39 [ServerInfo] Util loaded successfully
+05:36:39 [ReadBotInfo] BotSystem loaded successfully
+05:37:03 [ServerInfo] CashShop loaded successfully
+05:37:03 [ServerInfo] ChaosMix loaded successfully
+05:37:03 [ServerInfo] Character loaded successfully
+05:37:03 [FakeOnline] Load Data OK
+05:37:03 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+05:37:03 [EventTime] [1] Size 4 
+05:37:03 [CustomItemBank] (1) Load 10 Item In List
+05:37:03 [ServerInfo] Custom loaded successfully
+05:37:03 [ServerInfo] Command loaded successfully
+05:37:03 [ServerInfo] Common loaded successfully
+05:37:03 [ Crywolf ] State (0) -> NONE
+05:37:03 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:37:03 [ServerInfo] Event loaded successfully
+05:37:03 [ServerInfo] EventItemBag loaded successfully
+05:37:03 [ServerInfo] Hack loaded successfully
+05:37:03 [ServerInfo] Item loaded successfully
+05:37:03 [ServerInfo] Monster loaded successfully
+05:37:03 [ServerInfo] Move loaded successfully
+05:37:03 [ServerInfo] Quest loaded successfully
+05:37:03 [ServerInfo] Shop loaded successfully
+05:37:03 [ServerInfo] Skill loaded successfully
+05:37:03 [ServerInfo] Util loaded successfully
+05:37:03 [ReadBotInfo] BotSystem loaded successfully
+05:37:12 [Obj][9000] AddClient (192.168.68.104)
+05:37:23 [Obj][9000] DelClient (192.168.68.104)
+05:37:30 [ServerInfo] CashShop loaded successfully
+05:37:30 [ServerInfo] ChaosMix loaded successfully
+05:37:30 [ServerInfo] Character loaded successfully
+05:37:30 [FakeOnline] Load Data OK
+05:37:30 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+05:37:30 [EventTime] [1] Size 4 
+05:37:30 [CustomItemBank] (1) Load 10 Item In List
+05:37:30 [ServerInfo] Custom loaded successfully
+05:37:30 [ServerInfo] Command loaded successfully
+05:37:30 [ServerInfo] Common loaded successfully
+05:37:30 [ Crywolf ] State (0) -> NONE
+05:37:30 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:37:30 [ServerInfo] Event loaded successfully
+05:37:30 [ServerInfo] EventItemBag loaded successfully
+05:37:30 [ServerInfo] Hack loaded successfully
+05:37:30 [ServerInfo] Item loaded successfully
+05:37:30 [ServerInfo] Monster loaded successfully
+05:37:30 [ServerInfo] Move loaded successfully
+05:37:30 [ServerInfo] Quest loaded successfully
+05:37:30 [ServerInfo] Shop loaded successfully
+05:37:30 [ServerInfo] Skill loaded successfully
+05:37:30 [ServerInfo] Util loaded successfully
+05:37:30 [ReadBotInfo] BotSystem loaded successfully
+05:38:03 [Obj][9000] AddClient (192.168.68.104)
+05:38:04 [Obj][9000] AddAccount (admin)
+05:39:00 [Obj][9000] LogOutCharacter (Phanh)
+05:39:00 [Obj][9000] LogOutCharacter ()
+05:39:00 [Obj][9000] DelAccount (admin)
+05:39:00 [Obj][9000] DelClient (192.168.68.104)
+05:40:02 [Obj][9000] AddClient (192.168.68.104)
+05:40:02 [Obj][9000] AddAccount (admin)
+05:40:36 [admin][Phanh] BuyVip (Level: 3)
+05:40:36 [admin][Phanh] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+05:40:37 [admin][Phanh] BuyVip (Level: 3)
+05:40:37 [admin][Phanh] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+05:42:17 [Obj][9000] LogOutCharacter (Phanh)
+05:42:17 [Obj][9000] LogOutCharacter ()
+05:42:17 [Obj][9000] DelAccount (admin)
+05:42:17 [Obj][9000] DelClient (192.168.68.104)
+05:42:37 [Obj][9000] AddClient (127.0.0.1)
+05:42:37 [FakeOnline]  [TK: game NV: PegasusSM] Online
+05:42:37 [Obj][9000] AddAccount (game)
+05:42:41 [Obj][9001] AddClient (127.0.0.1)
+05:42:41 [FakeOnline]  [TK: game NV: PegasusSM] Online
+05:42:41 [Obj][9000] DelAccount (game)
+05:42:41 [Obj][9000] DelClient (127.0.0.1)
+05:43:45 [Obj][9000] AddClient (192.168.68.104)
+05:43:45 [Obj][9000] AddAccount (admin)
+05:44:24 [Obj][9000] LogOutCharacter (Phanh)
+05:44:24 [Obj][9000] LogOutCharacter ()
+05:44:42 [Obj][9000] LogOutCharacter (Phanh)
+05:44:42 [Obj][9000] LogOutCharacter ()
+05:45:19 [Obj][9000] LogOutCharacter (TESTRF)
+05:45:19 [Obj][9000] LogOutCharacter ()
+05:45:19 [Obj][9000] DelAccount (admin)
+05:45:19 [Obj][9000] DelClient (192.168.68.104)
+05:47:27 [Obj][9000] AddClient (192.168.68.104)
+05:47:27 [Obj][9000] AddAccount (admin)
+05:47:37 [admin][Phanh] BuyVip (Level: 3)
+05:47:37 [admin][Phanh] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+05:47:55 [Obj][9000] LogOutCharacter (Phanh)
+05:47:55 [Obj][9000] LogOutCharacter ()
+05:48:29 [Obj][9000] LogOutCharacter (TESTRF)
+05:48:29 [Obj][9000] LogOutCharacter ()
+05:48:36 [Obj][9000] LogOutCharacter (Phanh)
+05:48:36 [Obj][9000] LogOutCharacter ()
+05:48:36 [Obj][9000] DelAccount (admin)
+05:48:36 [Obj][9000] DelClient (192.168.68.104)
+05:50:22 [ServerInfo] CashShop loaded successfully
+05:50:22 [ServerInfo] ChaosMix loaded successfully
+05:50:22 [ServerInfo] Character loaded successfully
+05:50:22 [FakeOnline] Load Data OK
+05:50:22 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+05:50:22 [EventTime] [1] Size 4 
+05:50:22 [CustomItemBank] (1) Load 10 Item In List
+05:50:22 [ServerInfo] Custom loaded successfully
+05:50:22 [ServerInfo] Command loaded successfully
+05:50:22 [ServerInfo] Common loaded successfully
+05:50:22 [ Crywolf ] State (0) -> NONE
+05:50:22 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+05:50:22 [ServerInfo] Event loaded successfully
+05:50:22 [ServerInfo] EventItemBag loaded successfully
+05:50:22 [ServerInfo] Hack loaded successfully
+05:50:22 [ServerInfo] Item loaded successfully
+05:50:22 [ServerInfo] Monster loaded successfully
+05:50:22 [ServerInfo] Move loaded successfully
+05:50:22 [ServerInfo] Quest loaded successfully
+05:50:22 [ServerInfo] Shop loaded successfully
+05:50:22 [ServerInfo] Skill loaded successfully
+05:50:22 [ServerInfo] Util loaded successfully
+05:50:22 [ReadBotInfo] BotSystem loaded successfully
+05:51:12 [Obj][9000] AddClient (192.168.68.104)
+05:51:12 [Obj][9000] AddAccount (admin)
+05:53:07 [Obj][9000] LogOutCharacter (Phanh)
+05:53:07 [Obj][9000] LogOutCharacter ()
+05:53:07 [Obj][9000] DelAccount (admin)
+05:53:07 [Obj][9000] DelClient (192.168.68.104)
+06:00:55 [ServerInfo] CashShop loaded successfully
+06:00:55 [ServerInfo] ChaosMix loaded successfully
+06:00:55 [ServerInfo] Character loaded successfully
+06:00:55 [FakeOnline] Load Data OK
+06:00:55 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+06:00:55 [EventTime] [1] Size 4 
+06:00:55 [CustomItemBank] (1) Load 10 Item In List
+06:00:55 [ServerInfo] Custom loaded successfully
+06:00:55 [ServerInfo] Command loaded successfully
+06:00:55 [ServerInfo] Common loaded successfully
+06:00:55 [ Crywolf ] State (0) -> NONE
+06:00:55 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+06:00:55 [ServerInfo] Event loaded successfully
+06:00:55 [ServerInfo] EventItemBag loaded successfully
+06:00:55 [ServerInfo] Hack loaded successfully
+06:00:55 [ServerInfo] Item loaded successfully
+06:00:55 [ServerInfo] Monster loaded successfully
+06:00:55 [ServerInfo] Move loaded successfully
+06:00:55 [ServerInfo] Quest loaded successfully
+06:00:55 [ServerInfo] Shop loaded successfully
+06:00:55 [ServerInfo] Skill loaded successfully
+06:00:55 [ServerInfo] Util loaded successfully
+06:00:55 [ReadBotInfo] BotSystem loaded successfully
+06:01:15 [Obj][9000] AddClient (192.168.68.104)
+06:01:15 [Obj][9000] AddAccount (admin)
+06:02:26 [Obj][9000] LogOutCharacter (Phanh)
+06:02:26 [Obj][9000] LogOutCharacter ()
+06:02:26 [Obj][9000] DelAccount (admin)
+06:02:26 [Obj][9000] DelClient (192.168.68.104)
+06:09:31 [ServerInfo] CashShop loaded successfully
+06:09:31 [ServerInfo] ChaosMix loaded successfully
+06:09:31 [ServerInfo] Character loaded successfully
+06:09:31 [FakeOnline] Load Data OK
+06:09:31 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+06:09:31 [EventTime] [1] Size 4 
+06:09:31 [CustomItemBank] (1) Load 10 Item In List
+06:09:31 [ServerInfo] Custom loaded successfully
+06:09:31 [ServerInfo] Command loaded successfully
+06:09:31 [ServerInfo] Common loaded successfully
+06:09:31 [ Crywolf ] State (0) -> NONE
+06:09:31 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+06:09:31 [ServerInfo] Event loaded successfully
+06:09:31 [ServerInfo] EventItemBag loaded successfully
+06:09:31 [ServerInfo] Hack loaded successfully
+06:09:31 [ServerInfo] Item loaded successfully
+06:09:31 [ServerInfo] Monster loaded successfully
+06:09:31 [ServerInfo] Move loaded successfully
+06:09:31 [ServerInfo] Quest loaded successfully
+06:09:31 [ServerInfo] Shop loaded successfully
+06:09:32 [ServerInfo] Skill loaded successfully
+06:09:32 [ServerInfo] Util loaded successfully
+06:09:32 [ReadBotInfo] BotSystem loaded successfully
+06:09:58 [Obj][9000] AddClient (192.168.68.104)
+06:09:58 [Obj][9000] AddAccount (admin)
+06:10:00 [CustomQuiz] Start
+06:10:32 [admin][Phanh] BuyVip (Level: 3)
+06:10:32 [admin][Phanh] WZ_SetCoin(BuyVip) Val1: -20, Val2: 0, Val3: 0
+06:13:00 [CustomQuiz] Finish
+06:13:41 [Obj][9000] LogOutCharacter (Phanh)
+06:13:41 [Obj][9000] LogOutCharacter ()
+06:13:41 [Obj][9000] DelAccount (admin)
+06:13:41 [Obj][9000] DelClient (192.168.68.104)
+06:34:54 [ServerInfo] CashShop loaded successfully
+06:34:54 [ServerInfo] ChaosMix loaded successfully
+06:34:54 [ServerInfo] Character loaded successfully
+06:34:54 [FakeOnline] Load Data OK
+06:34:54 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+06:34:54 [EventTime] [1] Size 4 
+06:34:54 [CustomItemBank] (1) Load 10 Item In List
+06:34:54 [ServerInfo] Custom loaded successfully
+06:34:54 [ServerInfo] Command loaded successfully
+06:34:54 [ServerInfo] Common loaded successfully
+06:34:54 [ Crywolf ] State (0) -> NONE
+06:34:54 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+06:34:54 [ServerInfo] Event loaded successfully
+06:34:54 [ServerInfo] EventItemBag loaded successfully
+06:34:54 [ServerInfo] Hack loaded successfully
+06:34:54 [ServerInfo] Item loaded successfully
+06:34:54 [ServerInfo] Monster loaded successfully
+06:34:54 [ServerInfo] Move loaded successfully
+06:34:54 [ServerInfo] Quest loaded successfully
+06:34:54 [ServerInfo] Shop loaded successfully
+06:34:54 [ServerInfo] Skill loaded successfully
+06:34:54 [ServerInfo] Util loaded successfully
+06:34:54 [ReadBotInfo] BotSystem loaded successfully
+06:35:17 [ServerInfo] CashShop loaded successfully
+06:35:17 [ServerInfo] ChaosMix loaded successfully
+06:35:17 [ServerInfo] Character loaded successfully
+06:35:17 [FakeOnline] Load Data OK
+06:35:17 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+06:35:17 [EventTime] [1] Size 4 
+06:35:17 [CustomItemBank] (1) Load 10 Item In List
+06:35:17 [ServerInfo] Custom loaded successfully
+06:35:17 [ServerInfo] Command loaded successfully
+06:35:17 [ServerInfo] Common loaded successfully
+06:35:17 [ Crywolf ] State (0) -> NONE
+06:35:17 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+06:35:17 [ServerInfo] Event loaded successfully
+06:35:17 [ServerInfo] EventItemBag loaded successfully
+06:35:17 [ServerInfo] Hack loaded successfully
+06:35:17 [ServerInfo] Item loaded successfully
+06:35:17 [ServerInfo] Monster loaded successfully
+06:35:17 [ServerInfo] Move loaded successfully
+06:35:17 [ServerInfo] Quest loaded successfully
+06:35:17 [ServerInfo] Shop loaded successfully
+06:35:17 [ServerInfo] Skill loaded successfully
+06:35:17 [ServerInfo] Util loaded successfully
+06:35:17 [ReadBotInfo] BotSystem loaded successfully
+06:35:32 [Obj][9000] AddClient (192.168.68.104)
+06:35:32 [Obj][9000] AddAccount (admin)
+06:36:01 [OnlineLoterry] Add Member (Phanh)
+06:36:01 [OnlineLoterry] Winner (Phanh)
+06:36:01 [admin][Phanh] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+06:36:15 [Obj][9000] LogOutCharacter (Phanh)
+06:36:15 [Obj][9000] LogOutCharacter ()
+06:37:34 [Obj][9000] LogOutCharacter (Admin)
+06:37:34 [Obj][9000] LogOutCharacter ()
+06:37:34 [Obj][9000] DelAccount (admin)
+06:37:34 [Obj][9000] DelClient (192.168.68.104)
+06:38:33 [Obj][9000] AddClient (192.168.68.104)
+06:38:34 [Obj][9000] AddAccount (admin)
+06:41:21 [Obj][9000] LogOutCharacter (Phanh)
+06:41:21 [Obj][9000] LogOutCharacter ()
+06:42:13 [Obj][9000] LogOutCharacter (TESTRF)
+06:42:13 [Obj][9000] LogOutCharacter ()
+06:42:13 [Obj][9000] DelAccount (admin)
+06:42:13 [Obj][9000] DelClient (192.168.68.104)
+06:59:48 [Obj][9000] AddClient (192.168.68.104)
+06:59:48 [Obj][9000] AddAccount (admin)
+07:00:21 [Obj][9000] LogOutCharacter (Phanh)
+07:00:21 [Obj][9000] LogOutCharacter ()
+07:00:21 [Obj][9000] DelAccount (admin)
+07:00:21 [Obj][9000] DelClient (192.168.68.104)
+07:10:00 [CustomQuiz] Start
+07:13:00 [CustomQuiz] Finish
+07:36:01 [OnlineLoterry] No Winner
+08:10:00 [CustomQuiz] Start
+08:13:00 [CustomQuiz] Finish
+08:36:01 [OnlineLoterry] No Winner
+08:45:35 [Obj][9000] AddClient (192.168.68.104)
+08:45:35 [Obj][9000] AddAccount (admin)
+08:52:17 [Obj][9000] LogOutCharacter (Phanh)
+08:52:17 [Obj][9000] LogOutCharacter ()
+08:52:17 [Obj][9000] DelAccount (admin)
+08:52:17 [Obj][9000] DelClient (192.168.68.104)
+09:10:00 [CustomQuiz] Start
+09:13:00 [CustomQuiz] Finish
+09:36:01 [OnlineLoterry] No Winner
+09:56:51 [Obj][9000] AddClient (192.168.68.104)
+09:56:51 [Obj][9000] AddAccount (admin)
+10:00:19 [Obj][9000] LogOutCharacter (Phanh)
+10:00:19 [Obj][9000] LogOutCharacter ()
+10:00:19 [Obj][9000] DelAccount (admin)
+10:00:19 [Obj][9000] DelClient (192.168.68.104)
+10:10:00 [CustomQuiz] Start
+10:13:00 [CustomQuiz] Finish
+10:34:36 [ServerInfo] CashShop loaded successfully
+10:34:36 [ServerInfo] ChaosMix loaded successfully
+10:34:36 [ServerInfo] Character loaded successfully
+10:34:36 [FakeOnline] Load Data OK
+10:34:36 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+10:34:36 [EventTime] [1] Size 4 
+10:34:36 [CustomItemBank] (1) Load 10 Item In List
+10:34:36 [ServerInfo] Custom loaded successfully
+10:34:36 [ServerInfo] Command loaded successfully
+10:34:36 [ServerInfo] Common loaded successfully
+10:34:36 [ Crywolf ] State (0) -> NONE
+10:34:36 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+10:34:36 [ServerInfo] Event loaded successfully
+10:34:36 [ServerInfo] EventItemBag loaded successfully
+10:34:36 [ServerInfo] Hack loaded successfully
+10:34:36 [ServerInfo] Item loaded successfully
+10:34:36 [ServerInfo] Monster loaded successfully
+10:34:36 [ServerInfo] Move loaded successfully
+10:34:36 [ServerInfo] Quest loaded successfully
+10:34:36 [ServerInfo] Shop loaded successfully
+10:34:36 [ServerInfo] Skill loaded successfully
+10:34:36 [ServerInfo] Util loaded successfully
+10:34:36 [ReadBotInfo] BotSystem loaded successfully
+10:35:13 [Obj][9000] AddClient (192.168.68.104)
+10:35:14 [Obj][9000] AddAccount (admin)
+10:36:01 [OnlineLoterry] Add Member (Phanh)
+10:36:01 [OnlineLoterry] Winner (Phanh)
+10:36:01 [admin][Phanh] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+10:41:33 [Obj][9000] LogOutCharacter (Phanh)
+10:41:33 [Obj][9000] LogOutCharacter ()
+10:41:33 [Obj][9000] DelAccount (admin)
+10:41:33 [Obj][9000] DelClient (192.168.68.104)
+10:46:46 [Obj][9000] AddClient (192.168.68.104)
+10:46:47 [Obj][9000] AddAccount (admin)
+10:49:31 [Obj][9000] LogOutCharacter (Phanh)
+10:49:31 [Obj][9000] LogOutCharacter ()
+10:49:31 [Obj][9000] DelAccount (admin)
+10:49:31 [Obj][9000] DelClient (192.168.68.104)
+11:10:00 [CustomQuiz] Start
+11:13:00 [CustomQuiz] Finish

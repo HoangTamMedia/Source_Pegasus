@@ -1,0 +1,39 @@
+23:37:52 [ServerInfo] CashShop loaded successfully
+23:37:52 [ServerInfo] ChaosMix loaded successfully
+23:37:52 [ServerInfo] Character loaded successfully
+23:41:31 [ServerInfo] CashShop loaded successfully
+23:41:31 [ServerInfo] ChaosMix loaded successfully
+23:41:31 [ServerInfo] Character loaded successfully
+23:42:21 [ServerInfo] CashShop loaded successfully
+23:42:21 [ServerInfo] ChaosMix loaded successfully
+23:42:21 [ServerInfo] Character loaded successfully
+23:42:21 [ServerInfo] Custom loaded successfully
+23:42:21 [ServerInfo] Command loaded successfully
+23:42:21 [ServerInfo] Common loaded successfully
+23:42:21 [ Crywolf ] State (0) -> NONE
+23:42:21 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+23:42:21 [ServerInfo] Event loaded successfully
+23:42:21 [ServerInfo] EventItemBag loaded successfully
+23:42:21 [ServerInfo] Hack loaded successfully
+23:42:21 [ServerInfo] Item loaded successfully
+23:42:21 [ServerInfo] Monster loaded successfully
+23:42:21 [ServerInfo] Move loaded successfully
+23:42:21 [ServerInfo] Quest loaded successfully
+23:42:21 [ServerInfo] Shop loaded successfully
+23:42:21 [ServerInfo] Skill loaded successfully
+23:42:21 [ServerInfo] Util loaded successfully
+23:42:21 [ReadBotInfo] BotSystem loaded successfully
+23:44:52 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:44:52 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:47:22 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:47:22 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:49:53 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:49:53 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:52:23 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:52:23 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:54:54 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:54:54 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:57:24 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:57:24 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:59:55 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:59:55 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87

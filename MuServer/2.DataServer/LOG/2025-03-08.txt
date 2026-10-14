@@ -1,0 +1,7 @@
+12:24:01 [SocketManager] Server started at port [55960]
+12:24:09 [ServerManager][0] AddServer (127.0.0.1)
+12:24:09 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+15:40:15 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='Pegasus'
+15:40:15 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+16:05:30 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='Pegasus'
+16:05:30 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.

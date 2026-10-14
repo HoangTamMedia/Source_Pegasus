@@ -1,0 +1,2601 @@
+11:43:22 [ServerInfo] CashShop loaded successfully
+11:43:22 [ServerInfo] ChaosMix loaded successfully
+11:43:22 [ServerInfo] Character loaded successfully
+11:43:22 [FakeOnline] Load Data OK
+11:43:22 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+11:43:22 [EventTime] [1] Size 3 
+11:43:22 [CustomItemBank] (1) Load 10 Item In List
+11:43:22 [ServerInfo] Custom loaded successfully
+11:43:22 [ServerInfo] Command loaded successfully
+11:43:22 [ServerInfo] Common loaded successfully
+11:43:22 [ Crywolf ] State (0) -> NONE
+11:43:22 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+11:43:22 [ServerInfo] Event loaded successfully
+11:43:22 [ServerInfo] EventItemBag loaded successfully
+11:43:22 [ServerInfo] Hack loaded successfully
+11:43:22 [ServerInfo] Item loaded successfully
+11:43:22 [ServerInfo] Monster loaded successfully
+11:43:22 [ServerInfo] Move loaded successfully
+11:43:22 [ServerInfo] Quest loaded successfully
+11:43:22 [ServerInfo] Shop loaded successfully
+11:43:22 [ServerInfo] Skill loaded successfully
+11:43:22 [ServerInfo] Util loaded successfully
+11:43:22 [ReadBotInfo] BotSystem loaded successfully
+11:43:35 [Obj][9000] AddClient (192.168.1.8)
+11:43:36 [Obj][9000] AddAccount (admin)
+11:48:23 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:48:23 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:49:25 [Obj][9000] LogOutCharacter (Phanh)
+11:49:25 [Obj][9000] LogOutCharacter ()
+11:49:25 [Obj][9000] DelAccount (admin)
+11:49:25 [Obj][9000] DelClient (192.168.1.8)
+11:50:21 [Obj][9000] AddClient (192.168.1.8)
+11:50:22 [Obj][9000] AddAccount (admin)
+11:53:24 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:53:24 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:58:25 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:58:25 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:03:26 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:03:26 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 201 Y: 77)
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 201 Y: 77)
+12:08:27 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:08:27 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:10:00 [CustomQuiz] Start
+12:13:00 [CustomQuiz] Finish
+12:13:28 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:13:28 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 239 Y: 94)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 239 Y: 94)
+12:16:08 [Obj][9000] LogOutCharacter (Phanh)
+12:16:08 [Obj][9000] LogOutCharacter ()
+12:16:08 [Obj][9000] DelAccount (admin)
+12:16:08 [Obj][9000] DelClient (192.168.1.8)
+12:16:18 [Obj][9000] AddClient (192.168.1.8)
+12:16:19 [Obj][9000] AddAccount (admin)
+12:16:24 [Obj][9000] LogOutCharacter (Phanh)
+12:16:24 [Obj][9000] LogOutCharacter ()
+12:16:24 [Obj][9000] DelAccount (admin)
+12:16:24 [Obj][9000] DelClient (192.168.1.8)
+12:18:29 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:18:29 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:19:03 [Obj][9000] AddClient (192.168.1.8)
+12:19:03 [Obj][9000] AddAccount (admin)
+12:19:13 [Obj][9000] LogOutCharacter (Phanh)
+12:19:13 [Obj][9000] LogOutCharacter ()
+12:19:13 [Obj][9000] DelAccount (admin)
+12:19:13 [Obj][9000] DelClient (192.168.1.8)
+12:23:18 [Obj][9000] AddClient (192.168.1.8)
+12:23:19 [Obj][9000] AddAccount (admin)
+12:23:29 [Obj][9000] LogOutCharacter (Phanh)
+12:23:29 [Obj][9000] LogOutCharacter ()
+12:23:29 [Obj][9000] DelAccount (admin)
+12:23:29 [Obj][9000] DelClient (192.168.1.8)
+12:23:30 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:23:30 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:24:24 [Obj][9000] AddClient (192.168.1.8)
+12:24:25 [Obj][9000] AddAccount (admin)
+12:24:48 [Obj][9001] AddClient (192.168.1.8)
+12:24:50 [Obj][9001] AddAccount (game)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 32 Y: 44)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 32 Y: 44)
+12:25:18 [Obj][9001] LogOutCharacter (GameMaster)
+12:25:18 [Obj][9001] LogOutCharacter ()
+12:25:18 [Obj][9001] DelAccount (game)
+12:25:18 [Obj][9001] DelClient (192.168.1.8)
+12:27:11 [Obj][9000] LogOutCharacter (Phanh)
+12:27:11 [Obj][9000] LogOutCharacter ()
+12:27:11 [Obj][9000] DelAccount (admin)
+12:27:11 [Obj][9000] DelClient (192.168.1.8)
+12:27:19 [Obj][9001] AddClient (192.168.1.8)
+12:27:20 [Obj][9001] AddAccount (game)
+12:27:30 [Obj][9001] LogOutCharacter (GameMaster)
+12:27:30 [Obj][9001] LogOutCharacter ()
+12:27:30 [Obj][9001] DelAccount (game)
+12:27:30 [Obj][9001] DelClient (192.168.1.8)
+12:27:31 [Obj][9000] AddClient (192.168.1.8)
+12:27:33 [Obj][9000] AddAccount (admin)
+12:27:42 [Obj][9000] LogOutCharacter (Phanh)
+12:27:42 [Obj][9000] LogOutCharacter ()
+12:27:42 [Obj][9000] DelAccount (admin)
+12:27:42 [Obj][9000] DelClient (192.168.1.8)
+12:27:59 [Obj][9001] AddClient (192.168.1.8)
+12:28:00 [Obj][9001] AddAccount (admin)
+12:28:31 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:28:31 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:33:32 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:33:32 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:35:50 [Obj][9001] LogOutCharacter (Phanh)
+12:35:50 [Obj][9001] LogOutCharacter ()
+12:35:50 [Obj][9001] DelAccount (admin)
+12:35:50 [Obj][9001] DelClient (192.168.1.8)
+12:35:59 [Obj][9000] AddClient (192.168.1.8)
+12:36:00 [Obj][9000] AddAccount (admin)
+12:36:01 [OnlineLoterry] Add Member (Phanh)
+12:36:01 [OnlineLoterry] Winner (Phanh)
+12:36:01 [admin][Phanh] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+12:36:32 [Obj][9000] LogOutCharacter (Phanh)
+12:36:32 [Obj][9000] LogOutCharacter ()
+12:36:32 [Obj][9000] DelAccount (admin)
+12:36:32 [Obj][9000] DelClient (192.168.1.8)
+12:37:02 [Obj][9001] AddClient (192.168.1.8)
+12:37:02 [Obj][9001] AddAccount (admin)
+12:37:17 [Obj][9001] LogOutCharacter (Phanh)
+12:37:17 [Obj][9001] LogOutCharacter ()
+12:37:17 [Obj][9001] DelAccount (admin)
+12:37:17 [Obj][9001] DelClient (192.168.1.8)
+12:38:03 [Obj][9000] AddClient (192.168.1.8)
+12:38:03 [Obj][9000] AddAccount (admin)
+12:38:09 [Obj][9000] LogOutCharacter (Phanh)
+12:38:09 [Obj][9000] LogOutCharacter ()
+12:38:09 [Obj][9000] DelAccount (admin)
+12:38:09 [Obj][9000] DelClient (192.168.1.8)
+12:38:27 [Obj][9001] AddClient (192.168.1.8)
+12:38:28 [Obj][9001] AddAccount (admin)
+12:38:33 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:38:33 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:39:44 [Obj][9001] LogOutCharacter (Phanh)
+12:39:44 [Obj][9001] LogOutCharacter ()
+12:39:44 [Obj][9001] DelAccount (admin)
+12:39:44 [Obj][9001] DelClient (192.168.1.8)
+12:39:52 [Obj][9000] AddClient (192.168.1.8)
+12:39:53 [Obj][9000] AddAccount (admin)
+12:40:10 [Obj][9000] LogOutCharacter (Phanh)
+12:40:10 [Obj][9000] LogOutCharacter ()
+12:40:24 [Obj][9000] LogOutCharacter (BePhanh)
+12:40:24 [Obj][9000] LogOutCharacter ()
+12:40:24 [Obj][9000] DelAccount (admin)
+12:40:24 [Obj][9000] DelClient (192.168.1.8)
+12:41:34 [Obj][9001] AddClient (192.168.1.8)
+12:41:35 [Obj][9001] AddAccount (admin)
+12:41:41 [Obj][9001] LogOutCharacter (Phanh)
+12:41:41 [Obj][9001] LogOutCharacter ()
+12:41:41 [Obj][9001] DelAccount (admin)
+12:41:41 [Obj][9001] DelClient (192.168.1.8)
+12:42:53 [Obj][9000] AddClient (192.168.1.8)
+12:42:53 [Obj][9000] AddAccount (admin)
+12:43:34 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:43:34 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:44:14 [Obj][9000] LogOutCharacter (Phanh)
+12:44:14 [Obj][9000] LogOutCharacter ()
+12:44:14 [Obj][9000] DelAccount (admin)
+12:44:14 [Obj][9000] DelClient (192.168.1.8)
+12:44:23 [Obj][9001] AddClient (192.168.1.8)
+12:44:24 [Obj][9001] AddAccount (admin)
+12:44:33 [Obj][9001] LogOutCharacter (BePhanh)
+12:44:33 [Obj][9001] LogOutCharacter ()
+12:45:39 [Obj][9001] LogOutCharacter (Phanh)
+12:45:39 [Obj][9001] LogOutCharacter ()
+12:45:39 [Obj][9001] DelAccount (admin)
+12:45:39 [Obj][9001] DelClient (192.168.1.8)
+12:45:49 [Obj][9000] AddClient (192.168.1.8)
+12:45:50 [Obj][9000] AddAccount (admin)
+12:46:04 [Obj][9000] LogOutCharacter (Phanh)
+12:46:04 [Obj][9000] LogOutCharacter ()
+12:46:14 [Obj][9000] LogOutCharacter (BePhanh)
+12:46:14 [Obj][9000] LogOutCharacter ()
+12:47:14 [Obj][9000] LogOutCharacter (Phanh)
+12:47:14 [Obj][9000] LogOutCharacter ()
+12:47:14 [Obj][9000] DelAccount (admin)
+12:47:14 [Obj][9000] DelClient (192.168.1.8)
+12:47:23 [Obj][9001] AddClient (192.168.1.8)
+12:47:23 [Obj][9001] AddAccount (admin)
+12:47:37 [Obj][9001] LogOutCharacter (Phanh)
+12:47:37 [Obj][9001] LogOutCharacter ()
+12:47:37 [Obj][9001] DelAccount (admin)
+12:47:37 [Obj][9001] DelClient (192.168.1.8)
+12:47:48 [Obj][9000] AddClient (192.168.1.8)
+12:47:49 [Obj][9000] AddAccount (admin)
+12:48:35 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:48:35 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 153 Y: 64)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 153 Y: 64)
+12:50:13 [Obj][9000] LogOutCharacter (Phanh)
+12:50:13 [Obj][9000] LogOutCharacter ()
+12:50:13 [Obj][9000] DelAccount (admin)
+12:50:13 [Obj][9000] DelClient (192.168.1.8)
+12:50:22 [Obj][9001] AddClient (192.168.1.8)
+12:50:23 [Obj][9001] AddAccount (admin)
+12:50:36 [Obj][9001] LogOutCharacter (Phanh)
+12:50:36 [Obj][9001] LogOutCharacter ()
+12:51:18 [Obj][9001] LogOutCharacter (BePhanh)
+12:51:18 [Obj][9001] LogOutCharacter ()
+12:51:18 [Obj][9001] DelAccount (admin)
+12:51:18 [Obj][9001] DelClient (192.168.1.8)
+12:51:27 [Obj][9000] AddClient (192.168.1.8)
+12:51:27 [Obj][9000] AddAccount (admin)
+12:51:30 [Obj][9000] LogOutCharacter (BePhanh)
+12:51:30 [Obj][9000] LogOutCharacter ()
+12:51:30 [Obj][9000] DelAccount (admin)
+12:51:30 [Obj][9000] DelClient (192.168.1.8)
+12:51:53 [Obj][9001] AddClient (192.168.1.8)
+12:51:54 [Obj][9001] AddAccount (admin)
+12:52:05 [Obj][9001] LogOutCharacter (Phanh)
+12:52:05 [Obj][9001] LogOutCharacter ()
+12:52:16 [Obj][9001] LogOutCharacter (BePhanh)
+12:52:16 [Obj][9001] LogOutCharacter ()
+12:52:16 [Obj][9001] DelAccount (admin)
+12:52:16 [Obj][9001] DelClient (192.168.1.8)
+12:52:35 [Obj][9000] AddClient (192.168.1.8)
+12:52:36 [Obj][9000] AddAccount (admin)
+12:53:36 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:53:36 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:56:51 [Obj][9000] LogOutCharacter (Phanh)
+12:56:51 [Obj][9000] LogOutCharacter ()
+12:56:51 [Obj][9000] DelAccount (admin)
+12:56:51 [Obj][9000] DelClient (192.168.1.8)
+12:57:07 [Obj][9001] AddClient (192.168.1.8)
+12:57:07 [Obj][9001] AddAccount (admin)
+12:57:18 [Obj][9001] LogOutCharacter (Phanh)
+12:57:18 [Obj][9001] LogOutCharacter ()
+12:57:18 [Obj][9001] DelAccount (admin)
+12:57:18 [Obj][9001] DelClient (192.168.1.8)
+12:58:37 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:58:37 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:58:58 [Obj][9000] AddClient (192.168.1.8)
+12:58:59 [Obj][9000] AddAccount (admin)
+12:59:08 [Obj][9000] LogOutCharacter (Phanh)
+12:59:08 [Obj][9000] LogOutCharacter ()
+12:59:08 [Obj][9000] DelAccount (admin)
+12:59:08 [Obj][9000] DelClient (192.168.1.8)
+12:59:21 [Obj][9001] AddClient (192.168.1.8)
+12:59:22 [Obj][9001] AddAccount (admin)
+12:59:36 [Obj][9001] LogOutCharacter (Phanh)
+12:59:36 [Obj][9001] LogOutCharacter ()
+12:59:36 [Obj][9001] DelAccount (admin)
+12:59:36 [Obj][9001] DelClient (192.168.1.8)
+12:59:46 [Obj][9000] AddClient (192.168.1.8)
+12:59:46 [Obj][9000] AddAccount (admin)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 128 Y: 168)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 128 Y: 168)
+13:00:19 [Obj][9000] LogOutCharacter (Phanh)
+13:00:19 [Obj][9000] LogOutCharacter ()
+13:00:19 [Obj][9000] DelAccount (admin)
+13:00:19 [Obj][9000] DelClient (192.168.1.8)
+13:00:28 [Obj][9001] AddClient (192.168.1.8)
+13:00:29 [Obj][9001] AddAccount (admin)
+13:00:33 [Obj][9001] LogOutCharacter (Phanh)
+13:00:33 [Obj][9001] LogOutCharacter ()
+13:00:33 [Obj][9001] DelAccount (admin)
+13:00:33 [Obj][9001] DelClient (192.168.1.8)
+13:03:02 [Obj][9000] AddClient (192.168.1.8)
+13:03:03 [Obj][9000] AddAccount (admin)
+13:03:38 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:03:38 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:08:39 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:08:39 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:10:00 [CustomQuiz] Start
+13:13:00 [CustomQuiz] Finish
+13:13:40 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:13:40 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:14:44 [Obj][9000] LogOutCharacter (Phanh)
+13:14:44 [Obj][9000] LogOutCharacter ()
+13:14:44 [Obj][9000] DelAccount (admin)
+13:14:44 [Obj][9000] DelClient (192.168.1.8)
+13:14:54 [Obj][9001] AddClient (192.168.1.8)
+13:14:54 [Obj][9001] AddAccount (admin)
+13:15:00 [Obj][9001] LogOutCharacter (Phanh)
+13:15:00 [Obj][9001] LogOutCharacter ()
+13:15:00 [Obj][9001] DelAccount (admin)
+13:15:00 [Obj][9001] DelClient (192.168.1.8)
+13:15:32 [Obj][9000] AddClient (192.168.1.8)
+13:15:32 [Obj][9000] AddAccount (admin)
+13:15:38 [Obj][9000] LogOutCharacter (Phanh)
+13:15:38 [Obj][9000] LogOutCharacter ()
+13:15:38 [Obj][9000] DelAccount (admin)
+13:15:38 [Obj][9000] DelClient (192.168.1.8)
+13:16:00 [Obj][9001] AddClient (192.168.1.8)
+13:16:00 [Obj][9001] AddAccount (admin)
+13:16:07 [Obj][9001] LogOutCharacter (Phanh)
+13:16:07 [Obj][9001] LogOutCharacter ()
+13:16:07 [Obj][9001] DelAccount (admin)
+13:16:07 [Obj][9001] DelClient (192.168.1.8)
+13:16:21 [Obj][9000] AddClient (192.168.1.8)
+13:16:22 [Obj][9000] AddAccount (admin)
+13:16:27 [Obj][9000] LogOutCharacter (Phanh)
+13:16:27 [Obj][9000] LogOutCharacter ()
+13:16:27 [Obj][9000] DelAccount (admin)
+13:16:27 [Obj][9000] DelClient (192.168.1.8)
+13:16:43 [Obj][9001] AddClient (192.168.1.8)
+13:16:43 [Obj][9001] AddAccount (admin)
+13:16:47 [Obj][9001] LogOutCharacter (Phanh)
+13:16:47 [Obj][9001] LogOutCharacter ()
+13:16:47 [Obj][9001] DelAccount (admin)
+13:16:47 [Obj][9001] DelClient (192.168.1.8)
+13:18:41 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:18:41 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:19:35 [Obj][9000] AddClient (192.168.1.8)
+13:19:36 [Obj][9000] AddAccount (admin)
+13:21:34 [Obj][9000] LogOutCharacter (Phanh)
+13:21:34 [Obj][9000] LogOutCharacter ()
+13:21:34 [Obj][9000] DelAccount (admin)
+13:21:34 [Obj][9000] DelClient (192.168.1.8)
+13:21:44 [Obj][9001] AddClient (192.168.1.8)
+13:21:45 [Obj][9001] AddAccount (admin)
+13:21:49 [Obj][9001] LogOutCharacter (Phanh)
+13:21:49 [Obj][9001] LogOutCharacter ()
+13:21:49 [Obj][9001] DelAccount (admin)
+13:21:49 [Obj][9001] DelClient (192.168.1.8)
+13:22:20 [Obj][9000] AddClient (192.168.1.8)
+13:22:21 [Obj][9000] AddAccount (admin)
+13:23:29 [Obj][9000] LogOutCharacter (Phanh)
+13:23:29 [Obj][9000] LogOutCharacter ()
+13:23:29 [Obj][9000] DelAccount (admin)
+13:23:29 [Obj][9000] DelClient (192.168.1.8)
+13:23:38 [Obj][9001] AddClient (192.168.1.8)
+13:23:39 [Obj][9001] AddAccount (admin)
+13:23:42 [Obj][9001] LogOutCharacter (Phanh)
+13:23:42 [Obj][9001] LogOutCharacter ()
+13:23:42 [Obj][9001] DelAccount (admin)
+13:23:42 [Obj][9001] DelClient (192.168.1.8)
+13:23:42 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:23:42 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:24:12 [Obj][9000] AddClient (192.168.1.8)
+13:24:13 [Obj][9000] AddAccount (admin)
+13:28:13 [Obj][9000] LogOutCharacter (Phanh)
+13:28:13 [Obj][9000] LogOutCharacter ()
+13:28:13 [Obj][9000] DelAccount (admin)
+13:28:13 [Obj][9000] DelClient (192.168.1.8)
+13:28:21 [Obj][9001] AddClient (192.168.1.8)
+13:28:22 [Obj][9001] AddAccount (admin)
+13:28:26 [Obj][9001] LogOutCharacter (Phanh)
+13:28:26 [Obj][9001] LogOutCharacter ()
+13:28:26 [Obj][9001] DelAccount (admin)
+13:28:26 [Obj][9001] DelClient (192.168.1.8)
+13:28:43 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:28:43 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:29:40 [Obj][9000] AddClient (192.168.1.8)
+13:29:41 [Obj][9000] AddAccount (admin)
+13:29:45 [Obj][9000] LogOutCharacter (Phanh)
+13:29:45 [Obj][9000] LogOutCharacter ()
+13:29:45 [Obj][9000] DelAccount (admin)
+13:29:45 [Obj][9000] DelClient (192.168.1.8)
+13:30:31 [Obj][9001] AddClient (192.168.1.8)
+13:30:31 [Obj][9001] AddAccount (admin)
+13:30:42 [Obj][9001] LogOutCharacter (Phanh)
+13:30:42 [Obj][9001] LogOutCharacter ()
+13:30:42 [Obj][9001] DelAccount (admin)
+13:30:42 [Obj][9001] DelClient (192.168.1.8)
+13:32:23 [Obj][9000] AddClient (192.168.1.8)
+13:32:23 [Obj][9000] AddAccount (admin)
+13:33:40 [Obj][9000] LogOutCharacter (Phanh)
+13:33:40 [Obj][9000] LogOutCharacter ()
+13:33:40 [Obj][9000] DelAccount (admin)
+13:33:40 [Obj][9000] DelClient (192.168.1.8)
+13:33:44 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:33:44 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:33:50 [Obj][9001] AddClient (192.168.1.8)
+13:33:50 [Obj][9001] AddAccount (admin)
+13:33:55 [Obj][9001] LogOutCharacter (Phanh)
+13:33:55 [Obj][9001] LogOutCharacter ()
+13:33:55 [Obj][9001] DelAccount (admin)
+13:33:55 [Obj][9001] DelClient (192.168.1.8)
+13:34:07 [Obj][9000] AddClient (192.168.1.8)
+13:34:08 [Obj][9000] AddAccount (admin)
+13:34:13 [Obj][9000] LogOutCharacter (Phanh)
+13:34:13 [Obj][9000] LogOutCharacter ()
+13:34:13 [Obj][9000] DelAccount (admin)
+13:34:13 [Obj][9000] DelClient (192.168.1.8)
+13:34:50 [Obj][9001] AddClient (192.168.1.8)
+13:34:51 [Obj][9001] AddAccount (admin)
+13:35:05 [Obj][9001] LogOutCharacter (Phanh)
+13:35:05 [Obj][9001] LogOutCharacter ()
+13:35:05 [Obj][9001] DelAccount (admin)
+13:35:05 [Obj][9001] DelClient (192.168.1.8)
+13:35:24 [Obj][9000] AddClient (192.168.1.8)
+13:35:24 [Obj][9000] AddAccount (admin)
+13:35:29 [Obj][9000] LogOutCharacter (Phanh)
+13:35:29 [Obj][9000] LogOutCharacter ()
+13:35:29 [Obj][9000] DelAccount (admin)
+13:35:29 [Obj][9000] DelClient (192.168.1.8)
+13:35:44 [Obj][9001] AddClient (192.168.1.8)
+13:35:45 [Obj][9001] AddAccount (admin)
+13:35:58 [Obj][9001] LogOutCharacter (Phanh)
+13:35:58 [Obj][9001] LogOutCharacter ()
+13:35:58 [Obj][9001] DelAccount (admin)
+13:35:58 [Obj][9001] DelClient (192.168.1.8)
+13:36:01 [OnlineLoterry] No Winner
+13:37:59 [Obj][9000] AddClient (192.168.1.8)
+13:38:00 [Obj][9000] AddAccount (admin)
+13:38:11 [Obj][9000] LogOutCharacter (Phanh)
+13:38:11 [Obj][9000] LogOutCharacter ()
+13:38:11 [Obj][9000] DelAccount (admin)
+13:38:11 [Obj][9000] DelClient (192.168.1.8)
+13:38:45 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:38:45 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:38:56 [Obj][9001] AddClient (192.168.1.8)
+13:38:57 [Obj][9001] AddAccount (admin)
+13:39:01 [Obj][9001] LogOutCharacter (Phanh)
+13:39:01 [Obj][9001] LogOutCharacter ()
+13:39:01 [Obj][9001] DelAccount (admin)
+13:39:01 [Obj][9001] DelClient (192.168.1.8)
+13:39:21 [Obj][9000] AddClient (192.168.1.8)
+13:39:22 [Obj][9000] AddAccount (admin)
+13:39:30 [Obj][9000] LogOutCharacter (Phanh)
+13:39:30 [Obj][9000] LogOutCharacter ()
+13:39:30 [Obj][9000] DelAccount (admin)
+13:39:30 [Obj][9000] DelClient (192.168.1.8)
+13:39:47 [Obj][9001] AddClient (192.168.1.8)
+13:39:47 [Obj][9001] AddAccount (admin)
+13:39:54 [Obj][9001] LogOutCharacter (Phanh)
+13:39:54 [Obj][9001] LogOutCharacter ()
+13:39:54 [Obj][9001] DelAccount (admin)
+13:39:54 [Obj][9001] DelClient (192.168.1.8)
+13:40:12 [Obj][9000] AddClient (192.168.1.8)
+13:40:12 [Obj][9000] AddAccount (admin)
+13:40:15 [Obj][9000] LogOutCharacter (Phanh)
+13:40:15 [Obj][9000] LogOutCharacter ()
+13:40:15 [Obj][9000] DelAccount (admin)
+13:40:15 [Obj][9000] DelClient (192.168.1.8)
+13:40:28 [Obj][9001] AddClient (192.168.1.8)
+13:40:29 [Obj][9001] AddAccount (admin)
+13:40:33 [Obj][9001] LogOutCharacter (Phanh)
+13:40:33 [Obj][9001] LogOutCharacter ()
+13:40:33 [Obj][9001] DelAccount (admin)
+13:40:33 [Obj][9001] DelClient (192.168.1.8)
+13:40:55 [Obj][9000] AddClient (192.168.1.8)
+13:40:56 [Obj][9000] AddAccount (admin)
+13:41:08 [Obj][9000] LogOutCharacter (Phanh)
+13:41:08 [Obj][9000] LogOutCharacter ()
+13:41:08 [Obj][9000] DelAccount (admin)
+13:41:08 [Obj][9000] DelClient (192.168.1.8)
+13:41:23 [Obj][9001] AddClient (192.168.1.8)
+13:41:23 [Obj][9001] AddAccount (admin)
+13:41:29 [Obj][9001] LogOutCharacter (Phanh)
+13:41:29 [Obj][9001] LogOutCharacter ()
+13:41:29 [Obj][9001] DelAccount (admin)
+13:41:29 [Obj][9001] DelClient (192.168.1.8)
+13:42:01 [Obj][9000] AddClient (192.168.1.8)
+13:42:01 [Obj][9000] AddAccount (admin)
+13:42:19 [Obj][9000] LogOutCharacter (Phanh)
+13:42:19 [Obj][9000] LogOutCharacter ()
+13:42:40 [Obj][9000] LogOutCharacter (BePhanh)
+13:42:40 [Obj][9000] LogOutCharacter ()
+13:42:40 [Obj][9000] DelAccount (admin)
+13:42:40 [Obj][9000] DelClient (192.168.1.8)
+13:43:46 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:43:46 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:43:58 [Obj][9001] AddClient (192.168.1.8)
+13:43:58 [Obj][9001] AddAccount (admin)
+13:44:03 [Obj][9001] LogOutCharacter (Phanh)
+13:44:03 [Obj][9001] LogOutCharacter ()
+13:44:03 [Obj][9001] DelAccount (admin)
+13:44:03 [Obj][9001] DelClient (192.168.1.8)
+13:47:13 [Obj][9000] AddClient (192.168.1.8)
+13:47:14 [Obj][9000] AddAccount (admin)
+13:47:21 [Obj][9000] LogOutCharacter (Phanh)
+13:47:21 [Obj][9000] LogOutCharacter ()
+13:47:21 [Obj][9000] DelAccount (admin)
+13:47:21 [Obj][9000] DelClient (192.168.1.8)
+13:47:38 [Obj][9001] AddClient (192.168.1.8)
+13:47:38 [Obj][9001] AddAccount (admin)
+13:47:42 [Obj][9001] LogOutCharacter (Phanh)
+13:47:42 [Obj][9001] LogOutCharacter ()
+13:47:42 [Obj][9001] DelAccount (admin)
+13:47:42 [Obj][9001] DelClient (192.168.1.8)
+13:48:02 [Obj][9000] AddClient (192.168.1.8)
+13:48:03 [Obj][9000] AddAccount (admin)
+13:48:08 [Obj][9000] LogOutCharacter (Phanh)
+13:48:08 [Obj][9000] LogOutCharacter ()
+13:48:08 [Obj][9000] DelAccount (admin)
+13:48:08 [Obj][9000] DelClient (192.168.1.8)
+13:48:47 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:48:47 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:49:36 [Obj][9001] AddClient (192.168.1.8)
+13:49:37 [Obj][9001] AddAccount (admin)
+13:49:48 [Obj][9001] LogOutCharacter (Phanh)
+13:49:48 [Obj][9001] LogOutCharacter ()
+13:49:48 [Obj][9001] DelAccount (admin)
+13:49:48 [Obj][9001] DelClient (192.168.1.8)
+13:49:57 [Obj][9000] AddClient (192.168.1.8)
+13:49:58 [Obj][9000] AddAccount (admin)
+13:50:02 [Obj][9000] LogOutCharacter (Phanh)
+13:50:02 [Obj][9000] LogOutCharacter ()
+13:50:02 [Obj][9000] DelAccount (admin)
+13:50:02 [Obj][9000] DelClient (192.168.1.8)
+13:50:33 [Obj][9001] AddClient (192.168.1.8)
+13:50:33 [Obj][9001] AddAccount (admin)
+13:50:56 [Obj][9001] LogOutCharacter (Phanh)
+13:50:56 [Obj][9001] LogOutCharacter ()
+13:52:07 [Obj][9001] LogOutCharacter (BePhanh)
+13:52:07 [Obj][9001] LogOutCharacter ()
+13:52:07 [Obj][9001] DelAccount (admin)
+13:52:07 [Obj][9001] DelClient (192.168.1.8)
+13:53:45 [Obj][9000] AddClient (192.168.1.8)
+13:53:45 [Obj][9000] AddAccount (admin)
+13:53:48 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:53:48 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:54:00 [Obj][9000] LogOutCharacter (Phanh)
+13:54:00 [Obj][9000] LogOutCharacter ()
+13:54:03 [Obj][9000] LogOutCharacter (BePhanh)
+13:54:03 [Obj][9000] LogOutCharacter ()
+13:54:03 [Obj][9000] DelAccount (admin)
+13:54:03 [Obj][9000] DelClient (192.168.1.8)
+13:56:20 [Obj][9001] AddClient (192.168.1.8)
+13:56:20 [Obj][9001] AddAccount (admin)
+13:57:29 [Obj][9001] LogOutCharacter (BePhanh)
+13:57:29 [Obj][9001] LogOutCharacter ()
+13:57:41 [Obj][9001] LogOutCharacter (Phanh)
+13:57:41 [Obj][9001] LogOutCharacter ()
+13:57:41 [Obj][9001] DelAccount (admin)
+13:57:41 [Obj][9001] DelClient (192.168.1.8)
+13:57:50 [Obj][9000] AddClient (192.168.1.8)
+13:57:51 [Obj][9000] AddAccount (admin)
+13:58:30 [BotThuMua] (TK(admin)(NV(Phanh) Open
+13:58:49 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:58:49 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:59:01 [BotThuMua] (TK(admin)(NV(Phanh) Open
+14:01:53 [Obj][9000] LogOutCharacter (Phanh)
+14:01:53 [Obj][9000] LogOutCharacter ()
+14:01:53 [Obj][9000] DelAccount (admin)
+14:01:53 [Obj][9000] DelClient (192.168.1.8)
+14:02:02 [Obj][9001] AddClient (192.168.1.8)
+14:02:03 [Obj][9001] AddAccount (admin)
+14:02:07 [Obj][9001] LogOutCharacter (Phanh)
+14:02:07 [Obj][9001] LogOutCharacter ()
+14:02:07 [Obj][9001] DelAccount (admin)
+14:02:07 [Obj][9001] DelClient (192.168.1.8)
+14:02:53 [Obj][9000] AddClient (192.168.1.8)
+14:02:54 [Obj][9000] AddAccount (admin)
+14:02:58 [Obj][9000] LogOutCharacter (Phanh)
+14:02:58 [Obj][9000] LogOutCharacter ()
+14:02:58 [Obj][9000] DelAccount (admin)
+14:02:58 [Obj][9000] DelClient (192.168.1.8)
+14:03:50 [Obj][9001] AddClient (192.168.1.8)
+14:03:50 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:03:50 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:03:51 [Obj][9001] AddAccount (admin)
+14:04:15 [Obj][9001] LogOutCharacter (Phanh)
+14:04:15 [Obj][9001] LogOutCharacter ()
+14:04:15 [Obj][9001] DelAccount (admin)
+14:04:15 [Obj][9001] DelClient (192.168.1.8)
+14:04:53 [Obj][9000] AddClient (192.168.1.8)
+14:04:54 [Obj][9000] AddAccount (admin)
+14:05:03 [Obj][9000] LogOutCharacter (Phanh)
+14:05:03 [Obj][9000] LogOutCharacter ()
+14:05:03 [Obj][9000] DelAccount (admin)
+14:05:03 [Obj][9000] DelClient (192.168.1.8)
+14:05:30 [Obj][9001] AddClient (192.168.1.8)
+14:05:31 [Obj][9001] AddAccount (admin)
+14:05:38 [Obj][9001] LogOutCharacter (Phanh)
+14:05:38 [Obj][9001] LogOutCharacter ()
+14:05:38 [Obj][9001] DelAccount (admin)
+14:05:38 [Obj][9001] DelClient (192.168.1.8)
+14:06:52 [Obj][9000] AddClient (192.168.1.8)
+14:06:53 [Obj][9000] AddAccount (admin)
+14:08:51 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:08:51 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:10:00 [CustomQuiz] Start
+14:13:00 [CustomQuiz] Finish
+14:13:52 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:13:52 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:18:53 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:18:53 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:20:07 [Obj][9000] LogOutCharacter (Phanh)
+14:20:07 [Obj][9000] LogOutCharacter ()
+14:20:07 [Obj][9000] DelAccount (admin)
+14:20:07 [Obj][9000] DelClient (192.168.1.8)
+14:20:18 [Obj][9001] AddClient (192.168.1.8)
+14:20:18 [Obj][9001] AddAccount (admin)
+14:20:59 [Obj][9001] LogOutCharacter (Phanh)
+14:20:59 [Obj][9001] LogOutCharacter ()
+14:20:59 [Obj][9001] DelAccount (admin)
+14:20:59 [Obj][9001] DelClient (192.168.1.8)
+14:22:44 [Obj][9000] AddClient (192.168.1.8)
+14:22:45 [Obj][9000] AddAccount (admin)
+14:22:56 [Obj][9000] LogOutCharacter (Phanh)
+14:22:56 [Obj][9000] LogOutCharacter ()
+14:22:56 [Obj][9000] DelAccount (admin)
+14:22:56 [Obj][9000] DelClient (192.168.1.8)
+14:23:31 [Obj][9001] AddClient (192.168.1.8)
+14:23:32 [Obj][9001] AddAccount (admin)
+14:23:54 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:23:54 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:24:44 [Obj][9001] LogOutCharacter (BePhanh)
+14:24:44 [Obj][9001] LogOutCharacter ()
+14:24:44 [Obj][9001] DelAccount (admin)
+14:24:44 [Obj][9001] DelClient (192.168.1.8)
+14:24:57 [Obj][9000] AddClient (192.168.1.8)
+14:24:58 [Obj][9000] AddAccount (admin)
+14:25:05 [Obj][9000] LogOutCharacter (Phanh)
+14:25:05 [Obj][9000] LogOutCharacter ()
+14:25:17 [Obj][9000] LogOutCharacter (BePhanh)
+14:25:17 [Obj][9000] LogOutCharacter ()
+14:25:17 [Obj][9000] DelAccount (admin)
+14:25:17 [Obj][9000] DelClient (192.168.1.8)
+14:25:27 [Obj][9001] AddClient (192.168.1.8)
+14:25:27 [Obj][9001] AddAccount (admin)
+14:25:57 [Obj][9001] LogOutCharacter (BePhanh)
+14:25:57 [Obj][9001] LogOutCharacter ()
+14:25:57 [Obj][9001] DelAccount (admin)
+14:25:57 [Obj][9001] DelClient (192.168.1.8)
+14:26:02 [Obj][9000] AddClient (192.168.1.8)
+14:26:03 [Obj][9000] AddAccount (admin)
+14:26:14 [Obj][9000] LogOutCharacter (Phanh)
+14:26:14 [Obj][9000] LogOutCharacter ()
+14:26:48 [Obj][9000] LogOutCharacter (BePhanh)
+14:26:48 [Obj][9000] LogOutCharacter ()
+14:27:34 [Obj][9000] LogOutCharacter (Phanh)
+14:27:34 [Obj][9000] LogOutCharacter ()
+14:27:34 [Obj][9000] DelAccount (admin)
+14:27:34 [Obj][9000] DelClient (192.168.1.8)
+14:27:44 [Obj][9001] AddClient (192.168.1.8)
+14:27:44 [Obj][9001] AddAccount (admin)
+14:28:35 [Obj][9001] LogOutCharacter (Phanh)
+14:28:35 [Obj][9001] LogOutCharacter ()
+14:28:35 [Obj][9001] DelAccount (admin)
+14:28:35 [Obj][9001] DelClient (192.168.1.8)
+14:28:49 [Obj][9000] AddClient (192.168.1.8)
+14:28:50 [Obj][9000] AddAccount (admin)
+14:28:55 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:28:55 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:28:56 [Obj][9000] LogOutCharacter (Phanh)
+14:28:56 [Obj][9000] LogOutCharacter ()
+14:28:56 [Obj][9000] DelAccount (admin)
+14:28:56 [Obj][9000] DelClient (192.168.1.8)
+14:29:09 [Obj][9001] AddClient (192.168.1.8)
+14:29:10 [Obj][9001] AddAccount (admin)
+14:29:37 [Obj][9001] LogOutCharacter (Phanh)
+14:29:37 [Obj][9001] LogOutCharacter ()
+14:29:37 [Obj][9001] DelAccount (admin)
+14:29:37 [Obj][9001] DelClient (192.168.1.8)
+14:29:51 [Obj][9000] AddClient (192.168.1.8)
+14:29:51 [Obj][9000] AddAccount (admin)
+14:30:05 [Obj][9000] LogOutCharacter (Phanh)
+14:30:05 [Obj][9000] LogOutCharacter ()
+14:30:05 [Obj][9000] DelAccount (admin)
+14:30:05 [Obj][9000] DelClient (192.168.1.8)
+14:30:20 [Obj][9001] AddClient (192.168.1.8)
+14:30:20 [Obj][9001] AddAccount (admin)
+14:30:24 [Obj][9001] LogOutCharacter (Phanh)
+14:30:24 [Obj][9001] LogOutCharacter ()
+14:30:24 [Obj][9001] DelAccount (admin)
+14:30:24 [Obj][9001] DelClient (192.168.1.8)
+14:31:05 [Obj][9000] AddClient (192.168.1.8)
+14:31:06 [Obj][9000] AddAccount (admin)
+14:31:53 [Obj][9000] LogOutCharacter (Phanh)
+14:31:53 [Obj][9000] LogOutCharacter ()
+14:31:53 [Obj][9000] DelAccount (admin)
+14:31:53 [Obj][9000] DelClient (192.168.1.8)
+14:32:03 [Obj][9001] AddClient (192.168.1.8)
+14:32:03 [Obj][9001] AddAccount (admin)
+14:32:41 [Obj][9001] LogOutCharacter (Phanh)
+14:32:41 [Obj][9001] LogOutCharacter ()
+14:32:41 [Obj][9001] DelAccount (admin)
+14:32:41 [Obj][9001] DelClient (192.168.1.8)
+14:32:50 [Obj][9000] AddClient (192.168.1.8)
+14:32:52 [Obj][9000] AddAccount (admin)
+14:33:11 [Obj][9000] LogOutCharacter (Phanh)
+14:33:11 [Obj][9000] LogOutCharacter ()
+14:33:11 [Obj][9000] DelAccount (admin)
+14:33:11 [Obj][9000] DelClient (192.168.1.8)
+14:33:26 [Obj][9001] AddClient (192.168.1.8)
+14:33:27 [Obj][9001] AddAccount (admin)
+14:33:42 [Obj][9001] LogOutCharacter (Phanh)
+14:33:42 [Obj][9001] LogOutCharacter ()
+14:33:42 [Obj][9001] DelAccount (admin)
+14:33:42 [Obj][9001] DelClient (192.168.1.8)
+14:33:56 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:33:56 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:34:46 [Obj][9000] AddClient (192.168.1.8)
+14:34:47 [Obj][9000] AddAccount (admin)
+14:34:54 [Obj][9000] LogOutCharacter (Phanh)
+14:34:54 [Obj][9000] LogOutCharacter ()
+14:34:54 [Obj][9000] DelAccount (admin)
+14:34:54 [Obj][9000] DelClient (192.168.1.8)
+14:35:55 [Obj][9001] AddClient (192.168.1.8)
+14:35:56 [Obj][9001] AddAccount (admin)
+14:36:01 [OnlineLoterry] Add Member (Phanh)
+14:36:01 [OnlineLoterry] Winner (Phanh)
+14:36:01 [admin][Phanh] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+14:36:10 [Obj][9001] LogOutCharacter (Phanh)
+14:36:10 [Obj][9001] LogOutCharacter ()
+14:36:10 [Obj][9001] DelAccount (admin)
+14:36:10 [Obj][9001] DelClient (192.168.1.8)
+14:37:35 [Obj][9000] AddClient (192.168.1.8)
+14:37:36 [Obj][9000] AddAccount (admin)
+14:37:46 [Obj][9000] LogOutCharacter (Phanh)
+14:37:46 [Obj][9000] LogOutCharacter ()
+14:37:46 [Obj][9000] DelAccount (admin)
+14:37:46 [Obj][9000] DelClient (192.168.1.8)
+14:38:31 [Obj][9001] AddClient (192.168.1.8)
+14:38:32 [Obj][9001] AddAccount (admin)
+14:38:43 [Obj][9001] LogOutCharacter (Phanh)
+14:38:43 [Obj][9001] LogOutCharacter ()
+14:38:43 [Obj][9001] DelAccount (admin)
+14:38:43 [Obj][9001] DelClient (192.168.1.8)
+14:38:57 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:38:57 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:39:03 [Obj][9000] AddClient (192.168.1.8)
+14:39:04 [Obj][9000] AddAccount (admin)
+14:39:08 [Obj][9000] LogOutCharacter (Phanh)
+14:39:08 [Obj][9000] LogOutCharacter ()
+14:39:08 [Obj][9000] DelAccount (admin)
+14:39:08 [Obj][9000] DelClient (192.168.1.8)
+14:39:27 [Obj][9001] AddClient (192.168.1.8)
+14:39:27 [Obj][9001] AddAccount (admin)
+14:39:33 [Obj][9001] LogOutCharacter (Phanh)
+14:39:33 [Obj][9001] LogOutCharacter ()
+14:39:33 [Obj][9001] DelAccount (admin)
+14:39:33 [Obj][9001] DelClient (192.168.1.8)
+14:39:48 [Obj][9000] AddClient (192.168.1.8)
+14:39:49 [Obj][9000] AddAccount (admin)
+14:40:00 [Obj][9000] LogOutCharacter (BePhanh)
+14:40:00 [Obj][9000] LogOutCharacter ()
+14:40:15 [Obj][9000] LogOutCharacter (Phanh)
+14:40:15 [Obj][9000] LogOutCharacter ()
+14:40:15 [Obj][9000] DelAccount (admin)
+14:40:15 [Obj][9000] DelClient (192.168.1.8)
+14:40:25 [Obj][9001] AddClient (192.168.1.8)
+14:40:26 [Obj][9001] AddAccount (admin)
+14:41:21 [Obj][9001] LogOutCharacter (Phanh)
+14:41:21 [Obj][9001] LogOutCharacter ()
+14:41:21 [Obj][9001] DelAccount (admin)
+14:41:21 [Obj][9001] DelClient (192.168.1.8)
+18:40:06 [ServerInfo] CashShop loaded successfully
+18:40:06 [ServerInfo] ChaosMix loaded successfully
+18:40:06 [ServerInfo] Character loaded successfully
+18:40:06 [FakeOnline] Load Data OK
+18:40:06 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+18:40:06 [EventTime] [1] Size 3 
+18:40:06 [CustomItemBank] (1) Load 10 Item In List
+18:40:06 [ServerInfo] Custom loaded successfully
+18:40:06 [ServerInfo] Command loaded successfully
+18:40:06 [ServerInfo] Common loaded successfully
+18:40:06 [ Crywolf ] State (0) -> NONE
+18:40:06 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+18:40:06 [ServerInfo] Event loaded successfully
+18:40:06 [ServerInfo] EventItemBag loaded successfully
+18:40:06 [ServerInfo] Hack loaded successfully
+18:40:06 [ServerInfo] Item loaded successfully
+18:40:06 [ServerInfo] Monster loaded successfully
+18:40:06 [ServerInfo] Move loaded successfully
+18:40:06 [ServerInfo] Quest loaded successfully
+18:40:06 [ServerInfo] Shop loaded successfully
+18:40:06 [ServerInfo] Skill loaded successfully
+18:40:06 [ServerInfo] Util loaded successfully
+18:40:06 [ReadBotInfo] BotSystem loaded successfully
+18:45:08 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:45:08 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:46:06 [Obj][9000] AddClient (192.168.1.8)
+18:46:07 [Obj][9000] AddAccount (admin)
+18:46:26 [Obj][9000] LogOutCharacter (Phanh)
+18:46:26 [Obj][9000] LogOutCharacter ()
+18:46:26 [Obj][9000] DelAccount (admin)
+18:46:26 [Obj][9000] DelClient (192.168.1.8)
+18:46:47 [Obj][9000] AddClient (192.168.1.8)
+18:46:48 [Obj][9000] AddAccount (admin)
+18:47:54 [Obj][9000] LogOutCharacter (Phanh)
+18:47:54 [Obj][9000] LogOutCharacter ()
+18:47:54 [Obj][9000] DelAccount (admin)
+18:47:54 [Obj][9000] DelClient (192.168.1.8)
+18:48:03 [Obj][9001] AddClient (192.168.1.8)
+18:48:03 [Obj][9001] AddAccount (admin)
+18:48:12 [Obj][9001] LogOutCharacter (Phanh)
+18:48:12 [Obj][9001] LogOutCharacter ()
+18:48:12 [Obj][9001] DelAccount (admin)
+18:48:12 [Obj][9001] DelClient (192.168.1.8)
+18:48:37 [Obj][9000] AddClient (192.168.1.8)
+18:48:38 [Obj][9000] AddAccount (admin)
+18:48:45 [Obj][9000] LogOutCharacter (Phanh)
+18:48:45 [Obj][9000] LogOutCharacter ()
+18:48:45 [Obj][9000] DelAccount (admin)
+18:48:45 [Obj][9000] DelClient (192.168.1.8)
+18:48:55 [Obj][9001] AddClient (192.168.1.8)
+18:48:56 [Obj][9001] AddAccount (admin)
+18:49:00 [Obj][9001] LogOutCharacter (Phanh)
+18:49:00 [Obj][9001] LogOutCharacter ()
+18:49:00 [Obj][9001] DelAccount (admin)
+18:49:00 [Obj][9001] DelClient (192.168.1.8)
+18:49:11 [Obj][9000] AddClient (192.168.1.8)
+18:49:12 [Obj][9000] AddAccount (admin)
+18:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 158 Y: 12)
+18:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 158 Y: 12)
+18:50:09 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:50:09 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:51:28 [Obj][9000] LogOutCharacter (Phanh)
+18:51:28 [Obj][9000] LogOutCharacter ()
+18:51:28 [Obj][9000] DelAccount (admin)
+18:51:28 [Obj][9000] DelClient (192.168.1.8)
+18:51:38 [Obj][9001] AddClient (192.168.1.8)
+18:51:39 [Obj][9001] AddAccount (admin)
+18:51:46 [Obj][9001] LogOutCharacter (Phanh)
+18:51:46 [Obj][9001] LogOutCharacter ()
+18:51:46 [Obj][9001] DelAccount (admin)
+18:51:46 [Obj][9001] DelClient (192.168.1.8)
+18:52:21 [Obj][9000] AddClient (192.168.1.8)
+18:52:22 [Obj][9000] AddAccount (admin)
+18:55:10 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:55:10 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:57:40 [Obj][9000] LogOutCharacter (Phanh)
+18:57:40 [Obj][9000] LogOutCharacter ()
+18:57:40 [Obj][9000] DelAccount (admin)
+18:57:40 [Obj][9000] DelClient (192.168.1.8)
+18:57:50 [Obj][9001] AddClient (192.168.1.8)
+18:57:50 [Obj][9001] AddAccount (admin)
+18:59:42 [Obj][9001] LogOutCharacter (Phanh)
+18:59:42 [Obj][9001] LogOutCharacter ()
+18:59:42 [Obj][9001] DelAccount (admin)
+18:59:42 [Obj][9001] DelClient (192.168.1.8)
+19:00:04 [Obj][9000] AddClient (192.168.1.8)
+19:00:05 [Obj][9000] AddAccount (admin)
+19:00:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:00:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:00:13 [Obj][9000] LogOutCharacter (Phanh)
+19:00:13 [Obj][9000] LogOutCharacter ()
+19:00:13 [Obj][9000] DelAccount (admin)
+19:00:13 [Obj][9000] DelClient (192.168.1.8)
+19:03:21 [Obj][9001] AddClient (192.168.1.8)
+19:03:21 [Obj][9001] AddAccount (admin)
+19:05:12 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:05:12 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:07:44 [Obj][9001] LogOutCharacter (Phanh)
+19:07:44 [Obj][9001] LogOutCharacter ()
+19:07:44 [Obj][9001] DelAccount (admin)
+19:07:44 [Obj][9001] DelClient (192.168.1.8)
+19:08:19 [Obj][9000] AddClient (192.168.1.8)
+19:08:20 [Obj][9000] AddAccount (admin)
+19:09:00 [Obj][9000] LogOutCharacter (Phanh)
+19:09:00 [Obj][9000] LogOutCharacter ()
+19:09:00 [Obj][9000] DelAccount (admin)
+19:09:00 [Obj][9000] DelClient (192.168.1.8)
+19:09:10 [Obj][9001] AddClient (192.168.1.8)
+19:09:11 [Obj][9001] AddAccount (admin)
+19:09:23 [Obj][9001] LogOutCharacter (Phanh)
+19:09:23 [Obj][9001] LogOutCharacter ()
+19:09:23 [Obj][9001] DelAccount (admin)
+19:09:23 [Obj][9001] DelClient (192.168.1.8)
+19:10:00 [CustomQuiz] Start
+19:10:13 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:10:13 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:10:21 [Obj][9000] AddClient (192.168.1.8)
+19:10:22 [Obj][9000] AddAccount (admin)
+19:13:00 [CustomQuiz] Finish
+19:13:05 [Obj][9000] LogOutCharacter (Phanh)
+19:13:05 [Obj][9000] LogOutCharacter ()
+19:13:05 [Obj][9000] DelAccount (admin)
+19:13:05 [Obj][9000] DelClient (192.168.1.8)
+19:13:16 [Obj][9001] AddClient (192.168.1.8)
+19:13:17 [Obj][9001] AddAccount (admin)
+19:13:24 [Obj][9001] LogOutCharacter (Phanh)
+19:13:24 [Obj][9001] LogOutCharacter ()
+19:13:24 [Obj][9001] DelAccount (admin)
+19:13:24 [Obj][9001] DelClient (192.168.1.8)
+19:14:03 [Obj][9000] AddClient (192.168.1.8)
+19:14:04 [Obj][9000] AddAccount (admin)
+19:14:32 [Obj][9000] LogOutCharacter (Phanh)
+19:14:32 [Obj][9000] LogOutCharacter ()
+19:14:32 [Obj][9000] DelAccount (admin)
+19:14:32 [Obj][9000] DelClient (192.168.1.8)
+19:14:57 [Obj][9001] AddClient (192.168.1.8)
+19:14:57 [Obj][9001] AddAccount (admin)
+19:15:03 [Obj][9001] LogOutCharacter (Phanh)
+19:15:03 [Obj][9001] LogOutCharacter ()
+19:15:03 [Obj][9001] DelAccount (admin)
+19:15:03 [Obj][9001] DelClient (192.168.1.8)
+19:15:14 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:15:14 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:15:19 [Obj][9000] AddClient (192.168.1.8)
+19:15:20 [Obj][9000] AddAccount (admin)
+19:15:27 [Obj][9000] LogOutCharacter (Phanh)
+19:15:27 [Obj][9000] LogOutCharacter ()
+19:15:27 [Obj][9000] DelAccount (admin)
+19:15:27 [Obj][9000] DelClient (192.168.1.8)
+19:15:40 [Obj][9001] AddClient (192.168.1.8)
+19:15:41 [Obj][9001] AddAccount (admin)
+19:15:49 [Obj][9001] LogOutCharacter (Phanh)
+19:15:49 [Obj][9001] LogOutCharacter ()
+19:15:49 [Obj][9001] DelAccount (admin)
+19:15:49 [Obj][9001] DelClient (192.168.1.8)
+19:16:06 [Obj][9000] AddClient (192.168.1.8)
+19:16:06 [Obj][9000] AddAccount (admin)
+19:16:10 [Obj][9000] LogOutCharacter (Phanh)
+19:16:10 [Obj][9000] LogOutCharacter ()
+19:16:10 [Obj][9000] DelAccount (admin)
+19:16:10 [Obj][9000] DelClient (192.168.1.8)
+19:16:27 [Obj][9001] AddClient (192.168.1.8)
+19:16:27 [Obj][9001] AddAccount (admin)
+19:17:37 [Obj][9000] AddClient (192.168.1.8)
+19:17:38 [Obj][9000] AddAccount (game)
+19:18:06 [Obj][9000] LogOutCharacter (GameMaster)
+19:18:06 [Obj][9000] LogOutCharacter ()
+19:18:06 [Obj][9000] DelAccount (game)
+19:18:06 [Obj][9000] DelClient (192.168.1.8)
+19:18:08 [Obj][9001] LogOutCharacter (Phanh)
+19:18:08 [Obj][9001] LogOutCharacter ()
+19:18:08 [Obj][9001] DelAccount (admin)
+19:18:08 [Obj][9001] DelClient (192.168.1.8)
+19:18:20 [Obj][9000] AddClient (192.168.1.8)
+19:18:26 [Obj][9000] AddAccount (game)
+19:18:47 [Obj][9000] LogOutCharacter (GameMaster)
+19:18:47 [Obj][9000] LogOutCharacter ()
+19:18:47 [Obj][9000] DelAccount (game)
+19:18:47 [Obj][9000] DelClient (192.168.1.8)
+19:19:22 [Obj][9001] AddClient (192.168.1.8)
+19:19:23 [Obj][9001] AddAccount (game)
+19:19:46 [Obj][9001] LogOutCharacter (GameMaster)
+19:19:46 [Obj][9001] LogOutCharacter ()
+19:19:46 [Obj][9001] DelAccount (game)
+19:19:46 [Obj][9001] DelClient (192.168.1.8)
+19:20:00 [Obj][9000] AddClient (192.168.1.8)
+19:20:01 [Obj][9000] AddAccount (game)
+19:20:13 [Obj][9000] LogOutCharacter (GameMaster)
+19:20:13 [Obj][9000] LogOutCharacter ()
+19:20:13 [Obj][9000] DelAccount (game)
+19:20:13 [Obj][9000] DelClient (192.168.1.8)
+19:20:15 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:20:15 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:20:43 [Obj][9001] AddClient (192.168.1.8)
+19:20:44 [Obj][9001] AddAccount (game)
+19:20:49 [Obj][9001] LogOutCharacter (GameMaster)
+19:20:49 [Obj][9001] LogOutCharacter ()
+19:20:49 [Obj][9001] DelAccount (game)
+19:20:49 [Obj][9001] DelClient (192.168.1.8)
+19:22:08 [Obj][9000] AddClient (192.168.1.8)
+19:22:09 [Obj][9000] AddAccount (game)
+19:22:26 [Obj][9000] LogOutCharacter (GameMaster)
+19:22:26 [Obj][9000] LogOutCharacter ()
+19:22:41 [Obj][9000] LogOutCharacter (TESTDL)
+19:22:41 [Obj][9000] LogOutCharacter ()
+19:22:41 [Obj][9000] DelAccount (game)
+19:22:41 [Obj][9000] DelClient (192.168.1.8)
+19:22:41 [Obj][9001] AddClient (192.168.1.8)
+19:22:43 [Obj][9001] AddAccount (admin)
+19:23:51 [Obj][9001] LogOutCharacter (Phanh)
+19:23:51 [Obj][9001] LogOutCharacter ()
+19:23:51 [Obj][9001] DelAccount (admin)
+19:23:51 [Obj][9001] DelClient (192.168.1.8)
+19:24:13 [Obj][9000] AddClient (192.168.1.8)
+19:24:14 [Obj][9000] AddAccount (admin)
+19:24:23 [Obj][9000] LogOutCharacter (BePhanh)
+19:24:23 [Obj][9000] LogOutCharacter ()
+19:24:33 [Obj][9000] LogOutCharacter (Phanh)
+19:24:33 [Obj][9000] LogOutCharacter ()
+19:24:33 [Obj][9000] DelAccount (admin)
+19:24:33 [Obj][9000] DelClient (192.168.1.8)
+19:25:16 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:25:16 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:26:10 [Obj][9001] AddClient (192.168.1.8)
+19:26:10 [Obj][9001] AddAccount (admin)
+19:26:25 [Obj][9001] LogOutCharacter (TESTRF)
+19:26:25 [Obj][9001] LogOutCharacter ()
+19:26:34 [Obj][9001] LogOutCharacter (BePhanh)
+19:26:34 [Obj][9001] LogOutCharacter ()
+19:26:34 [Obj][9001] DelAccount (admin)
+19:26:34 [Obj][9001] DelClient (192.168.1.8)
+19:29:47 [Obj][9000] AddClient (192.168.1.8)
+19:29:48 [Obj][9000] AddAccount (admin)
+19:30:00 [Obj][9000] LogOutCharacter (BePhanh)
+19:30:00 [Obj][9000] LogOutCharacter ()
+19:30:17 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:30:17 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:30:45 [Obj][9000] LogOutCharacter (Phanh)
+19:30:45 [Obj][9000] LogOutCharacter ()
+19:30:59 [Obj][9000] LogOutCharacter (Admin)
+19:30:59 [Obj][9000] LogOutCharacter ()
+19:31:05 [Obj][9000] DelAccount (admin)
+19:31:05 [Obj][9000] DelClient (192.168.1.8)
+19:31:09 [Obj][9001] AddClient (192.168.1.8)
+19:31:10 [Obj][9001] AddAccount (game)
+19:31:23 [Obj][9001] LogOutCharacter (GameMaster)
+19:31:23 [Obj][9001] LogOutCharacter ()
+19:31:23 [Obj][9001] DelAccount (game)
+19:31:23 [Obj][9001] DelClient (192.168.1.8)
+19:31:32 [Obj][9000] AddClient (192.168.1.8)
+19:31:33 [Obj][9000] AddAccount (game)
+19:31:50 [Obj][9000] LogOutCharacter (GameMaster)
+19:31:50 [Obj][9000] LogOutCharacter ()
+19:31:50 [Obj][9000] DelAccount (game)
+19:31:50 [Obj][9000] DelClient (192.168.1.8)
+19:31:50 [Obj][9001] AddClient (192.168.1.8)
+19:31:52 [Obj][9001] AddAccount (admin)
+19:32:10 [Obj][9001] LogOutCharacter (Phanh)
+19:32:10 [Obj][9001] LogOutCharacter ()
+19:32:10 [Obj][9001] DelAccount (admin)
+19:32:10 [Obj][9001] DelClient (192.168.1.8)
+19:32:11 [Obj][9000] AddClient (192.168.1.8)
+19:32:12 [Obj][9000] AddAccount (game)
+19:32:23 [Obj][9000] LogOutCharacter (GameMaster)
+19:32:23 [Obj][9000] LogOutCharacter ()
+19:32:23 [Obj][9000] DelAccount (game)
+19:32:23 [Obj][9000] DelClient (192.168.1.8)
+19:32:30 [Obj][9001] AddClient (192.168.1.8)
+19:32:31 [Obj][9001] AddAccount (game)
+19:33:07 [Obj][9001] LogOutCharacter (GameMaster)
+19:33:07 [Obj][9001] LogOutCharacter ()
+19:33:12 [Obj][9001] LogOutCharacter (TESTSD)
+19:33:12 [Obj][9001] LogOutCharacter ()
+19:33:12 [Obj][9001] DelAccount (game)
+19:33:12 [Obj][9001] DelClient (192.168.1.8)
+19:33:22 [Obj][9000] AddClient (192.168.1.8)
+19:33:24 [Obj][9000] AddAccount (admin)
+19:34:23 [Obj][9001] AddClient (192.168.1.8)
+19:34:24 [Obj][9001] AddAccount (game)
+19:35:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:35:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:36:01 [OnlineLoterry] Add Member (Phanh)
+19:36:01 [OnlineLoterry] Add Member (TESTSD)
+19:36:01 [OnlineLoterry] Winner (TESTSD)
+19:36:01 [game][TESTSD] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+19:36:03 [Obj][9001] LogOutCharacter (TESTSD)
+19:36:03 [Obj][9001] LogOutCharacter ()
+19:36:03 [Obj][9001] DelAccount (game)
+19:36:03 [Obj][9001] DelClient (192.168.1.8)
+19:36:04 [Obj][9000] LogOutCharacter (Phanh)
+19:36:04 [Obj][9000] LogOutCharacter ()
+19:36:04 [Obj][9000] DelAccount (admin)
+19:36:04 [Obj][9000] DelClient (192.168.1.8)
+19:40:19 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:40:19 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:45:20 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:45:20 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:50:21 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:50:21 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:55:22 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:55:22 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:00:23 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:00:23 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 196 Y: 84)
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 196 Y: 84)
+20:05:24 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:05:24 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:10:00 [CustomQuiz] Start
+20:10:25 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:10:25 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:13:00 [CustomQuiz] Finish
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 204 Y: 234)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 204 Y: 234)
+20:15:26 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:15:26 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:20:27 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:20:27 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 139 Y: 151)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 139 Y: 151)
+20:25:28 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:25:28 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:30:29 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:30:29 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:35:30 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:35:30 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:36:01 [OnlineLoterry] No Winner
+20:40:31 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:40:31 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:45:34 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:45:34 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 203 Y: 72)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 203 Y: 72)
+20:50:35 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:50:35 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:55:36 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:55:36 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:21:57 [ServerInfo] CashShop loaded successfully
+21:21:57 [ServerInfo] ChaosMix loaded successfully
+21:21:57 [ServerInfo] Character loaded successfully
+21:21:57 [FakeOnline] Load Data OK
+21:21:57 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+21:21:57 [EventTime] [1] Size 3 
+21:21:57 [CustomItemBank] (1) Load 10 Item In List
+21:21:57 [ServerInfo] Custom loaded successfully
+21:21:57 [ServerInfo] Command loaded successfully
+21:21:57 [ServerInfo] Common loaded successfully
+21:21:57 [ Crywolf ] State (0) -> NONE
+21:21:57 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+21:21:57 [ServerInfo] Event loaded successfully
+21:21:57 [ServerInfo] EventItemBag loaded successfully
+21:21:57 [ServerInfo] Hack loaded successfully
+21:21:57 [ServerInfo] Item loaded successfully
+21:21:57 [ServerInfo] Monster loaded successfully
+21:21:57 [ServerInfo] Move loaded successfully
+21:21:57 [ServerInfo] Quest loaded successfully
+21:21:57 [ServerInfo] Shop loaded successfully
+21:21:57 [ServerInfo] Skill loaded successfully
+21:21:57 [ServerInfo] Util loaded successfully
+21:21:57 [ReadBotInfo] BotSystem loaded successfully
+21:26:58 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:26:58 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:31:59 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:31:59 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:36:01 [OnlineLoterry] No Winner
+21:37:00 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:37:00 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:42:01 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:42:01 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:47:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:47:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:52:03 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:52:03 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:57:04 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:57:04 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:01:04 [ServerInfo] CashShop loaded successfully
+22:01:04 [ServerInfo] ChaosMix loaded successfully
+22:01:04 [ServerInfo] Character loaded successfully
+22:01:04 [FakeOnline] Load Data OK
+22:01:04 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:01:04 [EventTime] [1] Size 3 
+22:01:04 [CustomItemBank] (1) Load 10 Item In List
+22:01:04 [ServerInfo] Custom loaded successfully
+22:01:04 [ServerInfo] Command loaded successfully
+22:01:04 [ServerInfo] Common loaded successfully
+22:01:04 [ Crywolf ] State (0) -> NONE
+22:01:04 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:01:04 [ServerInfo] Event loaded successfully
+22:01:04 [ServerInfo] EventItemBag loaded successfully
+22:01:04 [ServerInfo] Hack loaded successfully
+22:01:04 [ServerInfo] Item loaded successfully
+22:01:04 [ServerInfo] Monster loaded successfully
+22:01:04 [ServerInfo] Move loaded successfully
+22:01:04 [ServerInfo] Quest loaded successfully
+22:01:04 [ServerInfo] Shop loaded successfully
+22:01:04 [ServerInfo] Skill loaded successfully
+22:01:04 [ServerInfo] Util loaded successfully
+22:01:04 [ReadBotInfo] BotSystem loaded successfully
+22:01:16 [Obj][9000] AddClient (192.168.1.8)
+22:01:32 [Obj][9000] DelClient (192.168.1.8)
+22:01:38 [Obj][9001] AddClient (192.168.1.8)
+22:01:39 [JGAccountAlreadyConnectedRecv] Invalid Account [9000](game)
+22:02:08 [Obj][9001] DelClient (192.168.1.8)
+22:02:41 [ServerInfo] CashShop loaded successfully
+22:02:41 [ServerInfo] ChaosMix loaded successfully
+22:02:41 [ServerInfo] Character loaded successfully
+22:02:41 [FakeOnline] Load Data OK
+22:02:41 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:02:41 [EventTime] [1] Size 3 
+22:02:41 [CustomItemBank] (1) Load 10 Item In List
+22:02:41 [ServerInfo] Custom loaded successfully
+22:02:41 [ServerInfo] Command loaded successfully
+22:02:41 [ServerInfo] Common loaded successfully
+22:02:41 [ Crywolf ] State (0) -> NONE
+22:02:41 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:02:41 [ServerInfo] Event loaded successfully
+22:02:41 [ServerInfo] EventItemBag loaded successfully
+22:02:41 [ServerInfo] Hack loaded successfully
+22:02:41 [ServerInfo] Item loaded successfully
+22:02:41 [ServerInfo] Monster loaded successfully
+22:02:41 [ServerInfo] Move loaded successfully
+22:02:41 [ServerInfo] Quest loaded successfully
+22:02:41 [ServerInfo] Shop loaded successfully
+22:02:41 [ServerInfo] Skill loaded successfully
+22:02:41 [ServerInfo] Util loaded successfully
+22:02:41 [ReadBotInfo] BotSystem loaded successfully
+22:03:54 [ServerInfo] CashShop loaded successfully
+22:03:54 [ServerInfo] ChaosMix loaded successfully
+22:03:54 [ServerInfo] Character loaded successfully
+22:03:54 [FakeOnline] Load Data OK
+22:03:54 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:03:54 [EventTime] [1] Size 3 
+22:03:54 [CustomItemBank] (1) Load 10 Item In List
+22:03:54 [ServerInfo] Custom loaded successfully
+22:03:54 [ServerInfo] Command loaded successfully
+22:03:54 [ServerInfo] Common loaded successfully
+22:03:54 [ Crywolf ] State (0) -> NONE
+22:03:54 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:03:54 [ServerInfo] Event loaded successfully
+22:03:54 [ServerInfo] EventItemBag loaded successfully
+22:03:54 [ServerInfo] Hack loaded successfully
+22:03:54 [ServerInfo] Item loaded successfully
+22:03:54 [ServerInfo] Monster loaded successfully
+22:03:54 [ServerInfo] Move loaded successfully
+22:03:54 [ServerInfo] Quest loaded successfully
+22:03:54 [ServerInfo] Shop loaded successfully
+22:03:54 [ServerInfo] Skill loaded successfully
+22:03:54 [ServerInfo] Util loaded successfully
+22:03:54 [ReadBotInfo] BotSystem loaded successfully
+22:04:24 [Obj][9000] AddClient (192.168.1.8)
+22:04:25 [Obj][9000] AddAccount (game)
+22:05:12 [Obj][9001] AddClient (192.168.1.8)
+22:05:14 [Obj][9001] AddAccount (admin)
+22:06:15 [ServerInfo] CashShop loaded successfully
+22:06:15 [ServerInfo] ChaosMix loaded successfully
+22:06:15 [ServerInfo] Character loaded successfully
+22:06:15 [FakeOnline] Load Data OK
+22:06:15 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:06:15 [EventTime] [1] Size 3 
+22:06:15 [CustomItemBank] (1) Load 10 Item In List
+22:06:15 [ServerInfo] Custom loaded successfully
+22:06:15 [ServerInfo] Command loaded successfully
+22:06:15 [ServerInfo] Common loaded successfully
+22:06:15 [ Crywolf ] State (0) -> NONE
+22:06:15 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:06:15 [ServerInfo] Event loaded successfully
+22:06:16 [ServerInfo] EventItemBag loaded successfully
+22:06:16 [ServerInfo] Hack loaded successfully
+22:06:16 [ServerInfo] Item loaded successfully
+22:06:16 [ServerInfo] Monster loaded successfully
+22:06:16 [ServerInfo] Move loaded successfully
+22:06:16 [ServerInfo] Quest loaded successfully
+22:06:16 [ServerInfo] Shop loaded successfully
+22:06:16 [ServerInfo] Skill loaded successfully
+22:06:16 [ServerInfo] Util loaded successfully
+22:06:16 [ReadBotInfo] BotSystem loaded successfully
+22:06:25 [Obj][9000] AddClient (192.168.1.8)
+22:06:27 [Obj][9000] AddAccount (admin)
+22:06:27 [Obj][9001] AddClient (192.168.1.8)
+22:06:27 [ OfflindeRestore ]  [game|TESTDL] restored
+22:07:21 [ServerInfo] Util loaded successfully
+22:10:00 [CustomQuiz] Start
+22:11:04 [ServerInfo] CashShop loaded successfully
+22:11:04 [ServerInfo] ChaosMix loaded successfully
+22:11:04 [ServerInfo] Character loaded successfully
+22:11:04 [FakeOnline] Load Data OK
+22:11:04 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:11:04 [EventTime] [1] Size 3 
+22:11:04 [CustomItemBank] (1) Load 10 Item In List
+22:11:04 [ServerInfo] Custom loaded successfully
+22:11:04 [ServerInfo] Command loaded successfully
+22:11:04 [ServerInfo] Common loaded successfully
+22:11:04 [ Crywolf ] State (0) -> NONE
+22:11:04 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:11:04 [ServerInfo] Event loaded successfully
+22:11:04 [ServerInfo] EventItemBag loaded successfully
+22:11:04 [ServerInfo] Hack loaded successfully
+22:11:04 [ServerInfo] Item loaded successfully
+22:11:04 [ServerInfo] Monster loaded successfully
+22:11:04 [ServerInfo] Move loaded successfully
+22:11:04 [ServerInfo] Quest loaded successfully
+22:11:04 [ServerInfo] Shop loaded successfully
+22:11:04 [ServerInfo] Skill loaded successfully
+22:11:04 [ServerInfo] Util loaded successfully
+22:11:04 [ReadBotInfo] BotSystem loaded successfully
+22:11:06 [Obj][9000] AddClient (192.168.1.8)
+22:11:15 [Obj][9001] AddClient (192.168.1.8)
+22:11:15 [ OfflindeRestore ]  [game|TESTDL] restored
+22:11:16 [Obj][9000] AddAccount (admin)
+22:14:25 [ServerInfo] CashShop loaded successfully
+22:14:25 [ServerInfo] ChaosMix loaded successfully
+22:14:25 [ServerInfo] Character loaded successfully
+22:14:25 [FakeOnline] Load Data OK
+22:14:25 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:14:25 [EventTime] [1] Size 3 
+22:14:25 [CustomItemBank] (1) Load 10 Item In List
+22:14:25 [ServerInfo] Custom loaded successfully
+22:14:25 [ServerInfo] Command loaded successfully
+22:14:25 [ServerInfo] Common loaded successfully
+22:14:25 [ Crywolf ] State (0) -> NONE
+22:14:25 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:14:25 [ServerInfo] Event loaded successfully
+22:14:25 [ServerInfo] EventItemBag loaded successfully
+22:14:25 [ServerInfo] Hack loaded successfully
+22:14:25 [ServerInfo] Item loaded successfully
+22:14:25 [ServerInfo] Monster loaded successfully
+22:14:25 [ServerInfo] Move loaded successfully
+22:14:25 [ServerInfo] Quest loaded successfully
+22:14:25 [ServerInfo] Shop loaded successfully
+22:14:26 [ServerInfo] Skill loaded successfully
+22:14:26 [ServerInfo] Util loaded successfully
+22:14:26 [ReadBotInfo] BotSystem loaded successfully
+22:14:33 [Obj][9000] AddClient (192.168.1.8)
+22:14:37 [Obj][9001] AddClient (192.168.1.8)
+22:14:37  SEND REQUEST login acc game Pass 
+22:14:37 [ OfflindeRestore ]  [game|TESTDL] restored
+22:14:43  SEND REQUEST login acc admin Pass 1
+22:14:43 [Obj][9000] AddAccount (admin)
+22:17:09 [ServerInfo] CashShop loaded successfully
+22:17:09 [ServerInfo] ChaosMix loaded successfully
+22:17:09 [ServerInfo] Character loaded successfully
+22:17:09 [FakeOnline] Load Data OK
+22:17:09 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:17:09 [EventTime] [1] Size 3 
+22:17:09 [CustomItemBank] (1) Load 10 Item In List
+22:17:09 [ServerInfo] Custom loaded successfully
+22:17:09 [ServerInfo] Command loaded successfully
+22:17:09 [ServerInfo] Common loaded successfully
+22:17:09 [ Crywolf ] State (0) -> NONE
+22:17:09 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:17:09 [ServerInfo] Event loaded successfully
+22:17:09 [ServerInfo] EventItemBag loaded successfully
+22:17:09 [ServerInfo] Hack loaded successfully
+22:17:09 [ServerInfo] Item loaded successfully
+22:17:09 [ServerInfo] Monster loaded successfully
+22:17:09 [ServerInfo] Move loaded successfully
+22:17:09 [ServerInfo] Quest loaded successfully
+22:17:09 [ServerInfo] Shop loaded successfully
+22:17:09 [ServerInfo] Skill loaded successfully
+22:17:09 [ServerInfo] Util loaded successfully
+22:17:09 [ReadBotInfo] BotSystem loaded successfully
+22:17:20 [Obj][9000] AddClient (192.168.1.8)
+22:17:20 Acc game Passs 
+22:17:20  SEND REQUEST login acc game Pass 
+22:17:20 [ OfflindeRestore ]  [game|TESTDL] restored
+22:17:37 [Obj][9001] AddClient (192.168.1.8)
+22:17:47  SEND REQUEST login acc admin Pass 1
+22:17:47 [Obj][9001] AddAccount (admin)
+22:18:26 [ServerInfo] CashShop loaded successfully
+22:18:26 [ServerInfo] ChaosMix loaded successfully
+22:18:26 [ServerInfo] Character loaded successfully
+22:18:26 [FakeOnline] Load Data OK
+22:18:26 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:18:26 [EventTime] [1] Size 3 
+22:18:26 [CustomItemBank] (1) Load 10 Item In List
+22:18:26 [ServerInfo] Custom loaded successfully
+22:18:26 [ServerInfo] Command loaded successfully
+22:18:26 [ServerInfo] Common loaded successfully
+22:18:26 [ Crywolf ] State (0) -> NONE
+22:18:26 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:18:26 [ServerInfo] Event loaded successfully
+22:18:26 [ServerInfo] EventItemBag loaded successfully
+22:18:26 [ServerInfo] Hack loaded successfully
+22:18:26 [ServerInfo] Item loaded successfully
+22:18:26 [ServerInfo] Monster loaded successfully
+22:18:26 [ServerInfo] Move loaded successfully
+22:18:26 [ServerInfo] Quest loaded successfully
+22:18:26 [ServerInfo] Shop loaded successfully
+22:18:26 [ServerInfo] Skill loaded successfully
+22:18:26 [ServerInfo] Util loaded successfully
+22:18:26 [ReadBotInfo] BotSystem loaded successfully
+22:18:52 [Obj][9000] AddClient (192.168.1.8)
+22:19:02  SEND REQUEST login acc admin Pass 1
+22:19:02 [Obj][9000] AddAccount (admin)
+22:21:18 [ServerInfo] CashShop loaded successfully
+22:21:18 [ServerInfo] ChaosMix loaded successfully
+22:21:18 [ServerInfo] Character loaded successfully
+22:21:18 [FakeOnline] Load Data OK
+22:21:18 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:21:18 [EventTime] [1] Size 3 
+22:21:18 [CustomItemBank] (1) Load 10 Item In List
+22:21:18 [ServerInfo] Custom loaded successfully
+22:21:18 [ServerInfo] Command loaded successfully
+22:21:18 [ServerInfo] Common loaded successfully
+22:21:18 [ Crywolf ] State (0) -> NONE
+22:21:18 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:21:19 [ServerInfo] Event loaded successfully
+22:21:19 [ServerInfo] EventItemBag loaded successfully
+22:21:19 [ServerInfo] Hack loaded successfully
+22:21:19 [ServerInfo] Item loaded successfully
+22:21:19 [ServerInfo] Monster loaded successfully
+22:21:19 [ServerInfo] Move loaded successfully
+22:21:19 [ServerInfo] Quest loaded successfully
+22:21:19 [ServerInfo] Shop loaded successfully
+22:21:19 [ServerInfo] Skill loaded successfully
+22:21:19 [ServerInfo] Util loaded successfully
+22:21:19 [ReadBotInfo] BotSystem loaded successfully
+22:21:22 [Obj][9000] AddClient (192.168.1.8)
+22:21:30 [Obj][9000] DelClient (192.168.1.8)
+22:21:44 [Obj][9000] AddClient (192.168.1.8)
+22:21:49  SEND REQUEST login acc game Pass 1
+22:21:49 [Obj][9000] AddAccount (game)
+22:21:58 Pass game 1 
+22:22:09 [Obj][9001] AddClient (192.168.1.8)
+22:22:13  SEND REQUEST login acc admin Pass 1
+22:22:13 [Obj][9001] AddAccount (admin)
+22:22:25 [ServerInfo] CashShop loaded successfully
+22:22:25 [ServerInfo] ChaosMix loaded successfully
+22:22:25 [ServerInfo] Character loaded successfully
+22:22:25 [FakeOnline] Load Data OK
+22:22:25 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:22:25 [EventTime] [1] Size 3 
+22:22:25 [CustomItemBank] (1) Load 10 Item In List
+22:22:25 [ServerInfo] Custom loaded successfully
+22:22:25 [ServerInfo] Command loaded successfully
+22:22:25 [ServerInfo] Common loaded successfully
+22:22:25 [ Crywolf ] State (0) -> NONE
+22:22:25 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:22:25 [ServerInfo] Event loaded successfully
+22:22:25 [ServerInfo] EventItemBag loaded successfully
+22:22:25 [ServerInfo] Hack loaded successfully
+22:22:25 [ServerInfo] Item loaded successfully
+22:22:25 [ServerInfo] Monster loaded successfully
+22:22:25 [ServerInfo] Move loaded successfully
+22:22:25 [ServerInfo] Quest loaded successfully
+22:22:25 [ServerInfo] Shop loaded successfully
+22:22:25 [ServerInfo] Skill loaded successfully
+22:22:25 [ServerInfo] Util loaded successfully
+22:22:25 [ReadBotInfo] BotSystem loaded successfully
+22:22:35 [Obj][9000] AddClient (192.168.1.8)
+22:22:36 [Obj][9001] AddClient (192.168.1.8)
+22:22:36 Acc game Passs 1
+22:22:36  SEND REQUEST login acc game Pass 1
+22:22:36 [ OfflindeRestore ]  [game|TESTDL] restored
+22:22:36 Send Info
+22:22:36 [Obj][9001] AddAccount (game)
+22:22:36 [FakeOnline][Obj][9001] (GameMaster) FakeOnline (1) IsFakeRegen 0  OK
+22:22:36 [Obj][9001] LogOutCharacter (TESTDL)
+22:22:36 [Obj][9001] LogOutCharacter ()
+22:22:36 [Obj][9001] DelAccount (game)
+22:22:36 [Obj][9001] DelClient (192.168.1.8)
+22:22:37 [OfflindeRestore][Obj][9001] AddCharacterInfo () OK Skill (74) Range (1)
+22:22:37 [DGOptionDataRecv] Invalid Account [9001](game)
+22:22:37 [DGQuestKillCountRecv] Invalid Account [9001](game)
+22:22:37 [DGMasterSkillTreeRecv] Invalid Account [9001](game)
+22:22:37 [DGQuestWorldRecv] Invalid Account [9001](game)
+22:22:37 [DGGensSystemMemberRecv] Invalid Account [9001](game)
+22:22:37 [DGHelperDataRecv] Invalid Account [9001](game)
+22:22:37 [DGCashShopPeriodicItemRecv] Invalid Account [9001](game)
+22:22:37 [DGCashShopPointRecv] Invalid Account [9001](game)
+22:22:37  SEND REQUEST login acc admin Pass 1
+22:22:37 [Obj][9000] AddAccount (admin)
+22:23:21 [ServerInfo] CashShop loaded successfully
+22:23:21 [ServerInfo] ChaosMix loaded successfully
+22:23:21 [ServerInfo] Character loaded successfully
+22:23:21 [FakeOnline] Load Data OK
+22:23:21 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:23:21 [EventTime] [1] Size 3 
+22:23:21 [CustomItemBank] (1) Load 10 Item In List
+22:23:21 [ServerInfo] Custom loaded successfully
+22:23:21 [ServerInfo] Command loaded successfully
+22:23:21 [ServerInfo] Common loaded successfully
+22:23:21 [ Crywolf ] State (0) -> NONE
+22:23:21 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:23:21 [ServerInfo] Event loaded successfully
+22:23:21 [ServerInfo] EventItemBag loaded successfully
+22:23:21 [ServerInfo] Hack loaded successfully
+22:23:21 [ServerInfo] Item loaded successfully
+22:23:22 [ServerInfo] Monster loaded successfully
+22:23:22 [ServerInfo] Move loaded successfully
+22:23:22 [ServerInfo] Quest loaded successfully
+22:23:22 [ServerInfo] Shop loaded successfully
+22:23:22 [ServerInfo] Skill loaded successfully
+22:23:22 [ServerInfo] Util loaded successfully
+22:23:22 [ReadBotInfo] BotSystem loaded successfully
+22:23:33 [Obj][9000] AddClient (192.168.1.8)
+22:23:33 Acc game Passs 1
+22:23:33  SEND REQUEST login acc game Pass 1
+22:23:33 [ OfflindeRestore ]  [game|TESTDL] restored
+22:23:33 Send Info
+22:23:33 [Obj][9000] AddAccount (game)
+22:23:33 [FakeOnline][Obj][9000] (GameMaster) FakeOnline (1) IsFakeRegen 0  OK
+22:23:33 [Obj][9000] LogOutCharacter (TESTDL)
+22:23:33 [Obj][9000] LogOutCharacter ()
+22:23:33 [Obj][9000] DelAccount (game)
+22:23:33 [Obj][9000] DelClient (192.168.1.8)
+22:23:33 [OfflindeRestore][Obj][9000] AddCharacterInfo () OK Skill (74) Range (1)
+22:23:33 [DGOptionDataRecv] Invalid Account [9000](game)
+22:23:33 [DGQuestKillCountRecv] Invalid Account [9000](game)
+22:23:33 [DGMasterSkillTreeRecv] Invalid Account [9000](game)
+22:23:33 [DGQuestWorldRecv] Invalid Account [9000](game)
+22:23:33 [DGGensSystemMemberRecv] Invalid Account [9000](game)
+22:23:33 [DGHelperDataRecv] Invalid Account [9000](game)
+22:23:33 [DGCashShopPeriodicItemRecv] Invalid Account [9000](game)
+22:23:33 [DGCashShopPointRecv] Invalid Account [9000](game)
+22:27:01 aIndex = 9000
+22:27:01 [Obj][9000] AddClient (127.0.0.1)
+22:27:01  SEND REQUEST login acc game Pass 1
+22:27:01 [FakeOnline]  [TK: game NV: GameMaster] Online
+22:27:01 Send Info
+22:27:01 [Obj][9000] AddAccount (game)
+22:27:01 [FakeOnline][Obj][9000] (GameMaster) FakeOnline (1) IsFakeRegen 0  OK
+22:27:01 [Obj][9000] LogOutCharacter (TESTDL)
+22:27:01 [Obj][9000] LogOutCharacter ()
+22:27:01 [Obj][9000] DelAccount (game)
+22:27:01 [Obj][9000] DelClient (127.0.0.1)
+22:27:01 [OfflindeRestore][Obj][9000] AddCharacterInfo () OK Skill (74) Range (1)
+22:27:01 [DGOptionDataRecv] Invalid Account [9000](game)
+22:27:01 [DGQuestKillCountRecv] Invalid Account [9000](game)
+22:27:01 [DGMasterSkillTreeRecv] Invalid Account [9000](game)
+22:27:01 [DGQuestWorldRecv] Invalid Account [9000](game)
+22:27:01 [DGGensSystemMemberRecv] Invalid Account [9000](game)
+22:27:01 [DGHelperDataRecv] Invalid Account [9000](game)
+22:27:01 [DGCashShopPeriodicItemRecv] Invalid Account [9000](game)
+22:27:01 [DGCashShopPointRecv] Invalid Account [9000](game)
+22:27:09 aIndex = 9001
+22:27:09 [Obj][9001] AddClient (127.0.0.1)
+22:27:09  SEND REQUEST login acc game Pass 1
+22:27:09 [FakeOnline]  [TK: game NV: GameMaster] Online
+22:27:09 Send Info
+22:27:09 [Obj][9001] AddAccount (game)
+22:27:09 [FakeOnline][Obj][9001] (GameMaster) FakeOnline (1) IsFakeRegen 0  OK
+22:27:09 [Obj][9001] LogOutCharacter (TESTDL)
+22:27:09 [Obj][9001] LogOutCharacter ()
+22:27:09 [Obj][9001] DelAccount (game)
+22:27:09 [Obj][9001] DelClient (127.0.0.1)
+22:27:09 [OfflindeRestore][Obj][9001] AddCharacterInfo () OK Skill (74) Range (1)
+22:27:09 [DGOptionDataRecv] Invalid Account [9001](game)
+22:27:09 [DGQuestKillCountRecv] Invalid Account [9001](game)
+22:27:09 [DGMasterSkillTreeRecv] Invalid Account [9001](game)
+22:27:09 [DGQuestWorldRecv] Invalid Account [9001](game)
+22:27:09 [DGGensSystemMemberRecv] Invalid Account [9001](game)
+22:27:09 [DGHelperDataRecv] Invalid Account [9001](game)
+22:27:09 [DGCashShopPeriodicItemRecv] Invalid Account [9001](game)
+22:27:09 [DGCashShopPointRecv] Invalid Account [9001](game)
+22:28:23 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:28:23 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:28:43 [Obj][9000] AddClient (192.168.1.8)
+22:28:44  SEND REQUEST login acc admin Pass 1
+22:28:44 [Obj][9000] AddAccount (admin)
+22:29:44 Pass admin 1 
+22:30:06 [ServerInfo] CashShop loaded successfully
+22:30:06 [ServerInfo] ChaosMix loaded successfully
+22:30:06 [ServerInfo] Character loaded successfully
+22:30:06 [FakeOnline] Load Data OK
+22:30:06 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:30:06 [EventTime] [1] Size 3 
+22:30:06 [CustomItemBank] (1) Load 10 Item In List
+22:30:06 [ServerInfo] Custom loaded successfully
+22:30:06 [ServerInfo] Command loaded successfully
+22:30:06 [ServerInfo] Common loaded successfully
+22:30:06 [ Crywolf ] State (0) -> NONE
+22:30:06 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:30:06 [ServerInfo] Event loaded successfully
+22:30:06 [ServerInfo] EventItemBag loaded successfully
+22:30:06 [ServerInfo] Hack loaded successfully
+22:30:06 [ServerInfo] Item loaded successfully
+22:30:06 [ServerInfo] Monster loaded successfully
+22:30:06 [ServerInfo] Move loaded successfully
+22:30:06 [ServerInfo] Quest loaded successfully
+22:30:06 [ServerInfo] Shop loaded successfully
+22:30:06 [ServerInfo] Skill loaded successfully
+22:30:06 [ServerInfo] Util loaded successfully
+22:30:06 [ReadBotInfo] BotSystem loaded successfully
+22:30:17 [Obj][9000] AddClient (192.168.1.8)
+22:30:17 Acc admin Passs 1
+22:30:17  SEND REQUEST login acc admin Pass 1
+22:30:17 [ OfflindeRestore ]  [admin|Phanh] restored
+22:30:17 [Obj][9001] AddClient (192.168.1.8)
+22:30:17 Acc game Passs 1
+22:30:17  SEND REQUEST login acc game Pass 1
+22:30:17 [ OfflindeRestore ]  [game|TESTDL] restored
+22:30:17 Send Info
+22:30:17 [Obj][9000] AddAccount (admin)
+22:30:17 [Obj][9000] LogOutCharacter (Phanh)
+22:30:17 [Obj][9000] LogOutCharacter ()
+22:30:17 [Obj][9000] DelAccount (admin)
+22:30:17 [Obj][9000] DelClient (192.168.1.8)
+22:30:18 [OfflindeRestore][Obj][9000] AddCharacterInfo () OK Skill (74) Range (3)
+22:30:18 Send Info
+22:30:18 [Obj][9001] AddAccount (game)
+22:30:18 [Obj][9001] LogOutCharacter (TESTDL)
+22:30:18 [Obj][9001] LogOutCharacter ()
+22:30:18 [Obj][9001] DelAccount (game)
+22:30:18 [Obj][9001] DelClient (192.168.1.8)
+22:30:18 [OfflindeRestore][Obj][9001] AddCharacterInfo () OK Skill (74) Range (1)
+22:30:43 [Obj][9000] AddClient (192.168.1.8)
+22:30:46  SEND REQUEST login acc game Pass 1
+22:30:46 [ OfflindeRestore ]  [game|TESTDL] DelFromList
+22:30:46 [Obj][9000] AddAccount (game)
+22:35:07 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:35:07 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:36:01 [OnlineLoterry] Add Member (TESTDL)
+22:36:01 [OnlineLoterry] Winner (TESTDL)
+22:36:01 [game][TESTDL] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+22:36:34 [ServerInfo] CashShop loaded successfully
+22:36:34 [ServerInfo] ChaosMix loaded successfully
+22:36:34 [ServerInfo] Character loaded successfully
+22:36:34 [FakeOnline] Load Data OK
+22:36:35 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:36:35 [EventTime] [1] Size 3 
+22:36:35 [CustomItemBank] (1) Load 10 Item In List
+22:36:35 [ServerInfo] Custom loaded successfully
+22:36:35 [ServerInfo] Command loaded successfully
+22:36:35 [ServerInfo] Common loaded successfully
+22:36:35 [ Crywolf ] State (0) -> NONE
+22:36:35 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:36:35 [ServerInfo] Event loaded successfully
+22:36:35 [ServerInfo] EventItemBag loaded successfully
+22:36:35 [ServerInfo] Hack loaded successfully
+22:36:35 [ServerInfo] Item loaded successfully
+22:36:35 [ServerInfo] Monster loaded successfully
+22:36:35 [ServerInfo] Move loaded successfully
+22:36:35 [ServerInfo] Quest loaded successfully
+22:36:35 [ServerInfo] Shop loaded successfully
+22:36:35 [ServerInfo] Skill loaded successfully
+22:36:35 [ServerInfo] Util loaded successfully
+22:36:35 [ReadBotInfo] BotSystem loaded successfully
+22:36:44 [Obj][9000] AddClient (192.168.1.8)
+22:36:46 [Obj][9001] AddClient (192.168.1.8)
+22:36:46 Acc admin Passs 1
+22:36:46  SEND REQUEST login acc admin Pass 1
+22:36:46 [ OfflindeRestore ]  [admin|Phanh] restored
+22:36:46 Send Info
+22:36:46 [Obj][9001] AddAccount (admin)
+22:36:46 [OfflindeRestore][Obj][9001] AddCharacterInfo (Phanh) OK Skill (74) Range (3)
+22:36:46 [Obj][9001] LogOutCharacter (Phanh)
+22:36:46 [Obj][9001] LogOutCharacter ()
+22:36:46 [Obj][9001] DelAccount (admin)
+22:36:46 [Obj][9001] DelClient (192.168.1.8)
+22:36:54  SEND REQUEST login acc game Pass 1
+22:36:54 [Obj][9000] AddAccount (game)
+22:40:06 [ServerInfo] CashShop loaded successfully
+22:40:06 [ServerInfo] ChaosMix loaded successfully
+22:40:06 [ServerInfo] Character loaded successfully
+22:40:06 [FakeOnline] Load Data OK
+22:40:06 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:40:06 [EventTime] [1] Size 3 
+22:40:06 [CustomItemBank] (1) Load 10 Item In List
+22:40:06 [ServerInfo] Custom loaded successfully
+22:40:06 [ServerInfo] Command loaded successfully
+22:40:06 [ServerInfo] Common loaded successfully
+22:40:06 [ Crywolf ] State (0) -> NONE
+22:40:06 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:40:06 [ServerInfo] Event loaded successfully
+22:40:06 [ServerInfo] EventItemBag loaded successfully
+22:40:06 [ServerInfo] Hack loaded successfully
+22:40:06 [ServerInfo] Item loaded successfully
+22:40:06 [ServerInfo] Monster loaded successfully
+22:40:06 [ServerInfo] Move loaded successfully
+22:40:06 [ServerInfo] Quest loaded successfully
+22:40:06 [ServerInfo] Shop loaded successfully
+22:40:06 [ServerInfo] Skill loaded successfully
+22:40:06 [ServerInfo] Util loaded successfully
+22:40:06 [ReadBotInfo] BotSystem loaded successfully
+22:40:17 [Obj][9000] AddClient (192.168.1.8)
+22:40:17 Acc admin Passs 1
+22:40:17  SEND REQUEST login acc admin Pass 1
+22:40:17 [ OfflindeRestore ]  [admin|Phanh] restored
+22:40:17 Send Info 1
+22:40:17 [Obj][9000] AddAccount (admin)
+22:40:17 lpObj->m_OfflineMode (1)
+22:40:17 [OfflindeRestore][Obj][9000] AddCharacterInfo (Phanh) OK Skill (74) Range (3)
+22:40:17 [Obj][9000] LogOutCharacter (Phanh)
+22:40:17 [Obj][9000] LogOutCharacter ()
+22:40:17 [Obj][9000] DelAccount (admin)
+22:40:17 [Obj][9000] DelClient (192.168.1.8)
+22:40:18 [Obj][9001] AddClient (192.168.1.8)
+22:40:28  SEND REQUEST login acc game Pass 1
+22:40:28 [Obj][9001] AddAccount (game)
+22:40:54 [Obj][9001] LogOutCharacter (TESTDL)
+22:40:54 [Obj][9001] LogOutCharacter ()
+22:40:54 [Obj][9001] DelAccount (game)
+22:40:54 [Obj][9001] DelClient (192.168.1.8)
+22:41:07 [Obj][9000] AddClient (192.168.1.8)
+22:41:11  SEND REQUEST login acc game Pass 1
+22:41:11 [Obj][9000] AddAccount (game)
+22:42:33 [ServerInfo] CashShop loaded successfully
+22:42:33 [ServerInfo] ChaosMix loaded successfully
+22:42:33 [ServerInfo] Character loaded successfully
+22:42:33 [FakeOnline] Load Data OK
+22:42:33 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:42:33 [EventTime] [1] Size 3 
+22:42:33 [CustomItemBank] (1) Load 10 Item In List
+22:42:33 [ServerInfo] Custom loaded successfully
+22:42:33 [ServerInfo] Command loaded successfully
+22:42:33 [ServerInfo] Common loaded successfully
+22:42:33 [ Crywolf ] State (0) -> NONE
+22:42:33 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:42:33 [ServerInfo] Event loaded successfully
+22:42:33 [ServerInfo] EventItemBag loaded successfully
+22:42:33 [ServerInfo] Hack loaded successfully
+22:42:33 [ServerInfo] Item loaded successfully
+22:42:33 [ServerInfo] Monster loaded successfully
+22:42:33 [ServerInfo] Move loaded successfully
+22:42:33 [ServerInfo] Quest loaded successfully
+22:42:33 [ServerInfo] Shop loaded successfully
+22:42:33 [ServerInfo] Skill loaded successfully
+22:42:33 [ServerInfo] Util loaded successfully
+22:42:33 [ReadBotInfo] BotSystem loaded successfully
+22:42:39 [Obj][9000] AddClient (192.168.1.8)
+22:42:44 [Obj][9001] AddClient (192.168.1.8)
+22:42:44 Acc admin Passs 1
+22:42:44  SEND REQUEST login acc admin Pass 1
+22:42:44 [ OfflindeRestore ]  [admin|Phanh] restored
+22:42:44 Send Info 1
+22:42:44 [Obj][9001] AddAccount (admin)
+22:42:44 lpObj->m_OfflineMode (1)
+22:42:44 [OfflindeRestore][Obj][9001] AddCharacterInfo (Phanh) OK Skill (74) Range (3)
+22:42:44 [Obj][9001] LogOutCharacter (Phanh)
+22:42:44 [Obj][9001] LogOutCharacter ()
+22:42:44 [Obj][9001] DelAccount (admin)
+22:42:44 [Obj][9001] DelClient (192.168.1.8)
+22:42:49  SEND REQUEST login acc game Pass 1
+22:42:49 [Obj][9000] AddAccount (game)
+22:43:01 [Obj][9000] LogOutCharacter (TESTDL)
+22:43:01 [Obj][9000] LogOutCharacter ()
+22:43:01 [Obj][9000] DelAccount (game)
+22:43:01 [Obj][9000] DelClient (192.168.1.8)
+22:44:27 [ServerInfo] CashShop loaded successfully
+22:44:27 [ServerInfo] ChaosMix loaded successfully
+22:44:27 [ServerInfo] Character loaded successfully
+22:44:27 [FakeOnline] Load Data OK
+22:44:27 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:44:27 [EventTime] [1] Size 3 
+22:44:27 [CustomItemBank] (1) Load 10 Item In List
+22:44:27 [ServerInfo] Custom loaded successfully
+22:44:27 [ServerInfo] Command loaded successfully
+22:44:27 [ServerInfo] Common loaded successfully
+22:44:27 [ Crywolf ] State (0) -> NONE
+22:44:27 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:44:27 [ServerInfo] Event loaded successfully
+22:44:27 [ServerInfo] EventItemBag loaded successfully
+22:44:27 [ServerInfo] Hack loaded successfully
+22:44:27 [ServerInfo] Item loaded successfully
+22:44:27 [ServerInfo] Monster loaded successfully
+22:44:27 [ServerInfo] Move loaded successfully
+22:44:27 [ServerInfo] Quest loaded successfully
+22:44:27 [ServerInfo] Shop loaded successfully
+22:44:27 [ServerInfo] Skill loaded successfully
+22:44:27 [ServerInfo] Util loaded successfully
+22:44:27 [ReadBotInfo] BotSystem loaded successfully
+22:44:39 [Obj][9000] AddClient (192.168.1.8)
+22:44:39 Acc admin Passs 1
+22:44:39  SEND REQUEST login acc admin Pass 1
+22:44:39 [ OfflindeRestore ]  [admin|Phanh] restored
+22:44:39 Send Info 1
+22:44:39 [Obj][9000] AddAccount (admin)
+22:44:39 lpObj->m_OfflineMode (1)
+22:44:39 [OfflindeRestore][Obj][9000] AddCharacterInfo (Phanh) OK Skill (74) Range (3)
+22:44:39 [Obj][9000] LogOutCharacter (Phanh)
+22:44:39 [Obj][9000] LogOutCharacter ()
+22:44:39 [Obj][9000] DelAccount (admin)
+22:44:39 [Obj][9000] DelClient (192.168.1.8)
+22:49:22 [ServerInfo] CashShop loaded successfully
+22:49:22 [ServerInfo] ChaosMix loaded successfully
+22:49:22 [ServerInfo] Character loaded successfully
+22:49:22 [FakeOnline] Load Data OK
+22:49:22 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:49:22 [EventTime] [1] Size 3 
+22:49:22 [CustomItemBank] (1) Load 10 Item In List
+22:49:22 [ServerInfo] Custom loaded successfully
+22:49:22 [ServerInfo] Command loaded successfully
+22:49:22 [ServerInfo] Common loaded successfully
+22:49:22 [ Crywolf ] State (0) -> NONE
+22:49:22 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:49:22 [ServerInfo] Event loaded successfully
+22:49:22 [ServerInfo] EventItemBag loaded successfully
+22:49:22 [ServerInfo] Hack loaded successfully
+22:49:22 [ServerInfo] Item loaded successfully
+22:49:22 [ServerInfo] Monster loaded successfully
+22:49:22 [ServerInfo] Move loaded successfully
+22:49:22 [ServerInfo] Quest loaded successfully
+22:49:22 [ServerInfo] Shop loaded successfully
+22:49:22 [ServerInfo] Skill loaded successfully
+22:49:22 [ServerInfo] Util loaded successfully
+22:49:22 [ReadBotInfo] BotSystem loaded successfully
+22:49:33 [Obj][9000] AddClient (192.168.1.8)
+22:49:33 Acc admin Passs 1
+22:49:33  SEND REQUEST login acc admin Pass 1
+22:49:33 [ OfflindeRestore ]  [admin|Phanh] restored
+22:49:33 admin Phanh send datasv 
+22:49:33 Send Info 1
+22:49:33 [Obj][9000] AddAccount (admin)
+22:49:33 lpObj->m_OfflineMode (1)
+22:49:33 [OfflindeRestore][Obj][9000] AddCharacterInfo (Phanh) OK Skill (74) Range (3)
+22:49:33 [Obj][9000] LogOutCharacter (Phanh)
+22:49:33 [Obj][9000] LogOutCharacter ()
+22:49:33 [Obj][9000] DelAccount (admin)
+22:49:33 [Obj][9000] DelClient (192.168.1.8)
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 0 X: 163 Y: 62)
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 0 X: 163 Y: 62)
+22:52:24 [ServerInfo] CashShop loaded successfully
+22:52:24 [ServerInfo] ChaosMix loaded successfully
+22:52:25 [ServerInfo] Character loaded successfully
+22:52:25 [FakeOnline] Load Data OK
+22:52:25 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:52:25 [EventTime] [1] Size 3 
+22:52:25 [CustomItemBank] (1) Load 10 Item In List
+22:52:25 [ServerInfo] Custom loaded successfully
+22:52:25 [ServerInfo] Command loaded successfully
+22:52:25 [ServerInfo] Common loaded successfully
+22:52:25 [ Crywolf ] State (0) -> NONE
+22:52:25 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:52:25 [ServerInfo] Event loaded successfully
+22:52:25 [ServerInfo] EventItemBag loaded successfully
+22:52:25 [ServerInfo] Hack loaded successfully
+22:52:25 [ServerInfo] Item loaded successfully
+22:52:25 [ServerInfo] Monster loaded successfully
+22:52:25 [ServerInfo] Move loaded successfully
+22:52:25 [ServerInfo] Quest loaded successfully
+22:52:25 [ServerInfo] Shop loaded successfully
+22:52:25 [ServerInfo] Skill loaded successfully
+22:52:25 [ServerInfo] Util loaded successfully
+22:52:25 [ReadBotInfo] BotSystem loaded successfully
+22:52:36 [Obj][9000] AddClient (192.168.1.8)
+22:52:36 Acc admin Passs 1
+22:52:36  SEND REQUEST login acc admin Pass 1
+22:52:36 [ OfflindeRestore ]  [admin|Phanh] restored
+22:52:36 admin Phanh send datasv 
+22:52:36 Send Info 1
+22:52:36 [Obj][9000] AddAccount (admin)
+22:52:36 lpObj->m_OfflineMode (1)
+22:52:36 [OfflindeRestore][Obj][9000] AddCharacterInfo (Phanh) OK Skill (74) Range (3)
+22:52:36 [Obj][9000] LogInCharacter (Phanh)
+22:52:36 [Obj][9000] LogOutCharacter (Phanh)
+22:52:36 [Obj][9000] LogOutCharacter ()
+22:52:36 [Obj][9000] DelAccount (admin)
+22:52:36 [Obj][9000] DelClient (192.168.1.8)
+22:53:36 [ServerInfo] CashShop loaded successfully
+22:53:36 [ServerInfo] ChaosMix loaded successfully
+22:53:36 [ServerInfo] Character loaded successfully
+22:53:36 [FakeOnline] Load Data OK
+22:53:36 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:53:36 [EventTime] [1] Size 3 
+22:53:36 [CustomItemBank] (1) Load 10 Item In List
+22:53:36 [ServerInfo] Custom loaded successfully
+22:53:37 [ServerInfo] Command loaded successfully
+22:53:37 [ServerInfo] Common loaded successfully
+22:53:37 [ Crywolf ] State (0) -> NONE
+22:53:37 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:53:37 [ServerInfo] Event loaded successfully
+22:53:37 [ServerInfo] EventItemBag loaded successfully
+22:53:37 [ServerInfo] Hack loaded successfully
+22:53:37 [ServerInfo] Item loaded successfully
+22:53:37 [ServerInfo] Monster loaded successfully
+22:53:37 [ServerInfo] Move loaded successfully
+22:53:37 [ServerInfo] Quest loaded successfully
+22:53:37 [ServerInfo] Shop loaded successfully
+22:53:37 [ServerInfo] Skill loaded successfully
+22:53:37 [ServerInfo] Util loaded successfully
+22:53:37 [ReadBotInfo] BotSystem loaded successfully
+22:53:48 [Obj][9000] AddClient (192.168.1.8)
+22:53:48 Acc admin Passs 1
+22:53:48  SEND REQUEST login acc admin Pass 1
+22:53:48 [ OfflindeRestore ]  [admin|Phanh] restored
+22:53:48 admin Phanh send datasv 
+22:53:48 Send Info 1
+22:53:48 [Obj][9000] AddAccount (admin)
+22:53:48 lpObj->m_OfflineMode (1)
+22:53:48 [OfflindeRestore][Obj][9000] AddCharacterInfo (Phanh) OK Skill (74) Range (3)
+22:53:48 [Obj][9000] LogInCharacter (Phanh)
+22:53:48 1 [Obj][9000] LogOutCharacter (Phanh)
+22:53:48  2 [Obj][9000] LogOutCharacter ()
+22:53:48 [Obj][9000] DelAccount (admin)
+22:53:48 [Obj][9000] DelClient (192.168.1.8)
+22:54:49 [ServerInfo] CashShop loaded successfully
+22:54:49 [ServerInfo] ChaosMix loaded successfully
+22:54:49 [ServerInfo] Character loaded successfully
+22:54:49 [FakeOnline] Load Data OK
+22:54:49 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:54:49 [EventTime] [1] Size 3 
+22:54:49 [CustomItemBank] (1) Load 10 Item In List
+22:54:49 [ServerInfo] Custom loaded successfully
+22:54:49 [ServerInfo] Command loaded successfully
+22:54:49 [ServerInfo] Common loaded successfully
+22:54:49 [ Crywolf ] State (0) -> NONE
+22:54:49 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:54:49 [ServerInfo] Event loaded successfully
+22:54:49 [ServerInfo] EventItemBag loaded successfully
+22:54:49 [ServerInfo] Hack loaded successfully
+22:54:49 [ServerInfo] Item loaded successfully
+22:54:49 [ServerInfo] Monster loaded successfully
+22:54:49 [ServerInfo] Move loaded successfully
+22:54:49 [ServerInfo] Quest loaded successfully
+22:54:49 [ServerInfo] Shop loaded successfully
+22:54:49 [ServerInfo] Skill loaded successfully
+22:54:49 [ServerInfo] Util loaded successfully
+22:54:49 [ReadBotInfo] BotSystem loaded successfully
+22:55:00 [Obj][9000] AddClient (192.168.1.8)
+22:55:00 Acc admin Passs 1
+22:55:00  SEND REQUEST login acc admin Pass 1
+22:55:00 [ OfflindeRestore ]  [admin|Phanh] restored
+22:55:00 admin Phanh send datasv 
+22:55:00 Send Info 1
+22:55:00 [Obj][9000] AddAccount (admin)
+22:55:00 lpObj->m_OfflineMode (1)
+22:55:00 [OfflindeRestore][Obj][9000] AddCharacterInfo (Phanh) OK Skill (74) Range (3)
+22:55:00 [Obj][9000] LogInCharacter (Phanh)
+22:55:00 1 [Obj][9000] LogOutCharacter (Phanh)
+22:55:00  2 [Obj][9000] LogOutCharacter ()
+22:55:00 [Obj][9000] DelAccount (admin)
+22:55:00 [Obj][9000] DelClient (192.168.1.8)
+22:56:14 [ServerInfo] CashShop loaded successfully
+22:56:14 [ServerInfo] ChaosMix loaded successfully
+22:56:14 [ServerInfo] Character loaded successfully
+22:56:14 [FakeOnline] Load Data OK
+22:56:14 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:56:14 [EventTime] [1] Size 3 
+22:56:14 [CustomItemBank] (1) Load 10 Item In List
+22:56:14 [ServerInfo] Custom loaded successfully
+22:56:14 [ServerInfo] Command loaded successfully
+22:56:14 [ServerInfo] Common loaded successfully
+22:56:14 [ Crywolf ] State (0) -> NONE
+22:56:14 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:56:14 [ServerInfo] Event loaded successfully
+22:56:14 [ServerInfo] EventItemBag loaded successfully
+22:56:14 [ServerInfo] Hack loaded successfully
+22:56:14 [ServerInfo] Item loaded successfully
+22:56:14 [ServerInfo] Monster loaded successfully
+22:56:14 [ServerInfo] Move loaded successfully
+22:56:14 [ServerInfo] Quest loaded successfully
+22:56:14 [ServerInfo] Shop loaded successfully
+22:56:14 [ServerInfo] Skill loaded successfully
+22:56:14 [ServerInfo] Util loaded successfully
+22:56:14 [ReadBotInfo] BotSystem loaded successfully
+22:56:25 [Obj][9000] AddClient (192.168.1.8)
+22:56:25 Acc admin Passs 1
+22:56:25  SEND REQUEST login acc admin Pass 1
+22:56:25 [ OfflindeRestore ]  [admin|Phanh] restored
+22:56:25 admin Phanh send datasv 
+22:56:25 Send Info 1
+22:56:25 [Obj][9000] AddAccount (admin)
+22:56:25 lpObj->m_OfflineMode (1)
+22:56:25 [OfflindeRestore][Obj][9000] AddCharacterInfo (Phanh) OK Skill (74) Range (3)
+22:56:25 [Obj][9000] LogInCharacter (Phanh)
+22:56:26 [Obj][9000] DelAccount (admin)
+22:56:26 [Obj][9000] DelClient (192.168.1.8)
+22:58:25 [ServerInfo] CashShop loaded successfully
+22:58:25 [ServerInfo] ChaosMix loaded successfully
+22:58:25 [ServerInfo] Character loaded successfully
+22:58:25 [FakeOnline] Load Data OK
+22:58:25 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:58:25 [EventTime] [1] Size 3 
+22:58:25 [CustomItemBank] (1) Load 10 Item In List
+22:58:25 [ServerInfo] Custom loaded successfully
+22:58:25 [ServerInfo] Command loaded successfully
+22:58:25 [ServerInfo] Common loaded successfully
+22:58:25 [ Crywolf ] State (0) -> NONE
+22:58:25 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:58:25 [ServerInfo] Event loaded successfully
+22:58:25 [ServerInfo] EventItemBag loaded successfully
+22:58:25 [ServerInfo] Hack loaded successfully
+22:58:25 [ServerInfo] Item loaded successfully
+22:58:25 [ServerInfo] Monster loaded successfully
+22:58:25 [ServerInfo] Move loaded successfully
+22:58:25 [ServerInfo] Quest loaded successfully
+22:58:25 [ServerInfo] Shop loaded successfully
+22:58:25 [ServerInfo] Skill loaded successfully
+22:58:25 [ServerInfo] Util loaded successfully
+22:58:25 [ReadBotInfo] BotSystem loaded successfully
+22:58:36 [Obj][9000] AddClient (192.168.1.8)
+22:58:36 Acc admin Passs 1
+22:58:36  SEND REQUEST login acc admin Pass 1
+22:58:36 [ OfflindeRestore ]  [admin|Phanh] restored
+22:58:36 admin Phanh send datasv 
+22:58:36 Send Info 1
+22:58:36 [Obj][9000] AddAccount (admin)
+22:58:36 lpObj->m_OfflineMode (1)
+22:58:36 [OfflindeRestore][Obj][9000] AddCharacterInfo (Phanh) OK Skill (74) Range (3)
+22:58:36 [Obj][9000] LogInCharacter (Phanh)
+22:58:36 [Obj][9000] DelAccount (admin)
+22:58:36 [Obj][9000] DelClient (192.168.1.8)
+22:59:54 [ServerInfo] CashShop loaded successfully
+22:59:54 [ServerInfo] ChaosMix loaded successfully
+22:59:54 [ServerInfo] Character loaded successfully
+22:59:54 [FakeOnline] Load Data OK
+22:59:54 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:59:54 [EventTime] [1] Size 3 
+22:59:54 [CustomItemBank] (1) Load 10 Item In List
+22:59:54 [ServerInfo] Custom loaded successfully
+22:59:54 [ServerInfo] Command loaded successfully
+22:59:54 [ServerInfo] Common loaded successfully
+22:59:54 [ Crywolf ] State (0) -> NONE
+22:59:54 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:59:54 [ServerInfo] Event loaded successfully
+22:59:54 [ServerInfo] EventItemBag loaded successfully
+22:59:54 [ServerInfo] Hack loaded successfully
+22:59:54 [ServerInfo] Item loaded successfully
+22:59:54 [ServerInfo] Monster loaded successfully
+22:59:54 [ServerInfo] Move loaded successfully
+22:59:54 [ServerInfo] Quest loaded successfully
+22:59:54 [ServerInfo] Shop loaded successfully
+22:59:54 [ServerInfo] Skill loaded successfully
+22:59:54 [ServerInfo] Util loaded successfully
+22:59:54 [ReadBotInfo] BotSystem loaded successfully
+23:00:05 [Obj][9000] AddClient (192.168.1.8)
+23:00:05 Acc admin Passs 1
+23:00:05  SEND REQUEST login acc admin Pass 1
+23:00:05 [ OfflindeRestore ]  [admin|Phanh] restored
+23:00:05 admin Phanh send datasv 
+23:00:05 Send Info 1
+23:00:05 [Obj][9000] AddAccount (admin)
+23:00:05 lpObj->m_OfflineMode (1)
+23:00:05 [OfflindeRestore][Obj][9000] AddCharacterInfo (Phanh) OK Skill (74) Range (3)
+23:00:05 [Obj][9000] LogInCharacter (Phanh)
+23:00:05 [Obj][9000] DelAccount (admin)
+23:00:05 [Obj][9000] DelClient (192.168.1.8)
+23:01:14 [ServerInfo] CashShop loaded successfully
+23:01:14 [ServerInfo] ChaosMix loaded successfully
+23:01:14 [ServerInfo] Character loaded successfully
+23:01:14 [FakeOnline] Load Data OK
+23:01:14 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+23:01:14 [EventTime] [1] Size 3 
+23:01:14 [CustomItemBank] (1) Load 10 Item In List
+23:01:14 [ServerInfo] Custom loaded successfully
+23:01:14 [ServerInfo] Command loaded successfully
+23:01:14 [ServerInfo] Common loaded successfully
+23:01:14 [ Crywolf ] State (0) -> NONE
+23:01:14 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+23:01:14 [ServerInfo] Event loaded successfully
+23:01:14 [ServerInfo] EventItemBag loaded successfully
+23:01:14 [ServerInfo] Hack loaded successfully
+23:01:14 [ServerInfo] Item loaded successfully
+23:01:14 [ServerInfo] Monster loaded successfully
+23:01:14 [ServerInfo] Move loaded successfully
+23:01:14 [ServerInfo] Quest loaded successfully
+23:01:14 [ServerInfo] Shop loaded successfully
+23:01:14 [ServerInfo] Skill loaded successfully
+23:01:14 [ServerInfo] Util loaded successfully
+23:01:14 [ReadBotInfo] BotSystem loaded successfully
+23:01:25 [Obj][9000] AddClient (192.168.1.8)
+23:01:25 Acc admin Passs 1
+23:01:25  SEND REQUEST login acc admin Pass 1
+23:01:25 [ OfflindeRestore ]  [admin|Phanh] restored
+23:01:25 admin Phanh send datasv 
+23:01:25 Send Info 1
+23:01:25 [Obj][9000] AddAccount (admin)
+23:01:25 lpObj->m_OfflineMode (1)
+23:01:25 [OfflindeRestore][Obj][9000] AddCharacterInfo (Phanh) OK Skill (74) Range (3)
+23:01:25 [Obj][9000] LogInCharacter (Phanh)
+23:01:27 Phanh Char ~ 0
+23:01:28 Phanh Char ~ 0
+23:01:29 Phanh Char ~ 0
+23:01:29 Phanh Char ~ 0
+23:01:31 Phanh Char ~ 0
+23:01:31 [admin][Phanh] CheckSumTime Error
+23:01:31 Phanh Char ~ 0
+23:01:31 [admin][Phanh] CheckSumTime Error
+23:01:33 Phanh Char ~ 0
+23:01:33 [admin][Phanh] CheckSumTime Error
+23:01:33 Phanh Char ~ 0
+23:01:33 [admin][Phanh] CheckSumTime Error
+23:01:34 Phanh Char ~ 0
+23:01:34 [admin][Phanh] CheckSumTime Error
+23:01:36 Phanh Char ~ 0
+23:01:36 [admin][Phanh] CheckSumTime Error
+23:01:37 Phanh Char ~ 0
+23:01:37 [admin][Phanh] CheckSumTime Error
+23:01:37 Phanh Char ~ 0
+23:01:37 [admin][Phanh] CheckSumTime Error
+23:01:39 Phanh Char ~ 0
+23:01:39 [admin][Phanh] CheckSumTime Error
+23:02:42 [ServerInfo] CashShop loaded successfully
+23:02:42 [ServerInfo] ChaosMix loaded successfully
+23:02:42 [ServerInfo] Character loaded successfully
+23:02:42 [FakeOnline] Load Data OK
+23:02:42 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+23:02:42 [EventTime] [1] Size 3 
+23:02:42 [CustomItemBank] (1) Load 10 Item In List
+23:02:42 [ServerInfo] Custom loaded successfully
+23:02:42 [ServerInfo] Command loaded successfully
+23:02:42 [ServerInfo] Common loaded successfully
+23:02:42 [ Crywolf ] State (0) -> NONE
+23:02:42 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+23:02:42 [ServerInfo] Event loaded successfully
+23:02:42 [ServerInfo] EventItemBag loaded successfully
+23:02:42 [ServerInfo] Hack loaded successfully
+23:02:42 [ServerInfo] Item loaded successfully
+23:02:42 [ServerInfo] Monster loaded successfully
+23:02:42 [ServerInfo] Move loaded successfully
+23:02:42 [ServerInfo] Quest loaded successfully
+23:02:42 [ServerInfo] Shop loaded successfully
+23:02:42 [ServerInfo] Skill loaded successfully
+23:02:42 [ServerInfo] Util loaded successfully
+23:02:42 [ReadBotInfo] BotSystem loaded successfully
+23:02:53 [Obj][9000] AddClient (192.168.1.8)
+23:02:53 Acc admin Passs 1
+23:02:53  SEND REQUEST login acc admin Pass 1
+23:02:53 [ OfflindeRestore ]  [admin|Phanh] restored
+23:02:53 admin Phanh send datasv 
+23:02:53 [Obj][9000] AddAccount (admin)
+23:02:53 lpObj->m_OfflineMode (1)
+23:02:53 [OfflindeRestore][Obj][9000] AddCharacterInfo (Phanh) OK Skill (74) Range (3)
+23:02:53 [Obj][9000] LogInCharacter (Phanh)
+23:02:53 [Obj][9000] DelAccount (admin)
+23:02:53 [Obj][9000] DelClient (192.168.1.8)
+23:05:28 [ServerInfo] CashShop loaded successfully
+23:05:28 [ServerInfo] ChaosMix loaded successfully
+23:05:28 [ServerInfo] Character loaded successfully
+23:05:28 [FakeOnline] Load Data OK
+23:05:28 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+23:05:28 [EventTime] [1] Size 3 
+23:05:28 [CustomItemBank] (1) Load 10 Item In List
+23:05:28 [ServerInfo] Custom loaded successfully
+23:05:28 [ServerInfo] Command loaded successfully
+23:05:28 [ServerInfo] Common loaded successfully
+23:05:28 [ Crywolf ] State (0) -> NONE
+23:05:28 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+23:05:28 [ServerInfo] Event loaded successfully
+23:05:28 [ServerInfo] EventItemBag loaded successfully
+23:05:28 [ServerInfo] Hack loaded successfully
+23:05:28 [ServerInfo] Item loaded successfully
+23:05:28 [ServerInfo] Monster loaded successfully
+23:05:28 [ServerInfo] Move loaded successfully
+23:05:28 [ServerInfo] Quest loaded successfully
+23:05:28 [ServerInfo] Shop loaded successfully
+23:05:28 [ServerInfo] Skill loaded successfully
+23:05:28 [ServerInfo] Util loaded successfully
+23:05:28 [ReadBotInfo] BotSystem loaded successfully
+23:05:39 [Obj][9000] AddClient (192.168.1.8)
+23:05:39 Acc admin Passs 1
+23:05:39  SEND REQUEST login acc admin Pass 1
+23:05:39 [ OfflindeRestore ]  [admin|Phanh] restored
+23:05:39 [Obj][9000] AddAccount (admin)
+23:05:39 lpObj->m_OfflineMode (1)
+23:05:39 [OfflindeRestore][Obj][9000] AddCharacterInfo (Phanh) OK Skill (74) Range (3)
+23:05:39 [Obj][9000] LogInCharacter (Phanh)
+23:05:39 [Obj][9000] DelAccount (admin)
+23:05:39 [Obj][9000] DelClient (192.168.1.8)
+23:07:51 [ServerInfo] CashShop loaded successfully
+23:07:51 [ServerInfo] ChaosMix loaded successfully
+23:07:51 [ServerInfo] Character loaded successfully
+23:07:51 [FakeOnline] Load Data OK
+23:07:51 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+23:07:51 [EventTime] [1] Size 3 
+23:07:51 [CustomItemBank] (1) Load 10 Item In List
+23:07:51 [ServerInfo] Custom loaded successfully
+23:07:51 [ServerInfo] Command loaded successfully
+23:07:51 [ServerInfo] Common loaded successfully
+23:07:51 [ Crywolf ] State (0) -> NONE
+23:07:51 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+23:07:51 [ServerInfo] Event loaded successfully
+23:07:51 [ServerInfo] EventItemBag loaded successfully
+23:07:51 [ServerInfo] Hack loaded successfully
+23:07:51 [ServerInfo] Item loaded successfully
+23:07:51 [ServerInfo] Monster loaded successfully
+23:07:51 [ServerInfo] Move loaded successfully
+23:07:51 [ServerInfo] Quest loaded successfully
+23:07:51 [ServerInfo] Shop loaded successfully
+23:07:51 [ServerInfo] Skill loaded successfully
+23:07:51 [ServerInfo] Util loaded successfully
+23:07:51 [ReadBotInfo] BotSystem loaded successfully
+23:08:02 [Obj][9000] AddClient (192.168.1.8)
+23:08:02 Acc admin Passs 1
+23:08:02  SEND REQUEST login acc admin Pass 1
+23:08:02 [ OfflindeRestore ]  [admin|Phanh] restored
+23:08:02 [Obj][9000] AddAccount (admin)
+23:08:02 lpObj->m_OfflineMode (1)
+23:08:02 [OfflindeRestore][Obj][9000] AddCharacterInfo (Phanh) OK Skill (74) Range (3)
+23:08:02 [Obj][9000] LogInCharacter (Phanh)
+23:08:03 Phanh Char ~ 1
+23:08:04 Phanh Char ~ 1
+23:08:05 Phanh Char ~ 1
+23:08:06 Phanh Char ~ 1
+23:08:07 Phanh Char ~ 1
+23:08:08 Phanh Char ~ 1
+23:08:09 Phanh Char ~ 1
+23:08:10 Phanh Char ~ 1
+23:08:11 Phanh Char ~ 1
+23:08:12 Phanh Char ~ 1
+23:08:13 Phanh Char ~ 1
+23:08:14 Phanh Char ~ 1
+23:08:15 Phanh Char ~ 1
+23:08:16 Phanh Char ~ 1
+23:08:17 Phanh Char ~ 1
+23:08:18 Phanh Char ~ 1
+23:08:18 [Obj][9001] AddClient (192.168.1.8)
+23:08:19  SEND REQUEST login acc game Pass 1
+23:08:19 [Obj][9001] AddAccount (game)
+23:08:19 Phanh Char ~ 1
+23:08:20 Phanh Char ~ 1
+23:08:20 [Obj][9001] LogInCharacter (TESTDL)
+23:08:21 Phanh Char ~ 1
+23:08:21 TESTDL Char ~ 0
+23:08:22 Phanh Char ~ 1
+23:08:22 TESTDL Char ~ 0
+23:08:23 Phanh Char ~ 1
+23:08:23 TESTDL Char ~ 0
+23:08:24 Phanh Char ~ 1
+23:08:24 TESTDL Char ~ 0
+23:08:25 Phanh Char ~ 1
+23:08:25 TESTDL Char ~ 0
+23:08:26 Phanh Char ~ 1
+23:08:26 TESTDL Char ~ 0
+23:08:26 [Obj][9001] DelAccount (game)
+23:08:26 [Obj][9001] DelClient (192.168.1.8)
+23:08:27 Phanh Char ~ 1
+23:08:28 Phanh Char ~ 1
+23:08:29 Phanh Char ~ 1
+23:08:30 Phanh Char ~ 1
+23:08:31 Phanh Char ~ 1
+23:08:32 Phanh Char ~ 1
+23:08:33 Phanh Char ~ 1
+23:08:34 Phanh Char ~ 1
+23:08:35 Phanh Char ~ 1
+23:08:36 Phanh Char ~ 1
+23:08:37 Phanh Char ~ 1
+23:08:38 Phanh Char ~ 1
+23:08:39 Phanh Char ~ 1
+23:08:40 Phanh Char ~ 1
+23:08:41 Phanh Char ~ 1
+23:08:42 Phanh Char ~ 1
+23:08:43 Phanh Char ~ 1
+23:08:44 Phanh Char ~ 1
+23:08:45 Phanh Char ~ 1
+23:08:46 Phanh Char ~ 1
+23:08:47 Phanh Char ~ 1
+23:08:48 Phanh Char ~ 1
+23:08:49 Phanh Char ~ 1
+23:08:50 Phanh Char ~ 1
+23:08:51 Phanh Char ~ 1
+23:08:52 Phanh Char ~ 1
+23:08:53 Phanh Char ~ 1
+23:08:54 Phanh Char ~ 1
+23:08:55 Phanh Char ~ 1
+23:08:56 Phanh Char ~ 1
+23:08:57 Phanh Char ~ 1
+23:08:58 Phanh Char ~ 1
+23:08:59 Phanh Char ~ 1
+23:09:00 Phanh Char ~ 1
+23:09:01 Phanh Char ~ 1
+23:09:02 Phanh Char ~ 1
+23:09:03 Phanh Char ~ 1
+23:09:04 Phanh Char ~ 1
+23:09:05 Phanh Char ~ 1
+23:09:06 Phanh Char ~ 1
+23:09:07 Phanh Char ~ 1
+23:09:08 Phanh Char ~ 1
+23:09:09 Phanh Char ~ 1
+23:09:10 Phanh Char ~ 1
+23:09:11 Phanh Char ~ 1
+23:09:12 Phanh Char ~ 1
+23:09:13 Phanh Char ~ 1
+23:09:14 Phanh Char ~ 1
+23:09:15 Phanh Char ~ 1
+23:09:16 Phanh Char ~ 1
+23:09:17 Phanh Char ~ 1
+23:09:18 Phanh Char ~ 1
+23:09:19 Phanh Char ~ 1
+23:09:20 Phanh Char ~ 1
+23:10:02 [ServerInfo] CashShop loaded successfully
+23:10:02 [ServerInfo] ChaosMix loaded successfully
+23:10:02 [ServerInfo] Character loaded successfully
+23:10:02 [FakeOnline] Load Data OK
+23:10:02 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+23:10:02 [EventTime] [1] Size 3 
+23:10:02 [CustomItemBank] (1) Load 10 Item In List
+23:10:02 [ServerInfo] Custom loaded successfully
+23:10:02 [ServerInfo] Command loaded successfully
+23:10:02 [ServerInfo] Common loaded successfully
+23:10:02 [ Crywolf ] State (0) -> NONE
+23:10:02 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+23:10:02 [ServerInfo] Event loaded successfully
+23:10:02 [ServerInfo] EventItemBag loaded successfully
+23:10:02 [ServerInfo] Hack loaded successfully
+23:10:02 [ServerInfo] Item loaded successfully
+23:10:02 [ServerInfo] Monster loaded successfully
+23:10:02 [ServerInfo] Move loaded successfully
+23:10:02 [ServerInfo] Quest loaded successfully
+23:10:02 [ServerInfo] Shop loaded successfully
+23:10:02 [ServerInfo] Skill loaded successfully
+23:10:02 [ServerInfo] Util loaded successfully
+23:10:02 [ReadBotInfo] BotSystem loaded successfully
+23:10:13 [Obj][9000] AddClient (192.168.1.8)
+23:10:13 Acc admin Passs 1
+23:10:13  SEND REQUEST login acc admin Pass 1
+23:10:13 [ OfflindeRestore ]  [admin|Phanh] restored
+23:10:13 [Obj][9000] AddAccount (admin)
+23:10:13 lpObj->m_OfflineMode (1)
+23:10:13 [OfflindeRestore][Obj][9000] AddCharacterInfo (Phanh) OK Skill (74) Range (3)
+23:10:25 [Obj][9001] AddClient (192.168.1.8)
+23:10:28 [Obj][9000] LogOutCharacter (Phanh)
+23:10:28 [Obj][9000] LogOutCharacter ()
+23:10:28 [Obj][9000] DelAccount (admin)
+23:10:28 [Obj][9000] DelClient (192.168.1.8)
+23:10:28  SEND REQUEST login acc admin Pass 1
+23:10:28 [ OfflindeRestore ]  [admin|Phanh] DelFromList
+23:10:28 [Obj][9001] AddAccount (admin)
+23:10:37 [Obj][9001] LogOutCharacter (Phanh)
+23:10:37 [Obj][9001] LogOutCharacter ()
+23:10:37 [Obj][9001] DelAccount (admin)
+23:10:37 [Obj][9001] DelClient (192.168.1.8)
+23:12:31 [ServerInfo] CashShop loaded successfully
+23:12:31 [ServerInfo] ChaosMix loaded successfully
+23:12:31 [ServerInfo] Character loaded successfully
+23:12:31 [FakeOnline] Load Data OK
+23:12:31 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+23:12:31 [EventTime] [1] Size 3 
+23:12:31 [CustomItemBank] (1) Load 10 Item In List
+23:12:31 [ServerInfo] Custom loaded successfully
+23:12:31 [ServerInfo] Command loaded successfully
+23:12:31 [ServerInfo] Common loaded successfully
+23:12:31 [ Crywolf ] State (0) -> NONE
+23:12:31 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+23:12:31 [ServerInfo] Event loaded successfully
+23:12:31 [ServerInfo] EventItemBag loaded successfully
+23:12:31 [ServerInfo] Hack loaded successfully
+23:12:31 [ServerInfo] Item loaded successfully
+23:12:31 [ServerInfo] Monster loaded successfully
+23:12:31 [ServerInfo] Move loaded successfully
+23:12:31 [ServerInfo] Quest loaded successfully
+23:12:31 [ServerInfo] Shop loaded successfully
+23:12:31 [ServerInfo] Skill loaded successfully
+23:12:31 [ServerInfo] Util loaded successfully
+23:12:31 [ReadBotInfo] BotSystem loaded successfully
+23:12:41 [Obj][9000] AddClient (192.168.1.8)
+23:12:42  SEND REQUEST login acc admin Pass 1
+23:12:42 [Obj][9000] AddAccount (admin)
+23:13:08 [ServerInfo] CashShop loaded successfully
+23:13:08 [ServerInfo] ChaosMix loaded successfully
+23:13:08 [ServerInfo] Character loaded successfully
+23:13:08 [FakeOnline] Load Data OK
+23:13:08 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+23:13:08 [EventTime] [1] Size 3 
+23:13:08 [CustomItemBank] (1) Load 10 Item In List
+23:13:08 [ServerInfo] Custom loaded successfully
+23:13:08 [ServerInfo] Command loaded successfully
+23:13:08 [ServerInfo] Common loaded successfully
+23:13:08 [ Crywolf ] State (0) -> NONE
+23:13:08 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+23:13:08 [ServerInfo] Event loaded successfully
+23:13:08 [ServerInfo] EventItemBag loaded successfully
+23:13:08 [ServerInfo] Hack loaded successfully
+23:13:08 [ServerInfo] Item loaded successfully
+23:13:08 [ServerInfo] Monster loaded successfully
+23:13:08 [ServerInfo] Move loaded successfully
+23:13:08 [ServerInfo] Quest loaded successfully
+23:13:08 [ServerInfo] Shop loaded successfully
+23:13:08 [ServerInfo] Skill loaded successfully
+23:13:08 [ServerInfo] Util loaded successfully
+23:13:08 [ReadBotInfo] BotSystem loaded successfully
+23:13:20 [Obj][9000] AddClient (192.168.1.8)
+23:13:20  SEND REQUEST login acc admin Pass 1
+23:13:20 [ OfflindeRestore ]  [admin|Phanh] restored
+23:13:20 [Obj][9000] AddAccount (admin)
+23:13:20 [OfflindeRestore][Obj][9000] AddCharacterInfo (Phanh) OK Skill (74) Range (3)
+23:13:27 [Obj][9001] AddClient (192.168.1.8)
+23:13:29  SEND REQUEST login acc game Pass 1
+23:13:29 [Obj][9001] AddAccount (game)
+23:14:02 [Obj][9001] LogOutCharacter (TESTDL)
+23:14:02 [Obj][9001] LogOutCharacter ()
+23:14:02 [Obj][9001] DelAccount (game)
+23:14:02 [Obj][9001] DelClient (192.168.1.8)
+23:14:03 [Obj][9002] AddClient (192.168.1.8)
+23:14:05 [Obj][9000] LogOutCharacter (Phanh)
+23:14:05 [Obj][9000] LogOutCharacter ()
+23:14:05 [Obj][9000] DelAccount (admin)
+23:14:05 [Obj][9000] DelClient (192.168.1.8)
+23:14:05  SEND REQUEST login acc admin Pass 1
+23:14:05 [ OfflindeRestore ]  [admin|Phanh] DelFromList
+23:14:05 [Obj][9002] AddAccount (admin)
+23:14:46 [ServerInfo] CashShop loaded successfully
+23:14:46 [ServerInfo] ChaosMix loaded successfully
+23:14:46 [ServerInfo] Character loaded successfully
+23:14:46 [FakeOnline] Load Data OK
+23:14:46 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+23:14:46 [EventTime] [1] Size 3 
+23:14:46 [CustomItemBank] (1) Load 10 Item In List
+23:14:46 [ServerInfo] Custom loaded successfully
+23:14:46 [ServerInfo] Command loaded successfully
+23:14:46 [ServerInfo] Common loaded successfully
+23:14:46 [ Crywolf ] State (0) -> NONE
+23:14:46 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+23:14:46 [ServerInfo] Event loaded successfully
+23:14:46 [ServerInfo] EventItemBag loaded successfully
+23:14:46 [ServerInfo] Hack loaded successfully
+23:14:46 [ServerInfo] Item loaded successfully
+23:14:46 [ServerInfo] Monster loaded successfully
+23:14:46 [ServerInfo] Move loaded successfully
+23:14:46 [ServerInfo] Quest loaded successfully
+23:14:46 [ServerInfo] Shop loaded successfully
+23:14:46 [ServerInfo] Skill loaded successfully
+23:14:46 [ServerInfo] Util loaded successfully
+23:14:46 [ReadBotInfo] BotSystem loaded successfully
+23:14:55 [Obj][9000] AddClient (192.168.1.8)
+23:14:56  SEND REQUEST login acc game Pass 1
+23:14:56 [Obj][9000] AddAccount (game)
+23:14:57 [Obj][9001] AddClient (192.168.1.8)
+23:14:57  SEND REQUEST login acc admin Pass 1
+23:14:57 [ OfflindeRestore ]  [admin|Phanh] restored
+23:14:57 [Obj][9001] AddAccount (admin)
+23:14:57 [OfflindeRestore][Obj][9001] AddCharacterInfo (Phanh) OK Skill (74) Range (3)
+23:17:08 [Obj][9000] LogOutCharacter (TESTDL)
+23:17:08 [Obj][9000] LogOutCharacter ()
+23:17:08 [Obj][9000] DelAccount (game)
+23:17:08 [Obj][9000] DelClient (192.168.1.8)
+23:17:14 [Obj][9002] AddClient (192.168.1.8)
+23:17:15 [Obj][9001] LogOutCharacter (Phanh)
+23:17:15 [Obj][9001] LogOutCharacter ()
+23:17:15 [Obj][9001] DelAccount (admin)
+23:17:15 [Obj][9001] DelClient (192.168.1.8)
+23:17:15  SEND REQUEST login acc admin Pass 1
+23:17:15 [ OfflindeRestore ]  [admin|Phanh] DelFromList
+23:17:15 [Obj][9002] AddAccount (admin)
+23:19:47 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:19:47 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:20:30 [ServerInfo] CashShop loaded successfully
+23:20:30 [ServerInfo] ChaosMix loaded successfully
+23:20:30 [ServerInfo] Character loaded successfully
+23:20:30 [FakeOnline] Load Data OK
+23:20:30 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+23:20:30 [EventTime] [1] Size 3 
+23:20:30 [CustomItemBank] (1) Load 10 Item In List
+23:20:30 [ServerInfo] Custom loaded successfully
+23:20:30 [ServerInfo] Command loaded successfully
+23:20:30 [ServerInfo] Common loaded successfully
+23:20:30 [ Crywolf ] State (0) -> NONE
+23:20:30 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+23:20:30 [ServerInfo] Event loaded successfully
+23:20:30 [ServerInfo] EventItemBag loaded successfully
+23:20:30 [ServerInfo] Hack loaded successfully
+23:20:30 [ServerInfo] Item loaded successfully
+23:20:30 [ServerInfo] Monster loaded successfully
+23:20:30 [ServerInfo] Move loaded successfully
+23:20:30 [ServerInfo] Quest loaded successfully
+23:20:30 [ServerInfo] Shop loaded successfully
+23:20:30 [ServerInfo] Skill loaded successfully
+23:20:30 [ServerInfo] Util loaded successfully
+23:20:30 [ReadBotInfo] BotSystem loaded successfully
+23:20:37 [Obj][9000] AddClient (192.168.1.8)
+23:20:38  SEND REQUEST login acc admin Pass 1
+23:20:38 [Obj][9000] AddAccount (admin)
+23:21:16 [ServerInfo] CashShop loaded successfully
+23:21:16 [ServerInfo] ChaosMix loaded successfully
+23:21:16 [ServerInfo] Character loaded successfully
+23:21:16 [FakeOnline] Load Data OK
+23:21:16 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+23:21:16 [EventTime] [1] Size 3 
+23:21:16 [CustomItemBank] (1) Load 10 Item In List
+23:21:16 [ServerInfo] Custom loaded successfully
+23:21:16 [ServerInfo] Command loaded successfully
+23:21:16 [ServerInfo] Common loaded successfully
+23:21:16 [ Crywolf ] State (0) -> NONE
+23:21:16 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+23:21:16 [ServerInfo] Event loaded successfully
+23:21:16 [ServerInfo] EventItemBag loaded successfully
+23:21:16 [ServerInfo] Hack loaded successfully
+23:21:16 [ServerInfo] Item loaded successfully
+23:21:16 [ServerInfo] Monster loaded successfully
+23:21:16 [ServerInfo] Move loaded successfully
+23:21:16 [ServerInfo] Quest loaded successfully
+23:21:16 [ServerInfo] Shop loaded successfully
+23:21:16 [ServerInfo] Skill loaded successfully
+23:21:16 [ServerInfo] Util loaded successfully
+23:21:16 [ReadBotInfo] BotSystem loaded successfully
+23:21:24 [Obj][9000] AddClient (192.168.1.8)
+23:21:27  SEND REQUEST login acc game Pass 1
+23:21:27 [Obj][9000] AddAccount (game)
+23:21:27 [Obj][9001] AddClient (192.168.1.8)
+23:21:27  SEND REQUEST login acc admin Pass 1
+23:21:27 [ OfflindeRestore ]  [admin|Phanh] restored
+23:21:27 [Obj][9001] AddAccount (admin)
+23:21:27 [OfflindeRestore][Obj][9001] AddCharacterInfo (Phanh) OK Skill (74) Range (4)
+23:22:29 [Obj][9000] LogOutCharacter (TESTDL)
+23:22:29 [Obj][9000] LogOutCharacter ()
+23:22:29 [Obj][9000] DelAccount (game)
+23:22:29 [Obj][9000] DelClient (192.168.1.8)
+23:22:30 [Obj][9002] AddClient (192.168.1.8)
+23:22:37 [Obj][9001] LogOutCharacter (Phanh)
+23:22:37 [Obj][9001] LogOutCharacter ()
+23:22:37 [Obj][9001] DelAccount (admin)
+23:22:37 [Obj][9001] DelClient (192.168.1.8)
+23:22:37  SEND REQUEST login acc admin Pass 1
+23:22:37 [ OfflindeRestore ]  [admin|Phanh] DelFromList
+23:22:37 [Obj][9002] AddAccount (admin)
+23:22:58 [Obj][9000] AddClient (192.168.1.8)
+23:23:01  SEND REQUEST login acc game Pass 1
+23:23:01 [Obj][9000] AddAccount (game)
+23:23:31 [Obj][9000] LogOutCharacter (TESTDL)
+23:23:31 [Obj][9000] LogOutCharacter ()
+23:23:31 [Obj][9000] DelAccount (game)
+23:23:31 [Obj][9000] DelClient (192.168.1.8)
+23:23:35 [ServerInfo] CashShop loaded successfully
+23:23:35 [ServerInfo] ChaosMix loaded successfully
+23:23:35 [ServerInfo] Character loaded successfully
+23:23:35 [FakeOnline] Load Data OK
+23:23:35 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+23:23:35 [EventTime] [1] Size 3 
+23:23:35 [CustomItemBank] (1) Load 10 Item In List
+23:23:35 [ServerInfo] Custom loaded successfully
+23:23:35 [ServerInfo] Command loaded successfully
+23:23:35 [ServerInfo] Common loaded successfully
+23:23:35 [ Crywolf ] State (0) -> NONE
+23:23:35 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+23:23:35 [ServerInfo] Event loaded successfully
+23:23:35 [ServerInfo] EventItemBag loaded successfully
+23:23:35 [ServerInfo] Hack loaded successfully
+23:23:35 [ServerInfo] Item loaded successfully
+23:23:35 [ServerInfo] Monster loaded successfully
+23:23:35 [ServerInfo] Move loaded successfully
+23:23:35 [ServerInfo] Quest loaded successfully
+23:23:35 [ServerInfo] Shop loaded successfully
+23:23:35 [ServerInfo] Skill loaded successfully
+23:23:35 [ServerInfo] Util loaded successfully
+23:23:35 [ReadBotInfo] BotSystem loaded successfully
+23:23:46 [Obj][9000] AddClient (192.168.1.8)
+23:23:46  SEND REQUEST login acc admin Pass 1
+23:23:46 [ OfflindeRestore ]  [admin|Phanh] restored
+23:23:46 [Obj][9000] AddAccount (admin)
+23:23:46 [OfflindeRestore][Obj][9000] AddCharacterInfo (Phanh) OK Skill (74) Range (4)
+23:23:49 [Obj][9001] AddClient (192.168.1.8)
+23:23:50  SEND REQUEST login acc game Pass 1
+23:23:50 [Obj][9001] AddAccount (game)
+23:28:36 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:28:36 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:32:54 12
+23:33:10 [Obj][9001] LogOutCharacter (TESTDL)
+23:33:10 [Obj][9001] LogOutCharacter ()
+23:33:10 [Obj][9001] DelAccount (game)
+23:33:10 [Obj][9001] DelClient (192.168.1.8)
+23:33:37 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:33:37 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:33:46 [Obj][9000] LogOutCharacter (Phanh)
+23:33:46 [Obj][9000] LogOutCharacter ()
+23:33:46 [Obj][9000] DelAccount (admin)
+23:33:46 [Obj][9000] DelClient (192.168.1.8)
+23:36:01 [OnlineLoterry] No Winner
+23:37:53 [Obj][9001] AddClient (192.168.1.8)
+23:37:54  SEND REQUEST login acc admin Pass 1
+23:37:54 [ OfflindeRestore ]  [admin|Phanh] DelFromList
+23:37:54 [Obj][9001] AddAccount (admin)
+23:38:38 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:38:38 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:38:55 [Obj][9001] LogOutCharacter (Phanh)
+23:38:55 [Obj][9001] LogOutCharacter ()
+23:38:55 [Obj][9001] DelAccount (admin)
+23:38:55 [Obj][9001] DelClient (192.168.1.8)
+23:39:05 [Obj][9000] AddClient (192.168.1.8)
+23:39:06  SEND REQUEST login acc admin Pass 1
+23:39:06 [Obj][9000] AddAccount (admin)
+23:40:35 [Obj][9000] LogOutCharacter (Phanh)
+23:40:35 [Obj][9000] LogOutCharacter ()
+23:40:35 [Obj][9000] DelAccount (admin)
+23:40:35 [Obj][9000] DelClient (192.168.1.8)
+23:40:44 [Obj][9001] AddClient (192.168.1.8)
+23:40:45  SEND REQUEST login acc admin Pass 1
+23:40:45 [Obj][9001] AddAccount (admin)
+23:43:05 [Obj][9001] LogOutCharacter (Phanh)
+23:43:05 [Obj][9001] LogOutCharacter ()
+23:43:05 [Obj][9001] DelAccount (admin)
+23:43:05 [Obj][9001] DelClient (192.168.1.8)
+23:43:14 [Obj][9000] AddClient (192.168.1.8)
+23:43:15  SEND REQUEST login acc admin Pass 1
+23:43:15 [Obj][9000] AddAccount (admin)
+23:43:39 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:43:39 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:47:11 [Obj][9000] LogOutCharacter (Phanh)
+23:47:11 [Obj][9000] LogOutCharacter ()
+23:47:11 [Obj][9000] DelAccount (admin)
+23:47:11 [Obj][9000] DelClient (192.168.1.8)
+23:47:22 [Obj][9001] AddClient (192.168.1.8)
+23:47:22  SEND REQUEST login acc admin Pass 1
+23:47:22 [Obj][9001] AddAccount (admin)
+23:48:40 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:48:40 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:49:18 [Obj][9001] LogOutCharacter (Phanh)
+23:49:18 [Obj][9001] LogOutCharacter ()
+23:49:18 [Obj][9001] DelAccount (admin)
+23:49:18 [Obj][9001] DelClient (192.168.1.8)
+23:49:36 [Obj][9000] AddClient (192.168.1.8)
+23:49:37  SEND REQUEST login acc admin Pass 1
+23:49:37 [Obj][9000] AddAccount (admin)
+23:53:41 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:53:41 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:53:55 [Obj][9000] LogOutCharacter (Phanh)
+23:53:55 [Obj][9000] LogOutCharacter ()
+23:53:55 [Obj][9000] DelAccount (admin)
+23:53:55 [Obj][9000] DelClient (192.168.1.8)
+23:54:04 [Obj][9001] AddClient (192.168.1.8)
+23:54:05  SEND REQUEST login acc admin Pass 1
+23:54:05 [Obj][9001] AddAccount (admin)
+23:54:50 [Obj][9001] LogOutCharacter (Phanh)
+23:54:50 [Obj][9001] LogOutCharacter ()
+23:54:50 [Obj][9001] DelAccount (admin)
+23:54:50 [Obj][9001] DelClient (192.168.1.8)
+23:55:04 [Obj][9000] AddClient (192.168.1.8)
+23:55:04  SEND REQUEST login acc admin Pass 1
+23:55:04 [Obj][9000] AddAccount (admin)
+23:55:38 [Obj][9000] LogOutCharacter (Phanh)
+23:55:38 [Obj][9000] LogOutCharacter ()
+23:55:38 [Obj][9000] DelAccount (admin)
+23:55:38 [Obj][9000] DelClient (192.168.1.8)
+23:55:56 [Obj][9001] AddClient (192.168.1.8)
+23:55:57  SEND REQUEST login acc admin Pass 1
+23:55:57 [Obj][9001] AddAccount (admin)
+23:56:23 [Obj][9000] AddClient (192.168.1.8)
+23:56:24 [Obj][9001] LogOutCharacter (Phanh)
+23:56:24 [Obj][9001] LogOutCharacter ()
+23:56:24 [Obj][9001] DelAccount (admin)
+23:56:24 [Obj][9001] DelClient (192.168.1.8)
+23:56:24  SEND REQUEST login acc admin Pass 1
+23:56:24 [ OfflindeRestore ]  [admin|Phanh] DelFromList
+23:56:24 [Obj][9000] AddAccount (admin)
+23:56:27 [Obj][9000] LogOutCharacter (Phanh)
+23:56:27 [Obj][9000] LogOutCharacter ()
+23:56:27 [Obj][9000] DelAccount (admin)
+23:56:27 [Obj][9000] DelClient (192.168.1.8)
+23:57:05 [Obj][9001] AddClient (192.168.1.8)
+23:57:06  SEND REQUEST login acc admin Pass 1
+23:57:06 [Obj][9001] AddAccount (admin)
+23:57:12 [Obj][9001] LogOutCharacter (Phanh)
+23:57:12 [Obj][9001] LogOutCharacter ()
+23:57:12 [Obj][9001] DelAccount (admin)
+23:57:12 [Obj][9001] DelClient (192.168.1.8)
+23:58:04 [Obj][9000] AddClient (192.168.1.8)
+23:58:05  SEND REQUEST login acc admin Pass 1
+23:58:05 [Obj][9000] AddAccount (admin)
+23:58:13 [Obj][9000] LogOutCharacter (Phanh)
+23:58:13 [Obj][9000] LogOutCharacter ()
+23:58:13 [Obj][9000] DelAccount (admin)
+23:58:13 [Obj][9000] DelClient (192.168.1.8)
+23:58:30 [Obj][9001] AddClient (192.168.1.8)
+23:58:31  SEND REQUEST login acc admin Pass 1
+23:58:31 [Obj][9001] AddAccount (admin)
+23:58:39 [Obj][9001] LogOutCharacter (Phanh)
+23:58:39 [Obj][9001] LogOutCharacter ()
+23:58:39 [Obj][9001] DelAccount (admin)
+23:58:39 [Obj][9001] DelClient (192.168.1.8)
+23:58:42 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:58:42 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:58:54 [Obj][9000] AddClient (192.168.1.8)
+23:58:54  SEND REQUEST login acc admin Pass 1
+23:58:54 [Obj][9000] AddAccount (admin)
+23:58:57 [Obj][9000] LogOutCharacter (Phanh)
+23:58:57 [Obj][9000] LogOutCharacter ()
+23:58:57 [Obj][9000] DelAccount (admin)
+23:58:57 [Obj][9000] DelClient (192.168.1.8)
+23:59:13 [Obj][9001] AddClient (192.168.1.8)
+23:59:13  SEND REQUEST login acc admin Pass 1
+23:59:13 [Obj][9001] AddAccount (admin)
+23:59:16 [Obj][9001] LogOutCharacter (Phanh)
+23:59:16 [Obj][9001] LogOutCharacter ()
+23:59:16 [Obj][9001] DelAccount (admin)
+23:59:16 [Obj][9001] DelClient (192.168.1.8)
+23:59:29 [Obj][9000] AddClient (192.168.1.8)
+23:59:30  SEND REQUEST login acc admin Pass 1
+23:59:30 [Obj][9000] AddAccount (admin)

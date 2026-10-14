@@ -1,0 +1,4635 @@
+10:45:53 [ServerInfo] CashShop loaded successfully
+10:45:53 [ServerInfo] ChaosMix loaded successfully
+10:45:53 [ServerInfo] Character loaded successfully
+10:45:53 [FakeOnline] Load Data OK
+10:45:53 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+10:45:53 [EventTime] [1] Size 3 
+10:45:53 [CustomItemBank] (1) Load 10 Item In List
+10:45:53 [ServerInfo] Custom loaded successfully
+10:45:53 [ServerInfo] Command loaded successfully
+10:45:53 [ServerInfo] Common loaded successfully
+10:45:53 [ Crywolf ] State (0) -> NONE
+10:45:53 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+10:45:53 [ServerInfo] Event loaded successfully
+10:45:53 [ServerInfo] EventItemBag loaded successfully
+10:45:53 [ServerInfo] Hack loaded successfully
+10:45:53 [ServerInfo] Item loaded successfully
+10:45:53 [ServerInfo] Monster loaded successfully
+10:45:53 [ServerInfo] Move loaded successfully
+10:45:53 [ServerInfo] Quest loaded successfully
+10:45:53 [ServerInfo] Shop loaded successfully
+10:45:53 [ServerInfo] Skill loaded successfully
+10:45:53 [ServerInfo] Util loaded successfully
+10:45:53 [ReadBotInfo] BotSystem loaded successfully
+10:46:18 [Obj][9000] AddClient (192.168.1.8)
+10:46:19  SEND REQUEST login acc admin Pass 1
+10:46:19 [Obj][9000] AddAccount (admin)
+10:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 162 Y: 22)
+10:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 162 Y: 22)
+10:50:54 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:50:54 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:53:25 [Obj][9000] LogOutCharacter (TESTELF)
+10:53:25 [Obj][9000] LogOutCharacter ()
+10:53:25 [Obj][9000] DelAccount (admin)
+10:53:25 [Obj][9000] DelClient (192.168.1.8)
+10:55:55 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:55:55 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:00:56 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:00:56 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:05:57 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:05:57 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:10:00 [CustomQuiz] Start
+11:10:58 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+11:10:58 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+11:13:00 [CustomQuiz] Finish
+11:15:59 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:15:59 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:16:33 [Obj][9000] AddClient (192.168.1.8)
+11:16:34  SEND REQUEST login acc admin Pass 1
+11:16:34 [Obj][9000] AddAccount (admin)
+11:16:41 [Obj][9000] DelAccount (admin)
+11:16:41 [Obj][9000] DelClient (192.168.1.8)
+11:16:52 [Obj][9000] AddClient (192.168.1.8)
+11:17:03  SEND REQUEST login acc game Pass 1
+11:17:03 [Obj][9000] AddAccount (game)
+11:21:00 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:21:00 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:26:01 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:26:01 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:31:02 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:31:02 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:36:01 [OnlineLoterry] Add Member (GameMaster)
+11:36:01 [OnlineLoterry] Winner (GameMaster)
+11:36:01 [game][GameMaster] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+11:36:03 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:36:03 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:41:04 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:41:04 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:46:05 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:46:05 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:51:06 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:51:06 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:56:07 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:56:07 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:01:08 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:01:08 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:02:41 [BotAlchemist] (game)(GameMaster) OPEN
+12:04:05 [Obj][9000] LogOutCharacter (GameMaster)
+12:04:05 [Obj][9000] LogOutCharacter ()
+12:04:05 [Obj][9000] DelAccount (game)
+12:04:05 [Obj][9000] DelClient (192.168.1.8)
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 201 Y: 75)
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 201 Y: 75)
+12:06:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:06:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:07:25 [ServerInfo] CashShop loaded successfully
+12:07:25 [ServerInfo] ChaosMix loaded successfully
+12:07:25 [ServerInfo] Character loaded successfully
+12:07:25 [FakeOnline] Load Data OK
+12:07:25 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+12:07:25 [EventTime] [1] Size 3 
+12:07:25 [CustomItemBank] (1) Load 10 Item In List
+12:07:25 [ServerInfo] Custom loaded successfully
+12:07:25 [ServerInfo] Command loaded successfully
+12:07:25 [ServerInfo] Common loaded successfully
+12:07:25 [ Crywolf ] State (0) -> NONE
+12:07:25 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+12:07:25 [ServerInfo] Event loaded successfully
+12:07:25 [ServerInfo] EventItemBag loaded successfully
+12:07:25 [ServerInfo] Hack loaded successfully
+12:07:25 [ServerInfo] Item loaded successfully
+12:07:25 [ServerInfo] Monster loaded successfully
+12:07:25 [ServerInfo] Move loaded successfully
+12:07:25 [ServerInfo] Quest loaded successfully
+12:07:25 [ServerInfo] Shop loaded successfully
+12:07:25 [ServerInfo] Skill loaded successfully
+12:07:25 [ServerInfo] Util loaded successfully
+12:07:25 [ReadBotInfo] BotSystem loaded successfully
+12:07:35 [Obj][9000] AddClient (192.168.1.8)
+12:07:36  SEND REQUEST login acc game Pass 1
+12:07:36 [Obj][9000] AddAccount (game)
+12:08:02 [Obj][9000] LogOutCharacter (GameMaster)
+12:08:02 [Obj][9000] LogOutCharacter ()
+12:08:02 [Obj][9000] DelAccount (game)
+12:08:02 [Obj][9000] DelClient (192.168.1.8)
+12:09:52 [Obj][9000] AddClient (192.168.1.8)
+12:09:53  SEND REQUEST login acc game Pass 1
+12:09:53 [Obj][9000] AddAccount (game)
+12:10:00 [CustomQuiz] Start
+12:10:27 [Obj][9000] LogOutCharacter (GameMaster)
+12:10:27 [Obj][9000] LogOutCharacter ()
+12:10:27 [Obj][9000] DelAccount (game)
+12:10:27 [Obj][9000] DelClient (192.168.1.8)
+12:11:25 [Obj][9000] AddClient (192.168.1.8)
+12:11:31  SEND REQUEST login acc game Pass 1
+12:11:31 [Obj][9000] AddAccount (game)
+12:11:39 [Obj][9000] LogOutCharacter (GameMaster)
+12:11:39 [Obj][9000] LogOutCharacter ()
+12:11:39 [Obj][9000] DelAccount (game)
+12:11:39 [Obj][9000] DelClient (192.168.1.8)
+12:12:05 [Obj][9000] AddClient (192.168.1.8)
+12:12:05  SEND REQUEST login acc game Pass 1
+12:12:05 [Obj][9000] AddAccount (game)
+12:12:09 [Obj][9000] LogOutCharacter (GameMaster)
+12:12:09 [Obj][9000] LogOutCharacter ()
+12:12:09 [Obj][9000] DelAccount (game)
+12:12:09 [Obj][9000] DelClient (192.168.1.8)
+12:12:26 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:12:26 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:12:42 [Obj][9000] AddClient (192.168.1.8)
+12:12:42  SEND REQUEST login acc game Pass 1
+12:12:42 [Obj][9000] AddAccount (game)
+12:13:00 [CustomQuiz] Finish
+12:13:26 [Obj][9000] LogOutCharacter (GameMaster)
+12:13:26 [Obj][9000] LogOutCharacter ()
+12:13:26 [Obj][9000] DelAccount (game)
+12:13:26 [Obj][9000] DelClient (192.168.1.8)
+12:14:27 [Obj][9000] AddClient (192.168.1.8)
+12:14:27  SEND REQUEST login acc game Pass 1
+12:14:27 [Obj][9000] AddAccount (game)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 80 Y: 132)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 80 Y: 132)
+12:15:23 [Obj][9000] LogOutCharacter (GameMaster)
+12:15:23 [Obj][9000] LogOutCharacter ()
+12:15:23 [Obj][9000] DelAccount (game)
+12:15:23 [Obj][9000] DelClient (192.168.1.8)
+12:15:33 [Obj][9001] AddClient (192.168.1.8)
+12:15:33  SEND REQUEST login acc game Pass 1
+12:15:33 [Obj][9001] AddAccount (game)
+12:15:38 [Obj][9001] LogOutCharacter (GameMaster)
+12:15:38 [Obj][9001] LogOutCharacter ()
+12:15:38 [Obj][9001] DelAccount (game)
+12:15:38 [Obj][9001] DelClient (192.168.1.8)
+12:17:27 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:17:27 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:20:00 [Obj][9000] AddClient (192.168.1.8)
+12:20:01  SEND REQUEST login acc game Pass 1
+12:20:01 [Obj][9000] AddAccount (game)
+12:20:18 [Obj][9000] LogOutCharacter (GameMaster)
+12:20:18 [Obj][9000] LogOutCharacter ()
+12:20:18 [Obj][9000] DelAccount (game)
+12:20:18 [Obj][9000] DelClient (192.168.1.8)
+12:22:28 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:22:28 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 155 Y: 125)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 155 Y: 125)
+12:27:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:27:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:32:30 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:32:30 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:36:01 [OnlineLoterry] No Winner
+12:37:31 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:37:31 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:42:32 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:42:32 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:47:33 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:47:33 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 198 Y: 85)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 198 Y: 85)
+12:52:34 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:52:34 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:57:35 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:57:35 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 155 Y: 17)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 155 Y: 17)
+13:02:36 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:02:36 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:06:46 [Obj][9001] AddClient (192.168.1.8)
+13:06:48  SEND REQUEST login acc game Pass 1
+13:06:48 [Obj][9001] AddAccount (game)
+13:06:51 [Obj][9001] LogOutCharacter (GameMaster)
+13:06:51 [Obj][9001] LogOutCharacter ()
+13:06:51 [Obj][9001] DelAccount (game)
+13:06:51 [Obj][9001] DelClient (192.168.1.8)
+13:07:37 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:07:37 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:10:00 [CustomQuiz] Start
+13:12:38 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:12:38 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:13:00 [CustomQuiz] Finish
+13:17:10 [Obj][9000] AddClient (192.168.1.8)
+13:17:15 [Obj][9000] DelClient (192.168.1.8)
+13:17:39 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:17:39 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:22:40 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:22:40 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:27:41 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:27:41 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:32:42 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:32:42 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:32:55 [Obj][9001] AddClient (192.168.1.8)
+13:32:56  SEND REQUEST login acc game Pass 1
+13:32:56 [Obj][9001] AddAccount (game)
+13:32:58 [Obj][9001] LogOutCharacter (GameMaster)
+13:32:58 [Obj][9001] LogOutCharacter ()
+13:32:58 [Obj][9001] DelAccount (game)
+13:32:58 [Obj][9001] DelClient (192.168.1.8)
+13:34:00 [Obj][9000] AddClient (192.168.1.8)
+13:34:01  SEND REQUEST login acc game Pass 1
+13:34:01 [Obj][9000] AddAccount (game)
+13:36:01 [OnlineLoterry] Add Member (GameMaster)
+13:36:01 [OnlineLoterry] Winner (GameMaster)
+13:36:01 [game][GameMaster] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+13:37:43 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:37:43 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:42:44 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:42:44 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:43:08 [Obj][9000] LogOutCharacter (GameMaster)
+13:43:08 [Obj][9000] LogOutCharacter ()
+13:45:43 [Obj][9000] LogOutCharacter (GameMaster)
+13:45:43 [Obj][9000] LogOutCharacter ()
+13:45:43 [Obj][9000] DelAccount (game)
+13:45:43 [Obj][9000] DelClient (192.168.1.8)
+13:45:48 [Obj][9001] AddClient (192.168.1.8)
+13:45:49  SEND REQUEST login acc game Pass 1
+13:45:49 [Obj][9001] AddAccount (game)
+13:46:10 [Set DS Start] At 13:48:00
+13:47:45 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:47:45 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:48:53 [Obj][9001] LogOutCharacter (GameMaster)
+13:48:53 [Obj][9001] LogOutCharacter ()
+13:48:53 [Obj][9001] DelAccount (game)
+13:48:53 [Obj][9001] DelClient (192.168.1.8)
+13:50:48 [Set DS Start] At 13:52:00
+13:50:49 [Obj][9000] AddClient (192.168.1.8)
+13:50:51  SEND REQUEST login acc game Pass 1
+13:50:51 [Obj][9000] AddAccount (game)
+13:52:46 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:52:46 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:57:47 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:57:47 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:58:26 [Obj][9000] LogOutCharacter (GameMaster)
+13:58:26 [Obj][9000] LogOutCharacter ()
+13:58:26 [Obj][9000] DelAccount (game)
+13:58:26 [Obj][9000] DelClient (192.168.1.8)
+13:58:35 [Set DS Start] At 14: 0:00
+13:58:36 [Obj][9001] AddClient (192.168.1.8)
+13:58:37  SEND REQUEST login acc game Pass 1
+13:58:37 [Obj][9001] AddAccount (game)
+13:59:33 [Obj][9001] LogOutCharacter (GameMaster)
+13:59:33 [Obj][9001] LogOutCharacter ()
+13:59:33 [Obj][9001] DelAccount (game)
+13:59:33 [Obj][9001] DelClient (192.168.1.8)
+13:59:42 [Obj][9000] AddClient (192.168.1.8)
+13:59:43  SEND REQUEST login acc game Pass 1
+13:59:43 [Obj][9000] AddAccount (game)
+13:59:56 [Set DS Start] At 14: 1:00
+14:00:25 [Obj][9000] LogOutCharacter (GameMaster)
+14:00:25 [Obj][9000] LogOutCharacter ()
+14:00:25 [Obj][9000] DelAccount (game)
+14:00:25 [Obj][9000] DelClient (192.168.1.8)
+14:00:33 [Obj][9001] AddClient (192.168.1.8)
+14:00:34  SEND REQUEST login acc game Pass 1
+14:00:34 [Obj][9001] AddAccount (game)
+14:01:04 [Set DS Start] At 14: 3:00
+14:01:15 [Obj][9001] LogOutCharacter (TESTEFL)
+14:01:15 [Obj][9001] LogOutCharacter ()
+14:01:15 [Obj][9001] DelAccount (game)
+14:01:15 [Obj][9001] DelClient (192.168.1.8)
+14:01:34 [Obj][9000] AddClient (192.168.1.8)
+14:01:35  SEND REQUEST login acc game Pass 1
+14:01:35 [Obj][9000] AddAccount (game)
+14:02:39 [Obj][9000] LogOutCharacter (TESTEFL)
+14:02:39 [Obj][9000] LogOutCharacter ()
+14:02:39 [Obj][9000] DelAccount (game)
+14:02:39 [Obj][9000] DelClient (192.168.1.8)
+14:02:48 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:02:48 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:02:57 [Obj][9001] AddClient (192.168.1.8)
+14:02:57  SEND REQUEST login acc game Pass 1
+14:02:57 [Obj][9001] AddAccount (game)
+14:03:13 [Obj][9001] LogOutCharacter (TESTEFL)
+14:03:13 [Obj][9001] LogOutCharacter ()
+14:03:13 [Obj][9001] DelAccount (game)
+14:03:13 [Obj][9001] DelClient (192.168.1.8)
+14:03:24 [Obj][9000] AddClient (192.168.1.8)
+14:03:25  SEND REQUEST login acc game Pass 1
+14:03:25 [Obj][9000] AddAccount (game)
+14:03:30 [Set DS Start] At 14: 5:00
+14:03:39 [Obj][9000] LogOutCharacter (TESTEFL)
+14:03:39 [Obj][9000] LogOutCharacter ()
+14:03:39 [Obj][9000] DelAccount (game)
+14:03:39 [Obj][9000] DelClient (192.168.1.8)
+14:03:47 [Obj][9001] AddClient (192.168.1.8)
+14:03:48  SEND REQUEST login acc game Pass 1
+14:03:48 [Obj][9001] AddAccount (game)
+14:04:08 [Obj][9001] LogOutCharacter (TESTEFL)
+14:04:08 [Obj][9001] LogOutCharacter ()
+14:04:14 [Set DS Start] At 14: 6:00
+14:07:49 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:07:49 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:10:00 [CustomQuiz] Start
+14:12:50 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:12:50 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:13:00 [CustomQuiz] Finish
+14:17:51 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:17:51 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:22:52 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:22:52 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:26:17 [Obj][9001] LogOutCharacter (GameMaster)
+14:26:17 [Obj][9001] LogOutCharacter ()
+14:26:17 [Obj][9001] DelAccount (game)
+14:26:17 [Obj][9001] DelClient (192.168.1.8)
+14:26:31 [Obj][9000] AddClient (192.168.1.8)
+14:26:32  SEND REQUEST login acc game Pass 1
+14:26:32 [Obj][9000] AddAccount (game)
+14:27:53 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:27:53 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:28:24 [Obj][9000] LogOutCharacter (GameMaster)
+14:28:24 [Obj][9000] LogOutCharacter ()
+14:28:24 [Obj][9000] DelAccount (game)
+14:28:24 [Obj][9000] DelClient (192.168.1.8)
+14:28:33 [Obj][9001] AddClient (192.168.1.8)
+14:28:34  SEND REQUEST login acc game Pass 1
+14:28:34 [Obj][9001] AddAccount (game)
+14:28:39 [Obj][9001] LogOutCharacter (GameMaster)
+14:28:39 [Obj][9001] LogOutCharacter ()
+14:28:39 [Obj][9001] DelAccount (game)
+14:28:39 [Obj][9001] DelClient (192.168.1.8)
+14:28:58 [Obj][9000] AddClient (192.168.1.8)
+14:28:59  SEND REQUEST login acc game Pass 1
+14:28:59 [Obj][9000] AddAccount (game)
+14:30:04 [Obj][9000] LogOutCharacter (GameMaster)
+14:30:04 [Obj][9000] LogOutCharacter ()
+14:30:04 [Obj][9000] DelAccount (game)
+14:30:04 [Obj][9000] DelClient (192.168.1.8)
+14:30:19 [Obj][9001] AddClient (192.168.1.8)
+14:30:20  SEND REQUEST login acc game Pass 1
+14:30:20 [Obj][9001] AddAccount (game)
+14:30:37 [Obj][9001] LogOutCharacter (GameMaster)
+14:30:37 [Obj][9001] LogOutCharacter ()
+14:30:37 [Obj][9001] DelAccount (game)
+14:30:37 [Obj][9001] DelClient (192.168.1.8)
+14:30:46 [Obj][9000] AddClient (192.168.1.8)
+14:30:47  SEND REQUEST login acc game Pass 1
+14:30:47 [Obj][9000] AddAccount (game)
+14:31:08 [Obj][9000] LogOutCharacter (GameMaster)
+14:31:08 [Obj][9000] LogOutCharacter ()
+14:31:08 [Obj][9000] DelAccount (game)
+14:31:08 [Obj][9000] DelClient (192.168.1.8)
+14:31:19 [Obj][9001] AddClient (192.168.1.8)
+14:31:20  SEND REQUEST login acc game Pass 1
+14:31:20 [Obj][9001] AddAccount (game)
+14:31:23 [Obj][9001] LogOutCharacter (GameMaster)
+14:31:23 [Obj][9001] LogOutCharacter ()
+14:31:23 [Obj][9001] DelAccount (game)
+14:31:23 [Obj][9001] DelClient (192.168.1.8)
+14:31:38 [Obj][9000] AddClient (192.168.1.8)
+14:31:38  SEND REQUEST login acc game Pass 1
+14:31:38 [Obj][9000] AddAccount (game)
+14:31:42 [Obj][9000] LogOutCharacter (GameMaster)
+14:31:42 [Obj][9000] LogOutCharacter ()
+14:31:42 [Obj][9000] DelAccount (game)
+14:31:42 [Obj][9000] DelClient (192.168.1.8)
+14:31:58 [Obj][9001] AddClient (192.168.1.8)
+14:31:59  SEND REQUEST login acc game Pass 1
+14:31:59 [Obj][9001] AddAccount (game)
+14:32:23 [Obj][9001] LogOutCharacter (GameMaster)
+14:32:23 [Obj][9001] LogOutCharacter ()
+14:32:23 [Obj][9001] DelAccount (game)
+14:32:23 [Obj][9001] DelClient (192.168.1.8)
+14:32:32 [Obj][9000] AddClient (192.168.1.8)
+14:32:33  SEND REQUEST login acc game Pass 1
+14:32:33 [Obj][9000] AddAccount (game)
+14:32:50 [Obj][9000] LogOutCharacter (GameMaster)
+14:32:50 [Obj][9000] LogOutCharacter ()
+14:32:50 [Obj][9000] DelAccount (game)
+14:32:50 [Obj][9000] DelClient (192.168.1.8)
+14:32:54 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:32:54 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:33:01 [Obj][9001] AddClient (192.168.1.8)
+14:33:02  SEND REQUEST login acc game Pass 1
+14:33:02 [Obj][9001] AddAccount (game)
+14:33:34 [Obj][9001] LogOutCharacter (GameMaster)
+14:33:34 [Obj][9001] LogOutCharacter ()
+14:33:34 [Obj][9001] DelAccount (game)
+14:33:34 [Obj][9001] DelClient (192.168.1.8)
+14:33:43 [Obj][9000] AddClient (192.168.1.8)
+14:33:44  SEND REQUEST login acc game Pass 1
+14:33:44 [Obj][9000] AddAccount (game)
+14:33:55 [Obj][9000] LogOutCharacter (GameMaster)
+14:33:55 [Obj][9000] LogOutCharacter ()
+14:33:55 [Obj][9000] DelAccount (game)
+14:33:55 [Obj][9000] DelClient (192.168.1.8)
+14:34:05 [Obj][9001] AddClient (192.168.1.8)
+14:34:06  SEND REQUEST login acc game Pass 1
+14:34:06 [Obj][9001] AddAccount (game)
+14:35:34 [Obj][9001] LogOutCharacter (GameMaster)
+14:35:34 [Obj][9001] LogOutCharacter ()
+14:35:34 [Obj][9001] DelAccount (game)
+14:35:34 [Obj][9001] DelClient (192.168.1.8)
+14:35:43 [Obj][9000] AddClient (192.168.1.8)
+14:35:44  SEND REQUEST login acc game Pass 1
+14:35:44 [Obj][9000] AddAccount (game)
+14:35:53 [Obj][9000] LogOutCharacter (GameMaster)
+14:35:53 [Obj][9000] LogOutCharacter ()
+14:35:53 [Obj][9000] DelAccount (game)
+14:35:53 [Obj][9000] DelClient (192.168.1.8)
+14:36:01 [OnlineLoterry] No Winner
+14:36:48 [Obj][9001] AddClient (192.168.1.8)
+14:36:49  SEND REQUEST login acc game Pass 1
+14:36:49 [Obj][9001] AddAccount (game)
+14:37:55 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:37:55 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:38:55 [Obj][9001] LogOutCharacter (GameMaster)
+14:38:55 [Obj][9001] LogOutCharacter ()
+14:38:55 [Obj][9001] DelAccount (game)
+14:38:55 [Obj][9001] DelClient (192.168.1.8)
+14:39:04 [Obj][9000] AddClient (192.168.1.8)
+14:39:05  SEND REQUEST login acc game Pass 1
+14:39:05 [Obj][9000] AddAccount (game)
+14:39:09 [Obj][9000] LogOutCharacter (GameMaster)
+14:39:09 [Obj][9000] LogOutCharacter ()
+14:39:09 [Obj][9000] DelAccount (game)
+14:39:09 [Obj][9000] DelClient (192.168.1.8)
+14:39:45 [Obj][9001] AddClient (192.168.1.8)
+14:39:47  SEND REQUEST login acc game Pass 1
+14:39:47 [Obj][9001] AddAccount (game)
+14:40:05 [Obj][9001] LogOutCharacter (GameMaster)
+14:40:05 [Obj][9001] LogOutCharacter ()
+14:40:05 [Obj][9001] DelAccount (game)
+14:40:05 [Obj][9001] DelClient (192.168.1.8)
+14:40:14 [Obj][9000] AddClient (192.168.1.8)
+14:40:15  SEND REQUEST login acc game Pass 1
+14:40:15 [Obj][9000] AddAccount (game)
+14:40:20 [Obj][9000] LogOutCharacter (GameMaster)
+14:40:20 [Obj][9000] LogOutCharacter ()
+14:40:20 [Obj][9000] DelAccount (game)
+14:40:20 [Obj][9000] DelClient (192.168.1.8)
+14:40:49 [Obj][9001] AddClient (192.168.1.8)
+14:40:50  SEND REQUEST login acc game Pass 1
+14:40:50 [Obj][9001] AddAccount (game)
+14:40:56 [Obj][9001] LogOutCharacter (GameMaster)
+14:40:56 [Obj][9001] LogOutCharacter ()
+14:40:56 [Obj][9001] DelAccount (game)
+14:40:56 [Obj][9001] DelClient (192.168.1.8)
+14:41:15 [Obj][9000] AddClient (192.168.1.8)
+14:41:16  SEND REQUEST login acc game Pass 1
+14:41:16 [Obj][9000] AddAccount (game)
+14:41:19 [Obj][9000] LogOutCharacter (GameMaster)
+14:41:19 [Obj][9000] LogOutCharacter ()
+14:41:19 [Obj][9000] DelAccount (game)
+14:41:19 [Obj][9000] DelClient (192.168.1.8)
+14:41:32 [Obj][9001] AddClient (192.168.1.8)
+14:41:32  SEND REQUEST login acc game Pass 1
+14:41:32 [Obj][9001] AddAccount (game)
+14:41:40 [Obj][9001] LogOutCharacter (GameMaster)
+14:41:40 [Obj][9001] LogOutCharacter ()
+14:41:40 [Obj][9001] DelAccount (game)
+14:41:40 [Obj][9001] DelClient (192.168.1.8)
+14:41:55 [Obj][9000] AddClient (192.168.1.8)
+14:41:55  SEND REQUEST login acc game Pass 1
+14:41:55 [Obj][9000] AddAccount (game)
+14:42:00 [Obj][9000] LogOutCharacter (GameMaster)
+14:42:00 [Obj][9000] LogOutCharacter ()
+14:42:00 [Obj][9000] DelAccount (game)
+14:42:00 [Obj][9000] DelClient (192.168.1.8)
+14:42:13 [Obj][9001] AddClient (192.168.1.8)
+14:42:14  SEND REQUEST login acc game Pass 1
+14:42:14 [Obj][9001] AddAccount (game)
+14:42:20 [Obj][9001] LogOutCharacter (GameMaster)
+14:42:20 [Obj][9001] LogOutCharacter ()
+14:42:20 [Obj][9001] DelAccount (game)
+14:42:20 [Obj][9001] DelClient (192.168.1.8)
+14:42:33 [Obj][9000] AddClient (192.168.1.8)
+14:42:33  SEND REQUEST login acc game Pass 1
+14:42:33 [Obj][9000] AddAccount (game)
+14:42:38 [Obj][9000] LogOutCharacter (GameMaster)
+14:42:38 [Obj][9000] LogOutCharacter ()
+14:42:38 [Obj][9000] DelAccount (game)
+14:42:38 [Obj][9000] DelClient (192.168.1.8)
+14:42:50 [Obj][9001] AddClient (192.168.1.8)
+14:42:51  SEND REQUEST login acc game Pass 1
+14:42:51 [Obj][9001] AddAccount (game)
+14:42:56 [Obj][9001] LogOutCharacter (GameMaster)
+14:42:56 [Obj][9001] LogOutCharacter ()
+14:42:56 [Obj][9001] DelAccount (game)
+14:42:56 [Obj][9001] DelClient (192.168.1.8)
+14:42:56 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:42:56 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:43:11 [Obj][9000] AddClient (192.168.1.8)
+14:43:12  SEND REQUEST login acc game Pass 1
+14:43:12 [Obj][9000] AddAccount (game)
+14:43:15 [Obj][9000] LogOutCharacter (GameMaster)
+14:43:15 [Obj][9000] LogOutCharacter ()
+14:43:15 [Obj][9000] DelAccount (game)
+14:43:15 [Obj][9000] DelClient (192.168.1.8)
+14:43:28 [Obj][9001] AddClient (192.168.1.8)
+14:43:28  SEND REQUEST login acc game Pass 1
+14:43:28 [Obj][9001] AddAccount (game)
+14:43:40 [Obj][9001] LogOutCharacter (GameMaster)
+14:43:40 [Obj][9001] LogOutCharacter ()
+14:43:40 [Obj][9001] DelAccount (game)
+14:43:40 [Obj][9001] DelClient (192.168.1.8)
+14:43:56 [Obj][9000] AddClient (192.168.1.8)
+14:43:56  SEND REQUEST login acc game Pass 1
+14:43:56 [Obj][9000] AddAccount (game)
+14:44:00 [Obj][9000] LogOutCharacter (GameMaster)
+14:44:00 [Obj][9000] LogOutCharacter ()
+14:44:00 [Obj][9000] DelAccount (game)
+14:44:00 [Obj][9000] DelClient (192.168.1.8)
+14:44:16 [Obj][9001] AddClient (192.168.1.8)
+14:44:17  SEND REQUEST login acc game Pass 1
+14:44:17 [Obj][9001] AddAccount (game)
+14:44:28 [Obj][9001] LogOutCharacter (GameMaster)
+14:44:28 [Obj][9001] LogOutCharacter ()
+14:44:28 [Obj][9001] DelAccount (game)
+14:44:28 [Obj][9001] DelClient (192.168.1.8)
+14:44:48 [Obj][9000] AddClient (192.168.1.8)
+14:44:49  SEND REQUEST login acc game Pass 1
+14:44:49 [Obj][9000] AddAccount (game)
+14:44:53 [Obj][9000] LogOutCharacter (GameMaster)
+14:44:53 [Obj][9000] LogOutCharacter ()
+14:44:53 [Obj][9000] DelAccount (game)
+14:44:53 [Obj][9000] DelClient (192.168.1.8)
+14:45:10 [Obj][9001] AddClient (192.168.1.8)
+14:45:11  SEND REQUEST login acc game Pass 1
+14:45:11 [Obj][9001] AddAccount (game)
+14:45:15 [Obj][9001] LogOutCharacter (GameMaster)
+14:45:15 [Obj][9001] LogOutCharacter ()
+14:45:15 [Obj][9001] DelAccount (game)
+14:45:15 [Obj][9001] DelClient (192.168.1.8)
+14:45:43 [Obj][9000] AddClient (192.168.1.8)
+14:45:43  SEND REQUEST login acc game Pass 1
+14:45:43 [Obj][9000] AddAccount (game)
+14:45:47 [Obj][9000] LogOutCharacter (GameMaster)
+14:45:47 [Obj][9000] LogOutCharacter ()
+14:45:47 [Obj][9000] DelAccount (game)
+14:45:47 [Obj][9000] DelClient (192.168.1.8)
+14:46:18 [Obj][9001] AddClient (192.168.1.8)
+14:46:18  SEND REQUEST login acc game Pass 1
+14:46:18 [Obj][9001] AddAccount (game)
+14:46:23 [Obj][9001] LogOutCharacter (GameMaster)
+14:46:23 [Obj][9001] LogOutCharacter ()
+14:46:23 [Obj][9001] DelAccount (game)
+14:46:23 [Obj][9001] DelClient (192.168.1.8)
+14:46:42 [Obj][9000] AddClient (192.168.1.8)
+14:46:43  SEND REQUEST login acc game Pass 1
+14:46:43 [Obj][9000] AddAccount (game)
+14:46:47 [Obj][9000] LogOutCharacter (GameMaster)
+14:46:47 [Obj][9000] LogOutCharacter ()
+14:46:47 [Obj][9000] DelAccount (game)
+14:46:47 [Obj][9000] DelClient (192.168.1.8)
+14:46:58 [Obj][9001] AddClient (192.168.1.8)
+14:46:59  SEND REQUEST login acc game Pass 1
+14:46:59 [Obj][9001] AddAccount (game)
+14:47:02 [Obj][9001] LogOutCharacter (GameMaster)
+14:47:02 [Obj][9001] LogOutCharacter ()
+14:47:02 [Obj][9001] DelAccount (game)
+14:47:02 [Obj][9001] DelClient (192.168.1.8)
+14:47:15 [Obj][9000] AddClient (192.168.1.8)
+14:47:15  SEND REQUEST login acc game Pass 1
+14:47:15 [Obj][9000] AddAccount (game)
+14:47:19 [Obj][9000] LogOutCharacter (GameMaster)
+14:47:19 [Obj][9000] LogOutCharacter ()
+14:47:19 [Obj][9000] DelAccount (game)
+14:47:19 [Obj][9000] DelClient (192.168.1.8)
+14:47:47 [Obj][9001] AddClient (192.168.1.8)
+14:47:47  SEND REQUEST login acc game Pass 1
+14:47:47 [Obj][9001] AddAccount (game)
+14:47:57 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:47:57 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:48:19 [Obj][9001] LogOutCharacter (GameMaster)
+14:48:19 [Obj][9001] LogOutCharacter ()
+14:48:19 [Obj][9001] DelAccount (game)
+14:48:19 [Obj][9001] DelClient (192.168.1.8)
+14:48:36 [Obj][9000] AddClient (192.168.1.8)
+14:48:37  SEND REQUEST login acc game Pass 1
+14:48:37 [Obj][9000] AddAccount (game)
+14:49:43 [Obj][9000] LogOutCharacter (GameMaster)
+14:49:43 [Obj][9000] LogOutCharacter ()
+14:49:43 [Obj][9000] DelAccount (game)
+14:49:43 [Obj][9000] DelClient (192.168.1.8)
+14:49:54 [Obj][9001] AddClient (192.168.1.8)
+14:49:54  SEND REQUEST login acc game Pass 1
+14:49:54 [Obj][9001] AddAccount (game)
+14:49:58 [Obj][9001] LogOutCharacter (GameMaster)
+14:49:58 [Obj][9001] LogOutCharacter ()
+14:49:58 [Obj][9001] DelAccount (game)
+14:49:58 [Obj][9001] DelClient (192.168.1.8)
+14:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 196 Y: 73)
+14:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 196 Y: 73)
+14:50:12 [Obj][9000] AddClient (192.168.1.8)
+14:50:13  SEND REQUEST login acc game Pass 1
+14:50:13 [Obj][9000] AddAccount (game)
+14:52:58 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:52:58 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:53:10 [Obj][9000] LogOutCharacter (GameMaster)
+14:53:10 [Obj][9000] LogOutCharacter ()
+14:53:10 [Obj][9000] DelAccount (game)
+14:53:10 [Obj][9000] DelClient (192.168.1.8)
+14:54:19 [ Crywolf ] State (0) -> NONE
+14:54:19 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+14:54:19 [ServerInfo] Event loaded successfully
+14:54:23 [Obj][9001] AddClient (192.168.1.8)
+14:54:24  SEND REQUEST login acc game Pass 1
+14:54:24 [Obj][9001] AddAccount (game)
+14:54:29 [Set DS Start] At 14:56:00
+14:57:59 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:57:59 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:58:30 [Obj][9001] LogOutCharacter (GameMaster)
+14:58:30 [Obj][9001] LogOutCharacter ()
+14:58:30 [Obj][9001] DelAccount (game)
+14:58:30 [Obj][9001] DelClient (192.168.1.8)
+14:58:40 [Obj][9000] AddClient (192.168.1.8)
+14:58:41  SEND REQUEST login acc game Pass 1
+14:58:41 [Obj][9000] AddAccount (game)
+14:58:47 [Set DS Start] At 15: 0:00
+15:02:08 [Obj][9000] LogOutCharacter (GameMaster)
+15:02:08 [Obj][9000] LogOutCharacter ()
+15:02:08 [Obj][9000] DelAccount (game)
+15:02:08 [Obj][9000] DelClient (192.168.1.8)
+15:02:44 [Obj][9001] AddClient (192.168.1.8)
+15:02:45  SEND REQUEST login acc game Pass 1
+15:02:45 [Obj][9001] AddAccount (game)
+15:02:49 [Set DS Start] At 15: 4:00
+15:03:00 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:03:00 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:06:38 [Obj][9001] LogOutCharacter (GameMaster)
+15:06:38 [Obj][9001] LogOutCharacter ()
+15:06:38 [Obj][9001] DelAccount (game)
+15:06:38 [Obj][9001] DelClient (192.168.1.8)
+15:06:48 [Set DS Start] At 15: 8:00
+15:06:49 [Obj][9000] AddClient (192.168.1.8)
+15:06:49  SEND REQUEST login acc game Pass 1
+15:06:49 [Obj][9000] AddAccount (game)
+15:08:01 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:08:01 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:10:00 [CustomQuiz] Start
+15:10:25 [Obj][9000] LogOutCharacter (GameMaster)
+15:10:25 [Obj][9000] LogOutCharacter ()
+15:10:25 [Obj][9000] DelAccount (game)
+15:10:25 [Obj][9000] DelClient (192.168.1.8)
+15:13:00 [CustomQuiz] Finish
+15:13:02 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:13:02 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:18:03 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:18:03 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:19:49 [Obj][9001] AddClient (192.168.1.8)
+15:19:50  SEND REQUEST login acc game Pass 1
+15:19:50 [Obj][9001] AddAccount (game)
+15:23:04 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:23:04 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:23:19 [Obj][9001] LogOutCharacter (GameMaster)
+15:23:19 [Obj][9001] LogOutCharacter ()
+15:23:19 [Obj][9001] DelAccount (game)
+15:23:19 [Obj][9001] DelClient (192.168.1.8)
+15:23:27 [Obj][9000] AddClient (192.168.1.8)
+15:23:28  SEND REQUEST login acc game Pass 1
+15:23:28 [Obj][9000] AddAccount (game)
+15:23:50 [Set CC Start] At 15:25:00
+15:25:56 [Obj][9000] LogOutCharacter (GameMaster)
+15:25:56 [Obj][9000] LogOutCharacter ()
+15:25:56 [Obj][9000] DelAccount (game)
+15:25:56 [Obj][9000] DelClient (192.168.1.8)
+15:26:01 [Set CC Start] At 15:28:00
+15:26:02 [Obj][9001] AddClient (192.168.1.8)
+15:26:02  SEND REQUEST login acc game Pass 1
+15:26:02 [Obj][9001] AddAccount (game)
+15:26:49 [Set CC Start] At 15:28:00
+15:28:05 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:28:05 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:29:53 [Obj][9001] LogOutCharacter (GameMaster)
+15:29:53 [Obj][9001] LogOutCharacter ()
+15:29:53 [Obj][9001] DelAccount (game)
+15:29:53 [Obj][9001] DelClient (192.168.1.8)
+15:30:10 [Set CC Start] At 15:32:00
+15:30:11 [Obj][9000] AddClient (192.168.1.8)
+15:30:12  SEND REQUEST login acc game Pass 1
+15:30:12 [Obj][9000] AddAccount (game)
+15:30:23 [Obj][9000] LogOutCharacter (GameMaster)
+15:30:23 [Obj][9000] LogOutCharacter ()
+15:30:23 [Obj][9000] DelAccount (game)
+15:30:23 [Obj][9000] DelClient (192.168.1.8)
+15:33:06 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:33:06 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:34:46 [Obj][9001] AddClient (192.168.1.8)
+15:34:47  SEND REQUEST login acc game Pass 1
+15:34:47 [Obj][9001] AddAccount (game)
+15:35:15 [Set CC Start] At 15:37:00
+15:35:38 [Set CC Start] At 15:37:00
+15:36:01 [OnlineLoterry] No Winner
+15:38:07 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:38:07 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:42:59 [Set CC Start] At 15:44:00
+15:43:08 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:43:08 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:43:33 [Obj][9001] LogOutCharacter (GameMaster)
+15:43:33 [Obj][9001] LogOutCharacter ()
+15:43:33 [Obj][9001] DelAccount (game)
+15:43:33 [Obj][9001] DelClient (192.168.1.8)
+15:46:01 [Obj][9000] AddClient (192.168.1.8)
+15:46:01  SEND REQUEST login acc game Pass 1
+15:46:01 [Obj][9000] AddAccount (game)
+15:46:19 [Set CC Start] At 15:48:00
+15:46:52 [Obj][9000] LogOutCharacter (GameMaster)
+15:46:52 [Obj][9000] LogOutCharacter ()
+15:46:52 [Obj][9000] DelAccount (game)
+15:46:52 [Obj][9000] DelClient (192.168.1.8)
+15:48:09 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:48:09 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:48:36 [Obj][9001] AddClient (192.168.1.8)
+15:48:37  SEND REQUEST login acc game Pass 1
+15:48:37 [Obj][9001] AddAccount (game)
+15:49:20 [Set CC Start] At 15:51:00
+15:49:29 [Obj][9001] LogOutCharacter (GameMaster)
+15:49:29 [Obj][9001] LogOutCharacter ()
+15:49:29 [Obj][9001] DelAccount (game)
+15:49:29 [Obj][9001] DelClient (192.168.1.8)
+15:49:46 [Obj][9000] AddClient (192.168.1.8)
+15:49:47  SEND REQUEST login acc game Pass 1
+15:49:47 [Obj][9000] AddAccount (game)
+15:53:10 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:53:10 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:53:49 [Obj][9000] LogOutCharacter (TESTEFL)
+15:53:49 [Obj][9000] LogOutCharacter ()
+15:53:49 [Obj][9000] DelAccount (game)
+15:53:49 [Obj][9000] DelClient (192.168.1.8)
+15:56:16 [Obj][9001] AddClient (192.168.1.8)
+15:56:16  SEND REQUEST login acc game Pass 1
+15:56:16 [Obj][9001] AddAccount (game)
+15:56:57 [Set CC Start] At 15:58:00
+15:57:18 [Obj][9001] LogOutCharacter (GameMaster)
+15:57:18 [Obj][9001] LogOutCharacter ()
+15:57:18 [Obj][9001] DelAccount (game)
+15:57:18 [Obj][9001] DelClient (192.168.1.8)
+15:57:26 [Obj][9000] AddClient (192.168.1.8)
+15:57:27  SEND REQUEST login acc game Pass 1
+15:57:27 [Obj][9000] AddAccount (game)
+15:58:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:58:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:58:18 [Obj][9000] LogOutCharacter (GameMaster)
+15:58:18 [Obj][9000] LogOutCharacter ()
+15:58:18 [Obj][9000] DelAccount (game)
+15:58:18 [Obj][9000] DelClient (192.168.1.8)
+15:58:28 [Obj][9001] AddClient (192.168.1.8)
+15:58:29  SEND REQUEST login acc game Pass 1
+15:58:29 [Obj][9001] AddAccount (game)
+15:58:35 [Set CC Start] At 16: 0:00
+15:58:38 [Obj][9001] LogOutCharacter (GameMaster)
+15:58:38 [Obj][9001] LogOutCharacter ()
+15:58:38 [Obj][9001] DelAccount (game)
+15:58:38 [Obj][9001] DelClient (192.168.1.8)
+16:03:12 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:03:12 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:03:34 [Obj][9000] AddClient (192.168.1.8)
+16:03:36  SEND REQUEST login acc game Pass 1
+16:03:36 [Obj][9000] AddAccount (game)
+16:04:29 [Obj][9000] LogOutCharacter (TESTEFL)
+16:04:29 [Obj][9000] LogOutCharacter ()
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 203 Y: 78)
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 203 Y: 78)
+16:06:16 [Set CC Start] At 16: 8:00
+16:07:25 [Obj][9000] LogOutCharacter (TESTHON)
+16:07:25 [Obj][9000] LogOutCharacter ()
+16:07:25 [Obj][9000] DelAccount (game)
+16:07:25 [Obj][9000] DelClient (192.168.1.8)
+16:07:49 [Obj][9001] AddClient (192.168.1.8)
+16:07:50  SEND REQUEST login acc game Pass 1
+16:07:50 [Obj][9001] AddAccount (game)
+16:07:56 [Set CC Start] At 16: 9:00
+16:08:13 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:08:13 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:09:06 [Obj][9001] LogOutCharacter (TESTHON)
+16:09:06 [Obj][9001] LogOutCharacter ()
+16:09:06 [Obj][9001] DelAccount (game)
+16:09:06 [Obj][9001] DelClient (192.168.1.8)
+16:09:16 [Set CC Start] At 16:11:00
+16:09:17 [Obj][9000] AddClient (192.168.1.8)
+16:09:18  SEND REQUEST login acc game Pass 1
+16:09:18 [Obj][9000] AddAccount (game)
+16:09:35 [Obj][9000] LogOutCharacter (TESTHON)
+16:09:35 [Obj][9000] LogOutCharacter ()
+16:09:35 [Obj][9000] DelAccount (game)
+16:09:35 [Obj][9000] DelClient (192.168.1.8)
+16:09:46 [Obj][9001] AddClient (192.168.1.8)
+16:09:47  SEND REQUEST login acc game Pass 1
+16:09:47 [Obj][9001] AddAccount (game)
+16:10:00 [CustomQuiz] Start
+16:11:33 [Obj][9001] LogOutCharacter (TESTHON)
+16:11:33 [Obj][9001] LogOutCharacter ()
+16:11:33 [Obj][9001] DelAccount (game)
+16:11:33 [Obj][9001] DelClient (192.168.1.8)
+16:11:42 [Set CC Start] At 16:13:00
+16:11:43 [Obj][9000] AddClient (192.168.1.8)
+16:11:44  SEND REQUEST login acc game Pass 1
+16:11:44 [Obj][9000] AddAccount (game)
+16:13:00 [CustomQuiz] Finish
+16:13:14 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+16:13:14 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+16:14:25 [Obj][9000] LogOutCharacter (TESTHON)
+16:14:25 [Obj][9000] LogOutCharacter ()
+16:14:25 [Obj][9000] DelAccount (game)
+16:14:25 [Obj][9000] DelClient (192.168.1.8)
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 70 Y: 69)
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 70 Y: 69)
+16:15:10 [Obj][9001] AddClient (192.168.1.8)
+16:15:10  SEND REQUEST login acc game Pass 1
+16:15:10 [Obj][9001] AddAccount (game)
+16:15:13 [Obj][9001] LogOutCharacter (GameMaster)
+16:15:13 [Obj][9001] LogOutCharacter ()
+16:15:13 [Obj][9001] DelAccount (game)
+16:15:13 [Obj][9001] DelClient (192.168.1.8)
+16:16:43 [Obj][9000] AddClient (192.168.1.8)
+16:16:44  SEND REQUEST login acc game Pass 1
+16:16:44 [Obj][9000] AddAccount (game)
+16:17:49 [Obj][9000] LogOutCharacter (GameMaster)
+16:17:49 [Obj][9000] LogOutCharacter ()
+16:17:56 [Set CC Start] At 16:19:00
+16:18:15 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+16:18:15 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+16:23:16 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:23:16 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 114 Y: 109)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 114 Y: 109)
+16:26:06 [Obj][9000] LogOutCharacter (TESTHON)
+16:26:06 [Obj][9000] LogOutCharacter ()
+16:26:06 [Obj][9000] DelAccount (game)
+16:26:06 [Obj][9000] DelClient (192.168.1.8)
+16:26:19 [Obj][9001] AddClient (192.168.1.8)
+16:26:20  SEND REQUEST login acc game Pass 1
+16:26:20 [Obj][9001] AddAccount (game)
+16:26:28 [Set CC Start] At 16:28:00
+16:28:17 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:28:17 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:33:18 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+16:33:18 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+16:36:01 [OnlineLoterry] Add Member (TESTHON)
+16:36:01 [OnlineLoterry] Winner (TESTHON)
+16:36:01 [game][TESTHON] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+16:36:33 [Obj][9001] LogOutCharacter (TESTHON)
+16:36:33 [Obj][9001] LogOutCharacter ()
+16:36:33 [Obj][9001] DelAccount (game)
+16:36:33 [Obj][9001] DelClient (192.168.1.8)
+16:36:42 [Set CC Start] At 16:38:00
+16:36:44 [Obj][9000] AddClient (192.168.1.8)
+16:36:44  SEND REQUEST login acc game Pass 1
+16:36:44 [Obj][9000] AddAccount (game)
+16:38:19 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:38:19 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:41:40 [Obj][9000] LogOutCharacter (TESTHON)
+16:41:40 [Obj][9000] LogOutCharacter ()
+16:41:40 [Obj][9000] DelAccount (game)
+16:41:40 [Obj][9000] DelClient (192.168.1.8)
+16:41:53 [Set CC Start] At 16:43:00
+16:41:54 [Obj][9001] AddClient (192.168.1.8)
+16:41:55  SEND REQUEST login acc game Pass 1
+16:41:55 [Obj][9001] AddAccount (game)
+16:43:20 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:43:20 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:44:44 [Obj][9001] LogOutCharacter (TESTHON)
+16:44:44 [Obj][9001] LogOutCharacter ()
+16:44:44 [Obj][9001] DelAccount (game)
+16:44:44 [Obj][9001] DelClient (192.168.1.8)
+16:44:57 [Obj][9000] AddClient (192.168.1.8)
+16:44:58  SEND REQUEST login acc game Pass 1
+16:44:58 [Obj][9000] AddAccount (game)
+16:45:02 [Set CC Start] At 16:47:00
+16:48:20 [Obj][9000] LogOutCharacter (TESTHON)
+16:48:20 [Obj][9000] LogOutCharacter ()
+16:48:20 [Obj][9000] DelAccount (game)
+16:48:20 [Obj][9000] DelClient (192.168.1.8)
+16:48:21 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:48:21 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:48:31 [Obj][9001] AddClient (192.168.1.8)
+16:48:32  SEND REQUEST login acc game Pass 1
+16:48:32 [Obj][9001] AddAccount (game)
+16:48:36 [Set CC Start] At 16:50:00
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 196 Y: 82)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 196 Y: 82)
+16:52:57 [Obj][9001] LogOutCharacter (TESTHON)
+16:52:57 [Obj][9001] LogOutCharacter ()
+16:52:57 [Obj][9001] DelAccount (game)
+16:52:57 [Obj][9001] DelClient (192.168.1.8)
+16:53:22 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+16:53:22 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+16:54:31 [Obj][9000] AddClient (192.168.1.8)
+16:54:31  SEND REQUEST login acc game Pass 1
+16:54:31 [Obj][9000] AddAccount (game)
+16:54:44 [Obj][9000] LogOutCharacter (TESTHON)
+16:54:44 [Obj][9000] LogOutCharacter ()
+16:54:44 [Obj][9000] DelAccount (game)
+16:54:44 [Obj][9000] DelClient (192.168.1.8)
+16:54:54 [Obj][9001] AddClient (192.168.1.8)
+16:54:54  SEND REQUEST login acc game Pass 1
+16:54:54 [Obj][9001] AddAccount (game)
+16:55:03 [Set CC Start] At 16:57:00
+16:58:23 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:58:23 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:58:26 [Obj][9001] LogOutCharacter (TESTHON)
+16:58:26 [Obj][9001] LogOutCharacter ()
+16:58:26 [Obj][9001] DelAccount (game)
+16:58:26 [Obj][9001] DelClient (192.168.1.8)
+16:58:37 [Obj][9000] AddClient (192.168.1.8)
+16:58:38  SEND REQUEST login acc game Pass 1
+16:58:38 [Obj][9000] AddAccount (game)
+16:58:47 [Set CC Start] At 17: 0:00
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 183 Y: 118)
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 183 Y: 118)
+17:01:11 [Obj][9000] LogOutCharacter (TESTHON)
+17:01:11 [Obj][9000] LogOutCharacter ()
+17:01:11 [Obj][9000] DelAccount (game)
+17:01:11 [Obj][9000] DelClient (192.168.1.8)
+17:01:27 [Obj][9001] AddClient (192.168.1.8)
+17:01:28  SEND REQUEST login acc game Pass 1
+17:01:28 [Obj][9001] AddAccount (game)
+17:01:34 [Set CC Start] At 17: 3:00
+17:03:24 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:03:24 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:04:27 [Obj][9001] LogOutCharacter (TESTHON)
+17:04:27 [Obj][9001] LogOutCharacter ()
+17:04:27 [Obj][9001] DelAccount (game)
+17:04:27 [Obj][9001] DelClient (192.168.1.8)
+17:05:12 [Obj][9000] AddClient (192.168.1.8)
+17:05:13  SEND REQUEST login acc game Pass 1
+17:05:13 [Obj][9000] AddAccount (game)
+17:05:36 [Set CC Start] At 17: 7:00
+17:08:08 [Obj][9000] LogOutCharacter (TESTHON)
+17:08:08 [Obj][9000] LogOutCharacter ()
+17:08:08 [Obj][9000] DelAccount (game)
+17:08:08 [Obj][9000] DelClient (192.168.1.8)
+17:08:23 [Set CC Start] At 17:10:00
+17:08:24 [Obj][9001] AddClient (192.168.1.8)
+17:08:24  SEND REQUEST login acc game Pass 1
+17:08:24 [Obj][9001] AddAccount (game)
+17:08:25 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:08:25 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:10:00 [CustomQuiz] Start
+17:11:09 [Obj][9001] LogOutCharacter (TESTHON)
+17:11:09 [Obj][9001] LogOutCharacter ()
+17:11:09 [Obj][9001] DelAccount (game)
+17:11:09 [Obj][9001] DelClient (192.168.1.8)
+17:11:26 [Obj][9000] AddClient (192.168.1.8)
+17:11:26  SEND REQUEST login acc game Pass 1
+17:11:26 [Obj][9000] AddAccount (game)
+17:12:07 [Obj][9000] LogOutCharacter (TESTHON)
+17:12:07 [Obj][9000] LogOutCharacter ()
+17:12:07 [Obj][9000] DelAccount (game)
+17:12:07 [Obj][9000] DelClient (192.168.1.8)
+17:13:00 [CustomQuiz] Finish
+17:13:26 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:13:26 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:14:04 [Obj][9001] AddClient (192.168.1.8)
+17:14:05  SEND REQUEST login acc game Pass 1
+17:14:05 [Obj][9001] AddAccount (game)
+17:14:12 [Set CC Start] At 17:16:00
+17:17:34 [Obj][9001] LogOutCharacter (TESTHON)
+17:17:34 [Obj][9001] LogOutCharacter ()
+17:17:34 [Obj][9001] DelAccount (game)
+17:17:34 [Obj][9001] DelClient (192.168.1.8)
+17:18:27 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:18:27 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:18:51 [Obj][9000] AddClient (192.168.1.8)
+17:18:52  SEND REQUEST login acc game Pass 1
+17:18:52 [Obj][9000] AddAccount (game)
+17:18:59 [Obj][9000] LogOutCharacter (TESTHON)
+17:18:59 [Obj][9000] LogOutCharacter ()
+17:18:59 [Obj][9000] DelAccount (game)
+17:18:59 [Obj][9000] DelClient (192.168.1.8)
+17:19:20 [Obj][9001] AddClient (192.168.1.8)
+17:19:20  SEND REQUEST login acc game Pass 1
+17:19:20 [Obj][9001] AddAccount (game)
+17:19:24 [Obj][9001] LogOutCharacter (GameMaster)
+17:19:24 [Obj][9001] LogOutCharacter ()
+17:19:24 [Obj][9001] DelAccount (game)
+17:19:24 [Obj][9001] DelClient (192.168.1.8)
+17:19:50 [Obj][9000] AddClient (192.168.1.8)
+17:19:50  SEND REQUEST login acc game Pass 1
+17:19:50 [Obj][9000] AddAccount (game)
+17:19:54 [Obj][9000] LogOutCharacter (GameMaster)
+17:19:54 [Obj][9000] LogOutCharacter ()
+17:19:54 [Obj][9000] DelAccount (game)
+17:19:54 [Obj][9000] DelClient (192.168.1.8)
+17:20:07 [Obj][9001] AddClient (192.168.1.8)
+17:20:07  SEND REQUEST login acc game Pass 1
+17:20:07 [Obj][9001] AddAccount (game)
+17:21:09 [Obj][9001] LogOutCharacter (GameMaster)
+17:21:09 [Obj][9001] LogOutCharacter ()
+17:21:09 [Obj][9001] DelAccount (game)
+17:21:09 [Obj][9001] DelClient (192.168.1.8)
+17:21:19 [Obj][9000] AddClient (192.168.1.8)
+17:21:19  SEND REQUEST login acc game Pass 1
+17:21:19 [Obj][9000] AddAccount (game)
+17:21:23 [Obj][9000] LogOutCharacter (GameMaster)
+17:21:23 [Obj][9000] LogOutCharacter ()
+17:21:23 [Obj][9000] DelAccount (game)
+17:21:23 [Obj][9000] DelClient (192.168.1.8)
+17:21:36 [Obj][9001] AddClient (192.168.1.8)
+17:21:36  SEND REQUEST login acc game Pass 1
+17:21:36 [Obj][9001] AddAccount (game)
+17:22:01 [Obj][9001] LogOutCharacter (GameMaster)
+17:22:01 [Obj][9001] LogOutCharacter ()
+17:22:01 [Obj][9001] DelAccount (game)
+17:22:01 [Obj][9001] DelClient (192.168.1.8)
+17:22:09 [Obj][9000] AddClient (192.168.1.8)
+17:22:10  SEND REQUEST login acc game Pass 1
+17:22:10 [Obj][9000] AddAccount (game)
+17:22:30 [Obj][9000] LogOutCharacter (GameMaster)
+17:22:30 [Obj][9000] LogOutCharacter ()
+17:22:30 [Obj][9000] DelAccount (game)
+17:22:30 [Obj][9000] DelClient (192.168.1.8)
+17:22:39 [Obj][9001] AddClient (192.168.1.8)
+17:22:39  SEND REQUEST login acc game Pass 1
+17:22:39 [Obj][9001] AddAccount (game)
+17:23:28 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:23:28 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:23:57 [Obj][9001] LogOutCharacter (GameMaster)
+17:23:57 [Obj][9001] LogOutCharacter ()
+17:23:57 [Obj][9001] DelAccount (game)
+17:23:57 [Obj][9001] DelClient (192.168.1.8)
+17:24:09 [Obj][9000] AddClient (192.168.1.8)
+17:24:10  SEND REQUEST login acc game Pass 1
+17:24:10 [Obj][9000] AddAccount (game)
+17:24:20 [Obj][9000] LogOutCharacter (GameMaster)
+17:24:20 [Obj][9000] LogOutCharacter ()
+17:24:20 [Obj][9000] DelAccount (game)
+17:24:20 [Obj][9000] DelClient (192.168.1.8)
+17:24:29 [Obj][9001] AddClient (192.168.1.8)
+17:24:30  SEND REQUEST login acc game Pass 1
+17:24:30 [Obj][9001] AddAccount (game)
+17:24:44 [Obj][9001] LogOutCharacter (GameMaster)
+17:24:44 [Obj][9001] LogOutCharacter ()
+17:24:44 [Obj][9001] DelAccount (game)
+17:24:44 [Obj][9001] DelClient (192.168.1.8)
+17:24:53 [Obj][9000] AddClient (192.168.1.8)
+17:24:54  SEND REQUEST login acc game Pass 1
+17:24:54 [Obj][9000] AddAccount (game)
+17:25:16 [Obj][9000] LogOutCharacter (GameMaster)
+17:25:16 [Obj][9000] LogOutCharacter ()
+17:25:16 [Obj][9000] DelAccount (game)
+17:25:16 [Obj][9000] DelClient (192.168.1.8)
+17:25:28 [Obj][9001] AddClient (192.168.1.8)
+17:25:29  SEND REQUEST login acc game Pass 1
+17:25:29 [Obj][9001] AddAccount (game)
+17:25:34 [Obj][9001] LogOutCharacter (GameMaster)
+17:25:34 [Obj][9001] LogOutCharacter ()
+17:25:34 [Obj][9001] DelAccount (game)
+17:25:34 [Obj][9001] DelClient (192.168.1.8)
+17:25:50 [Obj][9000] AddClient (192.168.1.8)
+17:25:52  SEND REQUEST login acc game Pass 1
+17:25:52 [Obj][9000] AddAccount (game)
+17:25:54 [Obj][9000] LogOutCharacter (GameMaster)
+17:25:54 [Obj][9000] LogOutCharacter ()
+17:25:54 [Obj][9000] DelAccount (game)
+17:25:54 [Obj][9000] DelClient (192.168.1.8)
+17:26:37 [Obj][9001] AddClient (192.168.1.8)
+17:26:37  SEND REQUEST login acc game Pass 1
+17:26:37 [Obj][9001] AddAccount (game)
+17:26:41 [Obj][9001] LogOutCharacter (GameMaster)
+17:26:41 [Obj][9001] LogOutCharacter ()
+17:26:41 [Obj][9001] DelAccount (game)
+17:26:41 [Obj][9001] DelClient (192.168.1.8)
+17:26:55 [Obj][9000] AddClient (192.168.1.8)
+17:26:56  SEND REQUEST login acc game Pass 1
+17:26:56 [Obj][9000] AddAccount (game)
+17:27:11 [Obj][9000] LogOutCharacter (GameMaster)
+17:27:11 [Obj][9000] LogOutCharacter ()
+17:27:11 [Obj][9000] DelAccount (game)
+17:27:11 [Obj][9000] DelClient (192.168.1.8)
+17:27:22 [Obj][9001] AddClient (192.168.1.8)
+17:27:23  SEND REQUEST login acc game Pass 1
+17:27:23 [Obj][9001] AddAccount (game)
+17:27:33 [Obj][9001] LogOutCharacter (GameMaster)
+17:27:33 [Obj][9001] LogOutCharacter ()
+17:27:33 [Obj][9001] DelAccount (game)
+17:27:33 [Obj][9001] DelClient (192.168.1.8)
+17:27:50 [Obj][9000] AddClient (192.168.1.8)
+17:27:51  SEND REQUEST login acc game Pass 1
+17:27:51 [Obj][9000] AddAccount (game)
+17:27:58 [Obj][9000] LogOutCharacter (GameMaster)
+17:27:58 [Obj][9000] LogOutCharacter ()
+17:27:58 [Obj][9000] DelAccount (game)
+17:27:58 [Obj][9000] DelClient (192.168.1.8)
+17:28:08 [Obj][9001] AddClient (192.168.1.8)
+17:28:09  SEND REQUEST login acc game Pass 1
+17:28:09 [Obj][9001] AddAccount (game)
+17:28:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:28:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:29:09 [Obj][9001] LogOutCharacter (GameMaster)
+17:29:09 [Obj][9001] LogOutCharacter ()
+17:29:09 [Obj][9001] DelAccount (game)
+17:29:09 [Obj][9001] DelClient (192.168.1.8)
+17:29:22 [Obj][9000] AddClient (192.168.1.8)
+17:29:23  SEND REQUEST login acc game Pass 1
+17:29:23 [Obj][9000] AddAccount (game)
+17:29:51 [Obj][9000] LogOutCharacter (GameMaster)
+17:29:51 [Obj][9000] LogOutCharacter ()
+17:29:51 [Obj][9000] DelAccount (game)
+17:29:51 [Obj][9000] DelClient (192.168.1.8)
+17:30:04 [Obj][9001] AddClient (192.168.1.8)
+17:30:04  SEND REQUEST login acc game Pass 1
+17:30:04 [Obj][9001] AddAccount (game)
+17:30:20 [Obj][9001] LogOutCharacter (GameMaster)
+17:30:20 [Obj][9001] LogOutCharacter ()
+17:30:20 [Obj][9001] DelAccount (game)
+17:30:20 [Obj][9001] DelClient (192.168.1.8)
+17:30:32 [Obj][9000] AddClient (192.168.1.8)
+17:30:33  SEND REQUEST login acc game Pass 1
+17:30:33 [Obj][9000] AddAccount (game)
+17:31:00 [Obj][9000] LogOutCharacter (GameMaster)
+17:31:00 [Obj][9000] LogOutCharacter ()
+17:31:40 [Obj][9000] LogOutCharacter (TESTEFL)
+17:31:40 [Obj][9000] LogOutCharacter ()
+17:31:40 [Obj][9000] DelAccount (game)
+17:31:40 [Obj][9000] DelClient (192.168.1.8)
+17:32:03 [Obj][9001] AddClient (192.168.1.8)
+17:32:04  SEND REQUEST login acc game Pass 1
+17:32:04 [Obj][9001] AddAccount (game)
+17:32:18 [Obj][9001] LogOutCharacter (TESTEFL)
+17:32:18 [Obj][9001] LogOutCharacter ()
+17:32:18 [Obj][9001] DelAccount (game)
+17:32:18 [Obj][9001] DelClient (192.168.1.8)
+17:32:31 [Obj][9000] AddClient (192.168.1.8)
+17:32:31  SEND REQUEST login acc game Pass 1
+17:32:31 [Obj][9000] AddAccount (game)
+17:32:56 [Obj][9000] LogOutCharacter (GameMaster)
+17:32:56 [Obj][9000] LogOutCharacter ()
+17:32:56 [Obj][9000] DelAccount (game)
+17:32:56 [Obj][9000] DelClient (192.168.1.8)
+17:33:04 [Obj][9001] AddClient (192.168.1.8)
+17:33:05  SEND REQUEST login acc game Pass 1
+17:33:05 [Obj][9001] AddAccount (game)
+17:33:16 [Obj][9001] LogOutCharacter (GameMaster)
+17:33:16 [Obj][9001] LogOutCharacter ()
+17:33:16 [Obj][9001] DelAccount (game)
+17:33:16 [Obj][9001] DelClient (192.168.1.8)
+17:33:30 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:33:30 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:33:34 [Obj][9000] AddClient (192.168.1.8)
+17:33:35  SEND REQUEST login acc game Pass 1
+17:33:35 [Obj][9000] AddAccount (game)
+17:35:26 [Obj][9000] LogOutCharacter (GameMaster)
+17:35:26 [Obj][9000] LogOutCharacter ()
+17:35:26 [Obj][9000] DelAccount (game)
+17:35:26 [Obj][9000] DelClient (192.168.1.8)
+17:35:34 [Obj][9001] AddClient (192.168.1.8)
+17:35:35  SEND REQUEST login acc game Pass 1
+17:35:35 [Obj][9001] AddAccount (game)
+17:35:43 [Obj][9001] LogOutCharacter (GameMaster)
+17:35:43 [Obj][9001] LogOutCharacter ()
+17:35:43 [Obj][9001] DelAccount (game)
+17:35:43 [Obj][9001] DelClient (192.168.1.8)
+17:35:57 [Obj][9000] AddClient (192.168.1.8)
+17:35:59  SEND REQUEST login acc game Pass 1
+17:35:59 [Obj][9000] AddAccount (game)
+17:36:01 [OnlineLoterry] No Winner
+17:36:13 [Obj][9000] LogOutCharacter (GameMaster)
+17:36:13 [Obj][9000] LogOutCharacter ()
+17:36:13 [Obj][9000] DelAccount (game)
+17:36:13 [Obj][9000] DelClient (192.168.1.8)
+17:36:21 [Obj][9001] AddClient (192.168.1.8)
+17:36:22  SEND REQUEST login acc game Pass 1
+17:36:22 [Obj][9001] AddAccount (game)
+17:36:48 [Obj][9001] LogOutCharacter (GameMaster)
+17:36:48 [Obj][9001] LogOutCharacter ()
+17:36:48 [Obj][9001] DelAccount (game)
+17:36:48 [Obj][9001] DelClient (192.168.1.8)
+17:37:08 [Obj][9000] AddClient (192.168.1.8)
+17:37:08  SEND REQUEST login acc game Pass 1
+17:37:08 [Obj][9000] AddAccount (game)
+17:37:28 [Obj][9000] LogOutCharacter (GameMaster)
+17:37:28 [Obj][9000] LogOutCharacter ()
+17:37:28 [Obj][9000] DelAccount (game)
+17:37:28 [Obj][9000] DelClient (192.168.1.8)
+17:37:39 [Obj][9001] AddClient (192.168.1.8)
+17:37:40  SEND REQUEST login acc game Pass 1
+17:37:40 [Obj][9001] AddAccount (game)
+17:38:04 [Obj][9001] LogOutCharacter (GameMaster)
+17:38:04 [Obj][9001] LogOutCharacter ()
+17:38:04 [Obj][9001] DelAccount (game)
+17:38:04 [Obj][9001] DelClient (192.168.1.8)
+17:38:31 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:38:31 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:38:31 [Obj][9000] AddClient (192.168.1.8)
+17:38:32  SEND REQUEST login acc game Pass 1
+17:38:32 [Obj][9000] AddAccount (game)
+17:38:40 [Obj][9000] LogOutCharacter (GameMaster)
+17:38:40 [Obj][9000] LogOutCharacter ()
+17:38:40 [Obj][9000] DelAccount (game)
+17:38:40 [Obj][9000] DelClient (192.168.1.8)
+17:38:52 [Obj][9001] AddClient (192.168.1.8)
+17:38:52  SEND REQUEST login acc game Pass 1
+17:38:52 [Obj][9001] AddAccount (game)
+17:39:05 [Obj][9001] LogOutCharacter (GameMaster)
+17:39:05 [Obj][9001] LogOutCharacter ()
+17:39:05 [Obj][9001] DelAccount (game)
+17:39:05 [Obj][9001] DelClient (192.168.1.8)
+17:39:19 [Obj][9000] AddClient (192.168.1.8)
+17:39:20  SEND REQUEST login acc game Pass 1
+17:39:20 [Obj][9000] AddAccount (game)
+17:39:29 [Obj][9000] LogOutCharacter (GameMaster)
+17:39:29 [Obj][9000] LogOutCharacter ()
+17:39:29 [Obj][9000] DelAccount (game)
+17:39:29 [Obj][9000] DelClient (192.168.1.8)
+17:39:56 [Obj][9001] AddClient (192.168.1.8)
+17:39:56  SEND REQUEST login acc game Pass 1
+17:39:56 [Obj][9001] AddAccount (game)
+17:40:03 [Obj][9001] LogOutCharacter (GameMaster)
+17:40:03 [Obj][9001] LogOutCharacter ()
+17:40:03 [Obj][9001] DelAccount (game)
+17:40:03 [Obj][9001] DelClient (192.168.1.8)
+17:40:21 [Obj][9000] AddClient (192.168.1.8)
+17:40:22  SEND REQUEST login acc game Pass 1
+17:40:22 [Obj][9000] AddAccount (game)
+17:40:41 [Obj][9000] LogOutCharacter (GameMaster)
+17:40:41 [Obj][9000] LogOutCharacter ()
+17:40:41 [Obj][9000] DelAccount (game)
+17:40:41 [Obj][9000] DelClient (192.168.1.8)
+17:40:52 [Obj][9001] AddClient (192.168.1.8)
+17:40:53  SEND REQUEST login acc game Pass 1
+17:40:53 [Obj][9001] AddAccount (game)
+17:41:09 [Obj][9001] LogOutCharacter (GameMaster)
+17:41:09 [Obj][9001] LogOutCharacter ()
+17:41:09 [Obj][9001] DelAccount (game)
+17:41:09 [Obj][9001] DelClient (192.168.1.8)
+17:41:18 [Obj][9000] AddClient (192.168.1.8)
+17:41:18  SEND REQUEST login acc game Pass 1
+17:41:18 [Obj][9000] AddAccount (game)
+17:41:28 [Obj][9000] LogOutCharacter (GameMaster)
+17:41:28 [Obj][9000] LogOutCharacter ()
+17:41:28 [Obj][9000] DelAccount (game)
+17:41:28 [Obj][9000] DelClient (192.168.1.8)
+17:41:39 [Obj][9001] AddClient (192.168.1.8)
+17:41:40  SEND REQUEST login acc game Pass 1
+17:41:40 [Obj][9001] AddAccount (game)
+17:42:51 [Obj][9001] LogOutCharacter (GameMaster)
+17:42:51 [Obj][9001] LogOutCharacter ()
+17:42:51 [Obj][9001] DelAccount (game)
+17:42:51 [Obj][9001] DelClient (192.168.1.8)
+17:43:32 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:43:32 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:43:47 [Obj][9000] AddClient (192.168.1.8)
+17:43:47  SEND REQUEST login acc game Pass 1
+17:43:47 [Obj][9000] AddAccount (game)
+17:45:17 [Obj][9000] LogOutCharacter (GameMaster)
+17:45:17 [Obj][9000] LogOutCharacter ()
+17:45:17 [Obj][9000] DelAccount (game)
+17:45:17 [Obj][9000] DelClient (192.168.1.8)
+17:45:27 [Obj][9001] AddClient (192.168.1.8)
+17:45:27  SEND REQUEST login acc game Pass 1
+17:45:27 [Obj][9001] AddAccount (game)
+17:45:29 [Obj][9001] LogOutCharacter (GameMaster)
+17:45:29 [Obj][9001] LogOutCharacter ()
+17:45:29 [Obj][9001] DelAccount (game)
+17:45:29 [Obj][9001] DelClient (192.168.1.8)
+17:45:55 [Obj][9000] AddClient (192.168.1.8)
+17:45:56  SEND REQUEST login acc game Pass 1
+17:45:56 [Obj][9000] AddAccount (game)
+17:46:32 [Obj][9000] LogOutCharacter (GameMaster)
+17:46:32 [Obj][9000] LogOutCharacter ()
+17:46:32 [Obj][9000] DelAccount (game)
+17:46:32 [Obj][9000] DelClient (192.168.1.8)
+17:46:42 [Obj][9001] AddClient (192.168.1.8)
+17:46:43  SEND REQUEST login acc game Pass 1
+17:46:43 [Obj][9001] AddAccount (game)
+17:46:48 [Obj][9001] LogOutCharacter (GameMaster)
+17:46:48 [Obj][9001] LogOutCharacter ()
+17:46:48 [Obj][9001] DelAccount (game)
+17:46:48 [Obj][9001] DelClient (192.168.1.8)
+17:46:58 [Obj][9000] AddClient (192.168.1.8)
+17:46:59  SEND REQUEST login acc game Pass 1
+17:46:59 [Obj][9000] AddAccount (game)
+17:47:20 [Obj][9000] LogOutCharacter (GameMaster)
+17:47:20 [Obj][9000] LogOutCharacter ()
+17:47:20 [Obj][9000] DelAccount (game)
+17:47:20 [Obj][9000] DelClient (192.168.1.8)
+17:47:54 [Obj][9001] AddClient (192.168.1.8)
+17:47:55  SEND REQUEST login acc game Pass 1
+17:47:55 [Obj][9001] AddAccount (game)
+17:48:33 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:48:33 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:49:32 [Obj][9001] LogOutCharacter (GameMaster)
+17:49:32 [Obj][9001] LogOutCharacter ()
+17:49:32 [Obj][9001] DelAccount (game)
+17:49:32 [Obj][9001] DelClient (192.168.1.8)
+17:49:45 [Obj][9000] AddClient (192.168.1.8)
+17:49:46  SEND REQUEST login acc game Pass 1
+17:49:46 [Obj][9000] AddAccount (game)
+17:49:48 [Obj][9000] LogOutCharacter (GameMaster)
+17:49:48 [Obj][9000] LogOutCharacter ()
+17:49:48 [Obj][9000] DelAccount (game)
+17:49:48 [Obj][9000] DelClient (192.168.1.8)
+17:50:06 [Obj][9001] AddClient (192.168.1.8)
+17:50:06  SEND REQUEST login acc game Pass 1
+17:50:06 [Obj][9001] AddAccount (game)
+17:50:19 [Obj][9001] LogOutCharacter (GameMaster)
+17:50:19 [Obj][9001] LogOutCharacter ()
+17:50:19 [Obj][9001] DelAccount (game)
+17:50:19 [Obj][9001] DelClient (192.168.1.8)
+17:50:27 [Obj][9000] AddClient (192.168.1.8)
+17:50:27  SEND REQUEST login acc game Pass 1
+17:50:27 [Obj][9000] AddAccount (game)
+17:50:38 [Obj][9000] LogOutCharacter (GameMaster)
+17:50:38 [Obj][9000] LogOutCharacter ()
+17:50:38 [Obj][9000] DelAccount (game)
+17:50:38 [Obj][9000] DelClient (192.168.1.8)
+17:50:46 [Obj][9001] AddClient (192.168.1.8)
+17:50:47  SEND REQUEST login acc game Pass 1
+17:50:47 [Obj][9001] AddAccount (game)
+17:53:34 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:53:34 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:54:37 [Obj][9001] LogOutCharacter (GameMaster)
+17:54:37 [Obj][9001] LogOutCharacter ()
+17:54:37 [Obj][9001] DelAccount (game)
+17:54:37 [Obj][9001] DelClient (192.168.1.8)
+17:54:42 [Obj][9000] AddClient (192.168.1.8)
+17:54:42  SEND REQUEST login acc game Pass 1
+17:54:42 [Obj][9000] AddAccount (game)
+17:55:13 [Obj][9000] LogOutCharacter (GameMaster)
+17:55:13 [Obj][9000] LogOutCharacter ()
+17:55:13 [Obj][9000] DelAccount (game)
+17:55:13 [Obj][9000] DelClient (192.168.1.8)
+17:56:26 [Obj][9001] AddClient (192.168.1.8)
+17:56:27  SEND REQUEST login acc game Pass 1
+17:56:27 [Obj][9001] AddAccount (game)
+17:57:23 [Obj][9001] LogOutCharacter (GameMaster)
+17:57:23 [Obj][9001] LogOutCharacter ()
+17:57:23 [Obj][9001] DelAccount (game)
+17:57:23 [Obj][9001] DelClient (192.168.1.8)
+17:57:32 [Obj][9000] AddClient (192.168.1.8)
+17:57:33  SEND REQUEST login acc game Pass 1
+17:57:33 [Obj][9000] AddAccount (game)
+17:58:35 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:58:35 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:01:40 [Obj][9000] LogOutCharacter (GameMaster)
+18:01:40 [Obj][9000] LogOutCharacter ()
+18:01:40 [Obj][9000] DelAccount (game)
+18:01:40 [Obj][9000] DelClient (192.168.1.8)
+18:02:49 [Obj][9001] AddClient (192.168.1.8)
+18:02:50  SEND REQUEST login acc game Pass 1
+18:02:50 [Obj][9001] AddAccount (game)
+18:03:36 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:03:36 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:05:49 [Obj][9001] LogOutCharacter (GameMaster)
+18:05:49 [Obj][9001] LogOutCharacter ()
+18:05:49 [Obj][9001] DelAccount (game)
+18:05:49 [Obj][9001] DelClient (192.168.1.8)
+18:05:54 [Obj][9000] AddClient (192.168.1.8)
+18:05:55  SEND REQUEST login acc game Pass 1
+18:05:55 [Obj][9000] AddAccount (game)
+18:06:01 [Obj][9000] LogOutCharacter (GameMaster)
+18:06:01 [Obj][9000] LogOutCharacter ()
+18:06:01 [Obj][9000] DelAccount (game)
+18:06:01 [Obj][9000] DelClient (192.168.1.8)
+18:06:53 [Obj][9001] AddClient (192.168.1.8)
+18:06:57  SEND REQUEST login acc game Pass 1
+18:06:57 [Obj][9001] AddAccount (game)
+18:07:18 [Obj][9001] LogOutCharacter (GameMaster)
+18:07:18 [Obj][9001] LogOutCharacter ()
+18:07:18 [Obj][9001] DelAccount (game)
+18:07:18 [Obj][9001] DelClient (192.168.1.8)
+18:08:21 [Obj][9000] AddClient (192.168.1.8)
+18:08:22  SEND REQUEST login acc game Pass 1
+18:08:22 [Obj][9000] AddAccount (game)
+18:08:36 [Obj][9000] LogOutCharacter (GameMaster)
+18:08:36 [Obj][9000] LogOutCharacter ()
+18:08:36 [Obj][9000] DelAccount (game)
+18:08:36 [Obj][9000] DelClient (192.168.1.8)
+18:08:37 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:08:37 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:08:47 [Obj][9001] AddClient (192.168.1.8)
+18:08:48  SEND REQUEST login acc game Pass 1
+18:08:48 [Obj][9001] AddAccount (game)
+18:09:10 [Obj][9001] LogOutCharacter (GameMaster)
+18:09:10 [Obj][9001] LogOutCharacter ()
+18:09:10 [Obj][9001] DelAccount (game)
+18:09:10 [Obj][9001] DelClient (192.168.1.8)
+18:09:30 [Obj][9000] AddClient (192.168.1.8)
+18:09:31  SEND REQUEST login acc game Pass 1
+18:09:31 [Obj][9000] AddAccount (game)
+18:10:00 [CustomQuiz] Start
+18:12:03 [Obj][9000] LogOutCharacter (GameMaster)
+18:12:03 [Obj][9000] LogOutCharacter ()
+18:12:03 [Obj][9000] DelAccount (game)
+18:12:03 [Obj][9000] DelClient (192.168.1.8)
+18:12:31 [Obj][9001] AddClient (192.168.1.8)
+18:12:31  SEND REQUEST login acc game Pass 1
+18:12:31 [Obj][9001] AddAccount (game)
+18:12:41 [Obj][9001] LogOutCharacter (GameMaster)
+18:12:41 [Obj][9001] LogOutCharacter ()
+18:12:41 [Obj][9001] DelAccount (game)
+18:12:41 [Obj][9001] DelClient (192.168.1.8)
+18:12:50 [Obj][9000] AddClient (192.168.1.8)
+18:12:51  SEND REQUEST login acc game Pass 1
+18:12:51 [Obj][9000] AddAccount (game)
+18:13:00 [CustomQuiz] Finish
+18:13:38 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:13:38 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:15:57 [Obj][9000] LogOutCharacter (GameMaster)
+18:15:57 [Obj][9000] LogOutCharacter ()
+18:15:57 [Obj][9000] DelAccount (game)
+18:15:57 [Obj][9000] DelClient (192.168.1.8)
+18:16:28 [Obj][9001] AddClient (192.168.1.8)
+18:16:28  SEND REQUEST login acc game Pass 1
+18:16:28 [Obj][9001] AddAccount (game)
+18:16:39 [Obj][9001] LogOutCharacter (GameMaster)
+18:16:39 [Obj][9001] LogOutCharacter ()
+18:16:39 [Obj][9001] DelAccount (game)
+18:16:39 [Obj][9001] DelClient (192.168.1.8)
+18:18:06 [Obj][9000] AddClient (192.168.1.8)
+18:18:07  SEND REQUEST login acc game Pass 1
+18:18:07 [Obj][9000] AddAccount (game)
+18:18:19 [Obj][9000] LogOutCharacter (GameMaster)
+18:18:19 [Obj][9000] LogOutCharacter ()
+18:18:19 [Obj][9000] DelAccount (game)
+18:18:19 [Obj][9000] DelClient (192.168.1.8)
+18:18:39 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:18:39 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:19:16 [Obj][9001] AddClient (192.168.1.8)
+18:19:17  SEND REQUEST login acc game Pass 1
+18:19:17 [Obj][9001] AddAccount (game)
+18:20:47 [Obj][9001] LogOutCharacter (GameMaster)
+18:20:47 [Obj][9001] LogOutCharacter ()
+18:20:47 [Obj][9001] DelAccount (game)
+18:20:47 [Obj][9001] DelClient (192.168.1.8)
+18:21:19 [Obj][9000] AddClient (192.168.1.8)
+18:21:28  SEND REQUEST login acc game Pass 1
+18:21:28 [Obj][9000] AddAccount (game)
+18:21:49 [Obj][9000] LogOutCharacter (GameMaster)
+18:21:49 [Obj][9000] LogOutCharacter ()
+18:21:49 [Obj][9000] DelAccount (game)
+18:21:49 [Obj][9000] DelClient (192.168.1.8)
+18:21:58 [Obj][9001] AddClient (192.168.1.8)
+18:21:59  SEND REQUEST login acc game Pass 1
+18:21:59 [Obj][9001] AddAccount (game)
+18:22:41 [Obj][9001] LogOutCharacter (GameMaster)
+18:22:41 [Obj][9001] LogOutCharacter ()
+18:22:41 [Obj][9001] DelAccount (game)
+18:22:41 [Obj][9001] DelClient (192.168.1.8)
+18:22:46 [Obj][9000] AddClient (192.168.1.8)
+18:22:47  SEND REQUEST login acc game Pass 1
+18:22:47 [Obj][9000] AddAccount (game)
+18:23:07 [Obj][9000] LogOutCharacter (GameMaster)
+18:23:07 [Obj][9000] LogOutCharacter ()
+18:23:07 [Obj][9000] DelAccount (game)
+18:23:07 [Obj][9000] DelClient (192.168.1.8)
+18:23:16 [Obj][9001] AddClient (192.168.1.8)
+18:23:17  SEND REQUEST login acc game Pass 1
+18:23:17 [Obj][9001] AddAccount (game)
+18:23:39 [Obj][9001] LogOutCharacter (GameMaster)
+18:23:39 [Obj][9001] LogOutCharacter ()
+18:23:39 [Obj][9001] DelAccount (game)
+18:23:39 [Obj][9001] DelClient (192.168.1.8)
+18:23:40 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:23:40 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:23:50 [Obj][9000] AddClient (192.168.1.8)
+18:23:51  SEND REQUEST login acc game Pass 1
+18:23:51 [Obj][9000] AddAccount (game)
+18:25:19 [Obj][9000] LogOutCharacter (GameMaster)
+18:25:19 [Obj][9000] LogOutCharacter ()
+18:25:19 [Obj][9000] DelAccount (game)
+18:25:19 [Obj][9000] DelClient (192.168.1.8)
+18:25:27 [Obj][9001] AddClient (192.168.1.8)
+18:25:28  SEND REQUEST login acc game Pass 1
+18:25:28 [Obj][9001] AddAccount (game)
+18:25:36 [Obj][9001] LogOutCharacter (GameMaster)
+18:25:36 [Obj][9001] LogOutCharacter ()
+18:25:36 [Obj][9001] DelAccount (game)
+18:25:36 [Obj][9001] DelClient (192.168.1.8)
+18:26:18 [Obj][9000] AddClient (192.168.1.8)
+18:26:19  SEND REQUEST login acc game Pass 1
+18:26:19 [Obj][9000] AddAccount (game)
+18:26:30 [Obj][9000] LogOutCharacter (GameMaster)
+18:26:30 [Obj][9000] LogOutCharacter ()
+18:26:30 [Obj][9000] DelAccount (game)
+18:26:30 [Obj][9000] DelClient (192.168.1.8)
+18:26:41 [Obj][9001] AddClient (192.168.1.8)
+18:26:42  SEND REQUEST login acc game Pass 1
+18:26:42 [Obj][9001] AddAccount (game)
+18:26:56 [Obj][9001] LogOutCharacter (GameMaster)
+18:26:56 [Obj][9001] LogOutCharacter ()
+18:26:56 [Obj][9001] DelAccount (game)
+18:26:56 [Obj][9001] DelClient (192.168.1.8)
+18:27:04 [Obj][9000] AddClient (192.168.1.8)
+18:27:05  SEND REQUEST login acc game Pass 1
+18:27:05 [Obj][9000] AddAccount (game)
+18:27:18 [Obj][9000] LogOutCharacter (GameMaster)
+18:27:18 [Obj][9000] LogOutCharacter ()
+18:27:18 [Obj][9000] DelAccount (game)
+18:27:18 [Obj][9000] DelClient (192.168.1.8)
+18:27:27 [Obj][9001] AddClient (192.168.1.8)
+18:27:28  SEND REQUEST login acc game Pass 1
+18:27:28 [Obj][9001] AddAccount (game)
+18:27:38 [Obj][9001] LogOutCharacter (GameMaster)
+18:27:38 [Obj][9001] LogOutCharacter ()
+18:27:38 [Obj][9001] DelAccount (game)
+18:27:38 [Obj][9001] DelClient (192.168.1.8)
+18:27:48 [Obj][9000] AddClient (192.168.1.8)
+18:27:49  SEND REQUEST login acc game Pass 1
+18:27:49 [Obj][9000] AddAccount (game)
+18:28:01 [Obj][9000] LogOutCharacter (GameMaster)
+18:28:01 [Obj][9000] LogOutCharacter ()
+18:28:01 [Obj][9000] DelAccount (game)
+18:28:01 [Obj][9000] DelClient (192.168.1.8)
+18:28:10 [Obj][9001] AddClient (192.168.1.8)
+18:28:10  SEND REQUEST login acc game Pass 1
+18:28:10 [Obj][9001] AddAccount (game)
+18:28:27 [Obj][9001] LogOutCharacter (GameMaster)
+18:28:27 [Obj][9001] LogOutCharacter ()
+18:28:27 [Obj][9001] DelAccount (game)
+18:28:27 [Obj][9001] DelClient (192.168.1.8)
+18:28:36 [Obj][9000] AddClient (192.168.1.8)
+18:28:37  SEND REQUEST login acc game Pass 1
+18:28:37 [Obj][9000] AddAccount (game)
+18:28:41 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:28:41 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:29:06 [Obj][9000] LogOutCharacter (GameMaster)
+18:29:06 [Obj][9000] LogOutCharacter ()
+18:29:06 [Obj][9000] DelAccount (game)
+18:29:06 [Obj][9000] DelClient (192.168.1.8)
+18:29:15 [Obj][9001] AddClient (192.168.1.8)
+18:29:15  SEND REQUEST login acc game Pass 1
+18:29:15 [Obj][9001] AddAccount (game)
+18:29:32 [Obj][9001] LogOutCharacter (GameMaster)
+18:29:32 [Obj][9001] LogOutCharacter ()
+18:29:32 [Obj][9001] DelAccount (game)
+18:29:32 [Obj][9001] DelClient (192.168.1.8)
+18:29:41 [Obj][9000] AddClient (192.168.1.8)
+18:29:42  SEND REQUEST login acc game Pass 1
+18:29:42 [Obj][9000] AddAccount (game)
+18:29:55 [Obj][9000] LogOutCharacter (GameMaster)
+18:29:55 [Obj][9000] LogOutCharacter ()
+18:29:55 [Obj][9000] DelAccount (game)
+18:29:55 [Obj][9000] DelClient (192.168.1.8)
+18:30:04 [Obj][9001] AddClient (192.168.1.8)
+18:30:04  SEND REQUEST login acc game Pass 1
+18:30:04 [Obj][9001] AddAccount (game)
+18:30:22 [Obj][9001] LogOutCharacter (GameMaster)
+18:30:22 [Obj][9001] LogOutCharacter ()
+18:30:22 [Obj][9001] DelAccount (game)
+18:30:22 [Obj][9001] DelClient (192.168.1.8)
+18:30:31 [Obj][9000] AddClient (192.168.1.8)
+18:30:31  SEND REQUEST login acc game Pass 1
+18:30:31 [Obj][9000] AddAccount (game)
+18:30:39 [Obj][9000] LogOutCharacter (GameMaster)
+18:30:39 [Obj][9000] LogOutCharacter ()
+18:30:39 [Obj][9000] DelAccount (game)
+18:30:39 [Obj][9000] DelClient (192.168.1.8)
+18:30:47 [Obj][9001] AddClient (192.168.1.8)
+18:30:48  SEND REQUEST login acc game Pass 1
+18:30:48 [Obj][9001] AddAccount (game)
+18:31:01 [Obj][9001] LogOutCharacter (GameMaster)
+18:31:01 [Obj][9001] LogOutCharacter ()
+18:31:01 [Obj][9001] DelAccount (game)
+18:31:01 [Obj][9001] DelClient (192.168.1.8)
+18:31:10 [Obj][9000] AddClient (192.168.1.8)
+18:31:10  SEND REQUEST login acc game Pass 1
+18:31:10 [Obj][9000] AddAccount (game)
+18:31:20 [Obj][9000] LogOutCharacter (GameMaster)
+18:31:20 [Obj][9000] LogOutCharacter ()
+18:31:20 [Obj][9000] DelAccount (game)
+18:31:20 [Obj][9000] DelClient (192.168.1.8)
+18:31:28 [Obj][9001] AddClient (192.168.1.8)
+18:31:29  SEND REQUEST login acc game Pass 1
+18:31:29 [Obj][9001] AddAccount (game)
+18:31:41 [Obj][9001] LogOutCharacter (GameMaster)
+18:31:41 [Obj][9001] LogOutCharacter ()
+18:31:41 [Obj][9001] DelAccount (game)
+18:31:41 [Obj][9001] DelClient (192.168.1.8)
+18:31:50 [Obj][9000] AddClient (192.168.1.8)
+18:31:52  SEND REQUEST login acc admin Pass 1
+18:31:52 [Obj][9000] AddAccount (admin)
+18:32:01 [Obj][9000] DelAccount (admin)
+18:32:01 [Obj][9000] DelClient (192.168.1.8)
+18:32:02 [Obj][9001] AddClient (192.168.1.8)
+18:32:04  SEND REQUEST login acc admin Pass 1
+18:32:04 [Obj][9001] AddAccount (admin)
+18:32:10 [Obj][9001] DelAccount (admin)
+18:32:10 [Obj][9001] DelClient (192.168.1.8)
+18:32:11 [Obj][9002] AddClient (192.168.1.8)
+18:32:14  SEND REQUEST login acc game Pass 1
+18:32:14 [Obj][9002] AddAccount (game)
+18:32:32 [Obj][9002] LogOutCharacter (TESTDL)
+18:32:32 [Obj][9002] LogOutCharacter ()
+18:32:32 [Obj][9002] DelAccount (game)
+18:32:32 [Obj][9002] DelClient (192.168.1.8)
+18:32:43 [Obj][9000] AddClient (192.168.1.8)
+18:32:43  SEND REQUEST login acc game Pass 1
+18:32:43 [Obj][9000] AddAccount (game)
+18:32:55 [Obj][9000] LogOutCharacter (GameMaster)
+18:32:55 [Obj][9000] LogOutCharacter ()
+18:32:55 [Obj][9000] DelAccount (game)
+18:32:55 [Obj][9000] DelClient (192.168.1.8)
+18:33:04 [Obj][9001] AddClient (192.168.1.8)
+18:33:05  SEND REQUEST login acc game Pass 1
+18:33:05 [Obj][9001] AddAccount (game)
+18:33:26 [Obj][9001] LogOutCharacter (TESTDL)
+18:33:26 [Obj][9001] LogOutCharacter ()
+18:33:26 [Obj][9001] DelAccount (game)
+18:33:26 [Obj][9001] DelClient (192.168.1.8)
+18:33:36 [Obj][9002] AddClient (192.168.1.8)
+18:33:37  SEND REQUEST login acc game Pass 1
+18:33:37 [Obj][9002] AddAccount (game)
+18:33:42 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:33:42 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:33:46 [Obj][9002] LogOutCharacter (TESTDL)
+18:33:46 [Obj][9002] LogOutCharacter ()
+18:33:46 [Obj][9002] DelAccount (game)
+18:33:46 [Obj][9002] DelClient (192.168.1.8)
+18:33:54 [Obj][9000] AddClient (192.168.1.8)
+18:33:54  SEND REQUEST login acc game Pass 1
+18:33:54 [Obj][9000] AddAccount (game)
+18:34:08 [Obj][9000] LogOutCharacter (TESTDL)
+18:34:08 [Obj][9000] LogOutCharacter ()
+18:34:08 [Obj][9000] DelAccount (game)
+18:34:08 [Obj][9000] DelClient (192.168.1.8)
+18:34:16 [Obj][9001] AddClient (192.168.1.8)
+18:34:17  SEND REQUEST login acc game Pass 1
+18:34:17 [Obj][9001] AddAccount (game)
+18:34:22 [Obj][9001] LogOutCharacter (TESTDL)
+18:34:22 [Obj][9001] LogOutCharacter ()
+18:34:22 [Obj][9001] DelAccount (game)
+18:34:22 [Obj][9001] DelClient (192.168.1.8)
+18:34:33 [Obj][9002] AddClient (192.168.1.8)
+18:34:33  SEND REQUEST login acc game Pass 1
+18:34:33 [Obj][9002] AddAccount (game)
+18:34:48 [Obj][9002] LogOutCharacter (TESTDL)
+18:34:48 [Obj][9002] LogOutCharacter ()
+18:34:48 [Obj][9002] DelAccount (game)
+18:34:48 [Obj][9002] DelClient (192.168.1.8)
+18:34:56 [Obj][9000] AddClient (192.168.1.8)
+18:34:57  SEND REQUEST login acc game Pass 1
+18:34:57 [Obj][9000] AddAccount (game)
+18:35:05 [Obj][9000] LogOutCharacter (TESTDL)
+18:35:05 [Obj][9000] LogOutCharacter ()
+18:35:05 [Obj][9000] DelAccount (game)
+18:35:05 [Obj][9000] DelClient (192.168.1.8)
+18:36:01 [OnlineLoterry] No Winner
+18:36:19 [Obj][9001] AddClient (192.168.1.8)
+18:36:19  SEND REQUEST login acc game Pass 1
+18:36:19 [Obj][9001] AddAccount (game)
+18:38:27 [Obj][9001] LogOutCharacter (TESTDL)
+18:38:27 [Obj][9001] LogOutCharacter ()
+18:38:27 [Obj][9001] DelAccount (game)
+18:38:27 [Obj][9001] DelClient (192.168.1.8)
+18:38:41 [Obj][9002] AddClient (192.168.1.8)
+18:38:42  SEND REQUEST login acc game Pass 1
+18:38:42 [Obj][9002] AddAccount (game)
+18:38:43 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:38:43 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:38:51 [Obj][9002] LogOutCharacter (TESTDL)
+18:38:51 [Obj][9002] LogOutCharacter ()
+18:38:51 [Obj][9002] DelAccount (game)
+18:38:51 [Obj][9002] DelClient (192.168.1.8)
+18:39:06 [Obj][9000] AddClient (192.168.1.8)
+18:39:06  SEND REQUEST login acc game Pass 1
+18:39:06 [Obj][9000] AddAccount (game)
+18:39:18 [Obj][9000] LogOutCharacter (TESTDL)
+18:39:18 [Obj][9000] LogOutCharacter ()
+18:39:18 [Obj][9000] DelAccount (game)
+18:39:18 [Obj][9000] DelClient (192.168.1.8)
+18:39:30 [Obj][9001] AddClient (192.168.1.8)
+18:39:31  SEND REQUEST login acc game Pass 1
+18:39:31 [Obj][9001] AddAccount (game)
+18:39:52 [Obj][9001] LogOutCharacter (TESTDL)
+18:39:52 [Obj][9001] LogOutCharacter ()
+18:39:52 [Obj][9001] DelAccount (game)
+18:39:52 [Obj][9001] DelClient (192.168.1.8)
+18:40:05 [Obj][9002] AddClient (192.168.1.8)
+18:40:06  SEND REQUEST login acc game Pass 1
+18:40:06 [Obj][9002] AddAccount (game)
+18:40:35 [Obj][9002] LogOutCharacter (TESTDL)
+18:40:35 [Obj][9002] LogOutCharacter ()
+18:40:35 [Obj][9002] DelAccount (game)
+18:40:35 [Obj][9002] DelClient (192.168.1.8)
+18:40:49 [Obj][9000] AddClient (192.168.1.8)
+18:40:50  SEND REQUEST login acc game Pass 1
+18:40:50 [Obj][9000] AddAccount (game)
+18:40:53 [Obj][9000] LogOutCharacter (GameMaster)
+18:40:53 [Obj][9000] LogOutCharacter ()
+18:40:53 [Obj][9000] DelAccount (game)
+18:40:53 [Obj][9000] DelClient (192.168.1.8)
+18:41:03 [Obj][9001] AddClient (192.168.1.8)
+18:41:04  SEND REQUEST login acc game Pass 1
+18:41:04 [Obj][9001] AddAccount (game)
+18:41:19 [Obj][9001] LogOutCharacter (GameMaster)
+18:41:19 [Obj][9001] LogOutCharacter ()
+18:41:19 [Obj][9001] DelAccount (game)
+18:41:19 [Obj][9001] DelClient (192.168.1.8)
+18:41:28 [Obj][9002] AddClient (192.168.1.8)
+18:41:29  SEND REQUEST login acc game Pass 1
+18:41:29 [Obj][9002] AddAccount (game)
+18:41:39 [Obj][9002] LogOutCharacter (GameMaster)
+18:41:39 [Obj][9002] LogOutCharacter ()
+18:41:39 [Obj][9002] DelAccount (game)
+18:41:39 [Obj][9002] DelClient (192.168.1.8)
+18:41:48 [Obj][9000] AddClient (192.168.1.8)
+18:41:48  SEND REQUEST login acc game Pass 1
+18:41:48 [Obj][9000] AddAccount (game)
+18:42:12 [Obj][9000] LogOutCharacter (GameMaster)
+18:42:12 [Obj][9000] LogOutCharacter ()
+18:42:12 [Obj][9000] DelAccount (game)
+18:42:12 [Obj][9000] DelClient (192.168.1.8)
+18:42:21 [Obj][9001] AddClient (192.168.1.8)
+18:42:22  SEND REQUEST login acc game Pass 1
+18:42:22 [Obj][9001] AddAccount (game)
+18:43:09 [Obj][9001] LogOutCharacter (GameMaster)
+18:43:09 [Obj][9001] LogOutCharacter ()
+18:43:09 [Obj][9001] DelAccount (game)
+18:43:09 [Obj][9001] DelClient (192.168.1.8)
+18:43:22 [Obj][9002] AddClient (192.168.1.8)
+18:43:24  SEND REQUEST login acc game Pass 1
+18:43:24 [Obj][9002] AddAccount (game)
+18:43:44 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:43:44 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:44:30 [Obj][9002] LogOutCharacter (GameMaster)
+18:44:30 [Obj][9002] LogOutCharacter ()
+18:44:30 [Obj][9002] DelAccount (game)
+18:44:30 [Obj][9002] DelClient (192.168.1.8)
+18:45:33 [Obj][9000] AddClient (192.168.1.8)
+18:45:34  SEND REQUEST login acc game Pass 1
+18:45:34 [Obj][9000] AddAccount (game)
+18:48:45 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:48:45 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:49:02 [Obj][9000] LogOutCharacter (GameMaster)
+18:49:02 [Obj][9000] LogOutCharacter ()
+18:49:02 [Obj][9000] DelAccount (game)
+18:49:02 [Obj][9000] DelClient (192.168.1.8)
+18:49:11 [Obj][9001] AddClient (192.168.1.8)
+18:49:12  SEND REQUEST login acc game Pass 1
+18:49:12 [Obj][9001] AddAccount (game)
+18:49:28 [Obj][9001] LogOutCharacter (GameMaster)
+18:49:28 [Obj][9001] LogOutCharacter ()
+18:49:28 [Obj][9001] DelAccount (game)
+18:49:28 [Obj][9001] DelClient (192.168.1.8)
+18:49:37 [Obj][9002] AddClient (192.168.1.8)
+18:49:38  SEND REQUEST login acc game Pass 1
+18:49:38 [Obj][9002] AddAccount (game)
+18:49:52 [Obj][9002] LogOutCharacter (GameMaster)
+18:49:52 [Obj][9002] LogOutCharacter ()
+18:49:52 [Obj][9002] DelAccount (game)
+18:49:52 [Obj][9002] DelClient (192.168.1.8)
+18:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 158 Y: 20)
+18:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 158 Y: 20)
+18:50:01 [Obj][9000] AddClient (192.168.1.8)
+18:50:01  SEND REQUEST login acc game Pass 1
+18:50:01 [Obj][9000] AddAccount (game)
+18:50:16 [Obj][9000] LogOutCharacter (GameMaster)
+18:50:16 [Obj][9000] LogOutCharacter ()
+18:50:16 [Obj][9000] DelAccount (game)
+18:50:16 [Obj][9000] DelClient (192.168.1.8)
+18:50:25 [Obj][9001] AddClient (192.168.1.8)
+18:50:25  SEND REQUEST login acc game Pass 1
+18:50:25 [Obj][9001] AddAccount (game)
+18:50:41 [Obj][9001] LogOutCharacter (GameMaster)
+18:50:41 [Obj][9001] LogOutCharacter ()
+18:50:41 [Obj][9001] DelAccount (game)
+18:50:41 [Obj][9001] DelClient (192.168.1.8)
+18:50:49 [Obj][9002] AddClient (192.168.1.8)
+18:50:50  SEND REQUEST login acc game Pass 1
+18:50:50 [Obj][9002] AddAccount (game)
+18:51:08 [Obj][9002] LogOutCharacter (GameMaster)
+18:51:08 [Obj][9002] LogOutCharacter ()
+18:51:08 [Obj][9002] DelAccount (game)
+18:51:08 [Obj][9002] DelClient (192.168.1.8)
+18:51:18 [Obj][9000] AddClient (192.168.1.8)
+18:51:19  SEND REQUEST login acc game Pass 1
+18:51:19 [Obj][9000] AddAccount (game)
+18:51:44 [Obj][9000] LogOutCharacter (GameMaster)
+18:51:44 [Obj][9000] LogOutCharacter ()
+18:51:44 [Obj][9000] DelAccount (game)
+18:51:44 [Obj][9000] DelClient (192.168.1.8)
+18:51:53 [Obj][9001] AddClient (192.168.1.8)
+18:51:54  SEND REQUEST login acc game Pass 1
+18:51:54 [Obj][9001] AddAccount (game)
+18:52:22 [Obj][9001] LogOutCharacter (GameMaster)
+18:52:22 [Obj][9001] LogOutCharacter ()
+18:52:22 [Obj][9001] DelAccount (game)
+18:52:22 [Obj][9001] DelClient (192.168.1.8)
+18:52:30 [Obj][9002] AddClient (192.168.1.8)
+18:52:30  SEND REQUEST login acc game Pass 1
+18:52:30 [Obj][9002] AddAccount (game)
+18:52:54 [Obj][9002] LogOutCharacter (GameMaster)
+18:52:54 [Obj][9002] LogOutCharacter ()
+18:52:54 [Obj][9002] DelAccount (game)
+18:52:54 [Obj][9002] DelClient (192.168.1.8)
+18:53:04 [Obj][9000] AddClient (192.168.1.8)
+18:53:05  SEND REQUEST login acc game Pass 1
+18:53:05 [Obj][9000] AddAccount (game)
+18:53:14 [Obj][9000] LogOutCharacter (GameMaster)
+18:53:14 [Obj][9000] LogOutCharacter ()
+18:53:14 [Obj][9000] DelAccount (game)
+18:53:14 [Obj][9000] DelClient (192.168.1.8)
+18:53:23 [Obj][9001] AddClient (192.168.1.8)
+18:53:24  SEND REQUEST login acc game Pass 1
+18:53:24 [Obj][9001] AddAccount (game)
+18:53:43 [Obj][9001] LogOutCharacter (GameMaster)
+18:53:43 [Obj][9001] LogOutCharacter ()
+18:53:43 [Obj][9001] DelAccount (game)
+18:53:43 [Obj][9001] DelClient (192.168.1.8)
+18:53:46 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:53:46 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:53:52 [Obj][9002] AddClient (192.168.1.8)
+18:53:52  SEND REQUEST login acc game Pass 1
+18:53:52 [Obj][9002] AddAccount (game)
+18:54:04 [Obj][9002] LogOutCharacter (GameMaster)
+18:54:04 [Obj][9002] LogOutCharacter ()
+18:54:04 [Obj][9002] DelAccount (game)
+18:54:04 [Obj][9002] DelClient (192.168.1.8)
+18:54:13 [Obj][9000] AddClient (192.168.1.8)
+18:54:14  SEND REQUEST login acc game Pass 1
+18:54:14 [Obj][9000] AddAccount (game)
+18:54:33 [Obj][9000] LogOutCharacter (GameMaster)
+18:54:33 [Obj][9000] LogOutCharacter ()
+18:55:20 [Obj][9000] LogOutCharacter (GameMaster)
+18:55:20 [Obj][9000] LogOutCharacter ()
+18:56:02 [Obj][9000] LogOutCharacter (TESTDL)
+18:56:02 [Obj][9000] LogOutCharacter ()
+18:56:02 [Obj][9000] DelAccount (game)
+18:56:02 [Obj][9000] DelClient (192.168.1.8)
+18:57:11 [Obj][9001] AddClient (192.168.1.8)
+18:57:11  SEND REQUEST login acc game Pass 1
+18:57:11 [Obj][9001] AddAccount (game)
+18:58:06 [Obj][9001] LogOutCharacter (GameMaster)
+18:58:06 [Obj][9001] LogOutCharacter ()
+18:58:06 [Obj][9001] DelAccount (game)
+18:58:06 [Obj][9001] DelClient (192.168.1.8)
+18:58:30 [Obj][9002] AddClient (192.168.1.8)
+18:58:31  SEND REQUEST login acc game Pass 1
+18:58:31 [Obj][9002] AddAccount (game)
+18:58:37 [Obj][9002] LogOutCharacter (GameMaster)
+18:58:37 [Obj][9002] LogOutCharacter ()
+18:58:37 [Obj][9002] DelAccount (game)
+18:58:37 [Obj][9002] DelClient (192.168.1.8)
+18:58:47 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:58:47 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:58:51 [Obj][9000] AddClient (192.168.1.8)
+18:58:52  SEND REQUEST login acc game Pass 1
+18:58:52 [Obj][9000] AddAccount (game)
+18:59:28 [Obj][9000] LogOutCharacter (GameMaster)
+18:59:28 [Obj][9000] LogOutCharacter ()
+19:00:35 [Obj][9000] LogOutCharacter (TESTDL)
+19:00:35 [Obj][9000] LogOutCharacter ()
+19:00:35 [Obj][9000] DelAccount (game)
+19:00:35 [Obj][9000] DelClient (192.168.1.8)
+19:00:57 [Obj][9001] AddClient (192.168.1.8)
+19:00:58  SEND REQUEST login acc game Pass 1
+19:00:58 [Obj][9001] AddAccount (game)
+19:01:30 [Obj][9001] LogOutCharacter (TESTDL)
+19:01:30 [Obj][9001] LogOutCharacter ()
+19:01:30 [Obj][9001] DelAccount (game)
+19:01:30 [Obj][9001] DelClient (192.168.1.8)
+19:01:41 [Obj][9002] AddClient (192.168.1.8)
+19:01:41  SEND REQUEST login acc game Pass 1
+19:01:41 [Obj][9002] AddAccount (game)
+19:01:58 [Obj][9002] LogOutCharacter (TESTDL)
+19:01:58 [Obj][9002] LogOutCharacter ()
+19:01:58 [Obj][9002] DelAccount (game)
+19:01:58 [Obj][9002] DelClient (192.168.1.8)
+19:02:07 [Obj][9000] AddClient (192.168.1.8)
+19:02:08  SEND REQUEST login acc game Pass 1
+19:02:08 [Obj][9000] AddAccount (game)
+19:02:19 [Obj][9000] LogOutCharacter (TESTDL)
+19:02:19 [Obj][9000] LogOutCharacter ()
+19:02:19 [Obj][9000] DelAccount (game)
+19:02:19 [Obj][9000] DelClient (192.168.1.8)
+19:02:28 [Obj][9001] AddClient (192.168.1.8)
+19:02:28  SEND REQUEST login acc game Pass 1
+19:02:28 [Obj][9001] AddAccount (game)
+19:02:59 [Obj][9001] LogOutCharacter (TESTDL)
+19:02:59 [Obj][9001] LogOutCharacter ()
+19:02:59 [Obj][9001] DelAccount (game)
+19:02:59 [Obj][9001] DelClient (192.168.1.8)
+19:03:08 [Obj][9002] AddClient (192.168.1.8)
+19:03:09  SEND REQUEST login acc game Pass 1
+19:03:09 [Obj][9002] AddAccount (game)
+19:03:22 [Obj][9002] LogOutCharacter (TESTDL)
+19:03:22 [Obj][9002] LogOutCharacter ()
+19:03:22 [Obj][9002] DelAccount (game)
+19:03:22 [Obj][9002] DelClient (192.168.1.8)
+19:03:48 [Obj][9000] AddClient (192.168.1.8)
+19:03:48 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:03:48 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:03:49  SEND REQUEST login acc game Pass 1
+19:03:49 [Obj][9000] AddAccount (game)
+19:04:21 [Obj][9000] LogOutCharacter (TESTDL)
+19:04:21 [Obj][9000] LogOutCharacter ()
+19:04:21 [Obj][9000] DelAccount (game)
+19:04:21 [Obj][9000] DelClient (192.168.1.8)
+19:04:30 [Obj][9001] AddClient (192.168.1.8)
+19:04:31  SEND REQUEST login acc game Pass 1
+19:04:31 [Obj][9001] AddAccount (game)
+19:05:07 [Obj][9001] LogOutCharacter (TESTDL)
+19:05:07 [Obj][9001] LogOutCharacter ()
+19:05:07 [Obj][9001] DelAccount (game)
+19:05:07 [Obj][9001] DelClient (192.168.1.8)
+19:05:19 [Obj][9002] AddClient (192.168.1.8)
+19:05:21  SEND REQUEST login acc game Pass 1
+19:05:21 [Obj][9002] AddAccount (game)
+19:05:38 [Obj][9002] LogOutCharacter (TESTDL)
+19:05:38 [Obj][9002] LogOutCharacter ()
+19:05:38 [Obj][9002] DelAccount (game)
+19:05:38 [Obj][9002] DelClient (192.168.1.8)
+19:05:46 [Obj][9000] AddClient (192.168.1.8)
+19:05:47  SEND REQUEST login acc game Pass 1
+19:05:47 [Obj][9000] AddAccount (game)
+19:06:06 [Obj][9000] LogOutCharacter (TESTDL)
+19:06:06 [Obj][9000] LogOutCharacter ()
+19:06:06 [Obj][9000] DelAccount (game)
+19:06:06 [Obj][9000] DelClient (192.168.1.8)
+19:06:19 [Obj][9001] AddClient (192.168.1.8)
+19:06:19  SEND REQUEST login acc game Pass 1
+19:06:19 [Obj][9001] AddAccount (game)
+19:06:25 [Obj][9001] LogOutCharacter (TESTDL)
+19:06:25 [Obj][9001] LogOutCharacter ()
+19:06:25 [Obj][9001] DelAccount (game)
+19:06:25 [Obj][9001] DelClient (192.168.1.8)
+19:06:39 [Obj][9002] AddClient (192.168.1.8)
+19:06:40  SEND REQUEST login acc game Pass 1
+19:06:40 [Obj][9002] AddAccount (game)
+19:07:01 [Obj][9002] LogOutCharacter (TESTDL)
+19:07:01 [Obj][9002] LogOutCharacter ()
+19:07:01 [Obj][9002] DelAccount (game)
+19:07:01 [Obj][9002] DelClient (192.168.1.8)
+19:07:09 [Obj][9000] AddClient (192.168.1.8)
+19:07:10  SEND REQUEST login acc game Pass 1
+19:07:10 [Obj][9000] AddAccount (game)
+19:08:13 [Obj][9000] LogOutCharacter (TESTDL)
+19:08:13 [Obj][9000] LogOutCharacter ()
+19:08:13 [Obj][9000] DelAccount (game)
+19:08:13 [Obj][9000] DelClient (192.168.1.8)
+19:08:22 [Obj][9001] AddClient (192.168.1.8)
+19:08:23  SEND REQUEST login acc game Pass 1
+19:08:23 [Obj][9001] AddAccount (game)
+19:08:49 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:08:49 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:08:50 [Obj][9001] LogOutCharacter (TESTDL)
+19:08:50 [Obj][9001] LogOutCharacter ()
+19:08:50 [Obj][9001] DelAccount (game)
+19:08:50 [Obj][9001] DelClient (192.168.1.8)
+19:09:09 [Obj][9002] AddClient (192.168.1.8)
+19:09:10  SEND REQUEST login acc game Pass 1
+19:09:10 [Obj][9002] AddAccount (game)
+19:10:00 [CustomQuiz] Start
+19:10:51 [Obj][9002] LogOutCharacter (TESTDL)
+19:10:51 [Obj][9002] LogOutCharacter ()
+19:10:51 [Obj][9002] DelAccount (game)
+19:10:51 [Obj][9002] DelClient (192.168.1.8)
+19:11:01 [Obj][9000] AddClient (192.168.1.8)
+19:11:01  SEND REQUEST login acc game Pass 1
+19:11:02 [Obj][9000] AddAccount (game)
+19:11:16 [Obj][9000] LogOutCharacter (TESTDL)
+19:11:16 [Obj][9000] LogOutCharacter ()
+19:11:16 [Obj][9000] DelAccount (game)
+19:11:16 [Obj][9000] DelClient (192.168.1.8)
+19:11:32 [Obj][9001] AddClient (192.168.1.8)
+19:11:33  SEND REQUEST login acc game Pass 1
+19:11:33 [Obj][9001] AddAccount (game)
+19:12:02 [Obj][9001] LogOutCharacter (TESTDL)
+19:12:02 [Obj][9001] LogOutCharacter ()
+19:12:02 [Obj][9001] DelAccount (game)
+19:12:02 [Obj][9001] DelClient (192.168.1.8)
+19:12:11 [Obj][9002] AddClient (192.168.1.8)
+19:12:12  SEND REQUEST login acc game Pass 1
+19:12:12 [Obj][9002] AddAccount (game)
+19:12:32 [Obj][9002] LogOutCharacter (TESTDL)
+19:12:32 [Obj][9002] LogOutCharacter ()
+19:12:32 [Obj][9002] DelAccount (game)
+19:12:32 [Obj][9002] DelClient (192.168.1.8)
+19:12:41 [Obj][9000] AddClient (192.168.1.8)
+19:12:42  SEND REQUEST login acc game Pass 1
+19:12:42 [Obj][9000] AddAccount (game)
+19:13:00 [CustomQuiz] Finish
+19:13:01 [Obj][9000] LogOutCharacter (TESTDL)
+19:13:01 [Obj][9000] LogOutCharacter ()
+19:13:01 [Obj][9000] DelAccount (game)
+19:13:01 [Obj][9000] DelClient (192.168.1.8)
+19:13:09 [Obj][9001] AddClient (192.168.1.8)
+19:13:10  SEND REQUEST login acc game Pass 1
+19:13:10 [Obj][9001] AddAccount (game)
+19:13:20 [Obj][9001] LogOutCharacter (TESTDL)
+19:13:20 [Obj][9001] LogOutCharacter ()
+19:13:20 [Obj][9001] DelAccount (game)
+19:13:20 [Obj][9001] DelClient (192.168.1.8)
+19:13:30 [Obj][9002] AddClient (192.168.1.8)
+19:13:30  SEND REQUEST login acc game Pass 1
+19:13:30 [Obj][9002] AddAccount (game)
+19:13:41 [Obj][9002] LogOutCharacter (TESTDL)
+19:13:41 [Obj][9002] LogOutCharacter ()
+19:13:41 [Obj][9002] DelAccount (game)
+19:13:41 [Obj][9002] DelClient (192.168.1.8)
+19:13:50 [Obj][9000] AddClient (192.168.1.8)
+19:13:50  SEND REQUEST login acc game Pass 1
+19:13:50 [Obj][9000] AddAccount (game)
+19:13:50 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:13:50 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:14:04 [Obj][9000] LogOutCharacter (TESTDL)
+19:14:04 [Obj][9000] LogOutCharacter ()
+19:14:04 [Obj][9000] DelAccount (game)
+19:14:04 [Obj][9000] DelClient (192.168.1.8)
+19:14:12 [Obj][9001] AddClient (192.168.1.8)
+19:14:13  SEND REQUEST login acc game Pass 1
+19:14:13 [Obj][9001] AddAccount (game)
+19:18:51 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:18:51 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:23:52 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:23:52 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:28:53 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:28:53 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:33:54 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:33:54 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:36:01 [OnlineLoterry] No Winner
+19:36:58 [Obj][9001] LogOutCharacter (GameMaster)
+19:36:58 [Obj][9001] LogOutCharacter ()
+19:36:58 [Obj][9001] DelAccount (game)
+19:36:58 [Obj][9001] DelClient (192.168.1.8)
+19:37:08 [Obj][9002] AddClient (192.168.1.8)
+19:37:08  SEND REQUEST login acc game Pass 1
+19:37:08 [Obj][9002] AddAccount (game)
+19:37:33 [Obj][9002] LogOutCharacter (GameMaster)
+19:37:33 [Obj][9002] LogOutCharacter ()
+19:37:33 [Obj][9002] DelAccount (game)
+19:37:33 [Obj][9002] DelClient (192.168.1.8)
+19:37:43 [Obj][9000] AddClient (192.168.1.8)
+19:37:44  SEND REQUEST login acc game Pass 1
+19:37:44 [Obj][9000] AddAccount (game)
+19:38:07 [Obj][9000] LogOutCharacter (GameMaster)
+19:38:07 [Obj][9000] LogOutCharacter ()
+19:38:07 [Obj][9000] DelAccount (game)
+19:38:07 [Obj][9000] DelClient (192.168.1.8)
+19:38:38 [Obj][9001] AddClient (192.168.1.8)
+19:38:39  SEND REQUEST login acc game Pass 1
+19:38:39 [Obj][9001] AddAccount (game)
+19:38:52 [Obj][9001] LogOutCharacter (GameMaster)
+19:38:52 [Obj][9001] LogOutCharacter ()
+19:38:52 [Obj][9001] DelAccount (game)
+19:38:52 [Obj][9001] DelClient (192.168.1.8)
+19:38:55 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:38:55 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:39:14 [Obj][9002] AddClient (192.168.1.8)
+19:39:15  SEND REQUEST login acc game Pass 1
+19:39:15 [Obj][9002] AddAccount (game)
+19:39:18 [Obj][9002] LogOutCharacter (GameMaster)
+19:39:18 [Obj][9002] LogOutCharacter ()
+19:39:18 [Obj][9002] DelAccount (game)
+19:39:18 [Obj][9002] DelClient (192.168.1.8)
+19:39:39 [Obj][9000] AddClient (192.168.1.8)
+19:39:40  SEND REQUEST login acc game Pass 1
+19:39:40 [Obj][9000] AddAccount (game)
+19:39:55 [Obj][9000] LogOutCharacter (GameMaster)
+19:39:55 [Obj][9000] LogOutCharacter ()
+19:39:55 [Obj][9000] DelAccount (game)
+19:39:55 [Obj][9000] DelClient (192.168.1.8)
+19:40:03 [Obj][9001] AddClient (192.168.1.8)
+19:40:04  SEND REQUEST login acc game Pass 1
+19:40:04 [Obj][9001] AddAccount (game)
+19:40:18 [Obj][9001] LogOutCharacter (GameMaster)
+19:40:18 [Obj][9001] LogOutCharacter ()
+19:40:18 [Obj][9001] DelAccount (game)
+19:40:18 [Obj][9001] DelClient (192.168.1.8)
+19:40:38 [Obj][9002] AddClient (192.168.1.8)
+19:40:39  SEND REQUEST login acc game Pass 1
+19:40:39 [Obj][9002] AddAccount (game)
+19:40:50 [Obj][9002] LogOutCharacter (GameMaster)
+19:40:50 [Obj][9002] LogOutCharacter ()
+19:40:50 [Obj][9002] DelAccount (game)
+19:40:50 [Obj][9002] DelClient (192.168.1.8)
+19:40:59 [Obj][9000] AddClient (192.168.1.8)
+19:41:00  SEND REQUEST login acc game Pass 1
+19:41:00 [Obj][9000] AddAccount (game)
+19:41:09 [Obj][9000] LogOutCharacter (GameMaster)
+19:41:09 [Obj][9000] LogOutCharacter ()
+19:41:09 [Obj][9000] DelAccount (game)
+19:41:09 [Obj][9000] DelClient (192.168.1.8)
+19:41:19 [Obj][9001] AddClient (192.168.1.8)
+19:41:19  SEND REQUEST login acc game Pass 1
+19:41:19 [Obj][9001] AddAccount (game)
+19:41:28 [Obj][9001] LogOutCharacter (GameMaster)
+19:41:28 [Obj][9001] LogOutCharacter ()
+19:41:28 [Obj][9001] DelAccount (game)
+19:41:28 [Obj][9001] DelClient (192.168.1.8)
+19:41:37 [Obj][9002] AddClient (192.168.1.8)
+19:41:38  SEND REQUEST login acc game Pass 1
+19:41:38 [Obj][9002] AddAccount (game)
+19:41:54 [Obj][9002] LogOutCharacter (GameMaster)
+19:41:54 [Obj][9002] LogOutCharacter ()
+19:41:54 [Obj][9002] DelAccount (game)
+19:41:54 [Obj][9002] DelClient (192.168.1.8)
+19:42:04 [Obj][9000] AddClient (192.168.1.8)
+19:42:05  SEND REQUEST login acc game Pass 1
+19:42:05 [Obj][9000] AddAccount (game)
+19:42:31 [Obj][9000] LogOutCharacter (GameMaster)
+19:42:31 [Obj][9000] LogOutCharacter ()
+19:42:31 [Obj][9000] DelAccount (game)
+19:42:31 [Obj][9000] DelClient (192.168.1.8)
+19:42:40 [Obj][9001] AddClient (192.168.1.8)
+19:42:40  SEND REQUEST login acc game Pass 1
+19:42:40 [Obj][9001] AddAccount (game)
+19:42:47 [Obj][9001] LogOutCharacter (GameMaster)
+19:42:47 [Obj][9001] LogOutCharacter ()
+19:42:47 [Obj][9001] DelAccount (game)
+19:42:47 [Obj][9001] DelClient (192.168.1.8)
+19:42:57 [Obj][9002] AddClient (192.168.1.8)
+19:42:58  SEND REQUEST login acc game Pass 1
+19:42:58 [Obj][9002] AddAccount (game)
+19:43:01 [Obj][9002] LogOutCharacter (GameMaster)
+19:43:01 [Obj][9002] LogOutCharacter ()
+19:43:01 [Obj][9002] DelAccount (game)
+19:43:01 [Obj][9002] DelClient (192.168.1.8)
+19:43:20 [Obj][9000] AddClient (192.168.1.8)
+19:43:20  SEND REQUEST login acc game Pass 1
+19:43:20 [Obj][9000] AddAccount (game)
+19:43:27 [Obj][9000] LogOutCharacter (GameMaster)
+19:43:27 [Obj][9000] LogOutCharacter ()
+19:43:27 [Obj][9000] DelAccount (game)
+19:43:27 [Obj][9000] DelClient (192.168.1.8)
+19:43:36 [Obj][9001] AddClient (192.168.1.8)
+19:43:37  SEND REQUEST login acc game Pass 1
+19:43:37 [Obj][9001] AddAccount (game)
+19:43:44 [Obj][9001] LogOutCharacter (GameMaster)
+19:43:44 [Obj][9001] LogOutCharacter ()
+19:43:44 [Obj][9001] DelAccount (game)
+19:43:44 [Obj][9001] DelClient (192.168.1.8)
+19:43:53 [Obj][9002] AddClient (192.168.1.8)
+19:43:53  SEND REQUEST login acc game Pass 1
+19:43:53 [Obj][9002] AddAccount (game)
+19:43:56 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:43:56 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:44:14 [Obj][9002] LogOutCharacter (GameMaster)
+19:44:14 [Obj][9002] LogOutCharacter ()
+19:44:14 [Obj][9002] DelAccount (game)
+19:44:14 [Obj][9002] DelClient (192.168.1.8)
+19:44:23 [Obj][9000] AddClient (192.168.1.8)
+19:44:24  SEND REQUEST login acc game Pass 1
+19:44:24 [Obj][9000] AddAccount (game)
+19:44:44 [Obj][9000] LogOutCharacter (GameMaster)
+19:44:44 [Obj][9000] LogOutCharacter ()
+19:44:44 [Obj][9000] DelAccount (game)
+19:44:44 [Obj][9000] DelClient (192.168.1.8)
+19:44:55 [Obj][9001] AddClient (192.168.1.8)
+19:44:55  SEND REQUEST login acc game Pass 1
+19:44:55 [Obj][9001] AddAccount (game)
+19:45:13 [Obj][9001] LogOutCharacter (GameMaster)
+19:45:13 [Obj][9001] LogOutCharacter ()
+19:45:13 [Obj][9001] DelAccount (game)
+19:45:13 [Obj][9001] DelClient (192.168.1.8)
+19:45:22 [Obj][9002] AddClient (192.168.1.8)
+19:45:23  SEND REQUEST login acc game Pass 1
+19:45:23 [Obj][9002] AddAccount (game)
+19:45:33 [Obj][9002] LogOutCharacter (GameMaster)
+19:45:33 [Obj][9002] LogOutCharacter ()
+19:45:33 [Obj][9002] DelAccount (game)
+19:45:33 [Obj][9002] DelClient (192.168.1.8)
+19:45:45 [Obj][9000] AddClient (192.168.1.8)
+19:45:46  SEND REQUEST login acc game Pass 1
+19:45:46 [Obj][9000] AddAccount (game)
+19:46:15 [Obj][9000] LogOutCharacter (GameMaster)
+19:46:15 [Obj][9000] LogOutCharacter ()
+19:46:15 [Obj][9000] DelAccount (game)
+19:46:15 [Obj][9000] DelClient (192.168.1.8)
+19:46:24 [Obj][9001] AddClient (192.168.1.8)
+19:46:25  SEND REQUEST login acc game Pass 1
+19:46:25 [Obj][9001] AddAccount (game)
+19:47:08 [Obj][9001] LogOutCharacter (GameMaster)
+19:47:08 [Obj][9001] LogOutCharacter ()
+19:47:08 [Obj][9001] DelAccount (game)
+19:47:08 [Obj][9001] DelClient (192.168.1.8)
+19:47:18 [Obj][9002] AddClient (192.168.1.8)
+19:47:18  SEND REQUEST login acc game Pass 1
+19:47:18 [Obj][9002] AddAccount (game)
+19:47:42 [Obj][9002] LogOutCharacter (GameMaster)
+19:47:42 [Obj][9002] LogOutCharacter ()
+19:47:42 [Obj][9002] DelAccount (game)
+19:47:42 [Obj][9002] DelClient (192.168.1.8)
+19:47:51 [Obj][9000] AddClient (192.168.1.8)
+19:47:52  SEND REQUEST login acc game Pass 1
+19:47:52 [Obj][9000] AddAccount (game)
+19:48:11 [Obj][9000] LogOutCharacter (GameMaster)
+19:48:11 [Obj][9000] LogOutCharacter ()
+19:48:11 [Obj][9000] DelAccount (game)
+19:48:11 [Obj][9000] DelClient (192.168.1.8)
+19:48:21 [Obj][9001] AddClient (192.168.1.8)
+19:48:21  SEND REQUEST login acc game Pass 1
+19:48:21 [Obj][9001] AddAccount (game)
+19:48:36 [Obj][9001] LogOutCharacter (GameMaster)
+19:48:36 [Obj][9001] LogOutCharacter ()
+19:48:36 [Obj][9001] DelAccount (game)
+19:48:36 [Obj][9001] DelClient (192.168.1.8)
+19:48:44 [Obj][9002] AddClient (192.168.1.8)
+19:48:45  SEND REQUEST login acc game Pass 1
+19:48:45 [Obj][9002] AddAccount (game)
+19:48:57 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:48:57 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:48:59 [Obj][9002] LogOutCharacter (GameMaster)
+19:48:59 [Obj][9002] LogOutCharacter ()
+19:48:59 [Obj][9002] DelAccount (game)
+19:48:59 [Obj][9002] DelClient (192.168.1.8)
+19:49:07 [Obj][9000] AddClient (192.168.1.8)
+19:49:08  SEND REQUEST login acc game Pass 1
+19:49:08 [Obj][9000] AddAccount (game)
+19:49:29 [Obj][9000] LogOutCharacter (GameMaster)
+19:49:29 [Obj][9000] LogOutCharacter ()
+19:49:29 [Obj][9000] DelAccount (game)
+19:49:29 [Obj][9000] DelClient (192.168.1.8)
+19:49:38 [Obj][9001] AddClient (192.168.1.8)
+19:49:39  SEND REQUEST login acc game Pass 1
+19:49:39 [Obj][9001] AddAccount (game)
+19:50:26 [Obj][9001] LogOutCharacter (GameMaster)
+19:50:26 [Obj][9001] LogOutCharacter ()
+19:50:26 [Obj][9001] DelAccount (game)
+19:50:26 [Obj][9001] DelClient (192.168.1.8)
+19:50:34 [Obj][9002] AddClient (192.168.1.8)
+19:50:35  SEND REQUEST login acc game Pass 1
+19:50:35 [Obj][9002] AddAccount (game)
+19:50:39 [Obj][9002] LogOutCharacter (GameMaster)
+19:50:39 [Obj][9002] LogOutCharacter ()
+19:50:39 [Obj][9002] DelAccount (game)
+19:50:39 [Obj][9002] DelClient (192.168.1.8)
+19:51:18 [Obj][9000] AddClient (192.168.1.8)
+19:51:18  SEND REQUEST login acc game Pass 1
+19:51:18 [Obj][9000] AddAccount (game)
+19:51:54 [Obj][9000] LogOutCharacter (GameMaster)
+19:51:54 [Obj][9000] LogOutCharacter ()
+19:51:54 [Obj][9000] DelAccount (game)
+19:51:54 [Obj][9000] DelClient (192.168.1.8)
+19:52:03 [Obj][9001] AddClient (192.168.1.8)
+19:52:03  SEND REQUEST login acc game Pass 1
+19:52:03 [Obj][9001] AddAccount (game)
+19:52:09 [Obj][9001] LogOutCharacter (GameMaster)
+19:52:09 [Obj][9001] LogOutCharacter ()
+19:52:09 [Obj][9001] DelAccount (game)
+19:52:09 [Obj][9001] DelClient (192.168.1.8)
+19:52:30 [Obj][9002] AddClient (192.168.1.8)
+19:52:31  SEND REQUEST login acc game Pass 1
+19:52:31 [Obj][9002] AddAccount (game)
+19:53:43 [Obj][9002] LogOutCharacter (GameMaster)
+19:53:43 [Obj][9002] LogOutCharacter ()
+19:53:43 [Obj][9002] DelAccount (game)
+19:53:43 [Obj][9002] DelClient (192.168.1.8)
+19:53:53 [Obj][9000] AddClient (192.168.1.8)
+19:53:54  SEND REQUEST login acc game Pass 1
+19:53:54 [Obj][9000] AddAccount (game)
+19:53:58 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:53:58 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:54:12 [Obj][9000] LogOutCharacter (GameMaster)
+19:54:12 [Obj][9000] LogOutCharacter ()
+19:54:12 [Obj][9000] DelAccount (game)
+19:54:12 [Obj][9000] DelClient (192.168.1.8)
+19:54:21 [Obj][9001] AddClient (192.168.1.8)
+19:54:21  SEND REQUEST login acc game Pass 1
+19:54:21 [Obj][9001] AddAccount (game)
+19:54:57 [Obj][9001] LogOutCharacter (GameMaster)
+19:54:57 [Obj][9001] LogOutCharacter ()
+19:54:57 [Obj][9001] DelAccount (game)
+19:54:57 [Obj][9001] DelClient (192.168.1.8)
+19:55:06 [Obj][9002] AddClient (192.168.1.8)
+19:55:07  SEND REQUEST login acc game Pass 1
+19:55:07 [Obj][9002] AddAccount (game)
+19:55:56 [Obj][9002] LogOutCharacter (GameMaster)
+19:55:56 [Obj][9002] LogOutCharacter ()
+19:55:56 [Obj][9002] DelAccount (game)
+19:55:56 [Obj][9002] DelClient (192.168.1.8)
+19:56:04 [Obj][9000] AddClient (192.168.1.8)
+19:56:05  SEND REQUEST login acc game Pass 1
+19:56:05 [Obj][9000] AddAccount (game)
+19:56:16 [Obj][9000] LogOutCharacter (GameMaster)
+19:56:16 [Obj][9000] LogOutCharacter ()
+19:56:16 [Obj][9000] DelAccount (game)
+19:56:16 [Obj][9000] DelClient (192.168.1.8)
+19:56:24 [Obj][9001] AddClient (192.168.1.8)
+19:56:25  SEND REQUEST login acc game Pass 1
+19:56:25 [Obj][9001] AddAccount (game)
+19:56:32 [Obj][9001] LogOutCharacter (GameMaster)
+19:56:32 [Obj][9001] LogOutCharacter ()
+19:56:32 [Obj][9001] DelAccount (game)
+19:56:32 [Obj][9001] DelClient (192.168.1.8)
+19:56:41 [Obj][9002] AddClient (192.168.1.8)
+19:56:41  SEND REQUEST login acc game Pass 1
+19:56:41 [Obj][9002] AddAccount (game)
+19:56:58 [Obj][9002] LogOutCharacter (GameMaster)
+19:56:58 [Obj][9002] LogOutCharacter ()
+19:56:58 [Obj][9002] DelAccount (game)
+19:56:58 [Obj][9002] DelClient (192.168.1.8)
+19:57:06 [Obj][9000] AddClient (192.168.1.8)
+19:57:07  SEND REQUEST login acc game Pass 1
+19:57:07 [Obj][9000] AddAccount (game)
+19:57:15 [Obj][9000] LogOutCharacter (GameMaster)
+19:57:15 [Obj][9000] LogOutCharacter ()
+19:57:15 [Obj][9000] DelAccount (game)
+19:57:15 [Obj][9000] DelClient (192.168.1.8)
+19:57:24 [Obj][9001] AddClient (192.168.1.8)
+19:57:25  SEND REQUEST login acc game Pass 1
+19:57:25 [Obj][9001] AddAccount (game)
+19:57:35 [Obj][9001] LogOutCharacter (GameMaster)
+19:57:35 [Obj][9001] LogOutCharacter ()
+19:57:35 [Obj][9001] DelAccount (game)
+19:57:35 [Obj][9001] DelClient (192.168.1.8)
+19:57:44 [Obj][9002] AddClient (192.168.1.8)
+19:57:45  SEND REQUEST login acc game Pass 1
+19:57:45 [Obj][9002] AddAccount (game)
+19:58:01 [Obj][9002] LogOutCharacter (GameMaster)
+19:58:01 [Obj][9002] LogOutCharacter ()
+19:58:01 [Obj][9002] DelAccount (game)
+19:58:01 [Obj][9002] DelClient (192.168.1.8)
+19:58:10 [Obj][9000] AddClient (192.168.1.8)
+19:58:10  SEND REQUEST login acc game Pass 1
+19:58:10 [Obj][9000] AddAccount (game)
+19:58:18 [Obj][9000] LogOutCharacter (GameMaster)
+19:58:18 [Obj][9000] LogOutCharacter ()
+19:58:18 [Obj][9000] DelAccount (game)
+19:58:18 [Obj][9000] DelClient (192.168.1.8)
+19:58:26 [Obj][9001] AddClient (192.168.1.8)
+19:58:27  SEND REQUEST login acc game Pass 1
+19:58:27 [Obj][9001] AddAccount (game)
+19:58:40 [Obj][9001] LogOutCharacter (GameMaster)
+19:58:40 [Obj][9001] LogOutCharacter ()
+19:58:40 [Obj][9001] DelAccount (game)
+19:58:40 [Obj][9001] DelClient (192.168.1.8)
+19:58:54 [Obj][9002] AddClient (192.168.1.8)
+19:58:55  SEND REQUEST login acc game Pass 1
+19:58:55 [Obj][9002] AddAccount (game)
+19:58:59 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:58:59 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:59:15 [Obj][9002] LogOutCharacter (GameMaster)
+19:59:15 [Obj][9002] LogOutCharacter ()
+19:59:15 [Obj][9002] DelAccount (game)
+19:59:15 [Obj][9002] DelClient (192.168.1.8)
+19:59:29 [Obj][9000] AddClient (192.168.1.8)
+19:59:30  SEND REQUEST login acc game Pass 1
+19:59:30 [Obj][9000] AddAccount (game)
+19:59:36 [Obj][9000] LogOutCharacter (GameMaster)
+19:59:36 [Obj][9000] LogOutCharacter ()
+19:59:36 [Obj][9000] DelAccount (game)
+19:59:36 [Obj][9000] DelClient (192.168.1.8)
+19:59:53 [Obj][9001] AddClient (192.168.1.8)
+19:59:54  SEND REQUEST login acc game Pass 1
+19:59:54 [Obj][9001] AddAccount (game)
+20:00:12 [Obj][9001] LogOutCharacter (GameMaster)
+20:00:12 [Obj][9001] LogOutCharacter ()
+20:00:12 [Obj][9001] DelAccount (game)
+20:00:12 [Obj][9001] DelClient (192.168.1.8)
+20:00:21 [Obj][9002] AddClient (192.168.1.8)
+20:00:22  SEND REQUEST login acc game Pass 1
+20:00:22 [Obj][9002] AddAccount (game)
+20:00:52 [Obj][9002] LogOutCharacter (GameMaster)
+20:00:52 [Obj][9002] LogOutCharacter ()
+20:00:52 [Obj][9002] DelAccount (game)
+20:00:52 [Obj][9002] DelClient (192.168.1.8)
+20:01:03 [Obj][9000] AddClient (192.168.1.8)
+20:01:03  SEND REQUEST login acc game Pass 1
+20:01:03 [Obj][9000] AddAccount (game)
+20:01:27 [Obj][9000] LogOutCharacter (GameMaster)
+20:01:27 [Obj][9000] LogOutCharacter ()
+20:01:45 [Obj][9000] LogOutCharacter (GameMaster)
+20:01:45 [Obj][9000] LogOutCharacter ()
+20:01:45 [Obj][9000] DelAccount (game)
+20:01:45 [Obj][9000] DelClient (192.168.1.8)
+20:01:53 [Obj][9001] AddClient (192.168.1.8)
+20:01:54  SEND REQUEST login acc game Pass 1
+20:01:54 [Obj][9001] AddAccount (game)
+20:02:07 [Obj][9001] LogOutCharacter (GameMaster)
+20:02:07 [Obj][9001] LogOutCharacter ()
+20:02:07 [Obj][9001] DelAccount (game)
+20:02:07 [Obj][9001] DelClient (192.168.1.8)
+20:02:15 [Obj][9002] AddClient (192.168.1.8)
+20:02:16  SEND REQUEST login acc game Pass 1
+20:02:16 [Obj][9002] AddAccount (game)
+20:02:46 [Obj][9002] LogOutCharacter (GameMaster)
+20:02:46 [Obj][9002] LogOutCharacter ()
+20:02:46 [Obj][9002] DelAccount (game)
+20:02:46 [Obj][9002] DelClient (192.168.1.8)
+20:02:55 [Obj][9000] AddClient (192.168.1.8)
+20:02:55  SEND REQUEST login acc game Pass 1
+20:02:55 [Obj][9000] AddAccount (game)
+20:03:06 [Obj][9000] LogOutCharacter (GameMaster)
+20:03:06 [Obj][9000] LogOutCharacter ()
+20:03:06 [Obj][9000] DelAccount (game)
+20:03:06 [Obj][9000] DelClient (192.168.1.8)
+20:03:16 [Obj][9001] AddClient (192.168.1.8)
+20:03:16  SEND REQUEST login acc game Pass 1
+20:03:16 [Obj][9001] AddAccount (game)
+20:03:26 [Obj][9001] LogOutCharacter (GameMaster)
+20:03:26 [Obj][9001] LogOutCharacter ()
+20:03:26 [Obj][9001] DelAccount (game)
+20:03:26 [Obj][9001] DelClient (192.168.1.8)
+20:03:35 [Obj][9002] AddClient (192.168.1.8)
+20:03:35  SEND REQUEST login acc game Pass 1
+20:03:35 [Obj][9002] AddAccount (game)
+20:03:46 [Obj][9002] LogOutCharacter (GameMaster)
+20:03:46 [Obj][9002] LogOutCharacter ()
+20:03:46 [Obj][9002] DelAccount (game)
+20:03:46 [Obj][9002] DelClient (192.168.1.8)
+20:03:55 [Obj][9000] AddClient (192.168.1.8)
+20:03:55  SEND REQUEST login acc game Pass 1
+20:03:55 [Obj][9000] AddAccount (game)
+20:04:00 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:04:00 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:04:04 [Obj][9000] LogOutCharacter (GameMaster)
+20:04:04 [Obj][9000] LogOutCharacter ()
+20:04:04 [Obj][9000] DelAccount (game)
+20:04:04 [Obj][9000] DelClient (192.168.1.8)
+20:04:14 [Obj][9001] AddClient (192.168.1.8)
+20:04:14  SEND REQUEST login acc game Pass 1
+20:04:14 [Obj][9001] AddAccount (game)
+20:04:30 [Obj][9001] LogOutCharacter (GameMaster)
+20:04:30 [Obj][9001] LogOutCharacter ()
+20:04:30 [Obj][9001] DelAccount (game)
+20:04:30 [Obj][9001] DelClient (192.168.1.8)
+20:04:38 [Obj][9002] AddClient (192.168.1.8)
+20:04:39  SEND REQUEST login acc game Pass 1
+20:04:39 [Obj][9002] AddAccount (game)
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 136 Y: 190)
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 136 Y: 190)
+20:05:14 [Obj][9002] LogOutCharacter (GameMaster)
+20:05:14 [Obj][9002] LogOutCharacter ()
+20:05:26 [Obj][9002] LogOutCharacter (GameMaster)
+20:05:26 [Obj][9002] LogOutCharacter ()
+20:05:26 [Obj][9002] DelAccount (game)
+20:05:26 [Obj][9002] DelClient (192.168.1.8)
+20:05:36 [Obj][9000] AddClient (192.168.1.8)
+20:05:36  SEND REQUEST login acc game Pass 1
+20:05:36 [Obj][9000] AddAccount (game)
+20:05:54 [Obj][9000] LogOutCharacter (GameMaster)
+20:05:54 [Obj][9000] LogOutCharacter ()
+20:05:54 [Obj][9000] DelAccount (game)
+20:05:54 [Obj][9000] DelClient (192.168.1.8)
+20:06:03 [Obj][9001] AddClient (192.168.1.8)
+20:06:04  SEND REQUEST login acc game Pass 1
+20:06:04 [Obj][9001] AddAccount (game)
+20:06:32 [Obj][9001] LogOutCharacter (GameMaster)
+20:06:32 [Obj][9001] LogOutCharacter ()
+20:06:32 [Obj][9001] DelAccount (game)
+20:06:32 [Obj][9001] DelClient (192.168.1.8)
+20:06:43 [Obj][9002] AddClient (192.168.1.8)
+20:06:45  SEND REQUEST login acc game Pass 1
+20:06:45 [Obj][9002] AddAccount (game)
+20:06:56 [Obj][9002] LogOutCharacter (GameMaster)
+20:06:56 [Obj][9002] LogOutCharacter ()
+20:06:56 [Obj][9002] DelAccount (game)
+20:06:56 [Obj][9002] DelClient (192.168.1.8)
+20:07:04 [Obj][9000] AddClient (192.168.1.8)
+20:07:05  SEND REQUEST login acc game Pass 1
+20:07:05 [Obj][9000] AddAccount (game)
+20:07:13 [Obj][9000] LogOutCharacter (GameMaster)
+20:07:13 [Obj][9000] LogOutCharacter ()
+20:07:13 [Obj][9000] DelAccount (game)
+20:07:13 [Obj][9000] DelClient (192.168.1.8)
+20:07:21 [Obj][9001] AddClient (192.168.1.8)
+20:07:22  SEND REQUEST login acc game Pass 1
+20:07:22 [Obj][9001] AddAccount (game)
+20:07:42 [Obj][9001] LogOutCharacter (GameMaster)
+20:07:42 [Obj][9001] LogOutCharacter ()
+20:07:42 [Obj][9001] DelAccount (game)
+20:07:42 [Obj][9001] DelClient (192.168.1.8)
+20:07:51 [Obj][9002] AddClient (192.168.1.8)
+20:07:52  SEND REQUEST login acc game Pass 1
+20:07:52 [Obj][9002] AddAccount (game)
+20:08:19 [Obj][9002] LogOutCharacter (GameMaster)
+20:08:19 [Obj][9002] LogOutCharacter ()
+20:08:19 [Obj][9002] DelAccount (game)
+20:08:19 [Obj][9002] DelClient (192.168.1.8)
+20:08:29 [Obj][9000] AddClient (192.168.1.8)
+20:08:30  SEND REQUEST login acc game Pass 1
+20:08:30 [Obj][9000] AddAccount (game)
+20:09:03 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:09:03 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:09:28 [Obj][9000] LogOutCharacter (GameMaster)
+20:09:28 [Obj][9000] LogOutCharacter ()
+20:09:28 [Obj][9000] DelAccount (game)
+20:09:28 [Obj][9000] DelClient (192.168.1.8)
+20:09:36 [Obj][9001] AddClient (192.168.1.8)
+20:09:37  SEND REQUEST login acc game Pass 1
+20:09:37 [Obj][9001] AddAccount (game)
+20:09:48 [Obj][9001] LogOutCharacter (GameMaster)
+20:09:48 [Obj][9001] LogOutCharacter ()
+20:09:48 [Obj][9001] DelAccount (game)
+20:09:48 [Obj][9001] DelClient (192.168.1.8)
+20:09:57 [Obj][9002] AddClient (192.168.1.8)
+20:09:58  SEND REQUEST login acc game Pass 1
+20:09:58 [Obj][9002] AddAccount (game)
+20:10:00 [CustomQuiz] Start
+20:10:15 [Obj][9002] LogOutCharacter (GameMaster)
+20:10:15 [Obj][9002] LogOutCharacter ()
+20:10:15 [Obj][9002] DelAccount (game)
+20:10:15 [Obj][9002] DelClient (192.168.1.8)
+20:10:34 [Obj][9000] AddClient (192.168.1.8)
+20:10:35  SEND REQUEST login acc game Pass 1
+20:10:35 [Obj][9000] AddAccount (game)
+20:12:24 [Obj][9000] LogOutCharacter (GameMaster)
+20:12:24 [Obj][9000] LogOutCharacter ()
+20:12:24 [Obj][9000] DelAccount (game)
+20:12:24 [Obj][9000] DelClient (192.168.1.8)
+20:12:33 [Obj][9001] AddClient (192.168.1.8)
+20:12:33  SEND REQUEST login acc game Pass 1
+20:12:33 [Obj][9001] AddAccount (game)
+20:13:00 [CustomQuiz] Finish
+20:13:01 [Obj][9001] LogOutCharacter (GameMaster)
+20:13:01 [Obj][9001] LogOutCharacter ()
+20:13:01 [Obj][9001] DelAccount (game)
+20:13:01 [Obj][9001] DelClient (192.168.1.8)
+20:13:24 [Obj][9002] AddClient (192.168.1.8)
+20:13:25  SEND REQUEST login acc game Pass 1
+20:13:25 [Obj][9002] AddAccount (game)
+20:13:37 [Obj][9002] LogOutCharacter (GameMaster)
+20:13:37 [Obj][9002] LogOutCharacter ()
+20:13:37 [Obj][9002] DelAccount (game)
+20:13:37 [Obj][9002] DelClient (192.168.1.8)
+20:13:49 [Obj][9000] AddClient (192.168.1.8)
+20:13:49  SEND REQUEST login acc game Pass 1
+20:13:49 [Obj][9000] AddAccount (game)
+20:14:02 [Obj][9000] LogOutCharacter (GameMaster)
+20:14:02 [Obj][9000] LogOutCharacter ()
+20:14:02 [Obj][9000] DelAccount (game)
+20:14:02 [Obj][9000] DelClient (192.168.1.8)
+20:14:04 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:14:04 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:14:10 [Obj][9001] AddClient (192.168.1.8)
+20:14:11  SEND REQUEST login acc game Pass 1
+20:14:11 [Obj][9001] AddAccount (game)
+20:14:25 [Obj][9001] LogOutCharacter (GameMaster)
+20:14:25 [Obj][9001] LogOutCharacter ()
+20:14:25 [Obj][9001] DelAccount (game)
+20:14:25 [Obj][9001] DelClient (192.168.1.8)
+20:14:42 [Obj][9002] AddClient (192.168.1.8)
+20:14:43  SEND REQUEST login acc game Pass 1
+20:14:43 [Obj][9002] AddAccount (game)
+20:14:52 [Obj][9002] LogOutCharacter (GameMaster)
+20:14:52 [Obj][9002] LogOutCharacter ()
+20:14:52 [Obj][9002] DelAccount (game)
+20:14:52 [Obj][9002] DelClient (192.168.1.8)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 210 Y: 148)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 210 Y: 148)
+20:15:06 [Obj][9000] AddClient (192.168.1.8)
+20:15:07  SEND REQUEST login acc game Pass 1
+20:15:07 [Obj][9000] AddAccount (game)
+20:15:59 [Obj][9000] LogOutCharacter (GameMaster)
+20:15:59 [Obj][9000] LogOutCharacter ()
+20:15:59 [Obj][9000] DelAccount (game)
+20:15:59 [Obj][9000] DelClient (192.168.1.8)
+20:16:17 [Obj][9001] AddClient (192.168.1.8)
+20:16:18  SEND REQUEST login acc game Pass 1
+20:16:18 [Obj][9001] AddAccount (game)
+20:17:01 [Obj][9001] LogOutCharacter (GameMaster)
+20:17:01 [Obj][9001] LogOutCharacter ()
+20:17:01 [Obj][9001] DelAccount (game)
+20:17:01 [Obj][9001] DelClient (192.168.1.8)
+20:17:10 [Obj][9002] AddClient (192.168.1.8)
+20:17:11  SEND REQUEST login acc game Pass 1
+20:17:11 [Obj][9002] AddAccount (game)
+20:18:08 [Obj][9002] LogOutCharacter (GameMaster)
+20:18:08 [Obj][9002] LogOutCharacter ()
+20:18:08 [Obj][9002] DelAccount (game)
+20:18:08 [Obj][9002] DelClient (192.168.1.8)
+20:18:16 [Obj][9000] AddClient (192.168.1.8)
+20:18:17  SEND REQUEST login acc game Pass 1
+20:18:17 [Obj][9000] AddAccount (game)
+20:18:31 [Obj][9000] LogOutCharacter (GameMaster)
+20:18:31 [Obj][9000] LogOutCharacter ()
+20:18:31 [Obj][9000] DelAccount (game)
+20:18:31 [Obj][9000] DelClient (192.168.1.8)
+20:18:40 [Obj][9001] AddClient (192.168.1.8)
+20:18:40  SEND REQUEST login acc game Pass 1
+20:18:40 [Obj][9001] AddAccount (game)
+20:18:55 [Obj][9001] LogOutCharacter (GameMaster)
+20:18:55 [Obj][9001] LogOutCharacter ()
+20:18:55 [Obj][9001] DelAccount (game)
+20:18:55 [Obj][9001] DelClient (192.168.1.8)
+20:19:05 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:19:05 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:19:07 [Obj][9002] AddClient (192.168.1.8)
+20:19:08  SEND REQUEST login acc game Pass 1
+20:19:08 [Obj][9002] AddAccount (game)
+20:19:17 [Obj][9002] LogOutCharacter (GameMaster)
+20:19:17 [Obj][9002] LogOutCharacter ()
+20:19:17 [Obj][9002] DelAccount (game)
+20:19:17 [Obj][9002] DelClient (192.168.1.8)
+20:19:25 [Obj][9000] AddClient (192.168.1.8)
+20:19:26  SEND REQUEST login acc game Pass 1
+20:19:26 [Obj][9000] AddAccount (game)
+20:20:43 [Obj][9000] LogOutCharacter (GameMaster)
+20:20:43 [Obj][9000] LogOutCharacter ()
+20:20:43 [Obj][9000] DelAccount (game)
+20:20:43 [Obj][9000] DelClient (192.168.1.8)
+20:20:51 [Obj][9001] AddClient (192.168.1.8)
+20:20:52  SEND REQUEST login acc game Pass 1
+20:20:52 [Obj][9001] AddAccount (game)
+20:21:19 [Obj][9001] LogOutCharacter (GameMaster)
+20:21:19 [Obj][9001] LogOutCharacter ()
+20:21:19 [Obj][9001] DelAccount (game)
+20:21:19 [Obj][9001] DelClient (192.168.1.8)
+20:21:28 [Obj][9002] AddClient (192.168.1.8)
+20:21:28  SEND REQUEST login acc game Pass 1
+20:21:28 [Obj][9002] AddAccount (game)
+20:21:56 [Obj][9002] LogOutCharacter (GameMaster)
+20:21:56 [Obj][9002] LogOutCharacter ()
+20:21:56 [Obj][9002] DelAccount (game)
+20:21:56 [Obj][9002] DelClient (192.168.1.8)
+20:22:13 [Obj][9000] AddClient (192.168.1.8)
+20:22:14  SEND REQUEST login acc game Pass 1
+20:22:14 [Obj][9000] AddAccount (game)
+20:22:23 [Obj][9000] LogOutCharacter (GameMaster)
+20:22:23 [Obj][9000] LogOutCharacter ()
+20:22:23 [Obj][9000] DelAccount (game)
+20:22:23 [Obj][9000] DelClient (192.168.1.8)
+20:22:34 [Obj][9001] AddClient (192.168.1.8)
+20:22:34  SEND REQUEST login acc game Pass 1
+20:22:35 [Obj][9001] AddAccount (game)
+20:22:49 [Obj][9001] LogOutCharacter (GameMaster)
+20:22:49 [Obj][9001] LogOutCharacter ()
+20:22:49 [Obj][9001] DelAccount (game)
+20:22:49 [Obj][9001] DelClient (192.168.1.8)
+20:23:10 [Obj][9002] AddClient (192.168.1.8)
+20:23:11  SEND REQUEST login acc game Pass 1
+20:23:11 [Obj][9002] AddAccount (game)
+20:24:06 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:24:06 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:24:55 [Obj][9002] LogOutCharacter (GameMaster)
+20:24:55 [Obj][9002] LogOutCharacter ()
+20:24:55 [Obj][9002] DelAccount (game)
+20:24:55 [Obj][9002] DelClient (192.168.1.8)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 225 Y: 74)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 225 Y: 74)
+20:25:15 [Obj][9000] AddClient (192.168.1.8)
+20:25:15  SEND REQUEST login acc game Pass 1
+20:25:15 [Obj][9000] AddAccount (game)
+20:25:23 [Obj][9000] LogOutCharacter (GameMaster)
+20:25:23 [Obj][9000] LogOutCharacter ()
+20:25:23 [Obj][9000] DelAccount (game)
+20:25:23 [Obj][9000] DelClient (192.168.1.8)
+20:25:36 [Obj][9001] AddClient (192.168.1.8)
+20:25:36  SEND REQUEST login acc game Pass 1
+20:25:36 [Obj][9001] AddAccount (game)
+20:25:44 [Obj][9001] LogOutCharacter (GameMaster)
+20:25:44 [Obj][9001] LogOutCharacter ()
+20:25:44 [Obj][9001] DelAccount (game)
+20:25:44 [Obj][9001] DelClient (192.168.1.8)
+20:25:55 [Obj][9002] AddClient (192.168.1.8)
+20:25:56  SEND REQUEST login acc game Pass 1
+20:25:56 [Obj][9002] AddAccount (game)
+20:26:03 [Obj][9002] LogOutCharacter (GameMaster)
+20:26:03 [Obj][9002] LogOutCharacter ()
+20:26:03 [Obj][9002] DelAccount (game)
+20:26:03 [Obj][9002] DelClient (192.168.1.8)
+20:26:14 [Obj][9000] AddClient (192.168.1.8)
+20:26:14  SEND REQUEST login acc game Pass 1
+20:26:14 [Obj][9000] AddAccount (game)
+20:26:21 [Obj][9000] LogOutCharacter (GameMaster)
+20:26:21 [Obj][9000] LogOutCharacter ()
+20:26:21 [Obj][9000] DelAccount (game)
+20:26:21 [Obj][9000] DelClient (192.168.1.8)
+20:26:37 [Obj][9001] AddClient (192.168.1.8)
+20:26:37  SEND REQUEST login acc game Pass 1
+20:26:37 [Obj][9001] AddAccount (game)
+20:26:48 [Obj][9001] LogOutCharacter (GameMaster)
+20:26:48 [Obj][9001] LogOutCharacter ()
+20:26:48 [Obj][9001] DelAccount (game)
+20:26:48 [Obj][9001] DelClient (192.168.1.8)
+20:27:02 [Obj][9002] AddClient (192.168.1.8)
+20:27:02  SEND REQUEST login acc game Pass 1
+20:27:02 [Obj][9002] AddAccount (game)
+20:27:31 [Obj][9002] LogOutCharacter (GameMaster)
+20:27:31 [Obj][9002] LogOutCharacter ()
+20:27:31 [Obj][9002] DelAccount (game)
+20:27:31 [Obj][9002] DelClient (192.168.1.8)
+20:28:42 [Obj][9000] AddClient (192.168.1.8)
+20:28:42  SEND REQUEST login acc game Pass 1
+20:28:42 [Obj][9000] AddAccount (game)
+20:29:07 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:29:07 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:29:15 [Obj][9000] LogOutCharacter (GameMaster)
+20:29:15 [Obj][9000] LogOutCharacter ()
+20:29:15 [Obj][9000] DelAccount (game)
+20:29:15 [Obj][9000] DelClient (192.168.1.8)
+20:29:30 [Obj][9001] AddClient (192.168.1.8)
+20:29:31  SEND REQUEST login acc game Pass 1
+20:29:31 [Obj][9001] AddAccount (game)
+20:29:59 [Obj][9001] LogOutCharacter (GameMaster)
+20:29:59 [Obj][9001] LogOutCharacter ()
+20:29:59 [Obj][9001] DelAccount (game)
+20:29:59 [Obj][9001] DelClient (192.168.1.8)
+20:30:19 [Obj][9002] AddClient (192.168.1.8)
+20:30:19  SEND REQUEST login acc game Pass 1
+20:30:19 [Obj][9002] AddAccount (game)
+20:31:55 [Obj][9002] LogOutCharacter (GameMaster)
+20:31:55 [Obj][9002] LogOutCharacter ()
+20:31:55 [Obj][9002] DelAccount (game)
+20:31:55 [Obj][9002] DelClient (192.168.1.8)
+20:32:05 [Obj][9000] AddClient (192.168.1.8)
+20:32:06  SEND REQUEST login acc game Pass 1
+20:32:06 [Obj][9000] AddAccount (game)
+20:32:17 [Obj][9000] LogOutCharacter (GameMaster)
+20:32:17 [Obj][9000] LogOutCharacter ()
+20:32:17 [Obj][9000] DelAccount (game)
+20:32:17 [Obj][9000] DelClient (192.168.1.8)
+20:32:31 [Obj][9001] AddClient (192.168.1.8)
+20:32:31  SEND REQUEST login acc game Pass 1
+20:32:31 [Obj][9001] AddAccount (game)
+20:32:36 [Obj][9001] LogOutCharacter (GameMaster)
+20:32:36 [Obj][9001] LogOutCharacter ()
+20:32:36 [Obj][9001] DelAccount (game)
+20:32:36 [Obj][9001] DelClient (192.168.1.8)
+20:33:17 [Obj][9002] AddClient (192.168.1.8)
+20:33:17  SEND REQUEST login acc game Pass 1
+20:33:17 [Obj][9002] AddAccount (game)
+20:33:31 [Obj][9002] LogOutCharacter (GameMaster)
+20:33:31 [Obj][9002] LogOutCharacter ()
+20:33:31 [Obj][9002] DelAccount (game)
+20:33:31 [Obj][9002] DelClient (192.168.1.8)
+20:34:05 [Obj][9000] AddClient (192.168.1.8)
+20:34:06  SEND REQUEST login acc game Pass 1
+20:34:06 [Obj][9000] AddAccount (game)
+20:34:08 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:34:08 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:34:28 [Obj][9000] LogOutCharacter (GameMaster)
+20:34:28 [Obj][9000] LogOutCharacter ()
+20:34:28 [Obj][9000] DelAccount (game)
+20:34:28 [Obj][9000] DelClient (192.168.1.8)
+20:34:37 [Obj][9001] AddClient (192.168.1.8)
+20:34:37  SEND REQUEST login acc game Pass 1
+20:34:37 [Obj][9001] AddAccount (game)
+20:35:04 [Obj][9001] LogOutCharacter (GameMaster)
+20:35:04 [Obj][9001] LogOutCharacter ()
+20:35:04 [Obj][9001] DelAccount (game)
+20:35:04 [Obj][9001] DelClient (192.168.1.8)
+20:35:11 [Obj][9002] AddClient (192.168.1.8)
+20:35:11  SEND REQUEST login acc game Pass 1
+20:35:11 [Obj][9002] AddAccount (game)
+20:36:01 [OnlineLoterry] No Winner
+20:37:01 [Obj][9002] LogOutCharacter (GameMaster)
+20:37:01 [Obj][9002] LogOutCharacter ()
+20:37:01 [Obj][9002] DelAccount (game)
+20:37:01 [Obj][9002] DelClient (192.168.1.8)
+20:37:09 [Obj][9000] AddClient (192.168.1.8)
+20:37:10  SEND REQUEST login acc game Pass 1
+20:37:10 [Obj][9000] AddAccount (game)
+20:37:35 [Obj][9000] LogOutCharacter (GameMaster)
+20:37:35 [Obj][9000] LogOutCharacter ()
+20:37:35 [Obj][9000] DelAccount (game)
+20:37:35 [Obj][9000] DelClient (192.168.1.8)
+20:37:51 [Obj][9001] AddClient (192.168.1.8)
+20:37:52  SEND REQUEST login acc game Pass 1
+20:37:52 [Obj][9001] AddAccount (game)
+20:38:11 [Obj][9001] LogOutCharacter (GameMaster)
+20:38:11 [Obj][9001] LogOutCharacter ()
+20:38:11 [Obj][9001] DelAccount (game)
+20:38:11 [Obj][9001] DelClient (192.168.1.8)
+20:38:20 [Obj][9002] AddClient (192.168.1.8)
+20:38:21  SEND REQUEST login acc game Pass 1
+20:38:21 [Obj][9002] AddAccount (game)
+20:38:54 [Obj][9002] LogOutCharacter (GameMaster)
+20:38:54 [Obj][9002] LogOutCharacter ()
+20:38:54 [Obj][9002] DelAccount (game)
+20:38:54 [Obj][9002] DelClient (192.168.1.8)
+20:39:05 [Obj][9000] AddClient (192.168.1.8)
+20:39:06  SEND REQUEST login acc game Pass 1
+20:39:06 [Obj][9000] AddAccount (game)
+20:39:09 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:39:09 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:39:32 [Obj][9000] LogOutCharacter (GameMaster)
+20:39:32 [Obj][9000] LogOutCharacter ()
+20:39:32 [Obj][9000] DelAccount (game)
+20:39:32 [Obj][9000] DelClient (192.168.1.8)
+20:39:43 [Obj][9001] AddClient (192.168.1.8)
+20:39:43  SEND REQUEST login acc game Pass 1
+20:39:43 [Obj][9001] AddAccount (game)
+20:39:53 [Obj][9001] LogOutCharacter (GameMaster)
+20:39:53 [Obj][9001] LogOutCharacter ()
+20:39:53 [Obj][9001] DelAccount (game)
+20:39:53 [Obj][9001] DelClient (192.168.1.8)
+20:40:09 [Obj][9002] AddClient (192.168.1.8)
+20:40:10  SEND REQUEST login acc game Pass 1
+20:40:10 [Obj][9002] AddAccount (game)
+20:40:26 [Obj][9002] LogOutCharacter (GameMaster)
+20:40:26 [Obj][9002] LogOutCharacter ()
+20:40:26 [Obj][9002] DelAccount (game)
+20:40:26 [Obj][9002] DelClient (192.168.1.8)
+20:40:36 [Obj][9000] AddClient (192.168.1.8)
+20:40:36  SEND REQUEST login acc game Pass 1
+20:40:36 [Obj][9000] AddAccount (game)
+20:42:15 [Obj][9000] LogOutCharacter (GameMaster)
+20:42:15 [Obj][9000] LogOutCharacter ()
+20:42:15 [Obj][9000] DelAccount (game)
+20:42:15 [Obj][9000] DelClient (192.168.1.8)
+20:42:32 [Obj][9001] AddClient (192.168.1.8)
+20:42:33  SEND REQUEST login acc game Pass 1
+20:42:33 [Obj][9001] AddAccount (game)
+20:42:44 [Obj][9001] LogOutCharacter (GameMaster)
+20:42:44 [Obj][9001] LogOutCharacter ()
+20:42:44 [Obj][9001] DelAccount (game)
+20:42:44 [Obj][9001] DelClient (192.168.1.8)
+20:43:02 [Obj][9002] AddClient (192.168.1.8)
+20:43:02  SEND REQUEST login acc game Pass 1
+20:43:02 [Obj][9002] AddAccount (game)
+20:43:13 [Obj][9002] LogOutCharacter (GameMaster)
+20:43:13 [Obj][9002] LogOutCharacter ()
+20:43:13 [Obj][9002] DelAccount (game)
+20:43:13 [Obj][9002] DelClient (192.168.1.8)
+20:43:22 [Obj][9000] AddClient (192.168.1.8)
+20:43:22  SEND REQUEST login acc game Pass 1
+20:43:22 [Obj][9000] AddAccount (game)
+20:43:30 [Obj][9000] LogOutCharacter (GameMaster)
+20:43:30 [Obj][9000] LogOutCharacter ()
+20:43:30 [Obj][9000] DelAccount (game)
+20:43:30 [Obj][9000] DelClient (192.168.1.8)
+20:43:55 [Obj][9001] AddClient (192.168.1.8)
+20:43:56  SEND REQUEST login acc game Pass 1
+20:43:56 [Obj][9001] AddAccount (game)
+20:44:10 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:44:10 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:49:11 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:49:11 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 194 Y: 71)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 194 Y: 71)
+20:54:09 [Obj][9001] LogOutCharacter (GameMaster)
+20:54:09 [Obj][9001] LogOutCharacter ()
+20:54:09 [Obj][9001] DelAccount (game)
+20:54:09 [Obj][9001] DelClient (192.168.1.8)
+20:54:12 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:54:12 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:54:44 [Obj][9002] AddClient (192.168.1.8)
+20:54:46 [Obj][9002] DelClient (192.168.1.8)
+21:07:55 [ServerInfo] CashShop loaded successfully
+21:07:55 [ServerInfo] ChaosMix loaded successfully
+21:07:55 [ServerInfo] Character loaded successfully
+21:07:55 [FakeOnline] Load Data OK
+21:07:55 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+21:07:55 [EventTime] [1] Size 3 
+21:07:55 [CustomItemBank] (1) Load 10 Item In List
+21:07:55 [ServerInfo] Custom loaded successfully
+21:07:55 [ServerInfo] Command loaded successfully
+21:07:56 [ServerInfo] Common loaded successfully
+21:07:56 [ Crywolf ] State (0) -> NONE
+21:07:56 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+21:07:56 [ServerInfo] Event loaded successfully
+21:07:56 [ServerInfo] EventItemBag loaded successfully
+21:07:56 [ServerInfo] Hack loaded successfully
+21:07:56 [ServerInfo] Item loaded successfully
+21:07:56 [ServerInfo] Monster loaded successfully
+21:07:56 [ServerInfo] Move loaded successfully
+21:07:56 [ServerInfo] Quest loaded successfully
+21:07:56 [ServerInfo] Shop loaded successfully
+21:07:56 [ServerInfo] Skill loaded successfully
+21:07:56 [ServerInfo] Util loaded successfully
+21:07:56 [ReadBotInfo] BotSystem loaded successfully
+21:10:00 [CustomQuiz] Start
+21:12:57 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:12:57 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:13:00 [CustomQuiz] Finish
+21:16:58 [Obj][9000] AddClient (192.168.1.8)
+21:16:59  SEND REQUEST login acc admin Pass 1
+21:16:59 [Obj][9000] AddAccount (admin)
+21:17:16 [Obj][9000] LogOutCharacter (TESTELF)
+21:17:16 [Obj][9000] LogOutCharacter ()
+21:17:16 [Obj][9000] DelAccount (admin)
+21:17:16 [Obj][9000] DelClient (192.168.1.8)
+21:17:17 [Obj][9001] AddClient (192.168.1.8)
+21:17:18  SEND REQUEST login acc game Pass 1
+21:17:18 [Obj][9001] AddAccount (game)
+21:17:58 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:17:58 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:18:23 [Obj][9001] LogOutCharacter (GameMaster)
+21:18:23 [Obj][9001] LogOutCharacter ()
+21:18:55 [Obj][9001] LogOutCharacter (GameMaster)
+21:18:55 [Obj][9001] LogOutCharacter ()
+21:19:33 [Obj][9001] LogOutCharacter (GameMaster)
+21:19:33 [Obj][9001] LogOutCharacter ()
+21:19:33 [Obj][9001] DelAccount (game)
+21:19:33 [Obj][9001] DelClient (192.168.1.8)
+21:19:43 [Obj][9000] AddClient (192.168.1.8)
+21:19:43  SEND REQUEST login acc game Pass 1
+21:19:43 [Obj][9000] AddAccount (game)
+21:19:54 [Obj][9000] LogOutCharacter (GameMaster)
+21:19:54 [Obj][9000] LogOutCharacter ()
+21:19:54 [Obj][9000] DelAccount (game)
+21:19:54 [Obj][9000] DelClient (192.168.1.8)
+21:20:07 [Obj][9001] AddClient (192.168.1.8)
+21:20:08  SEND REQUEST login acc game Pass 1
+21:20:08 [Obj][9001] AddAccount (game)
+21:20:40 [Obj][9001] LogOutCharacter (GameMaster)
+21:20:40 [Obj][9001] LogOutCharacter ()
+21:20:40 [Obj][9001] DelAccount (game)
+21:20:40 [Obj][9001] DelClient (192.168.1.8)
+21:20:54 [Obj][9000] AddClient (192.168.1.8)
+21:20:54  SEND REQUEST login acc game Pass 1
+21:20:54 [Obj][9000] AddAccount (game)
+21:21:07 [Obj][9000] LogOutCharacter (GameMaster)
+21:21:07 [Obj][9000] LogOutCharacter ()
+21:21:07 [Obj][9000] DelAccount (game)
+21:21:07 [Obj][9000] DelClient (192.168.1.8)
+21:21:24 [Obj][9001] AddClient (192.168.1.8)
+21:21:25  SEND REQUEST login acc game Pass 1
+21:21:25 [Obj][9001] AddAccount (game)
+21:21:37 [Obj][9001] LogOutCharacter (GameMaster)
+21:21:37 [Obj][9001] LogOutCharacter ()
+21:21:37 [Obj][9001] DelAccount (game)
+21:21:37 [Obj][9001] DelClient (192.168.1.8)
+21:21:46 [Obj][9000] AddClient (192.168.1.8)
+21:21:46  SEND REQUEST login acc game Pass 1
+21:21:46 [Obj][9000] AddAccount (game)
+21:22:05 [Obj][9000] LogOutCharacter (GameMaster)
+21:22:05 [Obj][9000] LogOutCharacter ()
+21:22:59 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:22:59 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:23:14 [Obj][9000] LogOutCharacter (GameMaster)
+21:23:14 [Obj][9000] LogOutCharacter ()
+21:23:14 [Obj][9000] DelAccount (game)
+21:23:14 [Obj][9000] DelClient (192.168.1.8)
+21:23:24 [Obj][9001] AddClient (192.168.1.8)
+21:23:25  SEND REQUEST login acc game Pass 1
+21:23:25 [Obj][9001] AddAccount (game)
+21:23:41 [Obj][9001] LogOutCharacter (GameMaster)
+21:23:41 [Obj][9001] LogOutCharacter ()
+21:23:41 [Obj][9001] DelAccount (game)
+21:23:41 [Obj][9001] DelClient (192.168.1.8)
+21:23:49 [Obj][9000] AddClient (192.168.1.8)
+21:23:49  SEND REQUEST login acc game Pass 1
+21:23:49 [Obj][9000] AddAccount (game)
+21:24:02 [Obj][9000] LogOutCharacter (GameMaster)
+21:24:02 [Obj][9000] LogOutCharacter ()
+21:24:02 [Obj][9000] DelAccount (game)
+21:24:02 [Obj][9000] DelClient (192.168.1.8)
+21:24:12 [Obj][9001] AddClient (192.168.1.8)
+21:24:13  SEND REQUEST login acc game Pass 1
+21:24:13 [Obj][9001] AddAccount (game)
+21:24:52 [Obj][9001] LogOutCharacter (GameMaster)
+21:24:52 [Obj][9001] LogOutCharacter ()
+21:24:52 [Obj][9001] DelAccount (game)
+21:24:52 [Obj][9001] DelClient (192.168.1.8)
+21:25:01 [Obj][9000] AddClient (192.168.1.8)
+21:25:02  SEND REQUEST login acc game Pass 1
+21:25:02 [Obj][9000] AddAccount (game)
+21:25:05 [Obj][9000] LogOutCharacter (GameMaster)
+21:25:05 [Obj][9000] LogOutCharacter ()
+21:25:05 [Obj][9000] DelAccount (game)
+21:25:05 [Obj][9000] DelClient (192.168.1.8)
+21:25:19 [Obj][9001] AddClient (192.168.1.8)
+21:25:20  SEND REQUEST login acc game Pass 1
+21:25:20 [Obj][9001] AddAccount (game)
+21:28:00 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:28:00 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:33:01 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:33:01 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:36:01 [OnlineLoterry] Add Member (GameMaster)
+21:36:01 [OnlineLoterry] Winner (GameMaster)
+21:36:01 [game][GameMaster] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+21:38:02 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:38:02 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:41:10 [Obj][9001] LogOutCharacter (GameMaster)
+21:41:10 [Obj][9001] LogOutCharacter ()
+21:41:10 [Obj][9001] DelAccount (game)
+21:41:10 [Obj][9001] DelClient (192.168.1.8)
+21:41:33 [Obj][9000] AddClient (192.168.1.8)
+21:41:35  SEND REQUEST login acc game Pass 1
+21:41:35 [Obj][9000] AddAccount (game)
+21:43:03 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:43:03 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:46:17 [Obj][9000] LogOutCharacter (GameMaster)
+21:46:17 [Obj][9000] LogOutCharacter ()
+21:46:17 [Obj][9000] DelAccount (game)
+21:46:17 [Obj][9000] DelClient (192.168.1.8)
+21:46:51 [Obj][9001] AddClient (192.168.1.8)
+21:46:52  SEND REQUEST login acc game Pass 1
+21:46:52 [Obj][9001] AddAccount (game)
+21:46:55 [Obj][9001] LogOutCharacter (GameMaster)
+21:46:55 [Obj][9001] LogOutCharacter ()
+21:46:55 [Obj][9001] DelAccount (game)
+21:46:55 [Obj][9001] DelClient (192.168.1.8)
+21:47:06 [Obj][9000] AddClient (192.168.1.8)
+21:47:07  SEND REQUEST login acc game Pass 1
+21:47:07 [Obj][9000] AddAccount (game)
+21:47:23 [Obj][9000] LogOutCharacter (GameMaster)
+21:47:23 [Obj][9000] LogOutCharacter ()
+21:47:23 [Obj][9000] DelAccount (game)
+21:47:23 [Obj][9000] DelClient (192.168.1.8)
+21:47:34 [Obj][9001] AddClient (192.168.1.8)
+21:47:35  SEND REQUEST login acc game Pass 1
+21:47:35 [Obj][9001] AddAccount (game)
+21:47:42 [Obj][9001] LogOutCharacter (GameMaster)
+21:47:42 [Obj][9001] LogOutCharacter ()
+21:47:42 [Obj][9001] DelAccount (game)
+21:47:42 [Obj][9001] DelClient (192.168.1.8)
+21:47:55 [Obj][9000] AddClient (192.168.1.8)
+21:47:55  SEND REQUEST login acc game Pass 1
+21:47:55 [Obj][9000] AddAccount (game)
+21:48:02 [Obj][9000] LogOutCharacter (GameMaster)
+21:48:02 [Obj][9000] LogOutCharacter ()
+21:48:02 [Obj][9000] DelAccount (game)
+21:48:02 [Obj][9000] DelClient (192.168.1.8)
+21:48:04 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:48:04 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:48:38 [Obj][9001] AddClient (192.168.1.8)
+21:48:38  SEND REQUEST login acc game Pass 1
+21:48:38 [Obj][9001] AddAccount (game)
+21:48:46 [Obj][9001] LogOutCharacter (GameMaster)
+21:48:46 [Obj][9001] LogOutCharacter ()
+21:48:46 [Obj][9001] DelAccount (game)
+21:48:46 [Obj][9001] DelClient (192.168.1.8)
+21:49:02 [Obj][9000] AddClient (192.168.1.8)
+21:49:03  SEND REQUEST login acc game Pass 1
+21:49:03 [Obj][9000] AddAccount (game)
+21:49:07 [Obj][9000] LogOutCharacter (GameMaster)
+21:49:07 [Obj][9000] LogOutCharacter ()
+21:49:07 [Obj][9000] DelAccount (game)
+21:49:07 [Obj][9000] DelClient (192.168.1.8)
+21:49:18 [Obj][9001] AddClient (192.168.1.8)
+21:49:19  SEND REQUEST login acc game Pass 1
+21:49:19 [Obj][9001] AddAccount (game)
+21:49:22 [Obj][9001] LogOutCharacter (GameMaster)
+21:49:22 [Obj][9001] LogOutCharacter ()
+21:49:22 [Obj][9001] DelAccount (game)
+21:49:22 [Obj][9001] DelClient (192.168.1.8)
+21:49:35 [Obj][9000] AddClient (192.168.1.8)
+21:49:35  SEND REQUEST login acc game Pass 1
+21:49:35 [Obj][9000] AddAccount (game)
+21:49:38 [Obj][9000] LogOutCharacter (GameMaster)
+21:49:38 [Obj][9000] LogOutCharacter ()
+21:49:38 [Obj][9000] DelAccount (game)
+21:49:38 [Obj][9000] DelClient (192.168.1.8)
+21:49:50 [Obj][9001] AddClient (192.168.1.8)
+21:49:50  SEND REQUEST login acc game Pass 1
+21:49:50 [Obj][9001] AddAccount (game)
+21:49:52 [Obj][9001] LogOutCharacter (GameMaster)
+21:49:52 [Obj][9001] LogOutCharacter ()
+21:49:52 [Obj][9001] DelAccount (game)
+21:49:52 [Obj][9001] DelClient (192.168.1.8)
+21:50:03 [Obj][9000] AddClient (192.168.1.8)
+21:50:03  SEND REQUEST login acc game Pass 1
+21:50:03 [Obj][9000] AddAccount (game)
+21:50:07 [Obj][9000] LogOutCharacter (GameMaster)
+21:50:07 [Obj][9000] LogOutCharacter ()
+21:50:07 [Obj][9000] DelAccount (game)
+21:50:07 [Obj][9000] DelClient (192.168.1.8)
+21:50:19 [Obj][9001] AddClient (192.168.1.8)
+21:50:19  SEND REQUEST login acc game Pass 1
+21:50:19 [Obj][9001] AddAccount (game)
+21:50:40 [Obj][9001] LogOutCharacter (GameMaster)
+21:50:40 [Obj][9001] LogOutCharacter ()
+21:50:40 [Obj][9001] DelAccount (game)
+21:50:40 [Obj][9001] DelClient (192.168.1.8)
+21:51:05 [Obj][9000] AddClient (192.168.1.8)
+21:51:05  SEND REQUEST login acc game Pass 1
+21:51:05 [Obj][9000] AddAccount (game)
+21:51:19 [Obj][9000] LogOutCharacter (GameMaster)
+21:51:19 [Obj][9000] LogOutCharacter ()
+21:51:19 [Obj][9000] DelAccount (game)
+21:51:19 [Obj][9000] DelClient (192.168.1.8)
+21:51:33 [Obj][9001] AddClient (192.168.1.8)
+21:51:33  SEND REQUEST login acc game Pass 1
+21:51:33 [Obj][9001] AddAccount (game)
+21:51:36 [Obj][9001] LogOutCharacter (GameMaster)
+21:51:36 [Obj][9001] LogOutCharacter ()
+21:51:36 [Obj][9001] DelAccount (game)
+21:51:36 [Obj][9001] DelClient (192.168.1.8)
+21:51:56 [Obj][9000] AddClient (192.168.1.8)
+21:51:57  SEND REQUEST login acc game Pass 1
+21:51:57 [Obj][9000] AddAccount (game)
+21:52:00 [Obj][9000] LogOutCharacter (GameMaster)
+21:52:00 [Obj][9000] LogOutCharacter ()
+21:52:00 [Obj][9000] DelAccount (game)
+21:52:00 [Obj][9000] DelClient (192.168.1.8)
+21:52:11 [Obj][9001] AddClient (192.168.1.8)
+21:52:11  SEND REQUEST login acc game Pass 1
+21:52:11 [Obj][9001] AddAccount (game)
+21:52:17 [Obj][9001] LogOutCharacter (GameMaster)
+21:52:17 [Obj][9001] LogOutCharacter ()
+21:52:17 [Obj][9001] DelAccount (game)
+21:52:17 [Obj][9001] DelClient (192.168.1.8)
+21:52:29 [Obj][9000] AddClient (192.168.1.8)
+21:52:29  SEND REQUEST login acc game Pass 1
+21:52:29 [Obj][9000] AddAccount (game)
+21:53:05 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:53:05 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:53:18 [Obj][9000] LogOutCharacter (GameMaster)
+21:53:18 [Obj][9000] LogOutCharacter ()
+21:53:18 [Obj][9000] DelAccount (game)
+21:53:18 [Obj][9000] DelClient (192.168.1.8)
+21:53:36 [Obj][9001] AddClient (192.168.1.8)
+21:53:37  SEND REQUEST login acc game Pass 1
+21:53:37 [Obj][9001] AddAccount (game)
+21:53:40 [Obj][9001] LogOutCharacter (GameMaster)
+21:53:40 [Obj][9001] LogOutCharacter ()
+21:53:40 [Obj][9001] DelAccount (game)
+21:53:40 [Obj][9001] DelClient (192.168.1.8)
+21:53:51 [Obj][9000] AddClient (192.168.1.8)
+21:53:52  SEND REQUEST login acc game Pass 1
+21:53:52 [Obj][9000] AddAccount (game)
+21:54:04 [Obj][9000] LogOutCharacter (GameMaster)
+21:54:04 [Obj][9000] LogOutCharacter ()
+21:54:04 [Obj][9000] DelAccount (game)
+21:54:04 [Obj][9000] DelClient (192.168.1.8)
+21:54:40 [Obj][9001] AddClient (192.168.1.8)
+21:54:41  SEND REQUEST login acc game Pass 1
+21:54:41 [Obj][9001] AddAccount (game)
+21:58:06 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:58:06 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:02:32 [Obj][9001] LogOutCharacter (GameMaster)
+22:02:32 [Obj][9001] LogOutCharacter ()
+22:02:32 [Obj][9001] DelAccount (game)
+22:02:32 [Obj][9001] DelClient (192.168.1.8)
+22:03:07 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:03:07 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:08:08 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:08:08 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:10:00 [CustomQuiz] Start
+22:11:56 [Obj][9000] AddClient (192.168.1.8)
+22:11:57  SEND REQUEST login acc game Pass 1
+22:11:57 [Obj][9000] AddAccount (game)
+22:12:40 [Obj][9000] LogOutCharacter (GameMaster)
+22:12:40 [Obj][9000] LogOutCharacter ()
+22:12:40 [Obj][9000] DelAccount (game)
+22:12:40 [Obj][9000] DelClient (192.168.1.8)
+22:13:00 [CustomQuiz] Finish
+22:13:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:13:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:18:10 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:18:10 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:22:54 [Obj][9001] AddClient (192.168.1.8)
+22:22:55  SEND REQUEST login acc game Pass 1
+22:22:55 [Obj][9001] AddAccount (game)
+22:23:03 [Obj][9001] LogOutCharacter (GameMaster)
+22:23:03 [Obj][9001] LogOutCharacter ()
+22:23:03 [Obj][9001] DelAccount (game)
+22:23:03 [Obj][9001] DelClient (192.168.1.8)
+22:23:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:23:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:23:39 [Obj][9000] AddClient (192.168.1.8)
+22:23:40  SEND REQUEST login acc game Pass 1
+22:23:40 [Obj][9000] AddAccount (game)
+22:25:43 [Obj][9000] LogOutCharacter (GameMaster)
+22:25:43 [Obj][9000] LogOutCharacter ()
+22:25:43 [Obj][9000] DelAccount (game)
+22:25:43 [Obj][9000] DelClient (192.168.1.8)
+22:25:53 [Obj][9001] AddClient (192.168.1.8)
+22:25:54  SEND REQUEST login acc game Pass 1
+22:25:54 [Obj][9001] AddAccount (game)
+22:27:09 [Set CC Start] At 22:29:00
+22:27:31 [Obj][9001] LogOutCharacter (GameMaster)
+22:27:31 [Obj][9001] LogOutCharacter ()
+22:28:12 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:28:12 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:28:36 [Set CC Start] At 22:30:00
+22:29:06 [Obj][9001] LogOutCharacter (GameMaster)
+22:29:06 [Obj][9001] LogOutCharacter ()
+22:29:06 [Obj][9001] DelAccount (game)
+22:29:06 [Obj][9001] DelClient (192.168.1.8)
+22:32:46 [Obj][9000] AddClient (192.168.1.8)
+22:32:47  SEND REQUEST login acc game Pass 1
+22:32:47 [Obj][9000] AddAccount (game)
+22:33:00 [Obj][9000] LogOutCharacter (GameMaster)
+22:33:00 [Obj][9000] LogOutCharacter ()
+22:33:00 [Obj][9000] DelAccount (game)
+22:33:00 [Obj][9000] DelClient (192.168.1.8)
+22:33:13 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:33:13 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:34:05 [Obj][9001] AddClient (192.168.1.8)
+22:34:06  SEND REQUEST login acc game Pass 1
+22:34:06 [Obj][9001] AddAccount (game)
+22:36:01 [OnlineLoterry] Add Member (GameMaster)
+22:36:01 [OnlineLoterry] Winner (GameMaster)
+22:36:01 [game][GameMaster] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+22:36:17 [Obj][9001] LogOutCharacter (GameMaster)
+22:36:17 [Obj][9001] LogOutCharacter ()
+22:36:17 [Obj][9001] DelAccount (game)
+22:36:17 [Obj][9001] DelClient (192.168.1.8)
+22:38:14 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:38:14 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:43:15 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:43:15 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:49:55 [ServerInfo] CashShop loaded successfully
+22:49:55 [ServerInfo] ChaosMix loaded successfully
+22:49:55 [ServerInfo] Character loaded successfully
+22:49:55 [FakeOnline] Load Data OK
+22:49:55 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:49:55 [EventTime] [1] Size 3 
+22:49:55 [CustomItemBank] (1) Load 10 Item In List
+22:49:55 [ServerInfo] Custom loaded successfully
+22:49:55 [ServerInfo] Command loaded successfully
+22:49:55 [ServerInfo] Common loaded successfully
+22:49:55 [ Crywolf ] State (0) -> NONE
+22:49:55 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:49:55 [ServerInfo] Event loaded successfully
+22:49:55 [ServerInfo] EventItemBag loaded successfully
+22:49:55 [ServerInfo] Hack loaded successfully
+22:49:55 [ServerInfo] Item loaded successfully
+22:50:31 [ServerInfo] CashShop loaded successfully
+22:50:31 [ServerInfo] ChaosMix loaded successfully
+22:50:31 [ServerInfo] Character loaded successfully
+22:50:31 [FakeOnline] Load Data OK
+22:50:31 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:50:31 [EventTime] [1] Size 3 
+22:50:31 [CustomItemBank] (1) Load 10 Item In List
+22:50:31 [ServerInfo] Custom loaded successfully
+22:50:31 [ServerInfo] Command loaded successfully
+22:50:31 [ServerInfo] Common loaded successfully
+22:50:31 [ Crywolf ] State (0) -> NONE
+22:50:31 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:50:31 [ServerInfo] Event loaded successfully
+22:50:31 [ServerInfo] EventItemBag loaded successfully
+22:50:31 [ServerInfo] Hack loaded successfully
+22:50:31 [ServerInfo] Item loaded successfully
+22:50:31 [ServerInfo] Monster loaded successfully
+22:50:31 [ServerInfo] Move loaded successfully
+22:50:31 [ServerInfo] Quest loaded successfully
+22:50:31 [ServerInfo] Shop loaded successfully
+22:50:31 [ServerInfo] Skill loaded successfully
+22:50:31 [ServerInfo] Util loaded successfully
+22:50:31 [ReadBotInfo] BotSystem loaded successfully
+22:52:17 [ServerInfo] Monster loaded successfully
+22:54:28 [ServerInfo] CashShop loaded successfully
+22:54:28 [ServerInfo] ChaosMix loaded successfully
+22:54:28 [ServerInfo] Character loaded successfully
+22:54:28 [FakeOnline] Load Data OK
+22:54:28 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:54:28 [EventTime] [1] Size 3 
+22:54:28 [CustomItemBank] (1) Load 10 Item In List
+22:54:28 [ServerInfo] Custom loaded successfully
+22:54:28 [ServerInfo] Command loaded successfully
+22:54:28 [ServerInfo] Common loaded successfully
+22:54:28 [ Crywolf ] State (0) -> NONE
+22:54:28 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:54:28 [ServerInfo] Event loaded successfully
+22:54:28 [ServerInfo] EventItemBag loaded successfully
+22:54:28 [ServerInfo] Hack loaded successfully
+22:54:28 [ServerInfo] Item loaded successfully
+22:54:28 Read File ..\Data\MonsterSetBase\001 - Loren.xml 
+22:54:28 Read File ..\Data\MonsterSetBase\Invasion\InvasionMonsterSetBase.xml 
+22:54:28 [ServerInfo] Monster loaded successfully
+22:54:28 [ServerInfo] Move loaded successfully
+22:54:28 [ServerInfo] Quest loaded successfully
+22:54:28 [ServerInfo] Shop loaded successfully
+22:54:28 [ServerInfo] Skill loaded successfully
+22:54:28 [ServerInfo] Util loaded successfully
+22:54:28 [ReadBotInfo] BotSystem loaded successfully
+22:58:57 [ServerInfo] CashShop loaded successfully
+22:58:57 [ServerInfo] ChaosMix loaded successfully
+22:58:57 [ServerInfo] Character loaded successfully
+22:58:57 [FakeOnline] Load Data OK
+22:58:57 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+22:58:57 [EventTime] [1] Size 3 
+22:58:57 [CustomItemBank] (1) Load 10 Item In List
+22:58:57 [ServerInfo] Custom loaded successfully
+22:58:57 [ServerInfo] Command loaded successfully
+22:58:57 [ServerInfo] Common loaded successfully
+22:58:57 [ Crywolf ] State (0) -> NONE
+22:58:57 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:58:57 [ServerInfo] Event loaded successfully
+22:58:57 [ServerInfo] EventItemBag loaded successfully
+22:58:57 [ServerInfo] Hack loaded successfully
+22:58:57 [ServerInfo] Item loaded successfully
+22:58:57 Read File 226 / 0 
+22:58:57 Read File 236 / 0 
+22:58:57 Read File 240 / 0 
+22:58:57 Read File 240 / 0 
+22:58:57 Read File 257 / 0 
+22:58:57 Read File 257 / 0 
+22:58:57 Read File 257 / 0 
+22:58:57 Read File 258 / 0 
+22:58:57 Read File 249 / 0 
+22:58:57 Read File 249 / 0 
+22:58:57 Read File 249 / 0 
+22:58:57 Read File 249 / 0 
+22:58:57 Read File 249 / 0 
+22:58:57 Read File 257 / 0 
+22:58:57 Read File 375 / 0 
+22:58:57 Read File 543 / 0 
+22:58:57 Read File 547 / 0 
+22:58:57 Read File 568 / 0 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 3 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 2 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 0 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 6 / 1 
+22:58:57 Read File 14 / 1 
+22:58:57 Read File 14 / 1 
+22:58:57 Read File 14 / 1 
+22:58:57 Read File 14 / 1 
+22:58:57 Read File 14 / 1 
+22:58:57 Read File 14 / 1 
+22:58:57 Read File 14 / 1 
+22:58:57 Read File 14 / 1 
+22:58:57 Read File 14 / 1 
+22:58:57 Read File 14 / 1 
+22:58:57 Read File 14 / 1 
+22:58:57 Read File 14 / 1 
+22:58:57 Read File 14 / 1 
+22:58:57 Read File 14 / 1 
+22:58:57 Read File 14 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 1 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 4 / 1 
+22:58:57 Read File 7 / 1 
+22:58:57 Read File 7 / 1 
+22:58:57 Read File 7 / 1 
+22:58:57 Read File 7 / 1 
+22:58:57 Read File 7 / 1 
+22:58:57 Read File 7 / 1 
+22:58:57 Read File 7 / 1 
+22:58:57 Read File 7 / 1 
+22:58:57 Read File 7 / 1 
+22:58:57 Read File 7 / 1 
+22:58:57 Read File 7 / 1 
+22:58:57 Read File 7 / 1 
+22:58:57 Read File 7 / 1 
+22:58:57 Read File 7 / 1 
+22:58:57 Read File 7 / 1 
+22:58:57 Read File 43 / 3 
+22:58:57 Read File 43 / 3 
+22:58:57 Read File 43 / 3 
+22:58:57 Read File 43 / 3 
+22:58:57 Read File 43 / 3 
+22:58:57 Read File 56 / 3 
+22:58:57 Read File 56 / 3 
+22:58:57 Read File 56 / 3 
+22:58:57 Read File 56 / 3 
+22:58:57 Read File 56 / 3 
+22:58:57 Read File 56 / 3 
+22:58:57 Read File 56 / 3 
+22:58:57 Read File 56 / 3 
+22:58:57 Read File 56 / 3 
+22:58:57 Read File 56 / 3 
+22:58:57 Read File 136 / 3 
+22:58:57 Read File 136 / 3 
+22:58:57 Read File 136 / 3 
+22:58:57 Read File 136 / 3 
+22:58:57 Read File 136 / 3 
+22:58:57 Read File 136 / 3 
+22:58:57 Read File 136 / 3 
+22:58:57 Read File 136 / 3 
+22:58:57 Read File 136 / 3 
+22:58:57 Read File 136 / 3 
+22:58:57 Read File 137 / 3 
+22:58:57 Read File 137 / 3 
+22:58:57 Read File 137 / 3 
+22:58:57 Read File 137 / 3 
+22:58:57 Read File 137 / 3 
+22:58:57 Read File 137 / 3 
+22:58:57 Read File 137 / 3 
+22:58:57 Read File 137 / 3 
+22:58:57 Read File 137 / 3 
+22:58:57 Read File 137 / 3 
+22:58:57 Read File 466 / 3 
+22:58:57 Read File 466 / 3 
+22:58:57 Read File 466 / 3 
+22:58:57 Read File 466 / 3 
+22:58:57 Read File 466 / 3 
+22:58:57 Read File 466 / 3 
+22:58:57 Read File 466 / 3 
+22:58:57 Read File 466 / 3 
+22:58:57 Read File 466 / 3 
+22:58:57 Read File 466 / 3 
+22:58:57 [ServerInfo] Monster loaded successfully
+22:58:57 [ServerInfo] Move loaded successfully
+22:58:57 [ServerInfo] Quest loaded successfully
+22:58:57 [ServerInfo] Shop loaded successfully
+22:58:57 [ServerInfo] Skill loaded successfully
+22:58:57 [ServerInfo] Util loaded successfully
+22:58:57 [ReadBotInfo] BotSystem loaded successfully
+22:59:48 [Obj][9000] AddClient (192.168.1.8)
+22:59:48  SEND REQUEST login acc game Pass 1
+22:59:48 [Obj][9000] AddAccount (game)
+23:02:47 [ServerInfo] CashShop loaded successfully
+23:02:48 [ServerInfo] ChaosMix loaded successfully
+23:02:48 [ServerInfo] Character loaded successfully
+23:02:48 [FakeOnline] Load Data OK
+23:02:48 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+23:02:48 [EventTime] [1] Size 3 
+23:02:48 [CustomItemBank] (1) Load 10 Item In List
+23:02:48 [ServerInfo] Custom loaded successfully
+23:02:48 [ServerInfo] Command loaded successfully
+23:02:48 [ServerInfo] Common loaded successfully
+23:02:48 [ Crywolf ] State (0) -> NONE
+23:02:48 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+23:02:48 [ServerInfo] Event loaded successfully
+23:02:48 [ServerInfo] EventItemBag loaded successfully
+23:02:48 [ServerInfo] Hack loaded successfully
+23:02:48 [ServerInfo] Item loaded successfully
+23:02:48 [ServerInfo] Monster loaded successfully
+23:02:48 [ServerInfo] Move loaded successfully
+23:02:48 [ServerInfo] Quest loaded successfully
+23:02:48 [ServerInfo] Shop loaded successfully
+23:02:48 [ServerInfo] Skill loaded successfully
+23:02:48 [ServerInfo] Util loaded successfully
+23:02:48 [ReadBotInfo] BotSystem loaded successfully
+23:02:48 [Obj][9000] AddClient (192.168.1.8)
+23:02:58  SEND REQUEST login acc game Pass 1
+23:02:58 [Obj][9000] AddAccount (game)
+23:04:06 [Obj][9000] LogOutCharacter (GameMaster)
+23:04:06 [Obj][9000] LogOutCharacter ()
+23:04:06 [Obj][9000] DelAccount (game)
+23:04:06 [Obj][9000] DelClient (192.168.1.8)
+23:04:30 [ServerInfo] CashShop loaded successfully
+23:04:30 [ServerInfo] ChaosMix loaded successfully
+23:04:30 [ServerInfo] Character loaded successfully
+23:04:30 [FakeOnline] Load Data OK
+23:04:30 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+23:04:30 [EventTime] [1] Size 3 
+23:04:30 [CustomItemBank] (1) Load 10 Item In List
+23:04:30 [ServerInfo] Custom loaded successfully
+23:04:30 [ServerInfo] Command loaded successfully
+23:04:30 [ServerInfo] Common loaded successfully
+23:04:30 [ Crywolf ] State (0) -> NONE
+23:04:30 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+23:04:30 [ServerInfo] Event loaded successfully
+23:04:30 [ServerInfo] EventItemBag loaded successfully
+23:04:30 [ServerInfo] Hack loaded successfully
+23:04:30 [ServerInfo] Item loaded successfully
+23:04:30 [ServerInfo] Monster loaded successfully
+23:04:30 [ServerInfo] Move loaded successfully
+23:04:30 [ServerInfo] Quest loaded successfully
+23:04:30 [ServerInfo] Shop loaded successfully
+23:04:30 [ServerInfo] Skill loaded successfully
+23:04:30 [ServerInfo] Util loaded successfully
+23:04:30 [ReadBotInfo] BotSystem loaded successfully
+23:04:30 SetMon 226 / 0 
+23:04:30 SetMon 236 / 0 
+23:04:30 SetMon 240 / 0 
+23:04:30 SetMon 240 / 0 
+23:04:30 SetMon 257 / 0 
+23:04:30 SetMon 257 / 0 
+23:04:30 SetMon 257 / 0 
+23:04:30 SetMon 258 / 0 
+23:04:30 SetMon 249 / 0 
+23:04:30 SetMon 249 / 0 
+23:04:30 SetMon 249 / 0 
+23:04:30 SetMon 249 / 0 
+23:04:30 SetMon 249 / 0 
+23:04:30 SetMon 257 / 0 
+23:04:30 SetMon 375 / 0 
+23:04:30 SetMon 543 / 0 
+23:04:30 SetMon 547 / 0 
+23:04:30 SetMon 568 / 0 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 3 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 2 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 0 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 6 / 1 
+23:04:30 SetMon 14 / 1 
+23:04:30 SetMon 14 / 1 
+23:04:30 SetMon 14 / 1 
+23:04:30 SetMon 14 / 1 
+23:04:30 SetMon 14 / 1 
+23:04:30 SetMon 14 / 1 
+23:04:30 SetMon 14 / 1 
+23:04:30 SetMon 14 / 1 
+23:04:30 SetMon 14 / 1 
+23:04:30 SetMon 14 / 1 
+23:04:30 SetMon 14 / 1 
+23:04:30 SetMon 14 / 1 
+23:04:30 SetMon 14 / 1 
+23:04:30 SetMon 14 / 1 
+23:04:30 SetMon 14 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 1 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 4 / 1 
+23:04:30 SetMon 7 / 1 
+23:04:30 SetMon 7 / 1 
+23:04:30 SetMon 7 / 1 
+23:04:30 SetMon 7 / 1 
+23:04:30 SetMon 7 / 1 
+23:04:30 SetMon 7 / 1 
+23:04:30 SetMon 7 / 1 
+23:04:30 SetMon 7 / 1 
+23:04:30 SetMon 7 / 1 
+23:04:30 SetMon 7 / 1 
+23:04:30 SetMon 7 / 1 
+23:04:30 SetMon 7 / 1 
+23:04:30 SetMon 7 / 1 
+23:04:30 SetMon 7 / 1 
+23:04:30 SetMon 7 / 1 
+23:04:36 [Obj][9000] AddClient (192.168.1.8)
+23:04:39 [Obj][9000] DelClient (192.168.1.8)
+23:04:46 [Obj][9001] AddClient (192.168.1.8)
+23:04:47  SEND REQUEST login acc game Pass 1
+23:04:47 [Obj][9001] AddAccount (game)
+23:07:51 [ServerInfo] Monster loaded successfully
+23:07:51 SetMon 226 / 0 
+23:07:51 SetMon 236 / 0 
+23:07:51 SetMon 240 / 0 
+23:07:51 SetMon 240 / 0 
+23:07:51 SetMon 257 / 0 
+23:07:51 SetMon 257 / 0 
+23:07:51 SetMon 257 / 0 
+23:07:51 SetMon 258 / 0 
+23:07:51 SetMon 249 / 0 
+23:07:51 SetMon 249 / 0 
+23:07:51 SetMon 249 / 0 
+23:07:51 SetMon 249 / 0 
+23:07:51 SetMon 249 / 0 
+23:07:51 SetMon 257 / 0 
+23:07:51 SetMon 375 / 0 
+23:07:51 SetMon 543 / 0 
+23:07:51 SetMon 547 / 0 
+23:07:51 SetMon 568 / 0 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 3 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 2 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 0 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 6 / 1 
+23:07:51 SetMon 14 / 1 
+23:07:51 SetMon 14 / 1 
+23:07:51 SetMon 14 / 1 
+23:07:51 SetMon 14 / 1 
+23:07:51 SetMon 14 / 1 
+23:07:51 SetMon 14 / 1 
+23:07:51 SetMon 14 / 1 
+23:07:51 SetMon 14 / 1 
+23:07:51 SetMon 14 / 1 
+23:07:51 SetMon 14 / 1 
+23:07:51 SetMon 14 / 1 
+23:07:51 SetMon 14 / 1 
+23:07:51 SetMon 14 / 1 
+23:07:51 SetMon 14 / 1 
+23:07:51 SetMon 14 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 1 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 4 / 1 
+23:07:51 SetMon 7 / 1 
+23:07:51 SetMon 7 / 1 
+23:07:51 SetMon 7 / 1 
+23:07:51 SetMon 7 / 1 
+23:07:51 SetMon 7 / 1 
+23:07:51 SetMon 7 / 1 
+23:07:51 SetMon 7 / 1 
+23:07:51 SetMon 7 / 1 
+23:07:51 SetMon 7 / 1 
+23:07:51 SetMon 7 / 1 
+23:07:51 SetMon 7 / 1 
+23:07:51 SetMon 7 / 1 
+23:07:51 SetMon 7 / 1 
+23:07:51 SetMon 7 / 1 
+23:07:51 SetMon 7 / 1 
+23:07:51 SetMon 233 / 0 
+23:07:51 SetMon 233 / 0 
+23:07:51 SetMon 235 / 0 
+23:07:51 SetMon 240 / 0 
+23:07:51 SetMon 241 / 0 
+23:07:51 SetMon 247 / 0 
+23:07:51 SetMon 247 / 0 
+23:07:51 SetMon 247 / 0 
+23:07:51 SetMon 247 / 0 
+23:07:51 SetMon 257 / 0 
+23:07:51 SetMon 257 / 0 
+23:07:51 SetMon 371 / 0 
+23:07:51 SetMon 522 / 0 
+23:07:51 SetMon 566 / 0 
+23:07:51 SetMon 568 / 0 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 24 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 22 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 23 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 19 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 21 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 20 / 1 
+23:07:51 SetMon 25 / 1 
+23:07:51 SetMon 25 / 1 
+23:07:51 SetMon 25 / 1 
+23:07:51 SetMon 25 / 2 
+23:07:51 SetMon 25 / 2 
+23:07:51 SetMon 25 / 2 
+23:07:51 SetMon 25 / 2 
+23:07:51 SetMon 25 / 2 
+23:07:51 SetMon 25 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 25 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 24 / 2 
+23:07:51 SetMon 24 / 2 
+23:07:51 SetMon 24 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 25 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 20 / 2 
+23:07:51 SetMon 24 / 2 
+23:07:51 SetMon 24 / 2 
+23:07:51 SetMon 24 / 2 
+23:07:51 SetMon 24 / 2 
+23:09:39 [Obj][9001] LogOutCharacter (GameMaster)
+23:09:39 [Obj][9001] LogOutCharacter ()
+23:09:39 [Obj][9001] DelAccount (game)
+23:09:39 [Obj][9001] DelClient (192.168.1.8)
+23:11:04 [ServerInfo] CashShop loaded successfully
+23:11:04 [ServerInfo] ChaosMix loaded successfully
+23:11:04 [ServerInfo] Character loaded successfully
+23:11:04 [FakeOnline] Load Data OK
+23:11:04 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+23:11:04 [EventTime] [1] Size 3 
+23:11:04 [CustomItemBank] (1) Load 10 Item In List
+23:11:04 [ServerInfo] Custom loaded successfully
+23:11:04 [ServerInfo] Command loaded successfully
+23:11:04 [ServerInfo] Common loaded successfully
+23:11:04 [ Crywolf ] State (0) -> NONE
+23:11:04 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+23:11:04 [ServerInfo] Event loaded successfully
+23:11:04 [ServerInfo] EventItemBag loaded successfully
+23:11:04 [ServerInfo] Hack loaded successfully
+23:11:04 [ServerInfo] Item loaded successfully
+23:11:04 [ServerInfo] Monster loaded successfully
+23:11:04 [ServerInfo] Move loaded successfully
+23:11:04 [ServerInfo] Quest loaded successfully
+23:11:04 [ServerInfo] Shop loaded successfully
+23:11:04 [ServerInfo] Skill loaded successfully
+23:11:04 [ServerInfo] Util loaded successfully
+23:11:04 [ReadBotInfo] BotSystem loaded successfully
+23:11:19 [Obj][9000] AddClient (192.168.1.8)
+23:11:20  SEND REQUEST login acc game Pass 1
+23:11:20 [Obj][9000] AddAccount (game)
+23:25:21 [Obj][9000] LogOutCharacter (GameMaster)
+23:25:21 [Obj][9000] LogOutCharacter ()
+23:25:21 [Obj][9000] DelAccount (game)
+23:25:21 [Obj][9000] DelClient (192.168.1.8)

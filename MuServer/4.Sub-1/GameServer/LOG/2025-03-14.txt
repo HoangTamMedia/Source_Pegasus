@@ -1,0 +1,2764 @@
+00:00:56 [Obj][9000] LogOutCharacter (Admin)
+00:00:56 [Obj][9000] LogOutCharacter ()
+00:00:56 [Obj][9000] DelAccount (admin)
+00:00:56 [Obj][9000] DelClient (192.168.1.8)
+00:01:43 [ServerInfo] CashShop loaded successfully
+00:01:43 [ServerInfo] ChaosMix loaded successfully
+00:01:43 [ServerInfo] Character loaded successfully
+00:01:43 [FakeOnline] Load Data OK
+00:01:43 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+00:01:43 [EventTime] [1] Size 3 
+00:01:43 [CustomItemBank] (1) Load 6 Item In List
+00:01:43 [ServerInfo] Custom loaded successfully
+00:01:43 [ServerInfo] Command loaded successfully
+00:01:43 [ServerInfo] Common loaded successfully
+00:01:43 [ Crywolf ] State (0) -> NONE
+00:01:43 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+00:01:43 [ServerInfo] Event loaded successfully
+00:01:43 [ServerInfo] EventItemBag loaded successfully
+00:01:43 [ServerInfo] Hack loaded successfully
+00:01:43 [ServerInfo] Item loaded successfully
+00:01:43 [ServerInfo] Monster loaded successfully
+00:01:43 [ServerInfo] Move loaded successfully
+00:01:43 [ServerInfo] Quest loaded successfully
+00:01:43 [ServerInfo] Shop loaded successfully
+00:01:44 [ServerInfo] Skill loaded successfully
+00:01:44 [ServerInfo] Util loaded successfully
+00:01:44 [ReadBotInfo] BotSystem loaded successfully
+00:01:53 [Obj][9000] AddClient (192.168.1.8)
+00:01:53 [Obj][9000] AddAccount (admin)
+00:02:28 [Obj][9000] LogOutCharacter (Admin)
+00:02:28 [Obj][9000] LogOutCharacter ()
+00:02:28 [Obj][9000] DelAccount (admin)
+00:02:28 [Obj][9000] DelClient (192.168.1.8)
+00:03:54 [Obj][9000] AddClient (192.168.1.8)
+00:03:55 [Obj][9000] AddAccount (admin)
+00:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 202 Y: 74)
+00:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 202 Y: 74)
+00:05:01 [Obj][9000] LogOutCharacter (Admin)
+00:05:01 [Obj][9000] LogOutCharacter ()
+00:05:01 [Obj][9000] DelAccount (admin)
+00:05:01 [Obj][9000] DelClient (192.168.1.8)
+00:06:45 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:06:45 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:10:00 [CustomQuiz] Start
+00:11:46 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+00:11:46 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+00:13:00 [CustomQuiz] Finish
+00:14:48 [ServerInfo] CashShop loaded successfully
+00:14:48 [ServerInfo] ChaosMix loaded successfully
+00:14:48 [ServerInfo] Character loaded successfully
+00:14:48 [FakeOnline] Load Data OK
+00:14:48 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+00:14:48 [EventTime] [1] Size 3 
+00:14:48 [CustomItemBank] (1) Load 6 Item In List
+00:14:48 [ServerInfo] Custom loaded successfully
+00:14:48 [ServerInfo] Command loaded successfully
+00:14:48 [ServerInfo] Common loaded successfully
+00:14:48 [ Crywolf ] State (0) -> NONE
+00:14:48 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+00:14:48 [ServerInfo] Event loaded successfully
+00:14:48 [ServerInfo] EventItemBag loaded successfully
+00:14:48 [ServerInfo] Hack loaded successfully
+00:14:48 [ServerInfo] Item loaded successfully
+00:14:48 [ServerInfo] Monster loaded successfully
+00:14:48 [ServerInfo] Move loaded successfully
+00:14:48 [ServerInfo] Quest loaded successfully
+00:14:48 [ServerInfo] Shop loaded successfully
+00:14:48 [ServerInfo] Skill loaded successfully
+00:14:48 [ServerInfo] Util loaded successfully
+00:14:48 [ReadBotInfo] BotSystem loaded successfully
+00:14:59 [Obj][9000] AddClient (192.168.1.8)
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 110 Y: 58)
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 110 Y: 58)
+00:15:00 [Obj][9000] AddAccount (admin)
+00:16:00 [BotThuMua] (TK(admin)(NV(Admin) Open
+00:16:04 [admin][Admin] WZ_SetCoin(ThuMuaDoExc) Val1: 34, Val2: 0, Val3: 0
+00:19:49 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:19:49 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:23:52 [ServerInfo] CashShop loaded successfully
+00:23:52 [ServerInfo] ChaosMix loaded successfully
+00:23:52 [ServerInfo] Character loaded successfully
+00:23:52 [FakeOnline] Load Data OK
+00:23:52 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+00:23:52 [EventTime] [1] Size 3 
+00:23:52 [CustomItemBank] (1) Load 6 Item In List
+00:23:52 [ServerInfo] Custom loaded successfully
+00:23:52 [ServerInfo] Command loaded successfully
+00:23:52 [ServerInfo] Common loaded successfully
+00:23:52 [ Crywolf ] State (0) -> NONE
+00:23:52 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+00:23:52 [ServerInfo] Event loaded successfully
+00:23:52 [ServerInfo] EventItemBag loaded successfully
+00:23:52 [ServerInfo] Hack loaded successfully
+00:23:52 [ServerInfo] Item loaded successfully
+00:23:52 [ServerInfo] Monster loaded successfully
+00:23:52 [ServerInfo] Move loaded successfully
+00:23:52 [ServerInfo] Quest loaded successfully
+00:23:52 [ServerInfo] Shop loaded successfully
+00:23:52 [ServerInfo] Skill loaded successfully
+00:23:52 [ServerInfo] Util loaded successfully
+00:23:52 [ReadBotInfo] BotSystem loaded successfully
+00:24:02 [Obj][9000] AddClient (192.168.1.8)
+00:24:03 [Obj][9000] AddAccount (admin)
+00:24:35 [BotAlchemist] (admin)(Admin) OPEN
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 70 Y: 155)
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 70 Y: 155)
+00:25:06 [BotAlchemist] (admin)(Admin) OPEN
+00:25:31 [BotAlchemist] (admin)(Admin) OPEN
+00:26:29 [BotAlchemist] (admin)(Admin) OPEN
+00:27:04 [BotAlchemist] (admin)(Admin) OPEN
+00:27:24 [BotAlchemist] (admin)(Admin) OPEN
+00:28:35 [BotAlchemist] (admin)(Admin) OPEN
+00:28:53 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:28:53 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:29:20 [BotAlchemist] (admin)(Admin) OPEN
+00:29:41 12
+00:29:43 12
+00:29:52 12
+00:29:52 12
+00:32:32 [Obj][9000] LogOutCharacter (Admin)
+00:32:32 [Obj][9000] LogOutCharacter ()
+00:32:32 [Obj][9000] DelAccount (admin)
+00:32:32 [Obj][9000] DelClient (192.168.1.8)
+00:32:40 [Obj][9001] AddClient (192.168.1.8)
+00:32:41 [Obj][9001] AddAccount (admin)
+00:32:55 [Obj][9001] LogOutCharacter (Admin)
+00:32:55 [Obj][9001] LogOutCharacter ()
+00:32:55 [Obj][9001] DelAccount (admin)
+00:32:55 [Obj][9001] DelClient (192.168.1.8)
+00:33:22 [Obj][9000] AddClient (192.168.1.8)
+00:33:23 [Obj][9000] AddAccount (admin)
+00:33:54 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+00:33:54 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+00:35:22 [Obj][9000] LogOutCharacter (Admin)
+00:35:22 [Obj][9000] LogOutCharacter ()
+00:35:22 [Obj][9000] DelAccount (admin)
+00:35:22 [Obj][9000] DelClient (192.168.1.8)
+00:35:35 [Obj][9001] AddClient (192.168.1.8)
+00:35:35 [Obj][9001] AddAccount (admin)
+00:35:48 [Obj][9001] LogOutCharacter (Admin)
+00:35:48 [Obj][9001] LogOutCharacter ()
+00:35:48 [Obj][9001] DelAccount (admin)
+00:35:48 [Obj][9001] DelClient (192.168.1.8)
+00:36:01 [OnlineLoterry] No Winner
+00:36:15 [Obj][9000] AddClient (192.168.1.8)
+00:36:15 [Obj][9000] AddAccount (admin)
+00:36:19 [Obj][9000] LogOutCharacter (Admin)
+00:36:19 [Obj][9000] LogOutCharacter ()
+00:36:19 [Obj][9000] DelAccount (admin)
+00:36:19 [Obj][9000] DelClient (192.168.1.8)
+00:38:16 [Obj][9001] AddClient (192.168.1.8)
+00:38:16 [Obj][9001] AddAccount (admin)
+00:38:29 [Obj][9001] LogOutCharacter (Admin)
+00:38:29 [Obj][9001] LogOutCharacter ()
+00:38:29 [Obj][9001] DelAccount (admin)
+00:38:29 [Obj][9001] DelClient (192.168.1.8)
+00:38:55 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+00:38:55 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+00:39:51 [Obj][9000] AddClient (192.168.1.8)
+00:39:52 [Obj][9000] AddAccount (admin)
+00:40:02 [Obj][9000] LogOutCharacter (Admin)
+00:40:02 [Obj][9000] LogOutCharacter ()
+00:40:02 [Obj][9000] DelAccount (admin)
+00:40:02 [Obj][9000] DelClient (192.168.1.8)
+00:41:20 [Obj][9001] AddClient (192.168.1.8)
+00:41:21 [Obj][9001] AddAccount (admin)
+00:41:31 12
+00:41:53 [Obj][9001] LogOutCharacter (Admin)
+00:41:53 [Obj][9001] LogOutCharacter ()
+00:41:53 [Obj][9001] DelAccount (admin)
+00:41:53 [Obj][9001] DelClient (192.168.1.8)
+00:43:31 [Obj][9000] AddClient (192.168.1.8)
+00:43:32 [Obj][9000] AddAccount (admin)
+00:43:56 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+00:43:56 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+00:44:13 [BotAlchemist] (admin)(Admin) OPEN
+00:44:56 [Obj][9000] LogOutCharacter (Admin)
+00:44:56 [Obj][9000] LogOutCharacter ()
+00:44:56 [Obj][9000] DelAccount (admin)
+00:44:56 [Obj][9000] DelClient (192.168.1.8)
+00:46:09 [ServerInfo] CashShop loaded successfully
+00:46:09 [ServerInfo] ChaosMix loaded successfully
+00:46:09 [ServerInfo] Character loaded successfully
+00:46:46 [ServerInfo] CashShop loaded successfully
+00:46:46 [ServerInfo] ChaosMix loaded successfully
+00:46:46 [ServerInfo] Character loaded successfully
+00:46:46 [ServerInfo] Custom loaded successfully
+00:46:46 [ServerInfo] Command loaded successfully
+00:46:46 [ServerInfo] Common loaded successfully
+00:46:46 [ Crywolf ] State (0) -> NONE
+00:46:46 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+00:46:46 [ServerInfo] Event loaded successfully
+00:51:02 [ServerInfo] CashShop loaded successfully
+00:51:02 [ServerInfo] ChaosMix loaded successfully
+00:51:02 [ServerInfo] Character loaded successfully
+00:51:02 [FakeOnline] Load Data OK
+00:51:02 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+00:51:02 [EventTime] [1] Size 3 
+00:51:02 [CustomItemBank] (1) Load 6 Item In List
+00:51:02 [ServerInfo] Custom loaded successfully
+00:51:02 [ServerInfo] Command loaded successfully
+00:51:02 [ServerInfo] Common loaded successfully
+00:51:02 [ Crywolf ] State (0) -> NONE
+00:51:02 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+00:51:02 [ServerInfo] Event loaded successfully
+00:51:02 [ServerInfo] EventItemBag loaded successfully
+00:51:02 [ServerInfo] Hack loaded successfully
+00:51:02 [ServerInfo] Item loaded successfully
+00:51:02 [ServerInfo] Monster loaded successfully
+00:51:02 [ServerInfo] Move loaded successfully
+00:51:02 [ServerInfo] Quest loaded successfully
+00:51:02 [ServerInfo] Shop loaded successfully
+00:51:02 [ServerInfo] Skill loaded successfully
+00:51:02 [ServerInfo] Util loaded successfully
+00:51:02 [ReadBotInfo] BotSystem loaded successfully
+00:51:09 [Obj][9000] AddClient (192.168.1.8)
+00:51:09 [Obj][9000] AddAccount (admin)
+00:51:17 [Obj][9000] LogOutCharacter (Admin)
+00:51:17 [Obj][9000] LogOutCharacter ()
+00:51:17 [Obj][9000] DelAccount (admin)
+00:51:17 [Obj][9000] DelClient (192.168.1.8)
+01:01:31 [ServerInfo] CashShop loaded successfully
+01:01:31 [ServerInfo] ChaosMix loaded successfully
+01:01:31 [ServerInfo] Character loaded successfully
+01:01:31 [FakeOnline] Load Data OK
+01:01:31 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+01:01:31 [EventTime] [1] Size 3 
+01:01:31 [CustomItemBank] (1) Load 6 Item In List
+01:01:31 [ServerInfo] Custom loaded successfully
+01:01:31 [ServerInfo] Command loaded successfully
+01:01:31 [ServerInfo] Common loaded successfully
+01:01:31 [ Crywolf ] State (0) -> NONE
+01:01:31 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+01:01:31 [ServerInfo] Event loaded successfully
+01:01:31 [ServerInfo] EventItemBag loaded successfully
+01:01:31 [ServerInfo] Hack loaded successfully
+01:01:31 [ServerInfo] Item loaded successfully
+01:01:31 [ServerInfo] Monster loaded successfully
+01:01:31 [ServerInfo] Move loaded successfully
+01:01:31 [ServerInfo] Quest loaded successfully
+01:01:31 [ServerInfo] Shop loaded successfully
+01:01:32 [ServerInfo] Skill loaded successfully
+01:01:32 [ServerInfo] Util loaded successfully
+01:01:32 [ReadBotInfo] BotSystem loaded successfully
+01:01:50 [Obj][9000] AddClient (192.168.1.8)
+01:01:51 [Obj][9000] AddAccount (admin)
+01:02:42 12
+01:02:47 [Obj][9000] LogOutCharacter (Admin)
+01:02:47 [Obj][9000] LogOutCharacter ()
+01:02:47 [Obj][9000] DelAccount (admin)
+01:02:47 [Obj][9000] DelClient (192.168.1.8)
+01:09:35 [ServerInfo] CashShop loaded successfully
+01:09:35 [ServerInfo] ChaosMix loaded successfully
+01:09:35 [ServerInfo] Character loaded successfully
+01:09:35 [FakeOnline] Load Data OK
+01:09:35 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+01:09:35 [EventTime] [1] Size 3 
+01:09:35 [CustomItemBank] (1) Load 6 Item In List
+01:09:35 [ServerInfo] Custom loaded successfully
+01:09:35 [ServerInfo] Command loaded successfully
+01:09:35 [ServerInfo] Common loaded successfully
+01:09:35 [ Crywolf ] State (0) -> NONE
+01:09:35 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+01:09:35 [ServerInfo] Event loaded successfully
+01:09:35 [ServerInfo] EventItemBag loaded successfully
+01:09:35 [ServerInfo] Hack loaded successfully
+01:09:35 [ServerInfo] Item loaded successfully
+01:09:35 [ServerInfo] Monster loaded successfully
+01:09:35 [ServerInfo] Move loaded successfully
+01:09:35 [ServerInfo] Quest loaded successfully
+01:09:35 [ServerInfo] Shop loaded successfully
+01:09:35 [ServerInfo] Skill loaded successfully
+01:09:35 [ServerInfo] Util loaded successfully
+01:09:35 [ReadBotInfo] BotSystem loaded successfully
+01:09:42 [Obj][9000] AddClient (192.168.1.8)
+01:09:42 [Obj][9000] AddAccount (admin)
+01:09:49 [BotThuMua] (TK(admin)(NV(Admin) Open
+01:09:54 [BotThuMua] (TK(admin)(NV(Admin) Open
+01:09:59 [BotThuMua] (TK(admin)(NV(Admin) Open
+01:10:00 [CustomQuiz] Start
+01:10:10 [BotThuMua] (TK(admin)(NV(Admin) Open
+01:10:20 [Obj][9000] LogOutCharacter (Admin)
+01:10:20 [Obj][9000] LogOutCharacter ()
+01:10:20 [Obj][9000] DelAccount (admin)
+01:10:20 [Obj][9000] DelClient (192.168.1.8)
+01:10:31 [Obj][9000] AddClient (192.168.1.8)
+01:10:31 [Obj][9000] AddAccount (admin)
+01:10:39 [BotThuMua] (TK(admin)(NV(Admin) Open
+01:10:45 [BotThuMua] (TK(admin)(NV(Admin) Open
+01:11:08 [Obj][9000] LogOutCharacter (Admin)
+01:11:08 [Obj][9000] LogOutCharacter ()
+01:11:08 [Obj][9000] DelAccount (admin)
+01:11:08 [Obj][9000] DelClient (192.168.1.8)
+01:13:00 [CustomQuiz] Finish
+01:15:11 [ServerInfo] CashShop loaded successfully
+01:15:11 [ServerInfo] ChaosMix loaded successfully
+01:15:11 [ServerInfo] Character loaded successfully
+01:15:11 [FakeOnline] Load Data OK
+01:15:11 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+01:15:11 [EventTime] [1] Size 3 
+01:15:11 [CustomItemBank] (1) Load 6 Item In List
+01:15:11 [ServerInfo] Custom loaded successfully
+01:15:11 [ServerInfo] Command loaded successfully
+01:15:11 [ServerInfo] Common loaded successfully
+01:15:11 [ Crywolf ] State (0) -> NONE
+01:15:11 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+01:15:11 [ServerInfo] Event loaded successfully
+01:15:11 [ServerInfo] EventItemBag loaded successfully
+01:15:11 [ServerInfo] Hack loaded successfully
+01:15:11 [ServerInfo] Item loaded successfully
+01:15:11 [ServerInfo] Monster loaded successfully
+01:15:11 [ServerInfo] Move loaded successfully
+01:15:11 [ServerInfo] Quest loaded successfully
+01:15:11 [ServerInfo] Shop loaded successfully
+01:15:11 [ServerInfo] Skill loaded successfully
+01:15:11 [ServerInfo] Util loaded successfully
+01:15:11 [ReadBotInfo] BotSystem loaded successfully
+01:15:17 [Obj][9000] AddClient (192.168.1.8)
+01:15:18 [Obj][9000] AddAccount (admin)
+01:15:25 [Obj][9000] LogOutCharacter (Admin)
+01:15:25 [Obj][9000] LogOutCharacter ()
+01:15:25 [Obj][9000] DelAccount (admin)
+01:15:25 [Obj][9000] DelClient (192.168.1.8)
+01:17:18 [ServerInfo] CashShop loaded successfully
+01:17:18 [ServerInfo] ChaosMix loaded successfully
+01:17:18 [ServerInfo] Character loaded successfully
+01:17:18 [ServerInfo] Custom loaded successfully
+01:17:18 [ServerInfo] Command loaded successfully
+01:17:18 [ServerInfo] Common loaded successfully
+01:17:18 [ Crywolf ] State (0) -> NONE
+01:17:18 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+01:17:18 [ServerInfo] Event loaded successfully
+01:17:18 [ServerInfo] EventItemBag loaded successfully
+01:17:18 [ServerInfo] Hack loaded successfully
+01:17:18 [ServerInfo] Item loaded successfully
+01:17:18 [ServerInfo] Monster loaded successfully
+01:17:18 [ServerInfo] Move loaded successfully
+01:17:18 [ServerInfo] Quest loaded successfully
+01:17:18 [ServerInfo] Shop loaded successfully
+01:17:18 [ServerInfo] Skill loaded successfully
+01:17:18 [ServerInfo] Util loaded successfully
+01:17:18 [ReadBotInfo] BotSystem loaded successfully
+01:17:25 [Obj][9000] AddClient (192.168.1.8)
+01:17:26 [Obj][9000] AddAccount (admin)
+01:17:27 [Obj][9000] LogInCharacter (Admin)
+01:17:30 [Obj][9000] LogOutCharacter (Admin)
+01:17:30 [Obj][9000] LogOutCharacter ()
+01:17:30 [Obj][9000] DelAccount (admin)
+01:17:30 [Obj][9000] DelClient (192.168.1.8)
+01:17:36 [Obj][9001] AddClient (192.168.1.8)
+01:17:36 [Obj][9001] AddAccount (admin)
+01:17:37 [Obj][9001] LogInCharacter (Admin)
+01:17:38 [Obj][9001] LogOutCharacter (Admin)
+01:17:38 [Obj][9001] LogOutCharacter ()
+01:17:38 [Obj][9001] DelAccount (admin)
+01:17:38 [Obj][9001] DelClient (192.168.1.8)
+01:17:45 [Obj][9000] AddClient (192.168.1.8)
+01:17:45 [Obj][9000] AddAccount (admin)
+01:17:46 [Obj][9000] LogInCharacter (Admin)
+01:18:19 [Obj][9000] LogOutCharacter (Admin)
+01:18:19 [Obj][9000] LogOutCharacter ()
+01:18:19 [Obj][9000] DelAccount (admin)
+01:18:19 [Obj][9000] DelClient (192.168.1.8)
+01:21:31 [ServerInfo] CashShop loaded successfully
+01:21:31 [ServerInfo] ChaosMix loaded successfully
+01:21:31 [ServerInfo] Character loaded successfully
+01:21:31 [FakeOnline] Load Data OK
+01:21:31 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+01:21:31 [EventTime] [1] Size 3 
+01:21:31 [CustomItemBank] (1) Load 6 Item In List
+01:21:31 [ServerInfo] Custom loaded successfully
+01:21:31 [ServerInfo] Command loaded successfully
+01:21:31 [ServerInfo] Common loaded successfully
+01:21:31 [ Crywolf ] State (0) -> NONE
+01:21:31 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+01:21:31 [ServerInfo] Event loaded successfully
+01:21:31 [ServerInfo] EventItemBag loaded successfully
+01:21:31 [ServerInfo] Hack loaded successfully
+01:21:31 [ServerInfo] Item loaded successfully
+01:21:31 [ServerInfo] Monster loaded successfully
+01:21:31 [ServerInfo] Move loaded successfully
+01:21:31 [ServerInfo] Quest loaded successfully
+01:21:31 [ServerInfo] Shop loaded successfully
+01:21:31 [ServerInfo] Skill loaded successfully
+01:21:31 [ServerInfo] Util loaded successfully
+01:21:31 [ReadBotInfo] BotSystem loaded successfully
+01:21:38 [Obj][9000] AddClient (192.168.1.8)
+01:21:38 [Obj][9000] AddAccount (admin)
+01:21:52 [Obj][9000] LogOutCharacter (Admin)
+01:21:52 [Obj][9000] LogOutCharacter ()
+01:21:52 [Obj][9000] DelAccount (admin)
+01:21:52 [Obj][9000] DelClient (192.168.1.8)
+01:23:50 [Obj][9000] AddClient (192.168.1.8)
+01:23:52 [Obj][9000] AddAccount (phanh)
+01:24:13 12
+01:25:27 [Obj][9000] LogOutCharacter (BePhanh)
+01:25:27 [Obj][9000] LogOutCharacter ()
+01:25:27 [Obj][9000] DelAccount (phanh)
+01:25:27 [Obj][9000] DelClient (192.168.1.8)
+01:26:11 [ServerInfo] CashShop loaded successfully
+01:26:11 [ServerInfo] ChaosMix loaded successfully
+01:26:11 [ServerInfo] Character loaded successfully
+01:26:11 [FakeOnline] Load Data OK
+01:26:11 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+01:26:11 [EventTime] [1] Size 3 
+01:26:11 [CustomItemBank] (1) Load 6 Item In List
+01:26:11 [ServerInfo] Custom loaded successfully
+01:26:11 [ServerInfo] Command loaded successfully
+01:26:11 [ServerInfo] Common loaded successfully
+01:26:11 [ Crywolf ] State (0) -> NONE
+01:26:11 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+01:26:11 [ServerInfo] Event loaded successfully
+01:26:11 [ServerInfo] EventItemBag loaded successfully
+01:26:11 [ServerInfo] Hack loaded successfully
+01:26:11 [ServerInfo] Item loaded successfully
+01:26:11 [ServerInfo] Monster loaded successfully
+01:26:11 [ServerInfo] Move loaded successfully
+01:26:11 [ServerInfo] Quest loaded successfully
+01:26:11 [ServerInfo] Shop loaded successfully
+01:26:11 [ServerInfo] Skill loaded successfully
+01:26:11 [ServerInfo] Util loaded successfully
+01:26:11 [ReadBotInfo] BotSystem loaded successfully
+01:26:19 [Obj][9000] AddClient (192.168.1.8)
+01:26:19 [Obj][9000] AddAccount (phanh)
+01:26:26 12
+01:27:57 [Obj][9000] LogOutCharacter (BePhanh)
+01:27:57 [Obj][9000] LogOutCharacter ()
+01:27:57 [Obj][9000] DelAccount (phanh)
+01:27:57 [Obj][9000] DelClient (192.168.1.8)
+01:28:27 [ServerInfo] CashShop loaded successfully
+01:28:27 [ServerInfo] ChaosMix loaded successfully
+01:28:27 [ServerInfo] Character loaded successfully
+01:28:27 [FakeOnline] Load Data OK
+01:28:27 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+01:28:27 [EventTime] [1] Size 3 
+01:28:27 [CustomItemBank] (1) Load 6 Item In List
+01:28:27 [ServerInfo] Custom loaded successfully
+01:28:27 [ServerInfo] Command loaded successfully
+01:28:27 [ServerInfo] Common loaded successfully
+01:28:27 [ Crywolf ] State (0) -> NONE
+01:28:27 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+01:28:27 [ServerInfo] Event loaded successfully
+01:28:27 [ServerInfo] EventItemBag loaded successfully
+01:28:27 [ServerInfo] Hack loaded successfully
+01:28:27 [ServerInfo] Item loaded successfully
+01:28:27 [ServerInfo] Monster loaded successfully
+01:28:27 [ServerInfo] Move loaded successfully
+01:28:27 [ServerInfo] Quest loaded successfully
+01:28:27 [ServerInfo] Shop loaded successfully
+01:28:27 [ServerInfo] Skill loaded successfully
+01:28:27 [ServerInfo] Util loaded successfully
+01:28:27 [ReadBotInfo] BotSystem loaded successfully
+01:28:38 [Obj][9000] AddClient (192.168.1.8)
+01:28:38 [Obj][9000] AddAccount (phanh)
+01:31:00 [Obj][9000] LogOutCharacter (BePhanh)
+01:31:00 [Obj][9000] LogOutCharacter ()
+01:31:00 [Obj][9000] DelAccount (phanh)
+01:31:00 [Obj][9000] DelClient (192.168.1.8)
+01:31:13 [Obj][9000] AddClient (192.168.1.8)
+01:31:14 [Obj][9000] AddAccount (phanh)
+01:31:29 [Obj][9000] LogOutCharacter (BePhanh)
+01:31:29 [Obj][9000] LogOutCharacter ()
+01:31:29 [Obj][9000] DelAccount (phanh)
+01:31:29 [Obj][9000] DelClient (192.168.1.8)
+01:31:43 [Obj][9000] AddClient (192.168.1.8)
+01:31:43 [Obj][9000] AddAccount (phanh)
+01:32:33 [Obj][9000] LogOutCharacter (BePhanh)
+01:32:33 [Obj][9000] LogOutCharacter ()
+01:32:33 [Obj][9000] DelAccount (phanh)
+01:32:33 [Obj][9000] DelClient (192.168.1.8)
+01:32:41 [Obj][9001] AddClient (192.168.1.8)
+01:32:41 [Obj][9001] AddAccount (phanh)
+01:33:00 12
+01:33:28 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+01:33:28 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+01:35:18 [Obj][9001] LogOutCharacter (BePhanh)
+01:35:18 [Obj][9001] LogOutCharacter ()
+01:35:18 [Obj][9001] DelAccount (phanh)
+01:35:18 [Obj][9001] DelClient (192.168.1.8)
+01:35:27 [Obj][9000] AddClient (192.168.1.8)
+01:35:28 [Obj][9000] AddAccount (phanh)
+01:36:01 [OnlineLoterry] No Winner
+01:36:03 [Obj][9000] LogOutCharacter (BePhanh)
+01:36:03 [Obj][9000] LogOutCharacter ()
+01:36:03 [Obj][9000] DelAccount (phanh)
+01:36:03 [Obj][9000] DelClient (192.168.1.8)
+01:38:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+01:38:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+01:40:37 [Obj][9001] AddClient (192.168.1.8)
+01:40:37 [Obj][9001] AddAccount (phanh)
+01:43:30 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+01:43:30 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+01:44:43 [Obj][9001] LogOutCharacter (BePhanh)
+01:44:43 [Obj][9001] LogOutCharacter ()
+01:44:43 [Obj][9001] DelAccount (phanh)
+01:44:43 [Obj][9001] DelClient (192.168.1.8)
+01:44:58 [ServerInfo] CashShop loaded successfully
+01:44:58 [ServerInfo] ChaosMix loaded successfully
+01:44:58 [ServerInfo] Character loaded successfully
+01:44:58 [FakeOnline] Load Data OK
+01:44:58 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+01:44:58 [EventTime] [1] Size 3 
+01:44:58 [CustomItemBank] (1) Load 6 Item In List
+01:44:58 [ServerInfo] Custom loaded successfully
+01:44:58 [ServerInfo] Command loaded successfully
+01:44:58 [ServerInfo] Common loaded successfully
+01:44:58 [ Crywolf ] State (0) -> NONE
+01:44:58 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+01:44:58 [ServerInfo] Event loaded successfully
+01:44:58 [ServerInfo] EventItemBag loaded successfully
+01:44:58 [ServerInfo] Hack loaded successfully
+01:44:58 [ServerInfo] Item loaded successfully
+01:44:58 [ServerInfo] Monster loaded successfully
+01:44:58 [ServerInfo] Move loaded successfully
+01:44:58 [ServerInfo] Quest loaded successfully
+01:44:58 [ServerInfo] Shop loaded successfully
+01:44:58 [ServerInfo] Skill loaded successfully
+01:44:58 [ServerInfo] Util loaded successfully
+01:44:58 [ReadBotInfo] BotSystem loaded successfully
+01:45:13 [Obj][9000] AddClient (192.168.1.8)
+01:45:16 [Obj][9000] DelClient (192.168.1.8)
+01:45:23 [Obj][9001] AddClient (192.168.1.8)
+01:45:25 [Obj][9001] AddAccount (admin)
+01:45:46 12
+01:45:47 12
+01:45:49 12
+01:45:52 12
+01:46:03 12
+01:46:04 12
+01:46:09 12
+01:46:17 12
+01:46:28 12
+01:46:28 12
+01:46:28 12
+01:46:28 12
+01:46:29 12
+01:46:30 12
+01:46:31 12
+01:46:32 12
+01:46:32 12
+01:47:27 [Obj][9001] LogOutCharacter (TESTRF)
+01:47:27 [Obj][9001] LogOutCharacter ()
+01:47:27 [Obj][9001] DelAccount (admin)
+01:47:27 [Obj][9001] DelClient (192.168.1.8)
+01:47:36 [Obj][9000] AddClient (192.168.1.8)
+01:47:37 [Obj][9000] AddAccount (admin)
+01:48:03 [Obj][9000] LogOutCharacter (Admin)
+01:48:03 [Obj][9000] LogOutCharacter ()
+01:48:03 [Obj][9000] DelAccount (admin)
+01:48:03 [Obj][9000] DelClient (192.168.1.8)
+01:49:59 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+01:49:59 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+01:55:00 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+01:55:00 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+01:58:57 [Obj][9001] AddClient (192.168.1.8)
+01:58:58 [Obj][9001] AddAccount (admin)
+01:59:17 12
+01:59:47 [Obj][9001] LogOutCharacter (Admin)
+01:59:47 [Obj][9001] LogOutCharacter ()
+01:59:47 [Obj][9001] DelAccount (admin)
+01:59:47 [Obj][9001] DelClient (192.168.1.8)
+02:00:01 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+02:00:01 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+02:00:12 [Obj][9000] AddClient (192.168.1.8)
+02:00:13 [Obj][9000] AddAccount (admin)
+02:00:31 12
+02:01:24 [Obj][9000] LogOutCharacter (Phanh)
+02:01:24 [Obj][9000] LogOutCharacter ()
+02:01:24 [Obj][9000] DelAccount (admin)
+02:01:24 [Obj][9000] DelClient (192.168.1.8)
+02:01:35 [Obj][9001] AddClient (192.168.1.8)
+02:01:36 [Obj][9001] AddAccount (admin)
+02:01:56 [Obj][9001] LogOutCharacter (Phanh)
+02:01:56 [Obj][9001] LogOutCharacter ()
+02:01:56 [Obj][9001] DelAccount (admin)
+02:01:56 [Obj][9001] DelClient (192.168.1.8)
+02:02:43 [Obj][9000] AddClient (192.168.1.8)
+02:02:43 [Obj][9000] AddAccount (admin)
+02:03:17 [Obj][9000] LogOutCharacter (Phanh)
+02:03:17 [Obj][9000] LogOutCharacter ()
+02:03:17 [Obj][9000] DelAccount (admin)
+02:03:17 [Obj][9000] DelClient (192.168.1.8)
+02:05:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+02:05:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+02:05:23 [Obj][9001] AddClient (192.168.1.8)
+02:05:24 [Obj][9001] AddAccount (admin)
+02:05:38 [Obj][9001] LogOutCharacter (Phanh)
+02:05:38 [Obj][9001] LogOutCharacter ()
+02:05:38 [Obj][9001] DelAccount (admin)
+02:05:38 [Obj][9001] DelClient (192.168.1.8)
+02:06:10 [Obj][9000] AddClient (192.168.1.8)
+02:06:11 [Obj][9000] AddAccount (admin)
+02:06:15 [Obj][9000] LogOutCharacter (Phanh)
+02:06:15 [Obj][9000] LogOutCharacter ()
+02:06:15 [Obj][9000] DelAccount (admin)
+02:06:15 [Obj][9000] DelClient (192.168.1.8)
+02:06:33 [Obj][9001] AddClient (192.168.1.8)
+02:06:33 [Obj][9001] AddAccount (admin)
+02:06:47 [Obj][9001] LogOutCharacter (Phanh)
+02:06:47 [Obj][9001] LogOutCharacter ()
+02:06:47 [Obj][9001] DelAccount (admin)
+02:06:47 [Obj][9001] DelClient (192.168.1.8)
+02:07:18 [Obj][9000] AddClient (192.168.1.8)
+02:07:18 [Obj][9000] AddAccount (admin)
+02:07:29 [Obj][9000] LogOutCharacter (Phanh)
+02:07:29 [Obj][9000] LogOutCharacter ()
+02:07:29 [Obj][9000] DelAccount (admin)
+02:07:29 [Obj][9000] DelClient (192.168.1.8)
+02:07:43 [Obj][9001] AddClient (192.168.1.8)
+02:07:43 [Obj][9001] AddAccount (admin)
+02:08:07 [Obj][9000] AddClient (192.168.1.8)
+02:08:08 [Obj][9001] LogOutCharacter (Phanh)
+02:08:08 [Obj][9001] LogOutCharacter ()
+02:08:08 [Obj][9001] DelAccount (admin)
+02:08:08 [Obj][9001] DelClient (192.168.1.8)
+02:08:08 [Obj][9000] AddAccount (admin)
+02:08:36 [Obj][9000] LogOutCharacter (Phanh)
+02:08:36 [Obj][9000] LogOutCharacter ()
+02:08:36 [Obj][9000] DelAccount (admin)
+02:08:36 [Obj][9000] DelClient (192.168.1.8)
+02:09:03 [Obj][9001] AddClient (192.168.1.8)
+02:09:03 [Obj][9001] AddAccount (admin)
+02:09:15 12
+02:09:25 12
+02:09:33 12
+02:09:34 12
+02:09:38 12
+02:10:00 [CustomQuiz] Start
+02:10:03 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+02:10:03 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+02:10:43 [Obj][9001] LogOutCharacter (Phanh)
+02:10:43 [Obj][9001] LogOutCharacter ()
+02:10:43 [Obj][9001] DelAccount (admin)
+02:10:43 [Obj][9001] DelClient (192.168.1.8)
+02:11:13 [Obj][9000] AddClient (192.168.1.8)
+02:11:14 [Obj][9000] AddAccount (admin)
+02:13:00 [CustomQuiz] Finish
+02:13:25 [Obj][9000] LogOutCharacter (Phanh)
+02:13:25 [Obj][9000] LogOutCharacter ()
+02:13:25 [Obj][9000] DelAccount (admin)
+02:13:25 [Obj][9000] DelClient (192.168.1.8)
+02:13:36 [Obj][9001] AddClient (192.168.1.8)
+02:13:37 [Obj][9001] AddAccount (admin)
+02:14:02 12
+02:14:23 [Obj][9001] LogOutCharacter (Phanh)
+02:14:23 [Obj][9001] LogOutCharacter ()
+02:14:23 [Obj][9001] DelAccount (admin)
+02:14:23 [Obj][9001] DelClient (192.168.1.8)
+02:15:04 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+02:15:04 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+02:15:44 [Obj][9000] AddClient (192.168.1.8)
+02:15:45 [Obj][9000] AddAccount (admin)
+02:16:09 12
+02:16:10 12
+02:16:11 12
+02:16:11 12
+02:16:11 12
+02:16:12 12
+02:16:12 12
+02:16:12 12
+02:16:13 12
+02:16:13 12
+02:16:13 12
+02:16:13 12
+02:16:14 12
+02:16:16 [Obj][9000] LogOutCharacter (Phanh)
+02:16:16 [Obj][9000] LogOutCharacter ()
+02:16:16 [Obj][9000] DelAccount (admin)
+02:16:16 [Obj][9000] DelClient (192.168.1.8)
+02:17:02 [Obj][9001] AddClient (192.168.1.8)
+02:17:05 [Obj][9001] DelClient (192.168.1.8)
+02:17:58 [ServerInfo] CashShop loaded successfully
+02:17:58 [ServerInfo] ChaosMix loaded successfully
+02:17:58 [ServerInfo] Character loaded successfully
+02:17:58 [FakeOnline] Load Data OK
+02:17:58 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+02:17:58 [EventTime] [1] Size 3 
+02:17:58 [CustomItemBank] (1) Load 6 Item In List
+02:17:58 [ServerInfo] Custom loaded successfully
+02:17:58 [ServerInfo] Command loaded successfully
+02:17:58 [ServerInfo] Common loaded successfully
+02:17:58 [ Crywolf ] State (0) -> NONE
+02:17:58 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+02:17:58 [ServerInfo] Event loaded successfully
+02:17:58 [ServerInfo] EventItemBag loaded successfully
+02:17:58 [ServerInfo] Hack loaded successfully
+02:17:58 [ServerInfo] Item loaded successfully
+02:17:58 [ServerInfo] Monster loaded successfully
+02:17:58 [ServerInfo] Move loaded successfully
+02:17:58 [ServerInfo] Quest loaded successfully
+02:17:58 [ServerInfo] Shop loaded successfully
+02:17:58 [ServerInfo] Skill loaded successfully
+02:17:58 [ServerInfo] Util loaded successfully
+02:17:58 [ReadBotInfo] BotSystem loaded successfully
+02:18:10 [Obj][9000] AddClient (192.168.1.8)
+02:18:10 [Obj][9000] AddAccount (admin)
+02:19:40 [Obj][9000] LogOutCharacter (Admin)
+02:19:40 [Obj][9000] LogOutCharacter ()
+02:19:40 [Obj][9000] DelAccount (admin)
+02:19:40 [Obj][9000] DelClient (192.168.1.8)
+02:19:45 [Obj][9001] AddClient (192.168.1.8)
+02:19:46 [Obj][9001] AddAccount (admin)
+02:19:52 [Obj][9001] LogOutCharacter (Admin)
+02:19:52 [Obj][9001] LogOutCharacter ()
+02:19:52 [Obj][9001] DelAccount (admin)
+02:19:52 [Obj][9001] DelClient (192.168.1.8)
+02:22:40 [Obj][9000] AddClient (192.168.1.8)
+02:22:40 [Obj][9000] AddAccount (admin)
+02:22:59 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+02:22:59 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+02:23:04 12
+02:23:09 12
+02:23:43 [Obj][9000] LogOutCharacter (Admin)
+02:23:43 [Obj][9000] LogOutCharacter ()
+02:26:28 [Obj][9000] LogOutCharacter (Admin)
+02:26:28 [Obj][9000] LogOutCharacter ()
+02:26:28 [Obj][9000] DelAccount (admin)
+02:26:28 [Obj][9000] DelClient (192.168.1.8)
+02:26:38 [Obj][9001] AddClient (192.168.1.8)
+02:26:38 [Obj][9001] AddAccount (admin)
+02:26:53 [Obj][9001] LogOutCharacter (Admin)
+02:26:53 [Obj][9001] LogOutCharacter ()
+02:26:53 [Obj][9001] DelAccount (admin)
+02:26:53 [Obj][9001] DelClient (192.168.1.8)
+02:27:24 [Obj][9000] AddClient (192.168.1.8)
+02:27:24 [Obj][9000] AddAccount (admin)
+02:27:42 12
+02:28:00 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+02:28:00 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+02:28:50 [Obj][9000] LogOutCharacter (Admin)
+02:28:50 [Obj][9000] LogOutCharacter ()
+02:28:50 [Obj][9000] DelAccount (admin)
+02:28:50 [Obj][9000] DelClient (192.168.1.8)
+02:28:59 [Obj][9001] AddClient (192.168.1.8)
+02:29:00 [Obj][9001] AddAccount (admin)
+02:29:25 [Obj][9001] LogOutCharacter (Admin)
+02:29:25 [Obj][9001] LogOutCharacter ()
+02:29:25 [Obj][9001] DelAccount (admin)
+02:29:25 [Obj][9001] DelClient (192.168.1.8)
+02:29:38 [Obj][9000] AddClient (192.168.1.8)
+02:29:39 [Obj][9000] AddAccount (admin)
+02:29:43 [Obj][9000] LogOutCharacter (Admin)
+02:29:43 [Obj][9000] LogOutCharacter ()
+02:29:43 [Obj][9000] DelAccount (admin)
+02:29:43 [Obj][9000] DelClient (192.168.1.8)
+02:29:53 [Obj][9001] AddClient (192.168.1.8)
+02:29:53 [Obj][9001] AddAccount (admin)
+02:30:17 [Obj][9001] LogOutCharacter (Phanh)
+02:30:17 [Obj][9001] LogOutCharacter ()
+02:30:17 [Obj][9001] DelAccount (admin)
+02:30:17 [Obj][9001] DelClient (192.168.1.8)
+02:30:38 [Obj][9000] AddClient (192.168.1.8)
+02:30:40 [Obj][9000] AddAccount (admin)
+02:31:04 [Obj][9000] LogOutCharacter (Admin)
+02:31:04 [Obj][9000] LogOutCharacter ()
+02:31:04 [Obj][9000] DelAccount (admin)
+02:31:04 [Obj][9000] DelClient (192.168.1.8)
+02:32:15 [Obj][9001] AddClient (192.168.1.8)
+02:32:16 [Obj][9001] AddAccount (admin)
+02:32:36 aIndex = 9000
+02:32:36 [Obj][9000] AddClient (127.0.0.1)
+02:32:36 [FakeOnline]  [TK: game NV: GameMaster] Online
+02:33:01 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+02:33:01 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+02:33:15 [Obj][9001] LogOutCharacter (Admin)
+02:33:15 [Obj][9001] LogOutCharacter ()
+02:33:15 [Obj][9001] DelAccount (admin)
+02:33:15 [Obj][9001] DelClient (192.168.1.8)
+02:34:23 [Obj][9001] AddClient (192.168.1.8)
+02:34:24 [Obj][9001] AddAccount (admin)
+02:34:35 [Obj][9001] LogOutCharacter (Admin)
+02:34:35 [Obj][9001] LogOutCharacter ()
+02:34:35 [Obj][9001] DelAccount (admin)
+02:34:35 [Obj][9001] DelClient (192.168.1.8)
+02:34:58 [Obj][9001] AddClient (192.168.1.8)
+02:34:59 [Obj][9001] AddAccount (admin)
+02:35:18 [Obj][9001] LogOutCharacter (Admin)
+02:35:18 [Obj][9001] LogOutCharacter ()
+02:35:18 [Obj][9001] DelAccount (admin)
+02:35:18 [Obj][9001] DelClient (192.168.1.8)
+02:35:47 [Obj][9001] AddClient (192.168.1.8)
+02:35:47 [Obj][9001] AddAccount (admin)
+02:36:01 [OnlineLoterry] Add Member (Admin)
+02:36:01 [OnlineLoterry] Winner (Admin)
+02:36:01 [admin][Admin] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+02:37:24 [Obj][9001] LogOutCharacter (Admin)
+02:37:24 [Obj][9001] LogOutCharacter ()
+02:37:24 [Obj][9001] DelAccount (admin)
+02:37:24 [Obj][9001] DelClient (192.168.1.8)
+02:37:35 [Obj][9001] AddClient (192.168.1.8)
+02:37:36 [Obj][9001] AddAccount (admin)
+02:37:51 [Obj][9001] LogOutCharacter (Admin)
+02:37:51 [Obj][9001] LogOutCharacter ()
+02:37:51 [Obj][9001] DelAccount (admin)
+02:37:51 [Obj][9001] DelClient (192.168.1.8)
+02:38:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+02:38:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:04:07 [ServerInfo] CashShop loaded successfully
+10:04:07 [ServerInfo] ChaosMix loaded successfully
+10:04:07 [ServerInfo] Character loaded successfully
+10:04:07 [FakeOnline] Load Data OK
+10:04:07 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+10:04:07 [EventTime] [1] Size 3 
+10:04:07 [CustomItemBank] (1) Load 6 Item In List
+10:04:07 [ServerInfo] Custom loaded successfully
+10:04:07 [ServerInfo] Command loaded successfully
+10:04:07 [ServerInfo] Common loaded successfully
+10:04:07 [ Crywolf ] State (0) -> NONE
+10:04:07 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+10:04:07 [ServerInfo] Event loaded successfully
+10:04:07 [ServerInfo] EventItemBag loaded successfully
+10:04:07 [ServerInfo] Hack loaded successfully
+10:04:07 [ServerInfo] Item loaded successfully
+10:04:07 [ServerInfo] Monster loaded successfully
+10:04:07 [ServerInfo] Move loaded successfully
+10:04:07 [ServerInfo] Quest loaded successfully
+10:04:07 [ServerInfo] Shop loaded successfully
+10:04:07 [ServerInfo] Skill loaded successfully
+10:04:07 [ServerInfo] Util loaded successfully
+10:04:07 [ReadBotInfo] BotSystem loaded successfully
+10:04:35 [Obj][9000] AddClient (192.168.1.8)
+10:04:36 [Obj][9000] AddAccount (admin)
+10:04:57 [Obj][9000] LogOutCharacter (Admin)
+10:04:57 [Obj][9000] LogOutCharacter ()
+10:04:57 [Obj][9000] DelAccount (admin)
+10:04:57 [Obj][9000] DelClient (192.168.1.8)
+10:06:40 [Obj][9000] AddClient (192.168.1.8)
+10:06:40 [Obj][9000] AddAccount (admin)
+10:07:10 [Obj][9000] LogOutCharacter (Admin)
+10:07:10 [Obj][9000] LogOutCharacter ()
+10:07:10 [Obj][9000] DelAccount (admin)
+10:07:10 [Obj][9000] DelClient (192.168.1.8)
+10:07:18 [Obj][9001] AddClient (192.168.1.8)
+10:07:19 [Obj][9001] AddAccount (admin)
+10:07:24 [Obj][9001] LogOutCharacter (Phanh)
+10:07:24 [Obj][9001] LogOutCharacter ()
+10:07:24 [Obj][9001] DelAccount (admin)
+10:07:24 [Obj][9001] DelClient (192.168.1.8)
+10:09:08 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:09:08 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:10:00 [CustomQuiz] Start
+10:10:54 [Obj][9000] AddClient (192.168.1.8)
+10:10:54 [Obj][9000] AddAccount (admin)
+10:11:30 [Obj][9000] LogOutCharacter (Admin)
+10:11:30 [Obj][9000] LogOutCharacter ()
+10:11:30 [Obj][9000] DelAccount (admin)
+10:11:30 [Obj][9000] DelClient (192.168.1.8)
+10:11:57 [Obj][9001] AddClient (192.168.1.8)
+10:11:58 [Obj][9001] AddAccount (admin)
+10:12:06 [Obj][9001] LogOutCharacter (Admin)
+10:12:06 [Obj][9001] LogOutCharacter ()
+10:12:06 [Obj][9001] DelAccount (admin)
+10:12:06 [Obj][9001] DelClient (192.168.1.8)
+10:13:00 [CustomQuiz] Finish
+10:14:09 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:14:09 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:14:42 [Obj][9000] AddClient (192.168.1.8)
+10:14:47 [Obj][9000] AddAccount (admin)
+10:15:13 12
+10:16:47 [Obj][9000] LogOutCharacter (Phanh)
+10:16:47 [Obj][9000] LogOutCharacter ()
+10:16:47 [Obj][9000] DelAccount (admin)
+10:16:47 [Obj][9000] DelClient (192.168.1.8)
+10:16:57 [Obj][9001] AddClient (192.168.1.8)
+10:16:57 [Obj][9001] AddAccount (admin)
+10:17:06 [Obj][9001] LogOutCharacter (Phanh)
+10:17:06 [Obj][9001] LogOutCharacter ()
+10:17:06 [Obj][9001] DelAccount (admin)
+10:17:06 [Obj][9001] DelClient (192.168.1.8)
+10:17:20 [Obj][9000] AddClient (192.168.1.8)
+10:17:21 [Obj][9000] AddAccount (admin)
+10:18:56 [Obj][9000] LogOutCharacter (Phanh)
+10:18:56 [Obj][9000] LogOutCharacter ()
+10:18:56 [Obj][9000] DelAccount (admin)
+10:18:56 [Obj][9000] DelClient (192.168.1.8)
+10:19:05 [Obj][9001] AddClient (192.168.1.8)
+10:19:06 [Obj][9001] AddAccount (admin)
+10:19:10 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+10:19:10 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+10:19:14 [Obj][9001] LogOutCharacter (Phanh)
+10:19:14 [Obj][9001] LogOutCharacter ()
+10:19:14 [Obj][9001] DelAccount (admin)
+10:19:14 [Obj][9001] DelClient (192.168.1.8)
+10:19:37 [Obj][9000] AddClient (192.168.1.8)
+10:19:38 [Obj][9000] AddAccount (admin)
+10:19:42 [Obj][9000] LogOutCharacter (Phanh)
+10:19:42 [Obj][9000] LogOutCharacter ()
+10:19:42 [Obj][9000] DelAccount (admin)
+10:19:42 [Obj][9000] DelClient (192.168.1.8)
+10:19:58 [Obj][9001] AddClient (192.168.1.8)
+10:19:59 [Obj][9001] AddAccount (admin)
+10:20:06 [Obj][9001] LogOutCharacter (Phanh)
+10:20:06 [Obj][9001] LogOutCharacter ()
+10:20:06 [Obj][9001] DelAccount (admin)
+10:20:06 [Obj][9001] DelClient (192.168.1.8)
+10:20:26 [Obj][9000] AddClient (192.168.1.8)
+10:20:27 [Obj][9000] AddAccount (admin)
+10:20:31 [Obj][9000] LogOutCharacter (Phanh)
+10:20:31 [Obj][9000] LogOutCharacter ()
+10:20:31 [Obj][9000] DelAccount (admin)
+10:20:31 [Obj][9000] DelClient (192.168.1.8)
+10:20:45 [Obj][9001] AddClient (192.168.1.8)
+10:20:46 [Obj][9001] AddAccount (admin)
+10:20:50 [Obj][9001] LogOutCharacter (Phanh)
+10:20:50 [Obj][9001] LogOutCharacter ()
+10:20:50 [Obj][9001] DelAccount (admin)
+10:20:50 [Obj][9001] DelClient (192.168.1.8)
+10:21:21 [Obj][9000] AddClient (192.168.1.8)
+10:21:22 [Obj][9000] AddAccount (admin)
+10:21:32 [Obj][9000] LogOutCharacter (Phanh)
+10:21:32 [Obj][9000] LogOutCharacter ()
+10:21:32 [Obj][9000] DelAccount (admin)
+10:21:32 [Obj][9000] DelClient (192.168.1.8)
+10:22:17 [Obj][9001] AddClient (192.168.1.8)
+10:22:18 [Obj][9001] AddAccount (admin)
+10:22:40 [Obj][9001] LogOutCharacter (Phanh)
+10:22:40 [Obj][9001] LogOutCharacter ()
+10:22:40 [Obj][9001] DelAccount (admin)
+10:22:40 [Obj][9001] DelClient (192.168.1.8)
+10:24:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:24:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:24:53 [Obj][9000] AddClient (192.168.1.8)
+10:24:53 [Obj][9000] AddAccount (admin)
+10:25:10 12
+10:25:16 [Obj][9000] LogOutCharacter (Phanh)
+10:25:16 [Obj][9000] LogOutCharacter ()
+10:25:16 [Obj][9000] DelAccount (admin)
+10:25:16 [Obj][9000] DelClient (192.168.1.8)
+10:25:27 [Obj][9001] AddClient (192.168.1.8)
+10:25:28 [Obj][9001] AddAccount (admin)
+10:25:31 [Obj][9001] LogOutCharacter (Phanh)
+10:25:31 [Obj][9001] LogOutCharacter ()
+10:25:31 [Obj][9001] DelAccount (admin)
+10:25:31 [Obj][9001] DelClient (192.168.1.8)
+10:27:46 [Obj][9000] AddClient (192.168.1.8)
+10:27:55 [Obj][9001] AddClient (192.168.1.8)
+10:27:56 [Obj][9001] AddAccount (admin)
+10:28:18 [Obj][9000] DelClient (192.168.1.8)
+10:28:18 [Obj][9001] LogOutCharacter (TESTMG)
+10:28:18 [Obj][9001] LogOutCharacter ()
+10:28:18 [Obj][9001] DelAccount (admin)
+10:28:18 [Obj][9001] DelClient (192.168.1.8)
+10:28:44 [Obj][9000] AddClient (192.168.1.8)
+10:28:45 [Obj][9000] AddAccount (admin)
+10:28:50 12
+10:28:51 12
+10:28:53 12
+10:28:55 12
+10:29:01 12
+10:29:08 12
+10:29:12 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:29:12 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:29:20 12
+10:29:59 12
+10:30:01 12
+10:30:01 12
+10:30:02 12
+10:30:02 12
+10:30:02 12
+10:30:03 12
+10:30:03 12
+10:30:03 12
+10:30:03 12
+10:30:08 12
+10:30:09 12
+10:30:14 12
+10:30:17 [Obj][9000] LogOutCharacter (Phanh)
+10:30:17 [Obj][9000] LogOutCharacter ()
+10:30:17 [Obj][9000] DelAccount (admin)
+10:30:17 [Obj][9000] DelClient (192.168.1.8)
+10:30:25 [Obj][9001] AddClient (192.168.1.8)
+10:30:26 [Obj][9001] AddAccount (admin)
+10:30:29 12
+10:30:30 12
+10:30:31 12
+10:34:13 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:34:13 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:36:01 [OnlineLoterry] Add Member (TESTMG)
+10:36:01 [OnlineLoterry] Winner (TESTMG)
+10:36:01 [admin][TESTMG] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+10:36:24 12
+10:36:26 12
+10:36:26 12
+10:36:26 12
+10:36:26 12
+10:36:27 12
+10:37:23 [Obj][9001] LogOutCharacter (TESTMG)
+10:37:23 [Obj][9001] LogOutCharacter ()
+10:37:53 [Obj][9001] LogOutCharacter (Admin)
+10:37:53 [Obj][9001] LogOutCharacter ()
+10:37:53 [Obj][9001] DelAccount (admin)
+10:37:53 [Obj][9001] DelClient (192.168.1.8)
+10:38:00 [Obj][9000] AddClient (192.168.1.8)
+10:38:00 [Obj][9000] AddAccount (admin)
+10:38:05 12
+10:38:07 12
+10:38:15 [Obj][9000] LogOutCharacter (Admin)
+10:38:15 [Obj][9000] LogOutCharacter ()
+10:38:19 12
+10:38:21 12
+10:38:21 12
+10:38:21 12
+10:38:39 [Obj][9000] LogOutCharacter (Phanh)
+10:38:39 [Obj][9000] LogOutCharacter ()
+10:38:58 12
+10:39:08 12
+10:39:09 12
+10:39:14 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+10:39:14 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+10:39:18 [Obj][9000] LogOutCharacter (TESTSM)
+10:39:18 [Obj][9000] LogOutCharacter ()
+10:39:24 12
+10:39:31 [Obj][9000] LogOutCharacter (Admin)
+10:39:31 [Obj][9000] LogOutCharacter ()
+10:39:33 12
+10:39:57 [Obj][9000] LogOutCharacter (Phanh)
+10:39:57 [Obj][9000] LogOutCharacter ()
+10:40:01 12
+10:40:08 [Obj][9000] LogOutCharacter (Admin)
+10:40:08 [Obj][9000] LogOutCharacter ()
+10:40:25 [Obj][9000] LogOutCharacter (TESTRF)
+10:40:25 [Obj][9000] LogOutCharacter ()
+10:40:28 12
+10:40:28 12
+10:42:07 12
+10:42:07 12
+10:42:07 12
+10:42:08 12
+10:42:08 12
+10:42:08 12
+10:42:09 12
+10:42:09 12
+10:42:09 12
+10:42:09 12
+10:42:10 12
+10:42:10 12
+10:43:42 [Obj][9000] LogOutCharacter (Admin)
+10:43:42 [Obj][9000] LogOutCharacter ()
+10:43:42 [Obj][9000] DelAccount (admin)
+10:43:42 [Obj][9000] DelClient (192.168.1.8)
+10:43:55 [Obj][9001] AddClient (192.168.1.8)
+10:43:56 [Obj][9001] AddAccount (admin)
+10:44:08 12
+10:44:15 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:44:15 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:44:49 [Obj][9001] LogOutCharacter (Admin)
+10:44:49 [Obj][9001] LogOutCharacter ()
+10:44:49 [Obj][9001] DelAccount (admin)
+10:44:49 [Obj][9001] DelClient (192.168.1.8)
+10:45:06 [Obj][9000] AddClient (192.168.1.8)
+10:45:07 [Obj][9000] AddAccount (admin)
+10:45:18 [Obj][9000] LogOutCharacter (Admin)
+10:45:18 [Obj][9000] LogOutCharacter ()
+10:45:18 [Obj][9000] DelAccount (admin)
+10:45:18 [Obj][9000] DelClient (192.168.1.8)
+10:45:30 [Obj][9001] AddClient (192.168.1.8)
+10:45:31 [Obj][9001] AddAccount (admin)
+10:45:38 [Obj][9001] LogOutCharacter (Admin)
+10:45:38 [Obj][9001] LogOutCharacter ()
+10:45:38 [Obj][9001] DelAccount (admin)
+10:45:38 [Obj][9001] DelClient (192.168.1.8)
+10:45:51 [Obj][9000] AddClient (192.168.1.8)
+10:45:51 [Obj][9000] AddAccount (admin)
+10:45:58 [Obj][9000] LogOutCharacter (Admin)
+10:45:58 [Obj][9000] LogOutCharacter ()
+10:45:58 [Obj][9000] DelAccount (admin)
+10:45:58 [Obj][9000] DelClient (192.168.1.8)
+10:46:16 [Obj][9001] AddClient (192.168.1.8)
+10:46:16 [Obj][9001] AddAccount (admin)
+10:46:25 [Obj][9001] LogOutCharacter (Admin)
+10:46:25 [Obj][9001] LogOutCharacter ()
+10:46:25 [Obj][9001] DelAccount (admin)
+10:46:25 [Obj][9001] DelClient (192.168.1.8)
+10:46:37 [Obj][9000] AddClient (192.168.1.8)
+10:46:38 [Obj][9000] AddAccount (admin)
+10:46:49 [Obj][9000] LogOutCharacter (Admin)
+10:46:49 [Obj][9000] LogOutCharacter ()
+10:46:49 [Obj][9000] DelAccount (admin)
+10:46:49 [Obj][9000] DelClient (192.168.1.8)
+10:47:05 [Obj][9001] AddClient (192.168.1.8)
+10:47:05 [Obj][9001] AddAccount (admin)
+10:47:11 [Obj][9001] LogOutCharacter (Admin)
+10:47:11 [Obj][9001] LogOutCharacter ()
+10:47:11 [Obj][9001] DelAccount (admin)
+10:47:11 [Obj][9001] DelClient (192.168.1.8)
+10:47:37 [Obj][9000] AddClient (192.168.1.8)
+10:47:38 [Obj][9000] AddAccount (admin)
+10:47:51 [Obj][9000] LogOutCharacter (Admin)
+10:47:51 [Obj][9000] LogOutCharacter ()
+10:47:51 [Obj][9000] DelAccount (admin)
+10:47:51 [Obj][9000] DelClient (192.168.1.8)
+10:48:11 [Obj][9001] AddClient (192.168.1.8)
+10:48:12 [Obj][9001] AddAccount (admin)
+10:48:21 [Obj][9001] LogOutCharacter (Admin)
+10:48:21 [Obj][9001] LogOutCharacter ()
+10:48:21 [Obj][9001] DelAccount (admin)
+10:48:21 [Obj][9001] DelClient (192.168.1.8)
+10:48:48 [Obj][9000] AddClient (192.168.1.8)
+10:48:48 [Obj][9000] AddAccount (admin)
+10:48:56 [Obj][9000] LogOutCharacter (Admin)
+10:48:56 [Obj][9000] LogOutCharacter ()
+10:48:56 [Obj][9000] DelAccount (admin)
+10:48:56 [Obj][9000] DelClient (192.168.1.8)
+10:49:11 [Obj][9001] AddClient (192.168.1.8)
+10:49:12 [Obj][9001] AddAccount (admin)
+10:49:16 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+10:49:16 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+10:49:19 12
+10:49:27 [Obj][9001] LogOutCharacter (Admin)
+10:49:27 [Obj][9001] LogOutCharacter ()
+10:49:27 [Obj][9001] DelAccount (admin)
+10:49:27 [Obj][9001] DelClient (192.168.1.8)
+10:49:49 [Obj][9000] AddClient (192.168.1.8)
+10:49:49 [Obj][9000] AddAccount (admin)
+10:49:55 [Obj][9000] LogOutCharacter (Admin)
+10:49:55 [Obj][9000] LogOutCharacter ()
+10:49:55 [Obj][9000] DelAccount (admin)
+10:49:55 [Obj][9000] DelClient (192.168.1.8)
+10:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 194 Y: 83)
+10:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 194 Y: 83)
+10:50:33 [Obj][9001] AddClient (192.168.1.8)
+10:50:34 [Obj][9001] AddAccount (admin)
+10:51:01 [Obj][9001] LogOutCharacter (Admin)
+10:51:01 [Obj][9001] LogOutCharacter ()
+10:51:01 [Obj][9001] DelAccount (admin)
+10:51:01 [Obj][9001] DelClient (192.168.1.8)
+10:51:23 [Obj][9000] AddClient (192.168.1.8)
+10:51:23 [Obj][9000] AddAccount (admin)
+10:51:27 [Obj][9000] LogOutCharacter (Admin)
+10:51:27 [Obj][9000] LogOutCharacter ()
+10:51:27 [Obj][9000] DelAccount (admin)
+10:51:27 [Obj][9000] DelClient (192.168.1.8)
+10:51:43 [Obj][9001] AddClient (192.168.1.8)
+10:51:44 [Obj][9001] AddAccount (admin)
+10:51:49 [Obj][9001] LogOutCharacter (Admin)
+10:51:49 [Obj][9001] LogOutCharacter ()
+10:51:49 [Obj][9001] DelAccount (admin)
+10:51:49 [Obj][9001] DelClient (192.168.1.8)
+10:52:01 [Obj][9000] AddClient (192.168.1.8)
+10:52:01 [Obj][9000] AddAccount (admin)
+10:52:12 [Obj][9000] LogOutCharacter (Admin)
+10:52:12 [Obj][9000] LogOutCharacter ()
+10:52:12 [Obj][9000] DelAccount (admin)
+10:52:12 [Obj][9000] DelClient (192.168.1.8)
+10:52:31 [Obj][9001] AddClient (192.168.1.8)
+10:52:32 [Obj][9001] AddAccount (admin)
+10:52:52 [Obj][9001] LogOutCharacter (Admin)
+10:52:52 [Obj][9001] LogOutCharacter ()
+10:52:52 [Obj][9001] DelAccount (admin)
+10:52:52 [Obj][9001] DelClient (192.168.1.8)
+10:53:01 [Obj][9000] AddClient (192.168.1.8)
+10:53:02 [Obj][9000] AddAccount (admin)
+10:54:17 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:54:17 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:55:06 [Obj][9000] LogOutCharacter (Admin)
+10:55:06 [Obj][9000] LogOutCharacter ()
+10:55:06 [Obj][9000] DelAccount (admin)
+10:55:06 [Obj][9000] DelClient (192.168.1.8)
+10:55:29 [Obj][9001] AddClient (192.168.1.8)
+10:55:29 [Obj][9001] AddAccount (admin)
+10:55:33 [Obj][9001] LogOutCharacter (Admin)
+10:55:33 [Obj][9001] LogOutCharacter ()
+10:55:33 [Obj][9001] DelAccount (admin)
+10:55:33 [Obj][9001] DelClient (192.168.1.8)
+10:55:49 [Obj][9000] AddClient (192.168.1.8)
+10:55:49 [Obj][9000] AddAccount (admin)
+10:55:56 [Obj][9000] LogOutCharacter (Admin)
+10:55:56 [Obj][9000] LogOutCharacter ()
+10:55:56 [Obj][9000] DelAccount (admin)
+10:55:56 [Obj][9000] DelClient (192.168.1.8)
+10:56:10 [Obj][9001] AddClient (192.168.1.8)
+10:56:10 [Obj][9001] AddAccount (admin)
+10:56:21 [Obj][9001] LogOutCharacter (Admin)
+10:56:21 [Obj][9001] LogOutCharacter ()
+10:56:21 [Obj][9001] DelAccount (admin)
+10:56:21 [Obj][9001] DelClient (192.168.1.8)
+10:56:36 [Obj][9000] AddClient (192.168.1.8)
+10:56:37 [Obj][9000] AddAccount (admin)
+10:56:53 [Obj][9000] LogOutCharacter (Admin)
+10:56:53 [Obj][9000] LogOutCharacter ()
+10:56:53 [Obj][9000] DelAccount (admin)
+10:56:53 [Obj][9000] DelClient (192.168.1.8)
+10:57:10 [Obj][9001] AddClient (192.168.1.8)
+10:57:10 [Obj][9001] AddAccount (admin)
+10:57:16 [Obj][9001] LogOutCharacter (Admin)
+10:57:16 [Obj][9001] LogOutCharacter ()
+10:57:16 [Obj][9001] DelAccount (admin)
+10:57:16 [Obj][9001] DelClient (192.168.1.8)
+10:57:30 [Obj][9000] AddClient (192.168.1.8)
+10:57:30 [Obj][9000] AddAccount (admin)
+10:57:51 [Obj][9000] LogOutCharacter (Admin)
+10:57:51 [Obj][9000] LogOutCharacter ()
+10:57:51 [Obj][9000] DelAccount (admin)
+10:57:51 [Obj][9000] DelClient (192.168.1.8)
+10:58:11 [Obj][9001] AddClient (192.168.1.8)
+10:58:11 [Obj][9001] AddAccount (admin)
+10:59:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:59:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:00:18 [Obj][9001] LogOutCharacter (Admin)
+11:00:18 [Obj][9001] LogOutCharacter ()
+11:00:18 [Obj][9001] DelAccount (admin)
+11:00:18 [Obj][9001] DelClient (192.168.1.8)
+11:00:28 [Obj][9000] AddClient (192.168.1.8)
+11:00:28 [Obj][9000] AddAccount (admin)
+11:00:32 [Obj][9000] LogOutCharacter (Admin)
+11:00:32 [Obj][9000] LogOutCharacter ()
+11:00:32 [Obj][9000] DelAccount (admin)
+11:00:32 [Obj][9000] DelClient (192.168.1.8)
+11:01:14 [Obj][9001] AddClient (192.168.1.8)
+11:01:15 [Obj][9001] AddAccount (admin)
+11:01:18 [Obj][9001] LogOutCharacter (Admin)
+11:01:18 [Obj][9001] LogOutCharacter ()
+11:01:18 [Obj][9001] DelAccount (admin)
+11:01:18 [Obj][9001] DelClient (192.168.1.8)
+11:01:38 [Obj][9000] AddClient (192.168.1.8)
+11:01:38 [Obj][9000] AddAccount (admin)
+11:01:44 [Obj][9000] LogOutCharacter (Admin)
+11:01:44 [Obj][9000] LogOutCharacter ()
+11:01:44 [Obj][9000] DelAccount (admin)
+11:01:44 [Obj][9000] DelClient (192.168.1.8)
+11:02:07 [Obj][9001] AddClient (192.168.1.8)
+11:02:07 [Obj][9001] AddAccount (admin)
+11:02:14 [Obj][9001] LogOutCharacter (Admin)
+11:02:14 [Obj][9001] LogOutCharacter ()
+11:02:14 [Obj][9001] DelAccount (admin)
+11:02:14 [Obj][9001] DelClient (192.168.1.8)
+11:02:28 [Obj][9000] AddClient (192.168.1.8)
+11:02:28 [Obj][9000] AddAccount (admin)
+11:02:31 [Obj][9000] LogOutCharacter (Admin)
+11:02:31 [Obj][9000] LogOutCharacter ()
+11:02:31 [Obj][9000] DelAccount (admin)
+11:02:31 [Obj][9000] DelClient (192.168.1.8)
+11:03:15 [Obj][9001] AddClient (192.168.1.8)
+11:03:16 [Obj][9001] AddAccount (admin)
+11:03:33 [Obj][9001] LogOutCharacter (Admin)
+11:03:33 [Obj][9001] LogOutCharacter ()
+11:03:33 [Obj][9001] DelAccount (admin)
+11:03:33 [Obj][9001] DelClient (192.168.1.8)
+11:03:53 [Obj][9000] AddClient (192.168.1.8)
+11:03:53 [Obj][9000] AddAccount (admin)
+11:04:19 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:04:19 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:04:42 [Obj][9000] LogOutCharacter (Admin)
+11:04:42 [Obj][9000] LogOutCharacter ()
+11:04:42 [Obj][9000] DelAccount (admin)
+11:04:42 [Obj][9000] DelClient (192.168.1.8)
+11:05:15 [Obj][9001] AddClient (192.168.1.8)
+11:05:15 [Obj][9001] AddAccount (admin)
+11:06:32 [Obj][9001] LogOutCharacter (Admin)
+11:06:32 [Obj][9001] LogOutCharacter ()
+11:06:32 [Obj][9001] DelAccount (admin)
+11:06:32 [Obj][9001] DelClient (192.168.1.8)
+11:06:42 [Obj][9000] AddClient (192.168.1.8)
+11:06:42 [Obj][9000] AddAccount (admin)
+11:06:52 [Obj][9000] LogOutCharacter (TESTMG)
+11:06:52 [Obj][9000] LogOutCharacter ()
+11:07:07 [Obj][9000] LogOutCharacter (Admin)
+11:07:07 [Obj][9000] LogOutCharacter ()
+11:07:07 [Obj][9000] DelAccount (admin)
+11:07:07 [Obj][9000] DelClient (192.168.1.8)
+11:07:21 [Obj][9001] AddClient (192.168.1.8)
+11:07:21 [Obj][9001] AddAccount (admin)
+11:09:20 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:09:20 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:10:00 [CustomQuiz] Start
+11:11:43 [Obj][9001] LogOutCharacter (Admin)
+11:11:43 [Obj][9001] LogOutCharacter ()
+11:11:43 [Obj][9001] DelAccount (admin)
+11:11:43 [Obj][9001] DelClient (192.168.1.8)
+11:11:57 [Obj][9000] AddClient (192.168.1.8)
+11:11:57 [Obj][9000] AddAccount (admin)
+11:12:09 [Obj][9000] LogOutCharacter (Admin)
+11:12:09 [Obj][9000] LogOutCharacter ()
+11:12:09 [Obj][9000] DelAccount (admin)
+11:12:09 [Obj][9000] DelClient (192.168.1.8)
+11:13:00 [CustomQuiz] Finish
+11:14:21 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:14:21 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:15:51 [Obj][9001] AddClient (192.168.1.8)
+11:15:52 [Obj][9001] AddAccount (admin)
+11:15:54 [Obj][9001] LogOutCharacter (Admin)
+11:15:54 [Obj][9001] LogOutCharacter ()
+11:15:54 [Obj][9001] DelAccount (admin)
+11:15:54 [Obj][9001] DelClient (192.168.1.8)
+11:16:41 [Obj][9000] AddClient (192.168.1.8)
+11:16:42 [Obj][9000] AddAccount (admin)
+11:16:45 [Obj][9000] LogOutCharacter (Admin)
+11:16:45 [Obj][9000] LogOutCharacter ()
+11:16:45 [Obj][9000] DelAccount (admin)
+11:16:45 [Obj][9000] DelClient (192.168.1.8)
+11:19:17 [Obj][9001] AddClient (192.168.1.8)
+11:19:19 [Obj][9001] AddAccount (admin)
+11:19:22 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:19:22 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:19:27 [Obj][9001] LogOutCharacter (Admin)
+11:19:27 [Obj][9001] LogOutCharacter ()
+11:19:27 [Obj][9001] DelAccount (admin)
+11:19:27 [Obj][9001] DelClient (192.168.1.8)
+11:19:42 [Obj][9000] AddClient (192.168.1.8)
+11:19:42 [Obj][9000] AddAccount (admin)
+11:19:46 [Obj][9000] LogOutCharacter (Admin)
+11:19:46 [Obj][9000] LogOutCharacter ()
+11:19:46 [Obj][9000] DelAccount (admin)
+11:19:46 [Obj][9000] DelClient (192.168.1.8)
+11:21:30 [Obj][9001] AddClient (192.168.1.8)
+11:21:31 [Obj][9001] AddAccount (admin)
+11:21:39 [Obj][9001] LogOutCharacter (Admin)
+11:21:39 [Obj][9001] LogOutCharacter ()
+11:21:39 [Obj][9001] DelAccount (admin)
+11:21:39 [Obj][9001] DelClient (192.168.1.8)
+11:23:24 [Obj][9000] AddClient (192.168.1.8)
+11:23:25 [Obj][9000] AddAccount (admin)
+11:23:32 [Obj][9000] LogOutCharacter (Admin)
+11:23:32 [Obj][9000] LogOutCharacter ()
+11:23:32 [Obj][9000] DelAccount (admin)
+11:23:32 [Obj][9000] DelClient (192.168.1.8)
+11:24:23 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:24:23 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:27:04 [Obj][9001] AddClient (192.168.1.8)
+11:27:05 [Obj][9001] AddAccount (admin)
+11:27:48 [Obj][9001] LogOutCharacter (Admin)
+11:27:48 [Obj][9001] LogOutCharacter ()
+11:27:48 [Obj][9001] DelAccount (admin)
+11:27:48 [Obj][9001] DelClient (192.168.1.8)
+11:28:04 [Obj][9000] AddClient (192.168.1.8)
+11:28:05 [Obj][9000] AddAccount (admin)
+11:28:08 12
+11:28:19 [Obj][9000] LogOutCharacter (Admin)
+11:28:19 [Obj][9000] LogOutCharacter ()
+11:28:19 [Obj][9000] DelAccount (admin)
+11:28:19 [Obj][9000] DelClient (192.168.1.8)
+11:28:42 [Obj][9001] AddClient (192.168.1.8)
+11:28:44 [Obj][9001] AddAccount (admin)
+11:28:51 [Obj][9001] LogOutCharacter (Admin)
+11:28:51 [Obj][9001] LogOutCharacter ()
+11:28:51 [Obj][9001] DelAccount (admin)
+11:28:51 [Obj][9001] DelClient (192.168.1.8)
+11:29:05 [Obj][9000] AddClient (192.168.1.8)
+11:29:05 [Obj][9000] AddAccount (admin)
+11:29:10 [Obj][9000] LogOutCharacter (Admin)
+11:29:10 [Obj][9000] LogOutCharacter ()
+11:29:10 [Obj][9000] DelAccount (admin)
+11:29:10 [Obj][9000] DelClient (192.168.1.8)
+11:29:24 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:29:24 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:29:25 [Obj][9001] AddClient (192.168.1.8)
+11:29:25 [Obj][9001] AddAccount (admin)
+11:29:39 [Obj][9001] LogOutCharacter (Admin)
+11:29:39 [Obj][9001] LogOutCharacter ()
+11:29:39 [Obj][9001] DelAccount (admin)
+11:29:39 [Obj][9001] DelClient (192.168.1.8)
+11:30:19 [Obj][9000] AddClient (192.168.1.8)
+11:30:21 [Obj][9000] AddAccount (admin)
+11:30:38 [Obj][9000] LogOutCharacter (Admin)
+11:30:38 [Obj][9000] LogOutCharacter ()
+11:30:38 [Obj][9000] DelAccount (admin)
+11:30:38 [Obj][9000] DelClient (192.168.1.8)
+11:31:04 [Obj][9001] AddClient (192.168.1.8)
+11:31:05 [Obj][9001] AddAccount (admin)
+11:31:19 [Obj][9001] LogOutCharacter (Admin)
+11:31:19 [Obj][9001] LogOutCharacter ()
+11:31:19 [Obj][9001] DelAccount (admin)
+11:31:19 [Obj][9001] DelClient (192.168.1.8)
+11:31:55 [Obj][9000] AddClient (192.168.1.8)
+11:31:55 [Obj][9000] AddAccount (admin)
+11:32:36 [Obj][9000] LogOutCharacter (Admin)
+11:32:36 [Obj][9000] LogOutCharacter ()
+11:32:36 [Obj][9000] DelAccount (admin)
+11:32:36 [Obj][9000] DelClient (192.168.1.8)
+11:33:18 [Obj][9001] AddClient (192.168.1.8)
+11:33:19 [Obj][9001] AddAccount (admin)
+11:33:58 [Obj][9001] LogOutCharacter (Admin)
+11:33:58 [Obj][9001] LogOutCharacter ()
+11:33:58 [Obj][9001] DelAccount (admin)
+11:33:58 [Obj][9001] DelClient (192.168.1.8)
+11:34:25 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:34:25 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:35:12 [Obj][9000] AddClient (192.168.1.8)
+11:35:12 [Obj][9000] AddAccount (admin)
+11:35:17 [Obj][9000] LogOutCharacter (Admin)
+11:35:17 [Obj][9000] LogOutCharacter ()
+11:35:17 [Obj][9000] DelAccount (admin)
+11:35:17 [Obj][9000] DelClient (192.168.1.8)
+11:35:40 [Obj][9001] AddClient (192.168.1.8)
+11:35:41 [Obj][9001] AddAccount (admin)
+11:35:45 [Obj][9001] LogOutCharacter (Admin)
+11:35:45 [Obj][9001] LogOutCharacter ()
+11:35:45 [Obj][9001] DelAccount (admin)
+11:35:45 [Obj][9001] DelClient (192.168.1.8)
+11:36:01 [OnlineLoterry] No Winner
+11:36:17 [Obj][9000] AddClient (192.168.1.8)
+11:36:17 [Obj][9000] AddAccount (admin)
+11:36:22 [Obj][9000] LogOutCharacter (Admin)
+11:36:22 [Obj][9000] LogOutCharacter ()
+11:36:22 [Obj][9000] DelAccount (admin)
+11:36:22 [Obj][9000] DelClient (192.168.1.8)
+11:36:41 [Obj][9001] AddClient (192.168.1.8)
+11:36:42 [Obj][9001] AddAccount (admin)
+11:36:45 [Obj][9001] LogOutCharacter (Admin)
+11:36:45 [Obj][9001] LogOutCharacter ()
+11:36:45 [Obj][9001] DelAccount (admin)
+11:36:45 [Obj][9001] DelClient (192.168.1.8)
+11:37:03 [Obj][9000] AddClient (192.168.1.8)
+11:37:04 [Obj][9000] AddAccount (admin)
+11:37:19 12
+11:37:20 12
+11:37:21 12
+11:37:21 12
+11:37:22 12
+11:37:47 [Obj][9000] LogOutCharacter (Admin)
+11:37:47 [Obj][9000] LogOutCharacter ()
+11:37:47 [Obj][9000] DelAccount (admin)
+11:37:47 [Obj][9000] DelClient (192.168.1.8)
+11:38:05 [Obj][9001] AddClient (192.168.1.8)
+11:38:06 [Obj][9001] AddAccount (admin)
+11:38:11 [Obj][9001] LogOutCharacter (Admin)
+11:38:11 [Obj][9001] LogOutCharacter ()
+11:38:11 [Obj][9001] DelAccount (admin)
+11:38:11 [Obj][9001] DelClient (192.168.1.8)
+11:38:23 [Obj][9000] AddClient (192.168.1.8)
+11:38:23 [Obj][9000] AddAccount (admin)
+11:38:45 [Obj][9000] LogOutCharacter (Admin)
+11:38:45 [Obj][9000] LogOutCharacter ()
+11:38:45 [Obj][9000] DelAccount (admin)
+11:38:45 [Obj][9000] DelClient (192.168.1.8)
+11:39:05 [Obj][9001] AddClient (192.168.1.8)
+11:39:05 [Obj][9001] AddAccount (admin)
+11:39:10 [Obj][9001] LogOutCharacter (Admin)
+11:39:10 [Obj][9001] LogOutCharacter ()
+11:39:10 [Obj][9001] DelAccount (admin)
+11:39:10 [Obj][9001] DelClient (192.168.1.8)
+11:39:23 [Obj][9000] AddClient (192.168.1.8)
+11:39:24 [Obj][9000] AddAccount (admin)
+11:39:26 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+11:39:26 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+11:39:35 [Obj][9000] LogOutCharacter (Admin)
+11:39:35 [Obj][9000] LogOutCharacter ()
+11:39:35 [Obj][9000] DelAccount (admin)
+11:39:35 [Obj][9000] DelClient (192.168.1.8)
+11:39:57 [Obj][9001] AddClient (192.168.1.8)
+11:39:57 [Obj][9001] AddAccount (admin)
+11:40:05 [Obj][9001] LogOutCharacter (Admin)
+11:40:05 [Obj][9001] LogOutCharacter ()
+11:40:05 [Obj][9001] DelAccount (admin)
+11:40:05 [Obj][9001] DelClient (192.168.1.8)
+11:40:19 [Obj][9000] AddClient (192.168.1.8)
+11:40:20 [Obj][9000] AddAccount (admin)
+11:40:23 [Obj][9000] LogOutCharacter (Admin)
+11:40:23 [Obj][9000] LogOutCharacter ()
+11:40:23 [Obj][9000] DelAccount (admin)
+11:40:23 [Obj][9000] DelClient (192.168.1.8)
+11:40:35 [Obj][9001] AddClient (192.168.1.8)
+11:40:36 [Obj][9001] AddAccount (admin)
+11:40:39 [Obj][9001] LogOutCharacter (Admin)
+11:40:39 [Obj][9001] LogOutCharacter ()
+11:40:39 [Obj][9001] DelAccount (admin)
+11:40:39 [Obj][9001] DelClient (192.168.1.8)
+11:40:53 [Obj][9000] AddClient (192.168.1.8)
+11:40:53 [Obj][9000] AddAccount (admin)
+11:41:13 [Obj][9000] LogOutCharacter (Admin)
+11:41:13 [Obj][9000] LogOutCharacter ()
+11:41:13 [Obj][9000] DelAccount (admin)
+11:41:13 [Obj][9000] DelClient (192.168.1.8)
+11:41:21 [Obj][9001] AddClient (192.168.1.8)
+11:41:22 [Obj][9001] AddAccount (admin)
+11:41:31 [Obj][9001] LogOutCharacter (Admin)
+11:41:31 [Obj][9001] LogOutCharacter ()
+11:41:31 [Obj][9001] DelAccount (admin)
+11:41:31 [Obj][9001] DelClient (192.168.1.8)
+11:41:46 [Obj][9000] AddClient (192.168.1.8)
+11:41:46 [Obj][9000] AddAccount (admin)
+11:41:49 [Obj][9000] LogOutCharacter (Admin)
+11:41:49 [Obj][9000] LogOutCharacter ()
+11:41:49 [Obj][9000] DelAccount (admin)
+11:41:49 [Obj][9000] DelClient (192.168.1.8)
+11:42:11 [Obj][9001] AddClient (192.168.1.8)
+11:42:12 [Obj][9001] AddAccount (admin)
+11:42:23 [Obj][9001] LogOutCharacter (Admin)
+11:42:23 [Obj][9001] LogOutCharacter ()
+11:42:23 [Obj][9001] DelAccount (admin)
+11:42:23 [Obj][9001] DelClient (192.168.1.8)
+11:42:35 [Obj][9000] AddClient (192.168.1.8)
+11:42:36 [Obj][9000] AddAccount (admin)
+11:42:46 [Obj][9000] LogOutCharacter (Admin)
+11:42:46 [Obj][9000] LogOutCharacter ()
+11:42:46 [Obj][9000] DelAccount (admin)
+11:42:46 [Obj][9000] DelClient (192.168.1.8)
+11:42:58 [Obj][9001] AddClient (192.168.1.8)
+11:42:59 [Obj][9001] AddAccount (admin)
+11:43:16 [Obj][9001] LogOutCharacter (Admin)
+11:43:16 [Obj][9001] LogOutCharacter ()
+11:43:16 [Obj][9001] DelAccount (admin)
+11:43:16 [Obj][9001] DelClient (192.168.1.8)
+11:43:24 [Obj][9000] AddClient (192.168.1.8)
+11:43:24 [Obj][9000] AddAccount (admin)
+11:43:30 12
+11:43:31 12
+11:44:27 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:44:27 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:45:12 [Obj][9000] LogOutCharacter (Admin)
+11:45:12 [Obj][9000] LogOutCharacter ()
+11:45:22 12
+11:45:24 12
+11:48:58 [Obj][9000] LogOutCharacter (Phanh)
+11:48:58 [Obj][9000] LogOutCharacter ()
+11:48:58 [Obj][9000] DelAccount (admin)
+11:48:58 [Obj][9000] DelClient (192.168.1.8)
+11:49:08 [Obj][9001] AddClient (192.168.1.8)
+11:49:09 [Obj][9001] AddAccount (admin)
+11:49:28 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:49:28 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:49:41 [Obj][9001] LogOutCharacter (Admin)
+11:49:41 [Obj][9001] LogOutCharacter ()
+11:49:41 [Obj][9001] DelAccount (admin)
+11:49:41 [Obj][9001] DelClient (192.168.1.8)
+11:54:29 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:54:29 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:56:42 [Obj][9000] AddClient (192.168.1.8)
+11:56:43 [Obj][9000] AddAccount (admin)
+11:56:48 [Obj][9000] LogOutCharacter (Admin)
+11:56:48 [Obj][9000] LogOutCharacter ()
+11:56:48 [Obj][9000] DelAccount (admin)
+11:56:48 [Obj][9000] DelClient (192.168.1.8)
+11:57:10 [Obj][9001] AddClient (192.168.1.8)
+11:57:11 [Obj][9001] AddAccount (admin)
+11:57:28 [Obj][9001] LogOutCharacter (Admin)
+11:57:28 [Obj][9001] LogOutCharacter ()
+11:57:28 [Obj][9001] DelAccount (admin)
+11:57:28 [Obj][9001] DelClient (192.168.1.8)
+11:57:51 [Obj][9000] AddClient (192.168.1.8)
+11:57:52 [Obj][9000] AddAccount (admin)
+11:57:56 [Obj][9000] LogOutCharacter (Admin)
+11:57:56 [Obj][9000] LogOutCharacter ()
+11:57:56 [Obj][9000] DelAccount (admin)
+11:57:56 [Obj][9000] DelClient (192.168.1.8)
+11:58:09 [Obj][9001] AddClient (192.168.1.8)
+11:58:09 [Obj][9001] AddAccount (admin)
+11:59:30 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:59:30 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:01:00 [Obj][9001] LogOutCharacter (Admin)
+12:01:00 [Obj][9001] LogOutCharacter ()
+12:01:00 [Obj][9001] DelAccount (admin)
+12:01:00 [Obj][9001] DelClient (192.168.1.8)
+12:01:11 [Obj][9000] AddClient (192.168.1.8)
+12:01:12 [Obj][9000] AddAccount (admin)
+12:04:19 [Obj][9000] LogOutCharacter (Admin)
+12:04:19 [Obj][9000] LogOutCharacter ()
+12:04:19 [Obj][9000] DelAccount (admin)
+12:04:19 [Obj][9000] DelClient (192.168.1.8)
+12:04:31 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:04:31 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 135 Y: 193)
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 135 Y: 193)
+12:09:32 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:09:32 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:10:00 [CustomQuiz] Start
+12:12:34 [Obj][9001] AddClient (192.168.1.8)
+12:12:35 [Obj][9001] AddAccount (admin)
+12:12:48 [Obj][9001] LogOutCharacter (Admin)
+12:12:48 [Obj][9001] LogOutCharacter ()
+12:12:48 [Obj][9001] DelAccount (admin)
+12:12:48 [Obj][9001] DelClient (192.168.1.8)
+12:13:00 [CustomQuiz] Finish
+12:13:14 [Obj][9000] AddClient (192.168.1.8)
+12:13:14 [Obj][9000] AddAccount (admin)
+12:13:20 [Obj][9000] LogOutCharacter (Admin)
+12:13:20 [Obj][9000] LogOutCharacter ()
+12:13:20 [Obj][9000] DelAccount (admin)
+12:13:20 [Obj][9000] DelClient (192.168.1.8)
+12:13:42 [Obj][9001] AddClient (192.168.1.8)
+12:13:42 [Obj][9001] AddAccount (admin)
+12:14:33 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:14:33 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 211 Y: 20)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 211 Y: 20)
+12:17:35 [Obj][9001] LogOutCharacter (Admin)
+12:17:35 [Obj][9001] LogOutCharacter ()
+12:17:35 [Obj][9001] DelAccount (admin)
+12:17:35 [Obj][9001] DelClient (192.168.1.8)
+12:17:43 [Obj][9000] AddClient (192.168.1.8)
+12:17:43 [Obj][9000] AddAccount (admin)
+12:17:49 [Obj][9000] LogOutCharacter (Admin)
+12:17:49 [Obj][9000] LogOutCharacter ()
+12:17:49 [Obj][9000] DelAccount (admin)
+12:17:49 [Obj][9000] DelClient (192.168.1.8)
+12:18:09 [Obj][9001] AddClient (192.168.1.8)
+12:18:10 [Obj][9001] AddAccount (admin)
+12:19:34 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:19:34 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:20:17 [Obj][9001] LogOutCharacter (Admin)
+12:20:17 [Obj][9001] LogOutCharacter ()
+12:20:17 [Obj][9001] DelAccount (admin)
+12:20:17 [Obj][9001] DelClient (192.168.1.8)
+12:20:31 [Obj][9000] AddClient (192.168.1.8)
+12:20:31 [Obj][9000] AddAccount (admin)
+12:20:51 [Obj][9000] LogOutCharacter (Admin)
+12:20:51 [Obj][9000] LogOutCharacter ()
+12:21:02 12
+12:21:04 12
+12:21:05 12
+12:21:06 12
+12:21:07 12
+12:21:09 12
+12:24:35 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:24:35 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 168 Y: 39)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 168 Y: 39)
+12:26:12 [Obj][9000] LogOutCharacter (Admin)
+12:26:12 [Obj][9000] LogOutCharacter ()
+12:26:12 [Obj][9000] DelAccount (admin)
+12:26:12 [Obj][9000] DelClient (192.168.1.8)
+12:27:46 [Obj][9001] AddClient (192.168.1.8)
+12:27:47 [Obj][9001] AddAccount (admin)
+12:29:36 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:29:36 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:29:44 [Obj][9001] LogOutCharacter (Admin)
+12:29:44 [Obj][9001] LogOutCharacter ()
+12:29:44 [Obj][9001] DelAccount (admin)
+12:29:44 [Obj][9001] DelClient (192.168.1.8)
+12:29:51 [Obj][9000] AddClient (192.168.1.8)
+12:29:52 [Obj][9000] AddAccount (admin)
+12:31:57 [Obj][9000] LogOutCharacter (TESTMG)
+12:31:57 [Obj][9000] LogOutCharacter ()
+12:31:57 [Obj][9000] DelAccount (admin)
+12:31:57 [Obj][9000] DelClient (192.168.1.8)
+12:32:06 [Obj][9001] AddClient (192.168.1.8)
+12:32:07 [Obj][9001] AddAccount (admin)
+12:32:15 [Obj][9001] LogOutCharacter (TESTMG)
+12:32:15 [Obj][9001] LogOutCharacter ()
+12:32:15 [Obj][9001] DelAccount (admin)
+12:32:15 [Obj][9001] DelClient (192.168.1.8)
+12:32:29 [Obj][9000] AddClient (192.168.1.8)
+12:32:30 [Obj][9000] AddAccount (admin)
+12:34:20 [Obj][9000] LogOutCharacter (TESTMG)
+12:34:20 [Obj][9000] LogOutCharacter ()
+12:34:20 [Obj][9000] DelAccount (admin)
+12:34:20 [Obj][9000] DelClient (192.168.1.8)
+12:34:30 [Obj][9001] AddClient (192.168.1.8)
+12:34:31 [Obj][9001] AddAccount (admin)
+12:34:37 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:34:37 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:34:41 [Obj][9001] LogOutCharacter (TESTMG)
+12:34:41 [Obj][9001] LogOutCharacter ()
+12:34:41 [Obj][9001] DelAccount (admin)
+12:34:41 [Obj][9001] DelClient (192.168.1.8)
+12:34:55 [Obj][9000] AddClient (192.168.1.8)
+12:34:56 [Obj][9000] AddAccount (admin)
+12:35:00 [Obj][9000] LogOutCharacter (Admin)
+12:35:00 [Obj][9000] LogOutCharacter ()
+12:35:00 [Obj][9000] DelAccount (admin)
+12:35:00 [Obj][9000] DelClient (192.168.1.8)
+12:35:28 [Obj][9001] AddClient (192.168.1.8)
+12:35:28 [Obj][9001] AddAccount (admin)
+12:35:42 [Obj][9001] LogOutCharacter (TESTMG)
+12:35:42 [Obj][9001] LogOutCharacter ()
+12:35:42 [Obj][9001] DelAccount (admin)
+12:35:42 [Obj][9001] DelClient (192.168.1.8)
+12:35:59 [Obj][9000] AddClient (192.168.1.8)
+12:36:00 [Obj][9000] AddAccount (admin)
+12:36:01 [OnlineLoterry] Add Member (TESTMG)
+12:36:01 [OnlineLoterry] Winner (TESTMG)
+12:36:01 [admin][TESTMG] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+12:36:36 [Obj][9000] LogOutCharacter (TESTMG)
+12:36:36 [Obj][9000] LogOutCharacter ()
+12:36:50 [Obj][9000] LogOutCharacter (TESTMG)
+12:36:50 [Obj][9000] LogOutCharacter ()
+12:36:50 [Obj][9000] DelAccount (admin)
+12:36:50 [Obj][9000] DelClient (192.168.1.8)
+12:39:38 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:39:38 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:44:39 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:44:39 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:49:31 [Obj][9001] AddClient (192.168.1.8)
+12:49:32 [Obj][9001] AddAccount (admin)
+12:49:40 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:49:40 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:49:46 [Obj][9001] LogOutCharacter (Admin)
+12:49:46 [Obj][9001] LogOutCharacter ()
+12:49:46 [Obj][9001] DelAccount (admin)
+12:49:46 [Obj][9001] DelClient (192.168.1.8)
+12:49:57 [Obj][9000] AddClient (192.168.1.8)
+12:49:58 [Obj][9000] AddAccount (admin)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 194 Y: 83)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 194 Y: 83)
+12:50:05 [Obj][9000] LogOutCharacter (Admin)
+12:50:05 [Obj][9000] LogOutCharacter ()
+12:50:05 [Obj][9000] DelAccount (admin)
+12:50:05 [Obj][9000] DelClient (192.168.1.8)
+12:50:19 [Obj][9001] AddClient (192.168.1.8)
+12:50:20 [Obj][9001] AddAccount (admin)
+12:50:32 [Obj][9001] LogOutCharacter (Admin)
+12:50:32 [Obj][9001] LogOutCharacter ()
+12:50:32 [Obj][9001] DelAccount (admin)
+12:50:32 [Obj][9001] DelClient (192.168.1.8)
+12:52:36 [Obj][9000] AddClient (192.168.1.8)
+12:52:36 [Obj][9000] AddAccount (admin)
+12:53:03 [Obj][9000] LogOutCharacter (TESTMG)
+12:53:03 [Obj][9000] LogOutCharacter ()
+12:53:03 [Obj][9000] DelAccount (admin)
+12:53:03 [Obj][9000] DelClient (192.168.1.8)
+12:53:12 [Obj][9001] AddClient (192.168.1.8)
+12:53:12 [Obj][9001] AddAccount (admin)
+12:53:24 [Obj][9001] LogOutCharacter (TESTMG)
+12:53:24 [Obj][9001] LogOutCharacter ()
+12:53:24 [Obj][9001] DelAccount (admin)
+12:53:24 [Obj][9001] DelClient (192.168.1.8)
+12:53:35 [Obj][9000] AddClient (192.168.1.8)
+12:53:35 [Obj][9000] AddAccount (admin)
+12:54:41 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:54:41 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:59:42 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:59:42 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 160 Y: 12)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 160 Y: 12)
+13:00:26 [Obj][9000] LogOutCharacter (TESTMG)
+13:00:26 [Obj][9000] LogOutCharacter ()
+13:00:26 [Obj][9000] DelAccount (admin)
+13:00:26 [Obj][9000] DelClient (192.168.1.8)
+13:00:40 [Obj][9001] AddClient (192.168.1.8)
+13:00:41 [Obj][9001] AddAccount (admin)
+13:00:56 [Obj][9001] LogOutCharacter (TESTMG)
+13:00:56 [Obj][9001] LogOutCharacter ()
+13:00:56 [Obj][9001] DelAccount (admin)
+13:00:56 [Obj][9001] DelClient (192.168.1.8)
+13:01:33 [Obj][9000] AddClient (192.168.1.8)
+13:01:33 [Obj][9000] AddAccount (admin)
+13:01:47 [Obj][9000] LogOutCharacter (TESTMG)
+13:01:47 [Obj][9000] LogOutCharacter ()
+13:01:47 [Obj][9000] DelAccount (admin)
+13:01:47 [Obj][9000] DelClient (192.168.1.8)
+13:02:00 [Obj][9001] AddClient (192.168.1.8)
+13:02:01 [Obj][9001] AddAccount (admin)
+13:02:06 [Obj][9001] LogOutCharacter (TESTMG)
+13:02:06 [Obj][9001] LogOutCharacter ()
+13:02:06 [Obj][9001] DelAccount (admin)
+13:02:06 [Obj][9001] DelClient (192.168.1.8)
+13:02:29 [Obj][9000] AddClient (192.168.1.8)
+13:02:30 [Obj][9000] AddAccount (admin)
+13:02:39 [Obj][9000] LogOutCharacter (TESTMG)
+13:02:39 [Obj][9000] LogOutCharacter ()
+13:02:39 [Obj][9000] DelAccount (admin)
+13:02:39 [Obj][9000] DelClient (192.168.1.8)
+13:02:55 [Obj][9001] AddClient (192.168.1.8)
+13:02:56 [Obj][9001] AddAccount (admin)
+13:02:59 [Obj][9001] LogOutCharacter (TESTMG)
+13:02:59 [Obj][9001] LogOutCharacter ()
+13:02:59 [Obj][9001] DelAccount (admin)
+13:02:59 [Obj][9001] DelClient (192.168.1.8)
+13:03:11 [Obj][9000] AddClient (192.168.1.8)
+13:03:11 [Obj][9000] AddAccount (admin)
+13:03:28 [Obj][9000] LogOutCharacter (TESTMG)
+13:03:28 [Obj][9000] LogOutCharacter ()
+13:03:28 [Obj][9000] DelAccount (admin)
+13:03:28 [Obj][9000] DelClient (192.168.1.8)
+13:04:43 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:04:43 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:08:21 [Obj][9001] AddClient (192.168.1.8)
+13:08:22 [Obj][9001] AddAccount (admin)
+13:09:44 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:09:44 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:09:56 [Obj][9001] LogOutCharacter (TESTMG)
+13:09:56 [Obj][9001] LogOutCharacter ()
+13:09:56 [Obj][9001] DelAccount (admin)
+13:09:56 [Obj][9001] DelClient (192.168.1.8)
+13:10:00 [CustomQuiz] Start
+13:10:05 [Obj][9000] AddClient (192.168.1.8)
+13:10:05 [Obj][9000] AddAccount (admin)
+13:10:13 [Obj][9000] LogOutCharacter (TESTMG)
+13:10:13 [Obj][9000] LogOutCharacter ()
+13:10:13 [Obj][9000] DelAccount (admin)
+13:10:13 [Obj][9000] DelClient (192.168.1.8)
+13:10:24 [Obj][9001] AddClient (192.168.1.8)
+13:10:25 [Obj][9001] AddAccount (admin)
+13:10:29 [Obj][9001] LogOutCharacter (TESTMG)
+13:10:29 [Obj][9001] LogOutCharacter ()
+13:10:29 [Obj][9001] DelAccount (admin)
+13:10:29 [Obj][9001] DelClient (192.168.1.8)
+13:10:48 [Obj][9000] AddClient (192.168.1.8)
+13:10:48 [Obj][9000] AddAccount (admin)
+13:13:00 [CustomQuiz] Finish
+13:14:45 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:14:45 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:18:09 [Obj][9000] LogOutCharacter (TESTMG)
+13:18:09 [Obj][9000] LogOutCharacter ()
+13:18:09 [Obj][9000] DelAccount (admin)
+13:18:09 [Obj][9000] DelClient (192.168.1.8)
+13:19:11 [Obj][9001] AddClient (192.168.1.8)
+13:19:11 [Obj][9001] AddAccount (admin)
+13:19:19 [Obj][9001] LogOutCharacter (TESTMG)
+13:19:19 [Obj][9001] LogOutCharacter ()
+13:19:19 [Obj][9001] DelAccount (admin)
+13:19:19 [Obj][9001] DelClient (192.168.1.8)
+13:19:46 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:19:46 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:20:18 [Obj][9000] AddClient (192.168.1.8)
+13:20:19 [Obj][9000] AddAccount (admin)
+13:20:31 [Obj][9000] LogOutCharacter (TESTMG)
+13:20:31 [Obj][9000] LogOutCharacter ()
+13:20:31 [Obj][9000] DelAccount (admin)
+13:20:31 [Obj][9000] DelClient (192.168.1.8)
+13:20:43 [Obj][9001] AddClient (192.168.1.8)
+13:20:44 [Obj][9001] AddAccount (admin)
+13:24:47 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:24:47 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:29:48 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:29:48 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:34:49 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:34:49 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:35:14 12
+13:35:16 12
+13:35:26 12
+13:35:32 12
+13:35:41 [Obj][9001] LogOutCharacter (TESTMG)
+13:35:41 [Obj][9001] LogOutCharacter ()
+13:35:59 12
+13:36:01 12
+13:36:01 [OnlineLoterry] No Winner
+13:36:03 12
+13:36:18 [Obj][9001] LogOutCharacter (BePhanh)
+13:36:18 [Obj][9001] LogOutCharacter ()
+13:38:28 12
+13:38:32 12
+13:39:47 12
+13:39:50 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:39:50 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:39:50 12
+13:41:47 [Obj][9001] LogOutCharacter (TESTMG)
+13:41:47 [Obj][9001] LogOutCharacter ()
+13:41:47 [Obj][9001] DelAccount (admin)
+13:41:47 [Obj][9001] DelClient (192.168.1.8)
+13:42:05 [Obj][9000] AddClient (192.168.1.8)
+13:42:06 [Obj][9000] AddAccount (admin)
+13:42:15 [Obj][9000] LogOutCharacter (TESTMG)
+13:42:15 [Obj][9000] LogOutCharacter ()
+13:42:15 [Obj][9000] DelAccount (admin)
+13:42:15 [Obj][9000] DelClient (192.168.1.8)
+13:42:24 [Obj][9001] AddClient (192.168.1.8)
+13:42:25 [Obj][9001] AddAccount (admin)
+13:42:48 12
+13:42:56 [Obj][9001] LogOutCharacter (TESTMG)
+13:42:56 [Obj][9001] LogOutCharacter ()
+13:42:56 [Obj][9001] DelAccount (admin)
+13:42:56 [Obj][9001] DelClient (192.168.1.8)
+13:43:06 [Obj][9000] AddClient (192.168.1.8)
+13:43:07 [Obj][9000] AddAccount (admin)
+13:43:19 [Obj][9000] LogOutCharacter (TESTMG)
+13:43:19 [Obj][9000] LogOutCharacter ()
+13:43:19 [Obj][9000] DelAccount (admin)
+13:43:19 [Obj][9000] DelClient (192.168.1.8)
+13:43:27 [Obj][9001] AddClient (192.168.1.8)
+13:43:27 [Obj][9001] AddAccount (admin)
+13:44:51 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:44:51 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:49:52 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:49:52 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:52:26 [Obj][9001] LogOutCharacter (TESTMG)
+13:52:26 [Obj][9001] LogOutCharacter ()
+13:52:26 [Obj][9001] DelAccount (admin)
+13:52:26 [Obj][9001] DelClient (192.168.1.8)
+13:54:53 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:54:53 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:59:54 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:59:54 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:04:55 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:04:55 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:09:56 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:09:56 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:10:00 [CustomQuiz] Start
+14:13:00 [CustomQuiz] Finish
+14:14:57 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:14:57 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:18:01 [Obj][9000] AddClient (192.168.1.8)
+14:18:01 [Obj][9000] AddAccount (admin)
+14:19:58 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:19:58 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:23:13 [Obj][9000] LogOutCharacter (TESTMG)
+14:23:13 [Obj][9000] LogOutCharacter ()
+14:23:13 [Obj][9000] DelAccount (admin)
+14:23:13 [Obj][9000] DelClient (192.168.1.8)
+14:23:18 [Obj][9001] AddClient (192.168.1.8)
+14:23:18 [Obj][9001] AddAccount (admin)
+14:23:31 [Obj][9001] LogOutCharacter (TESTMG)
+14:23:31 [Obj][9001] LogOutCharacter ()
+14:23:31 [Obj][9001] DelAccount (admin)
+14:23:31 [Obj][9001] DelClient (192.168.1.8)
+14:24:40 [Obj][9000] AddClient (192.168.1.8)
+14:24:41 [Obj][9000] AddAccount (admin)
+14:24:59 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:24:59 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:30:00 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:30:00 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:34:16 [Obj][9000] LogOutCharacter (TESTMG)
+14:34:16 [Obj][9000] LogOutCharacter ()
+14:34:16 [Obj][9000] DelAccount (admin)
+14:34:16 [Obj][9000] DelClient (192.168.1.8)
+14:35:01 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:35:01 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:36:01 [OnlineLoterry] No Winner
+14:40:02 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:40:02 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:40:19 [Obj][9001] AddClient (192.168.1.8)
+14:40:20 [Obj][9001] AddAccount (admin)
+14:40:35 [Obj][9001] LogOutCharacter (TESTMG)
+14:40:35 [Obj][9001] LogOutCharacter ()
+14:40:35 [Obj][9001] DelAccount (admin)
+14:40:35 [Obj][9001] DelClient (192.168.1.8)
+14:42:04 [Obj][9000] AddClient (192.168.1.8)
+14:42:04 [Obj][9000] AddAccount (admin)
+14:42:38 [Obj][9000] LogOutCharacter (TESTMG)
+14:42:38 [Obj][9000] LogOutCharacter ()
+14:42:38 [Obj][9000] DelAccount (admin)
+14:42:38 [Obj][9000] DelClient (192.168.1.8)
+14:43:50 [Obj][9001] AddClient (192.168.1.8)
+14:43:51 [Obj][9001] AddAccount (admin)
+14:45:03 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:45:03 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:47:43 [Obj][9001] LogOutCharacter (TESTMG)
+14:47:43 [Obj][9001] LogOutCharacter ()
+14:47:43 [Obj][9001] DelAccount (admin)
+14:47:43 [Obj][9001] DelClient (192.168.1.8)
+14:47:51 [Obj][9000] AddClient (192.168.1.8)
+14:47:52 [Obj][9000] AddAccount (admin)
+14:48:07 [Obj][9000] LogOutCharacter (TESTMG)
+14:48:07 [Obj][9000] LogOutCharacter ()
+14:48:07 [Obj][9000] DelAccount (admin)
+14:48:07 [Obj][9000] DelClient (192.168.1.8)
+14:50:00 [Invasion Manager] Index(7) Boss Position (Map: 0 X: 163 Y: 48)
+14:50:00 [Invasion Manager] Index(7) Boss Position (Map: 0 X: 163 Y: 48)
+14:50:04 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:50:04 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:51:59 [Obj][9001] AddClient (192.168.1.8)
+14:51:59 [Obj][9001] AddAccount (admin)
+14:52:02 [Obj][9001] LogOutCharacter (TESTMG)
+14:52:02 [Obj][9001] LogOutCharacter ()
+14:52:02 [Obj][9001] DelAccount (admin)
+14:52:02 [Obj][9001] DelClient (192.168.1.8)
+14:53:04 [Obj][9000] AddClient (192.168.1.8)
+14:53:05 [Obj][9000] AddAccount (admin)
+14:53:12 [Obj][9000] LogOutCharacter (TESTMG)
+14:53:12 [Obj][9000] LogOutCharacter ()
+14:53:12 [Obj][9000] DelAccount (admin)
+14:53:12 [Obj][9000] DelClient (192.168.1.8)
+14:55:05 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:55:05 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:00:06 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:00:06 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:02:57 [Obj][9001] AddClient (192.168.1.8)
+15:02:57 [Obj][9001] AddAccount (admin)
+15:03:15 [Obj][9001] LogOutCharacter (TESTMG)
+15:03:15 [Obj][9001] LogOutCharacter ()
+15:03:15 [Obj][9001] DelAccount (admin)
+15:03:15 [Obj][9001] DelClient (192.168.1.8)
+15:03:48 [Obj][9000] AddClient (192.168.1.8)
+15:03:49 [Obj][9000] AddAccount (admin)
+15:03:57 [Obj][9000] LogOutCharacter (TESTMG)
+15:03:57 [Obj][9000] LogOutCharacter ()
+15:03:57 [Obj][9000] DelAccount (admin)
+15:03:57 [Obj][9000] DelClient (192.168.1.8)
+15:04:14 [Obj][9001] AddClient (192.168.1.8)
+15:04:15 [Obj][9001] AddAccount (admin)
+15:04:22 [Obj][9001] LogOutCharacter (TESTMG)
+15:04:22 [Obj][9001] LogOutCharacter ()
+15:04:22 [Obj][9001] DelAccount (admin)
+15:04:22 [Obj][9001] DelClient (192.168.1.8)
+15:05:07 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:05:07 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:06:10 [Obj][9000] AddClient (192.168.1.8)
+15:06:10 [Obj][9000] AddAccount (admin)
+15:06:19 [Obj][9000] LogOutCharacter (TESTMG)
+15:06:19 [Obj][9000] LogOutCharacter ()
+15:06:19 [Obj][9000] DelAccount (admin)
+15:06:19 [Obj][9000] DelClient (192.168.1.8)
+15:07:14 [Obj][9001] AddClient (192.168.1.8)
+15:07:15 [Obj][9001] AddAccount (admin)
+15:07:27 [Obj][9001] LogOutCharacter (TESTMG)
+15:07:27 [Obj][9001] LogOutCharacter ()
+15:07:27 [Obj][9001] DelAccount (admin)
+15:07:27 [Obj][9001] DelClient (192.168.1.8)
+15:07:55 [Obj][9000] AddClient (192.168.1.8)
+15:07:56 [Obj][9000] AddAccount (admin)
+15:08:03 [Obj][9000] LogOutCharacter (TESTMG)
+15:08:03 [Obj][9000] LogOutCharacter ()
+15:08:03 [Obj][9000] DelAccount (admin)
+15:08:03 [Obj][9000] DelClient (192.168.1.8)
+15:08:20 [Obj][9001] AddClient (192.168.1.8)
+15:08:20 [Obj][9001] AddAccount (admin)
+15:08:24 [Obj][9001] LogOutCharacter (TESTMG)
+15:08:24 [Obj][9001] LogOutCharacter ()
+15:08:24 [Obj][9001] DelAccount (admin)
+15:08:24 [Obj][9001] DelClient (192.168.1.8)
+15:09:35 [Obj][9000] AddClient (192.168.1.8)
+15:09:35 [Obj][9000] AddAccount (admin)
+15:09:39 [Obj][9000] LogOutCharacter (TESTMG)
+15:09:39 [Obj][9000] LogOutCharacter ()
+15:09:39 [Obj][9000] DelAccount (admin)
+15:09:39 [Obj][9000] DelClient (192.168.1.8)
+15:09:57 [Obj][9001] AddClient (192.168.1.8)
+15:09:58 [Obj][9001] AddAccount (admin)
+15:10:00 [CustomQuiz] Start
+15:10:08 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:10:08 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:13:00 [CustomQuiz] Finish
+15:15:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:15:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:20:10 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:20:10 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:25:11 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:25:11 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:29:53 [Obj][9001] LogOutCharacter (TESTMG)
+15:29:53 [Obj][9001] LogOutCharacter ()
+15:29:53 [Obj][9001] DelAccount (admin)
+15:29:53 [Obj][9001] DelClient (192.168.1.8)
+15:30:12 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:30:12 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:30:40 [Obj][9000] AddClient (192.168.1.8)
+15:30:40 [Obj][9000] AddAccount (admin)
+15:30:50 [Obj][9000] LogOutCharacter (TESTMG)
+15:30:50 [Obj][9000] LogOutCharacter ()
+15:30:50 [Obj][9000] DelAccount (admin)
+15:30:50 [Obj][9000] DelClient (192.168.1.8)
+15:31:36 [Obj][9001] AddClient (192.168.1.8)
+15:31:36 [Obj][9001] AddAccount (admin)
+15:31:52 [Obj][9001] LogOutCharacter (TESTMG)
+15:31:52 [Obj][9001] LogOutCharacter ()
+15:31:52 [Obj][9001] DelAccount (admin)
+15:31:52 [Obj][9001] DelClient (192.168.1.8)
+15:32:01 [Obj][9000] AddClient (192.168.1.8)
+15:32:01 [Obj][9000] AddAccount (admin)
+15:32:05 [Obj][9000] LogOutCharacter (TESTMG)
+15:32:05 [Obj][9000] LogOutCharacter ()
+15:32:05 [Obj][9000] DelAccount (admin)
+15:32:05 [Obj][9000] DelClient (192.168.1.8)
+15:32:16 [Obj][9001] AddClient (192.168.1.8)
+15:32:16 [Obj][9001] AddAccount (admin)
+15:32:28 [Obj][9001] LogOutCharacter (TESTMG)
+15:32:28 [Obj][9001] LogOutCharacter ()
+15:32:28 [Obj][9001] DelAccount (admin)
+15:32:28 [Obj][9001] DelClient (192.168.1.8)
+15:32:37 [Obj][9000] AddClient (192.168.1.8)
+15:32:38 [Obj][9000] AddAccount (admin)
+15:33:45 [Obj][9000] LogOutCharacter (TESTMG)
+15:33:45 [Obj][9000] LogOutCharacter ()
+15:33:45 [Obj][9000] DelAccount (admin)
+15:33:45 [Obj][9000] DelClient (192.168.1.8)
+15:33:56 [Obj][9001] AddClient (192.168.1.8)
+15:33:56 [Obj][9001] AddAccount (admin)
+15:34:35 [Obj][9001] LogOutCharacter (TESTMG)
+15:34:35 [Obj][9001] LogOutCharacter ()
+15:34:35 [Obj][9001] DelAccount (admin)
+15:34:35 [Obj][9001] DelClient (192.168.1.8)
+15:34:44 [Obj][9000] AddClient (192.168.1.8)
+15:34:44 [Obj][9000] AddAccount (admin)
+15:34:48 [Obj][9000] LogOutCharacter (TESTMG)
+15:34:48 [Obj][9000] LogOutCharacter ()
+15:34:48 [Obj][9000] DelAccount (admin)
+15:34:48 [Obj][9000] DelClient (192.168.1.8)
+15:35:13 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:35:13 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:36:01 [OnlineLoterry] No Winner
+15:37:45 [Obj][9001] AddClient (192.168.1.8)
+15:37:47 [Obj][9001] AddAccount (admin)
+15:39:42 [Obj][9001] LogOutCharacter (TESTMG)
+15:39:42 [Obj][9001] LogOutCharacter ()
+15:39:42 [Obj][9001] DelAccount (admin)
+15:39:42 [Obj][9001] DelClient (192.168.1.8)
+15:39:53 [Obj][9000] AddClient (192.168.1.8)
+15:39:54 [Obj][9000] AddAccount (admin)
+15:40:14 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:40:14 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:42:19 [Obj][9000] LogOutCharacter (TESTMG)
+15:42:19 [Obj][9000] LogOutCharacter ()
+15:42:19 [Obj][9000] DelAccount (admin)
+15:42:19 [Obj][9000] DelClient (192.168.1.8)
+15:42:59 [Obj][9001] AddClient (192.168.1.8)
+15:43:00 [Obj][9001] AddAccount (admin)
+15:44:58 [Obj][9001] LogOutCharacter (TESTMG)
+15:44:58 [Obj][9001] LogOutCharacter ()
+15:44:58 [Obj][9001] DelAccount (admin)
+15:44:58 [Obj][9001] DelClient (192.168.1.8)
+15:45:06 [Obj][9000] AddClient (192.168.1.8)
+15:45:06 [Obj][9000] AddAccount (admin)
+15:45:15 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:45:15 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:46:29 [Obj][9000] LogOutCharacter (TESTMG)
+15:46:29 [Obj][9000] LogOutCharacter ()
+15:46:29 [Obj][9000] DelAccount (admin)
+15:46:29 [Obj][9000] DelClient (192.168.1.8)
+15:46:39 [Obj][9001] AddClient (192.168.1.8)
+15:46:40 [Obj][9001] AddAccount (admin)
+15:46:48 [Obj][9001] LogOutCharacter (TESTMG)
+15:46:48 [Obj][9001] LogOutCharacter ()
+15:46:48 [Obj][9001] DelAccount (admin)
+15:46:48 [Obj][9001] DelClient (192.168.1.8)
+15:47:04 [Obj][9000] AddClient (192.168.1.8)
+15:47:05 [Obj][9000] AddAccount (admin)
+15:47:11 [Obj][9000] LogOutCharacter (TESTMG)
+15:47:11 [Obj][9000] LogOutCharacter ()
+15:47:11 [Obj][9000] DelAccount (admin)
+15:47:11 [Obj][9000] DelClient (192.168.1.8)
+15:47:29 [Obj][9001] AddClient (192.168.1.8)
+15:47:30 [Obj][9001] AddAccount (admin)
+15:47:48 [Obj][9001] LogOutCharacter (TESTMG)
+15:47:48 [Obj][9001] LogOutCharacter ()
+15:47:48 [Obj][9001] DelAccount (admin)
+15:47:48 [Obj][9001] DelClient (192.168.1.8)
+15:48:03 [Obj][9000] AddClient (192.168.1.8)
+15:48:03 [Obj][9000] AddAccount (admin)
+15:48:12 [Obj][9000] LogOutCharacter (TESTMG)
+15:48:12 [Obj][9000] LogOutCharacter ()
+15:48:12 [Obj][9000] DelAccount (admin)
+15:48:12 [Obj][9000] DelClient (192.168.1.8)
+15:48:23 [Obj][9001] AddClient (192.168.1.8)
+15:48:24 [Obj][9001] AddAccount (admin)
+15:48:42 [Obj][9001] LogOutCharacter (TESTMG)
+15:48:42 [Obj][9001] LogOutCharacter ()
+15:48:42 [Obj][9001] DelAccount (admin)
+15:48:42 [Obj][9001] DelClient (192.168.1.8)
+15:49:02 [Obj][9000] AddClient (192.168.1.8)
+15:49:02 [Obj][9000] AddAccount (admin)
+15:49:08 [Obj][9000] LogOutCharacter (TESTMG)
+15:49:08 [Obj][9000] LogOutCharacter ()
+15:49:08 [Obj][9000] DelAccount (admin)
+15:49:08 [Obj][9000] DelClient (192.168.1.8)
+15:49:39 [Obj][9001] AddClient (192.168.1.8)
+15:49:39 [Obj][9001] AddAccount (admin)
+15:50:16 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:50:16 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:50:16 [Obj][9001] LogOutCharacter (TESTMG)
+15:50:16 [Obj][9001] LogOutCharacter ()
+15:50:16 [Obj][9001] DelAccount (admin)
+15:50:16 [Obj][9001] DelClient (192.168.1.8)
+15:50:28 [Obj][9000] AddClient (192.168.1.8)
+15:50:28 [Obj][9000] AddAccount (admin)
+15:53:18 [Obj][9000] LogOutCharacter (TESTMG)
+15:53:18 [Obj][9000] LogOutCharacter ()
+15:53:18 [Obj][9000] DelAccount (admin)
+15:53:18 [Obj][9000] DelClient (192.168.1.8)
+15:55:17 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:55:17 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:56:59 [Obj][9001] AddClient (192.168.1.8)
+15:56:59 [Obj][9001] AddAccount (admin)
+15:57:08 [Obj][9001] LogOutCharacter (TESTMG)
+15:57:08 [Obj][9001] LogOutCharacter ()
+15:57:08 [Obj][9001] DelAccount (admin)
+15:57:08 [Obj][9001] DelClient (192.168.1.8)
+15:58:22 [Obj][9000] AddClient (192.168.1.8)
+15:58:23 [Obj][9000] AddAccount (admin)
+15:58:48 [Obj][9000] LogOutCharacter (TESTMG)
+15:58:48 [Obj][9000] LogOutCharacter ()
+15:58:48 [Obj][9000] DelAccount (admin)
+15:58:48 [Obj][9000] DelClient (192.168.1.8)
+15:59:25 [Obj][9001] AddClient (192.168.1.8)
+15:59:26 [Obj][9001] AddAccount (admin)
+16:00:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:00:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:01:58 [Obj][9001] LogOutCharacter (TESTMG)
+16:01:58 [Obj][9001] LogOutCharacter ()
+16:01:58 [Obj][9001] DelAccount (admin)
+16:01:58 [Obj][9001] DelClient (192.168.1.8)
+16:02:08 [Obj][9000] AddClient (192.168.1.8)
+16:02:10 [Obj][9000] AddAccount (admin)
+16:02:29 [Obj][9000] LogOutCharacter (TESTMG)
+16:02:29 [Obj][9000] LogOutCharacter ()
+16:02:29 [Obj][9000] DelAccount (admin)
+16:02:29 [Obj][9000] DelClient (192.168.1.8)
+16:03:41 [Obj][9001] AddClient (192.168.1.8)
+16:03:42 [Obj][9001] AddAccount (admin)
+16:03:47 [Obj][9001] LogOutCharacter (TESTMG)
+16:03:47 [Obj][9001] LogOutCharacter ()
+16:03:47 [Obj][9001] DelAccount (admin)
+16:03:47 [Obj][9001] DelClient (192.168.1.8)
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 195 Y: 71)
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 195 Y: 71)
+16:05:19 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:05:19 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:05:32 [Obj][9000] AddClient (192.168.1.8)
+16:05:32 [Obj][9000] AddAccount (admin)
+16:06:41 [Obj][9000] LogOutCharacter (TESTMG)
+16:06:41 [Obj][9000] LogOutCharacter ()
+16:06:41 [Obj][9000] DelAccount (admin)
+16:06:41 [Obj][9000] DelClient (192.168.1.8)
+16:06:53 [Obj][9001] AddClient (192.168.1.8)
+16:06:54 [Obj][9001] AddAccount (admin)
+16:07:09 [Obj][9001] LogOutCharacter (TESTMG)
+16:07:09 [Obj][9001] LogOutCharacter ()
+16:07:09 [Obj][9001] DelAccount (admin)
+16:07:09 [Obj][9001] DelClient (192.168.1.8)
+16:07:22 [Obj][9000] AddClient (192.168.1.8)
+16:07:22 [Obj][9000] AddAccount (admin)
+16:07:29 [Obj][9000] LogOutCharacter (TESTMG)
+16:07:29 [Obj][9000] LogOutCharacter ()
+16:07:29 [Obj][9000] DelAccount (admin)
+16:07:29 [Obj][9000] DelClient (192.168.1.8)
+16:08:44 [Obj][9001] AddClient (192.168.1.8)
+16:08:45 [Obj][9001] AddAccount (admin)
+16:09:00 [Obj][9001] LogOutCharacter (TESTMG)
+16:09:00 [Obj][9001] LogOutCharacter ()
+16:09:00 [Obj][9001] DelAccount (admin)
+16:09:00 [Obj][9001] DelClient (192.168.1.8)
+16:09:10 [Obj][9000] AddClient (192.168.1.8)
+16:09:11 [Obj][9000] AddAccount (admin)
+16:09:21 [Obj][9000] LogOutCharacter (TESTMG)
+16:09:21 [Obj][9000] LogOutCharacter ()
+16:09:21 [Obj][9000] DelAccount (admin)
+16:09:21 [Obj][9000] DelClient (192.168.1.8)
+16:09:57 [Obj][9001] AddClient (192.168.1.8)
+16:09:58 [Obj][9001] AddAccount (admin)
+16:10:00 [CustomQuiz] Start
+16:10:06 [Obj][9001] LogOutCharacter (TESTMG)
+16:10:06 [Obj][9001] LogOutCharacter ()
+16:10:06 [Obj][9001] DelAccount (admin)
+16:10:06 [Obj][9001] DelClient (192.168.1.8)
+16:10:20 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:10:20 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:10:20 [Obj][9000] AddClient (192.168.1.8)
+16:10:21 [Obj][9000] AddAccount (admin)
+16:13:00 [CustomQuiz] Finish
+16:14:57 [Obj][9000] LogOutCharacter (TESTMG)
+16:14:57 [Obj][9000] LogOutCharacter ()
+16:14:57 [Obj][9000] DelAccount (admin)
+16:14:57 [Obj][9000] DelClient (192.168.1.8)
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 19 Y: 216)
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 19 Y: 216)
+16:15:21 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:15:21 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:16:08 [Obj][9001] AddClient (192.168.1.8)
+16:16:08 [Obj][9001] AddAccount (admin)
+16:16:18 [Obj][9001] LogOutCharacter (TESTMG)
+16:16:18 [Obj][9001] LogOutCharacter ()
+16:16:18 [Obj][9001] DelAccount (admin)
+16:16:18 [Obj][9001] DelClient (192.168.1.8)
+16:17:08 [Obj][9000] AddClient (192.168.1.8)
+16:17:08 [Obj][9000] AddAccount (admin)
+16:17:16 [Obj][9000] LogOutCharacter (TESTMG)
+16:17:16 [Obj][9000] LogOutCharacter ()
+16:17:16 [Obj][9000] DelAccount (admin)
+16:17:16 [Obj][9000] DelClient (192.168.1.8)
+16:19:10 [Obj][9001] AddClient (192.168.1.8)
+16:19:10 [Obj][9001] AddAccount (admin)
+16:20:22 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:20:22 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:20:32 [Obj][9001] LogOutCharacter (TESTMG)
+16:20:32 [Obj][9001] LogOutCharacter ()
+16:20:32 [Obj][9001] DelAccount (admin)
+16:20:32 [Obj][9001] DelClient (192.168.1.8)
+16:20:41 [Obj][9000] AddClient (192.168.1.8)
+16:20:41 [Obj][9000] AddAccount (admin)
+16:21:51 [Obj][9000] LogOutCharacter (TESTMG)
+16:21:51 [Obj][9000] LogOutCharacter ()
+16:21:51 [Obj][9000] DelAccount (admin)
+16:21:51 [Obj][9000] DelClient (192.168.1.8)
+16:22:16 [Obj][9001] AddClient (192.168.1.8)
+16:22:16 [Obj][9001] AddAccount (admin)
+16:22:35 [Obj][9001] LogOutCharacter (TESTMG)
+16:22:35 [Obj][9001] LogOutCharacter ()
+16:22:35 [Obj][9001] DelAccount (admin)
+16:22:35 [Obj][9001] DelClient (192.168.1.8)
+16:23:45 [Obj][9000] AddClient (192.168.1.8)
+16:23:46 [Obj][9000] AddAccount (admin)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 209 Y: 205)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 209 Y: 205)
+16:25:23 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:25:23 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:25:59 [Obj][9000] LogOutCharacter (TESTMG)
+16:25:59 [Obj][9000] LogOutCharacter ()
+16:25:59 [Obj][9000] DelAccount (admin)
+16:25:59 [Obj][9000] DelClient (192.168.1.8)
+16:26:31 [Obj][9001] AddClient (192.168.1.8)
+16:26:32 [Obj][9001] AddAccount (admin)
+16:26:36 [Obj][9001] LogOutCharacter (TESTMG)
+16:26:36 [Obj][9001] LogOutCharacter ()
+16:26:36 [Obj][9001] DelAccount (admin)
+16:26:36 [Obj][9001] DelClient (192.168.1.8)
+16:27:54 [Obj][9000] AddClient (192.168.1.8)
+16:27:55 [Obj][9000] AddAccount (admin)
+16:29:21 [Obj][9000] LogOutCharacter (TESTMG)
+16:29:21 [Obj][9000] LogOutCharacter ()
+16:29:21 [Obj][9000] DelAccount (admin)
+16:29:21 [Obj][9000] DelClient (192.168.1.8)
+16:29:31 [Obj][9001] AddClient (192.168.1.8)
+16:29:31 [Obj][9001] AddAccount (admin)
+16:29:44 [Obj][9001] LogOutCharacter (TESTMG)
+16:29:44 [Obj][9001] LogOutCharacter ()
+16:29:44 [Obj][9001] DelAccount (admin)
+16:29:44 [Obj][9001] DelClient (192.168.1.8)
+16:29:59 [Obj][9000] AddClient (192.168.1.8)
+16:29:59 [Obj][9000] AddAccount (admin)
+16:30:24 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:30:24 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:30:27 [Obj][9000] LogOutCharacter (TESTMG)
+16:30:27 [Obj][9000] LogOutCharacter ()
+16:30:27 [Obj][9000] DelAccount (admin)
+16:30:27 [Obj][9000] DelClient (192.168.1.8)
+16:33:01 [Obj][9001] AddClient (192.168.1.8)
+16:33:02 [Obj][9001] AddAccount (admin)
+16:33:37 [Obj][9001] LogOutCharacter (TESTMG)
+16:33:37 [Obj][9001] LogOutCharacter ()
+16:33:37 [Obj][9001] DelAccount (admin)
+16:33:37 [Obj][9001] DelClient (192.168.1.8)
+16:33:51 [Obj][9000] AddClient (192.168.1.8)
+16:33:51 [Obj][9000] AddAccount (admin)
+16:34:08 [Obj][9000] LogOutCharacter (TESTMG)
+16:34:08 [Obj][9000] LogOutCharacter ()
+16:34:08 [Obj][9000] DelAccount (admin)
+16:34:08 [Obj][9000] DelClient (192.168.1.8)
+16:34:26 [Obj][9001] AddClient (192.168.1.8)
+16:34:27 [Obj][9001] AddAccount (admin)
+16:34:45 [Obj][9001] LogOutCharacter (TESTMG)
+16:34:45 [Obj][9001] LogOutCharacter ()
+16:34:45 [Obj][9001] DelAccount (admin)
+16:34:45 [Obj][9001] DelClient (192.168.1.8)
+16:35:05 [Obj][9000] AddClient (192.168.1.8)
+16:35:06 [Obj][9000] AddAccount (admin)
+16:35:25 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+16:35:25 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+16:36:01 [OnlineLoterry] Add Member (TESTMG)
+16:36:01 [OnlineLoterry] Winner (TESTMG)
+16:36:01 [admin][TESTMG] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+16:40:26 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:40:26 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:43:34 [Obj][9000] LogOutCharacter (TESTMG)
+16:43:34 [Obj][9000] LogOutCharacter ()
+16:45:27 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+16:45:27 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+16:46:10 [Obj][9000] LogOutCharacter (Phanh)
+16:46:10 [Obj][9000] LogOutCharacter ()
+16:46:10 [Obj][9000] DelAccount (admin)
+16:46:10 [Obj][9000] DelClient (192.168.1.8)
+16:48:33 [Obj][9001] AddClient (192.168.1.8)
+16:48:34 [Obj][9001] AddAccount (admin)
+16:48:55 [Obj][9001] LogOutCharacter (Phanh)
+16:48:55 [Obj][9001] LogOutCharacter ()
+16:48:55 [Obj][9001] DelAccount (admin)
+16:48:55 [Obj][9001] DelClient (192.168.1.8)
+16:49:19 [Obj][9000] AddClient (192.168.1.8)
+16:49:20 [Obj][9000] AddAccount (admin)
+16:49:28 [Obj][9000] LogOutCharacter (TESTMG)
+16:49:28 [Obj][9000] LogOutCharacter ()
+16:49:49 [Obj][9000] LogOutCharacter (Phanh)
+16:49:49 [Obj][9000] LogOutCharacter ()
+16:49:49 [Obj][9000] DelAccount (admin)
+16:49:49 [Obj][9000] DelClient (192.168.1.8)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 201 Y: 84)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 201 Y: 84)
+16:50:04 [Obj][9001] AddClient (192.168.1.8)
+16:50:04 [Obj][9001] AddAccount (admin)
+16:50:12 [Obj][9001] LogOutCharacter (TESTMG)
+16:50:12 [Obj][9001] LogOutCharacter ()
+16:50:28 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:50:28 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:50:54 [Obj][9001] LogOutCharacter (Phanh)
+16:50:54 [Obj][9001] LogOutCharacter ()
+16:50:54 [Obj][9001] DelAccount (admin)
+16:50:54 [Obj][9001] DelClient (192.168.1.8)
+16:51:06 [Obj][9000] AddClient (192.168.1.8)
+16:51:06 [Obj][9000] AddAccount (admin)
+16:51:47 [Obj][9000] LogOutCharacter (TESTMG)
+16:51:47 [Obj][9000] LogOutCharacter ()
+16:51:47 [Obj][9000] DelAccount (admin)
+16:51:47 [Obj][9000] DelClient (192.168.1.8)
+16:53:47 [Obj][9001] AddClient (192.168.1.8)
+16:53:48 [Obj][9001] AddAccount (admin)
+16:54:00 [Obj][9001] LogOutCharacter (TESTMG)
+16:54:00 [Obj][9001] LogOutCharacter ()
+16:54:05 [Obj][9001] LogOutCharacter (Phanh)
+16:54:05 [Obj][9001] LogOutCharacter ()
+16:54:05 [Obj][9001] DelAccount (admin)
+16:54:05 [Obj][9001] DelClient (192.168.1.8)
+16:54:19 [Obj][9000] AddClient (192.168.1.8)
+16:54:20 [Obj][9000] AddAccount (admin)
+16:54:28 [Obj][9000] LogOutCharacter (Phanh)
+16:54:28 [Obj][9000] LogOutCharacter ()
+16:54:28 [Obj][9000] DelAccount (admin)
+16:54:28 [Obj][9000] DelClient (192.168.1.8)
+16:54:48 [Obj][9001] AddClient (192.168.1.8)
+16:54:48 [Obj][9001] AddAccount (admin)
+16:55:11 [Obj][9001] LogOutCharacter (Phanh)
+16:55:11 [Obj][9001] LogOutCharacter ()
+16:55:11 [Obj][9001] DelAccount (admin)
+16:55:11 [Obj][9001] DelClient (192.168.1.8)
+16:55:24 [Obj][9000] AddClient (192.168.1.8)
+16:55:25 [Obj][9000] AddAccount (admin)
+16:55:29 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:55:29 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 149 Y: 17)
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 149 Y: 17)
+17:00:30 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:00:30 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:02:53 12
+17:05:31 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:05:31 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:10:00 [CustomQuiz] Start
+17:10:32 [Obj][9000] LogOutCharacter (Phanh)
+17:10:32 [Obj][9000] LogOutCharacter ()
+17:10:32 [Obj][9000] DelAccount (admin)
+17:10:32 [Obj][9000] DelClient (192.168.1.8)
+17:10:32 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:10:32 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:10:55 [Obj][9001] AddClient (192.168.1.8)
+17:10:55 [Obj][9001] AddAccount (admin)
+17:12:57 [Obj][9001] LogOutCharacter (Phanh)
+17:12:57 [Obj][9001] LogOutCharacter ()
+17:12:57 [Obj][9001] DelAccount (admin)
+17:12:57 [Obj][9001] DelClient (192.168.1.8)
+17:13:00 [CustomQuiz] Finish
+17:15:33 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:15:33 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:17:35 [Obj][9000] AddClient (192.168.1.8)
+17:17:35 [Obj][9000] AddAccount (admin)
+17:17:59 [Obj][9000] LogOutCharacter (Phanh)
+17:17:59 [Obj][9000] LogOutCharacter ()
+17:17:59 [Obj][9000] DelAccount (admin)
+17:17:59 [Obj][9000] DelClient (192.168.1.8)
+17:18:00 [Obj][9001] AddClient (192.168.1.8)
+17:18:03 [Obj][9001] AddAccount (game)
+17:18:45 [Obj][9001] LogOutCharacter (TESTSD)
+17:18:45 [Obj][9001] LogOutCharacter ()
+17:18:45 [Obj][9001] DelAccount (game)
+17:18:45 [Obj][9001] DelClient (192.168.1.8)
+17:18:55 [Obj][9000] AddClient (192.168.1.8)
+17:18:56 [Obj][9000] AddAccount (game)
+17:19:08 [Obj][9000] LogOutCharacter (TESTSD)
+17:19:08 [Obj][9000] LogOutCharacter ()
+17:19:08 [Obj][9000] DelAccount (game)
+17:19:08 [Obj][9000] DelClient (192.168.1.8)
+17:19:09 [Obj][9001] AddClient (192.168.1.8)
+17:19:11 [Obj][9001] AddAccount (admin)
+17:19:40 [Obj][9001] LogOutCharacter (Phanh)
+17:19:40 [Obj][9001] LogOutCharacter ()
+17:19:40 [Obj][9001] DelAccount (admin)
+17:19:40 [Obj][9001] DelClient (192.168.1.8)
+17:20:04 [Obj][9000] AddClient (192.168.1.8)
+17:20:04 [Obj][9000] AddAccount (admin)
+17:20:34 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:20:34 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:23:01 [Obj][9000] LogOutCharacter (Phanh)
+17:23:01 [Obj][9000] LogOutCharacter ()
+17:23:01 [Obj][9000] DelAccount (admin)
+17:23:01 [Obj][9000] DelClient (192.168.1.8)
+17:23:29 [Obj][9001] AddClient (192.168.1.8)
+17:23:29 [Obj][9001] AddAccount (admin)
+17:25:35 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+17:25:35 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+17:30:36 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:30:36 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:33:37 [Obj][9001] LogOutCharacter (Admin)
+17:33:37 [Obj][9001] LogOutCharacter ()
+17:33:37 [Obj][9001] DelAccount (admin)
+17:33:37 [Obj][9001] DelClient (192.168.1.8)
+17:35:37 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:35:37 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:36:01 [OnlineLoterry] No Winner
+17:36:52 [Obj][9000] AddClient (192.168.1.8)
+17:36:52 [Obj][9000] AddAccount (admin)
+17:40:38 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:40:38 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:41:42 [Obj][9000] LogOutCharacter (Phanh)
+17:41:42 [Obj][9000] LogOutCharacter ()
+17:41:42 [Obj][9000] DelAccount (admin)
+17:41:42 [Obj][9000] DelClient (192.168.1.8)
+17:42:19 [Obj][9001] AddClient (192.168.1.8)
+17:42:20 [Obj][9001] AddAccount (admin)
+17:42:36 [Obj][9001] LogOutCharacter (Admin)
+17:42:36 [Obj][9001] LogOutCharacter ()
+17:42:36 [Obj][9001] DelAccount (admin)
+17:42:36 [Obj][9001] DelClient (192.168.1.8)
+17:42:50 [Obj][9000] AddClient (192.168.1.8)
+17:42:50 [Obj][9000] AddAccount (admin)
+17:45:39 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:45:39 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:47:21 [Obj][9000] LogOutCharacter (TESTMG)
+17:47:21 [Obj][9000] LogOutCharacter ()
+17:47:21 [Obj][9000] DelAccount (admin)
+17:47:21 [Obj][9000] DelClient (192.168.1.8)
+17:47:31 [Obj][9001] AddClient (192.168.1.8)
+17:47:32 [Obj][9001] AddAccount (admin)
+17:47:55 [Obj][9001] LogOutCharacter (TESTMG)
+17:47:55 [Obj][9001] LogOutCharacter ()
+17:47:55 [Obj][9001] DelAccount (admin)
+17:47:55 [Obj][9001] DelClient (192.168.1.8)
+17:48:21 [Obj][9000] AddClient (192.168.1.8)
+17:48:22 [Obj][9000] AddAccount (admin)
+17:50:40 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:50:40 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:55:41 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:55:41 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:00:42 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:00:42 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:05:43 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:05:43 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:10:00 [CustomQuiz] Start
+18:10:44 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:10:44 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:13:00 [CustomQuiz] Finish
+18:15:45 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:15:45 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:20:46 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:20:46 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:25:47 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:25:47 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:30:48 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:30:48 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:35:49 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:35:49 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:36:01 [OnlineLoterry] Add Member (Phanh)
+18:36:01 [OnlineLoterry] Winner (Phanh)
+18:36:01 [admin][Phanh] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+18:40:50 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:40:50 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:45:51 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:45:51 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 194 Y: 82)
+18:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 194 Y: 82)
+18:50:52 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:50:52 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:55:53 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:55:53 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:00:54 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:00:54 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:05:55 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:05:55 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:10:00 [CustomQuiz] Start
+19:10:56 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:10:56 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:13:00 [CustomQuiz] Finish
+19:15:57 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:15:57 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:20:58 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:20:58 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:25:59 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:25:59 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:31:00 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:31:00 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:36:01 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:36:01 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:36:01 [OnlineLoterry] Add Member (Phanh)
+19:36:01 [OnlineLoterry] Winner (Phanh)
+19:36:01 [admin][Phanh] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+19:41:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:41:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:46:05 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:46:05 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:51:06 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:51:06 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:56:07 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:56:07 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:01:08 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:01:08 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 137 Y: 198)
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 137 Y: 198)
+20:06:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:06:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:10:00 [CustomQuiz] Start
+20:11:10 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:11:10 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:13:00 [CustomQuiz] Finish
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 221 Y: 205)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 221 Y: 205)
+20:16:11 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:16:11 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:21:12 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:21:12 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 202 Y: 118)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 202 Y: 118)
+20:26:13 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:26:13 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:31:14 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:31:14 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:36:01 [OnlineLoterry] Add Member (Phanh)
+20:36:01 [OnlineLoterry] Winner (Phanh)
+20:36:01 [admin][Phanh] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+20:36:15 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:36:15 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:41:16 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:41:16 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:46:17 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:46:17 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 163 Y: 14)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 163 Y: 14)
+20:51:18 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:51:18 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:56:19 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:56:19 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 152 Y: 15)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 152 Y: 15)
+21:01:20 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:01:20 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:06:21 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:06:21 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:10:00 [CustomQuiz] Start
+21:11:22 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:11:22 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:13:00 [CustomQuiz] Finish
+21:16:23 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:16:23 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:21:24 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:21:24 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:26:25 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:26:25 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:31:26 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:31:26 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:36:01 [OnlineLoterry] Add Member (Phanh)
+21:36:01 [OnlineLoterry] Winner (Phanh)
+21:36:01 [admin][Phanh] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+21:36:27 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:36:27 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:41:28 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:41:28 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:46:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:46:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:51:30 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:51:30 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:56:31 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:56:31 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:01:32 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:01:32 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:06:33 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:06:33 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:10:00 [CustomQuiz] Start
+22:11:34 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:11:34 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:13:00 [CustomQuiz] Finish
+22:16:35 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:16:35 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:21:36 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:21:36 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:26:37 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:26:37 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:31:38 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:31:38 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:36:01 [OnlineLoterry] Add Member (Phanh)
+22:36:01 [OnlineLoterry] Winner (Phanh)
+22:36:01 [admin][Phanh] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+22:36:39 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:36:39 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:41:40 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:41:40 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:46:41 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:46:41 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 199 Y: 77)
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 199 Y: 77)
+22:51:42 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:51:42 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:56:43 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:56:43 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:01:44 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:01:44 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:06:45 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:06:45 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:10:00 [CustomQuiz] Start
+23:11:46 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:11:46 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:13:00 [CustomQuiz] Finish
+23:16:47 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:16:47 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:21:48 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:21:48 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:22:45 12
+23:22:46 12
+23:22:49 12
+23:22:55 12
+23:26:45 [Obj][9000] LogOutCharacter (Phanh)
+23:26:45 [Obj][9000] LogOutCharacter ()
+23:26:45 [Obj][9000] DelAccount (admin)
+23:26:45 [Obj][9000] DelClient (192.168.1.8)
+23:26:49 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:26:49 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:27:04 [Obj][9001] AddClient (192.168.1.8)
+23:27:04 [Obj][9001] AddAccount (admin)
+23:27:06 [Obj][9000] AddClient (192.168.1.8)
+23:27:07 [Obj][9000] AddAccount (game)
+23:31:50 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:31:50 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:33:15 [Obj][9000] LogOutCharacter (TESTDL)
+23:33:15 [Obj][9000] LogOutCharacter ()
+23:33:15 [Obj][9000] DelAccount (game)
+23:33:15 [Obj][9000] DelClient (192.168.1.8)
+23:33:17 [Obj][9001] LogOutCharacter (Phanh)
+23:33:17 [Obj][9001] LogOutCharacter ()
+23:33:17 [Obj][9001] DelAccount (admin)
+23:33:17 [Obj][9001] DelClient (192.168.1.8)
+23:33:29 [Obj][9000] AddClient (192.168.1.8)
+23:33:30 [Obj][9000] AddAccount (game)
+23:33:32 [Obj][9001] AddClient (192.168.1.8)
+23:33:33 [Obj][9001] AddAccount (admin)
+23:35:33 [Obj][9001] LogOutCharacter (Phanh)
+23:35:33 [Obj][9001] LogOutCharacter ()
+23:35:33 [Obj][9001] DelAccount (admin)
+23:35:33 [Obj][9001] DelClient (192.168.1.8)
+23:35:35 [Obj][9000] LogOutCharacter (TESTSD)
+23:35:35 [Obj][9000] LogOutCharacter ()
+23:35:35 [Obj][9000] DelAccount (game)
+23:35:35 [Obj][9000] DelClient (192.168.1.8)
+23:36:01 [OnlineLoterry] No Winner
+23:36:51 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:36:51 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:41:52 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:41:52 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:46:48 [Obj][9001] AddClient (192.168.1.8)
+23:46:48 [Obj][9001] AddAccount (admin)
+23:46:53 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:46:53 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:46:59 [Obj][9000] AddClient (192.168.1.8)
+23:47:00 [Obj][9000] AddAccount (game)
+23:47:24 [Obj][9000] LogOutCharacter (GameMaster)
+23:47:24 [Obj][9000] LogOutCharacter ()
+23:47:24 [Obj][9000] DelAccount (game)
+23:47:24 [Obj][9000] DelClient (192.168.1.8)
+23:48:17 [Obj][9001] LogOutCharacter (Phanh)
+23:48:17 [Obj][9001] LogOutCharacter ()
+23:48:17 [Obj][9001] DelAccount (admin)
+23:48:17 [Obj][9001] DelClient (192.168.1.8)
+23:48:28 [Obj][9000] AddClient (192.168.1.8)
+23:48:29 [Obj][9000] AddAccount (game)
+23:48:33 [Obj][9001] AddClient (192.168.1.8)
+23:48:34 [Obj][9001] AddAccount (admin)
+23:49:05 [Obj][9001] LogOutCharacter (Phanh)
+23:49:05 [Obj][9001] LogOutCharacter ()
+23:49:05 [Obj][9001] DelAccount (admin)
+23:49:05 [Obj][9001] DelClient (192.168.1.8)
+23:49:06 [Obj][9000] LogOutCharacter (GameMaster)
+23:49:06 [Obj][9000] LogOutCharacter ()
+23:49:06 [Obj][9000] DelAccount (game)
+23:49:06 [Obj][9000] DelClient (192.168.1.8)
+23:49:17 [Obj][9001] AddClient (192.168.1.8)
+23:49:18 [Obj][9001] AddAccount (admin)
+23:49:27 [Obj][9000] AddClient (192.168.1.8)
+23:49:29 [Obj][9000] AddAccount (game)
+23:49:49 [Obj][9001] LogOutCharacter (Phanh)
+23:49:49 [Obj][9001] LogOutCharacter ()
+23:49:49 [Obj][9001] DelAccount (admin)
+23:49:49 [Obj][9001] DelClient (192.168.1.8)
+23:49:51 [Obj][9000] LogOutCharacter (GameMaster)
+23:49:51 [Obj][9000] LogOutCharacter ()
+23:49:51 [Obj][9000] DelAccount (game)
+23:49:51 [Obj][9000] DelClient (192.168.1.8)
+23:51:54 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:51:54 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:56:33 [Obj][9001] AddClient (192.168.1.8)
+23:56:34 [Obj][9001] AddAccount (game)
+23:56:36 [Obj][9000] AddClient (192.168.1.8)
+23:56:37 [Obj][9000] AddAccount (admin)
+23:56:44 [Obj][9001] LogOutCharacter (TESTSD)
+23:56:44 [Obj][9001] LogOutCharacter ()
+23:56:44 [Obj][9001] DelAccount (game)
+23:56:44 [Obj][9001] DelClient (192.168.1.8)
+23:56:46 [Obj][9000] LogOutCharacter (Phanh)
+23:56:46 [Obj][9000] LogOutCharacter ()
+23:56:46 [Obj][9000] DelAccount (admin)
+23:56:46 [Obj][9000] DelClient (192.168.1.8)
+23:56:55 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:56:55 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:57:39 [Obj][9001] AddClient (192.168.1.8)
+23:57:39 [Obj][9001] AddAccount (admin)
+23:57:41 [Obj][9000] AddClient (192.168.1.8)
+23:57:42 [Obj][9000] AddAccount (game)
+23:59:06 [Obj][9001] LogOutCharacter (Phanh)
+23:59:06 [Obj][9001] LogOutCharacter ()
+23:59:06 [Obj][9001] DelAccount (admin)
+23:59:06 [Obj][9001] DelClient (192.168.1.8)
+23:59:07 [Obj][9000] LogOutCharacter (TESTDL)
+23:59:07 [Obj][9000] LogOutCharacter ()
+23:59:07 [Obj][9000] DelAccount (game)
+23:59:07 [Obj][9000] DelClient (192.168.1.8)

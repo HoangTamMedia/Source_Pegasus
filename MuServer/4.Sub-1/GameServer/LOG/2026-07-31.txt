@@ -1,0 +1,48 @@
+14:06:14 [ServerInfo] CashShop loaded successfully
+14:06:14 [ServerInfo] ChaosMix loaded successfully
+14:06:14 [ServerInfo] Character loaded successfully
+14:06:14 [FakeOnline] Load Data OK
+14:06:15 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+14:06:15 [EventTime] [1] Size 4 
+14:06:15 [CustomItemBank] (1) Load 10 Item In List
+14:06:15 [ServerInfo] Custom loaded successfully
+14:06:15 [ServerInfo] Command loaded successfully
+14:06:15 [ServerInfo] Common loaded successfully
+14:06:15 [ Crywolf ] State (0) -> NONE
+14:06:15 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+14:06:15 [ServerInfo] Event loaded successfully
+14:06:15 [ServerInfo] EventItemBag loaded successfully
+14:06:15 [ServerInfo] Hack loaded successfully
+14:06:15 [ServerInfo] Item loaded successfully
+14:06:16 [ServerInfo] Monster loaded successfully
+14:06:16 [ServerInfo] Move loaded successfully
+14:06:16 [ServerInfo] Quest loaded successfully
+14:06:16 [ServerInfo] Shop loaded successfully
+14:06:16 [ServerInfo] Skill loaded successfully
+14:06:16 [ServerInfo] Util loaded successfully
+14:06:17 [ReadBotInfo] BotSystem loaded successfully
+14:06:49 [ServerInfo] CashShop loaded successfully
+14:06:49 [ServerInfo] ChaosMix loaded successfully
+14:06:49 [ServerInfo] Character loaded successfully
+14:06:49 [FakeOnline] Load Data OK
+14:06:49 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+14:06:49 [EventTime] [1] Size 4 
+14:06:49 [CustomItemBank] (1) Load 10 Item In List
+14:06:49 [ServerInfo] Custom loaded successfully
+14:06:49 [ServerInfo] Command loaded successfully
+14:06:49 [ServerInfo] Common loaded successfully
+14:06:49 [ Crywolf ] State (0) -> NONE
+14:06:49 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+14:06:49 [ServerInfo] Event loaded successfully
+14:06:49 [ServerInfo] EventItemBag loaded successfully
+14:06:49 [ServerInfo] Hack loaded successfully
+14:06:49 [ServerInfo] Item loaded successfully
+14:06:49 [ServerInfo] Monster loaded successfully
+14:06:49 [ServerInfo] Move loaded successfully
+14:06:49 [ServerInfo] Quest loaded successfully
+14:06:49 [ServerInfo] Shop loaded successfully
+14:06:49 [ServerInfo] Skill loaded successfully
+14:06:49 [ServerInfo] Util loaded successfully
+14:06:49 [ReadBotInfo] BotSystem loaded successfully
+14:10:00 [CustomQuiz] Start
+14:13:00 [CustomQuiz] Finish

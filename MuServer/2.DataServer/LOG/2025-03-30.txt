@@ -1,0 +1,9 @@
+11:53:48 [SocketManager] Server started at port [55960]
+11:53:55 [ServerManager][0] AddServer (127.0.0.1)
+11:53:55 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+21:52:01 [ServerManager][0] DelServer (127.0.0.1)
+21:52:03 [ServerManager][1] AddServer (127.0.0.1)
+21:52:03 [ServerManager][1] ServerInfo (Pegasus-01) (55901) (0)
+21:53:06 [ServerManager][1] DelServer (127.0.0.1)
+21:53:08 [ServerManager][0] AddServer (127.0.0.1)
+21:53:08 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)

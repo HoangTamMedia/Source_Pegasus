@@ -1,0 +1,51 @@
+10:28:03 [ServerInfo] CashShop loaded successfully
+10:28:03 [ServerInfo] ChaosMix loaded successfully
+10:28:03 [ServerInfo] Character loaded successfully
+10:28:03 [FakeOnline] Load Data OK
+10:28:03 [VIPChar] Enable 1, Date ItemPoint 1, Data LevelVip 44
+10:28:03 [EventTime] [1] Size 4 
+10:28:03 [CustomItemBank] (1) Load 10 Item In List
+10:28:03 [ServerInfo] Custom loaded successfully
+10:28:03 [ServerInfo] Command loaded successfully
+10:28:03 [ServerInfo] Common loaded successfully
+10:28:03 [ Crywolf ] State (0) -> NONE
+10:28:03 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+10:28:03 [ServerInfo] Event loaded successfully
+10:28:03 [ServerInfo] EventItemBag loaded successfully
+10:28:03 [ServerInfo] Hack loaded successfully
+10:28:03 [ServerInfo] Item loaded successfully
+10:28:04 [ServerInfo] Monster loaded successfully
+10:28:04 [ServerInfo] Move loaded successfully
+10:28:04 [ServerInfo] Quest loaded successfully
+10:28:04 [ServerInfo] Shop loaded successfully
+10:28:04 [ServerInfo] Skill loaded successfully
+10:28:04 [ServerInfo] Util loaded successfully
+10:28:04 [ReadBotInfo] BotSystem loaded successfully
+10:29:00 [Obj][9000] AddClient (192.168.68.104)
+10:29:00 [Obj][9000] AddAccount (admin)
+10:32:37 [Obj][9000] LogOutCharacter (Phanh)
+10:32:37 [Obj][9000] LogOutCharacter ()
+10:32:37 [Obj][9000] DelAccount (admin)
+10:32:37 [Obj][9000] DelClient (192.168.68.104)
+10:36:02 [OnlineLoterry] No Winner
+10:43:01 [Obj][9000] AddClient (192.168.68.104)
+10:43:02 [Obj][9000] AddAccount (admin)
+10:43:43 [Obj][9000] LogOutCharacter (Phanh)
+10:43:43 [Obj][9000] LogOutCharacter ()
+10:43:43 [Obj][9000] DelAccount (admin)
+10:43:43 [Obj][9000] DelClient (192.168.68.104)
+10:57:17 [Obj][9000] AddClient (192.168.68.104)
+10:57:17 [Obj][9000] AddAccount (admin)
+10:57:55 [Obj][9000] LogOutCharacter (Phanh)
+10:57:55 [Obj][9000] LogOutCharacter ()
+10:57:55 [Obj][9000] DelAccount (admin)
+10:57:55 [Obj][9000] DelClient (192.168.68.104)
+11:10:00 [CustomQuiz] Start
+11:13:00 [CustomQuiz] Finish
+11:36:01 [OnlineLoterry] No Winner
+11:46:56 [Obj][9000] AddClient (192.168.68.104)
+11:46:56 [Obj][9000] AddAccount (admin)
+11:51:53 [Obj][9000] LogOutCharacter (Phanh)
+11:51:53 [Obj][9000] LogOutCharacter ()
+11:51:53 [Obj][9000] DelAccount (admin)
+11:51:53 [Obj][9000] DelClient (192.168.68.104)

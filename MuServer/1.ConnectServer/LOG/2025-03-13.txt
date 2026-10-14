@@ -1,0 +1,16 @@
+11:33:29 [SocketManager] Server started at port [44405]
+11:33:29 [ServerList] ServerList loaded successfully
+11:33:41 [ServerList] JoinServer online
+11:33:42 [ServerList] GameServer online (Pegasus-01) (0)
+23:53:36 [SocketManager] Server started at port [44405]
+23:53:36 [ServerList] ServerList loaded successfully
+23:53:47 [ServerList] JoinServer online
+23:53:48 [ServerList] GameServer online (Pegasus-01) (0)
+23:56:13 [SocketManager] Server started at port [44405]
+23:56:13 [ServerList] ServerList loaded successfully
+23:56:25 [ServerList] JoinServer online
+23:56:26 [ServerList] GameServer online (Pegasus-01) (0)
+23:59:12 [SocketManager] Server started at port [44405]
+23:59:12 [ServerList] ServerList loaded successfully
+23:59:23 [ServerList] JoinServer online
+23:59:24 [ServerList] GameServer online (Pegasus-01) (0)

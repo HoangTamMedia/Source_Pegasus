@@ -1,0 +1,42 @@
+00:12:36 [SocketManager] Server started at port [44405]
+00:12:36 [ServerList] ServerList loaded successfully
+00:12:46 [ServerList] GameServer online (MUMexico) (0)
+00:12:51 [ServerList] JoinServer online
+00:15:56 [SocketManager] Server started at port [44405]
+00:15:56 [ServerList] ServerList loaded successfully
+00:16:07 [ServerList] JoinServer online
+00:16:08 [ServerList] GameServer online (MUMexico) (0)
+10:54:36 [SocketManager] Server started at port [44405]
+10:54:36 [ServerList] ServerList loaded successfully
+10:54:48 [ServerList] JoinServer online
+10:54:50 [ServerList] GameServer online (MUMexico) (0)
+10:58:20 [ServerList] GameServer offline (MUMexico) (0)
+11:51:36 [ServerList] GameServer online (MUMexico) (0)
+15:27:24 [SocketManager] Server started at port [44405]
+15:27:24 [ServerList] ServerList loaded successfully
+15:27:36 [ServerList] JoinServer online
+15:27:37 [ServerList] GameServer online (MUMexico) (0)
+15:38:10 [SocketManager] Server started at port [44405]
+15:38:10 [ServerList] ServerList loaded successfully
+15:38:21 [ServerList] JoinServer online
+15:38:22 [ServerList] GameServer online (MUMexico) (0)
+16:07:40 [SocketManager] Server started at port [44405]
+16:07:40 [ServerList] ServerList loaded successfully
+16:07:51 [ServerList] JoinServer online
+16:07:53 [ServerList] GameServer online (MUMexico) (0)
+16:10:34 [ServerList] GameServer offline (MUMexico) (0)
+16:10:44 [ServerList] GameServer online (MUMexico) (0)
+16:16:36 [ServerList] GameServer offline (MUMexico) (0)
+16:16:47 [ServerList] GameServer online (MUMexico) (0)
+16:45:46 [ServerList] GameServer offline (MUMexico) (0)
+16:46:30 [ServerList] GameServer online (MUMexico) (0)
+16:54:40 [ServerList] GameServer offline (MUMexico) (0)
+16:54:56 [ServerList] GameServer online (MUMexico) (0)
+17:24:08 [ServerList] GameServer offline (MUMexico) (0)
+17:24:20 [ServerList] GameServer online (MUMexico) (0)
+17:25:32 [ServerList] GameServer offline (MUMexico) (0)
+17:26:37 [ServerList] GameServer online (MUMexico) (0)
+17:34:45 [ServerList] GameServer offline (MUMexico) (0)
+17:34:52 [ServerList] GameServer online (MUMexico) (0)
+21:58:46 [ServerList] GameServer offline (MUMexico) (0)
+22:43:03 [ServerList] GameServer online (MUMexico) (0)

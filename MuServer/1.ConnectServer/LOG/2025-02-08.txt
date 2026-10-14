@@ -1,0 +1,22 @@
+17:56:02 [SocketManager] Server started at port [44405]
+17:56:02 [ServerList] ServerList loaded successfully
+17:56:29 [ServerList] JoinServer online
+17:56:45 [ServerList] GameServer online (MUMexico) (0)
+18:18:22 [ServerList] GameServer offline (MUMexico) (0)
+18:18:35 [ServerList] GameServer online (MUMexico) (0)
+18:33:24 [SocketManager] bind() failed with error: 10048
+18:41:49 [SocketManager] bind() failed with error: 10048
+18:43:18 [SocketManager] bind() failed with error: 10048
+18:45:01 [SocketManager] bind() failed with error: 10048
+18:49:05 [SocketManager] Server started at port [44405]
+18:49:05 [ServerList] ServerList loaded successfully
+18:49:15 [ServerList] GameServer online (MUMexico) (0)
+18:49:20 [ServerList] JoinServer online
+19:39:20 [SocketManager] Server started at port [44405]
+19:39:20 [ServerList] ServerList loaded successfully
+19:39:30 [ServerList] GameServer online (MUMexico) (0)
+19:39:35 [ServerList] JoinServer online
+22:09:17 [SocketManager] Server started at port [44405]
+22:09:17 [ServerList] ServerList loaded successfully
+22:09:27 [ServerList] GameServer online (MUMexico) (0)
+22:09:32 [ServerList] JoinServer online

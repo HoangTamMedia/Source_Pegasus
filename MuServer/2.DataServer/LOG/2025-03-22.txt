@@ -1,0 +1,129 @@
+02:04:30 [SocketManager] Server started at port [55960]
+02:04:36 [ServerManager][0] AddServer (127.0.0.1)
+02:04:36 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+02:12:41 [SocketManager] Server started at port [55960]
+02:12:48 [ServerManager][0] AddServer (127.0.0.1)
+02:12:48 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+02:13:26 [SocketManager] Server started at port [55960]
+02:13:28 [ServerManager][0] AddServer (127.0.0.1)
+02:13:28 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+02:13:53 [SocketManager] Server started at port [55960]
+02:13:59 [ServerManager][0] AddServer (127.0.0.1)
+02:13:59 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+02:14:10 UPDATE OptionData SET SkillKey=?,GameOption=21,Qkey=1,Wkey=1,Ekey=1,ChatWindow=6,Rkey=1,Tkey=255,QWERTLevel=-61636 WHERE Name='GameMaster'
+02:14:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+02:14:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+02:23:32 [SocketManager] Server started at port [55960]
+02:23:39 [ServerManager][0] AddServer (127.0.0.1)
+02:23:39 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+02:23:47 [SocketManager] Server started at port [55960]
+02:23:54 [ServerManager][0] AddServer (127.0.0.1)
+02:23:54 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+02:36:09 [SocketManager] Server started at port [55960]
+02:36:15 [ServerManager][0] AddServer (127.0.0.1)
+02:36:15 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+02:49:22 [SocketManager] Server started at port [55960]
+02:49:29 [ServerManager][0] AddServer (127.0.0.1)
+02:49:29 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+02:49:55 [DataServer] L?u TKey vào database: 0
+02:50:46 [DataServer] L?u TKey vào database: 9
+02:51:14 [DataServer] L?u TKey vào database: 15
+02:51:25 [DataServer] L?u TKey vào database: 15
+02:51:51 [DataServer] L?u TKey vào database: 15
+02:52:51 [DataServer] L?u TKey vào database: 15
+02:53:02 [DataServer] L?u TKey vào database: 15
+02:53:11 [DataServer] L?u TKey vào database: 15
+02:59:55 [SocketManager] Server started at port [55960]
+03:00:01 [ServerManager][0] AddServer (127.0.0.1)
+03:00:01 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+03:05:09 [SocketManager] Server started at port [55960]
+03:05:16 [ServerManager][0] AddServer (127.0.0.1)
+03:05:16 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+03:21:57 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=0, QWERTLevel=184 WHERE Name='GameMaster'
+03:21:57 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+03:21:57 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+03:28:23 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=0, QWERTLevel=138 WHERE Name='GameMaster'
+03:28:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+03:28:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+03:31:30 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=0, QWERTLevel=51 WHERE Name='GameMaster'
+03:31:30 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+03:31:30 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+03:32:28 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=0, QWERTLevel=253 WHERE Name='GameMaster'
+03:32:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+03:32:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+03:51:09 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=0, QWERTLevel=18 WHERE Name='GameMaster'
+03:51:09 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+03:51:09 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+03:57:23 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=0, QWERTLevel=57 WHERE Name='GameMaster'
+03:57:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+03:57:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+04:06:48 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=0, QWERTLevel=64 WHERE Name='GameMaster'
+04:06:48 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+04:06:48 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+04:16:24 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=0, QWERTLevel=126 WHERE Name='GameMaster'
+04:16:24 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+04:16:24 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+04:22:10 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=0, QWERTLevel=10 WHERE Name='TESTRF'
+04:22:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+04:22:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+04:24:39 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=0, QWERTLevel=157 WHERE Name='Admin'
+04:24:39 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+04:24:39 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+04:30:24 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=0, QWERTLevel=165 WHERE Name='TestDL'
+04:30:24 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+04:30:24 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+04:33:05 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=0, QWERTLevel=89 WHERE Name='GameMaster'
+04:33:05 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+04:33:05 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+12:14:06 [SocketManager] Server started at port [55960]
+12:14:14 [ServerManager][0] AddServer (127.0.0.1)
+12:14:14 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+12:29:18 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=0, QWERTLevel=4 WHERE Name='GameMaster'
+12:29:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+12:29:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+12:29:31 INSERT INTO OptionData (Name, SkillKey, GameOption, Qkey, Wkey, Ekey, ChatWindow, Rkey, Tkey, QWERTLevel) VALUES ('testELF', ?, 21, 255, 255, 255, 6, 255, 0, 4)
+12:29:31 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+12:29:31 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+12:40:38 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=0, QWERTLevel=79 WHERE Name='GameMaster'
+12:40:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+12:40:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+12:45:59 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='TESTGUIL'
+12:45:59 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+12:49:15 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='TESTGUIL'
+12:49:15 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+12:49:17 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='TESTGUIL'
+12:49:17 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+12:49:53 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='TESTGUIL'
+12:49:53 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+12:49:56 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='TESTGUIL'
+12:49:56 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+12:51:33 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='TESTGUIL'
+12:51:33 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+12:54:19 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='TESTGUIL'
+12:54:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+12:54:22 UPDATE WarehouseGuild SET StatusRender=0 WHERE Guild='TESTGUIL'
+12:54:22 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'StatusRender'.
+13:09:05 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=0, QWERTLevel=226 WHERE Name='GameMaster'
+13:09:05 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+13:09:05 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+13:10:04 INSERT INTO OptionData (Name, SkillKey, GameOption, Qkey, Wkey, Ekey, ChatWindow, Rkey, Tkey, QWERTLevel) VALUES ('ELFELF', ?, 21, 255, 255, 255, 6, 255, 0, 250)
+13:10:04 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+13:10:04 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+15:49:34 [SocketManager] Server started at port [55960]
+15:49:41 [ServerManager][0] AddServer (127.0.0.1)
+15:49:41 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+16:26:03 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=48, QWERTLevel=0 WHERE Name='GameMaster'
+16:26:03 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+16:26:03 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+17:15:23 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=0, QWERTLevel=0 WHERE Name='GameMaster'
+17:15:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+17:15:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+17:49:38 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=48, QWERTLevel=0 WHERE Name='GameMaster'
+17:49:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+17:49:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+19:56:10 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=152, QWERTLevel=0 WHERE Name='GameMaster'
+19:56:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+19:56:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+19:56:18 INSERT INTO OptionData (Name, SkillKey, GameOption, Qkey, Wkey, Ekey, ChatWindow, Rkey, Tkey, QWERTLevel) VALUES ('TESTSD', ?, 21, 255, 255, 255, 6, 255, 0, 0)
+19:56:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+19:56:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.

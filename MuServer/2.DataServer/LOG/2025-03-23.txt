@@ -1,0 +1,66 @@
+10:52:01 [SocketManager] Server started at port [55960]
+10:52:09 [ServerManager][0] AddServer (127.0.0.1)
+10:52:09 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+12:35:22 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=118, QWERTLevel=0 WHERE Name='Phanh'
+12:35:22 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+12:35:22 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+14:01:09 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=114, QWERTLevel=0 WHERE Name='GameMaster'
+14:01:09 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+14:01:09 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+14:59:01 [SocketManager] Server started at port [55960]
+14:59:08 [ServerManager][0] AddServer (127.0.0.1)
+14:59:08 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+15:07:23 INSERT INTO OptionData (Name, SkillKey, GameOption, Qkey, Wkey, Ekey, ChatWindow, Rkey, Tkey, QWERTLevel) VALUES ('TESTDLL', ?, 21, 255, 255, 255, 6, 255, 24, 0)
+15:07:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+15:07:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+15:21:37 UPDATE OptionData SET SkillKey=?, GameOption=21, Qkey=255, Wkey=255, Ekey=255, ChatWindow=6, Rkey=255, Tkey=24, QWERTLevel=0 WHERE Name='GameMaster'
+15:21:37 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Tkey'.
+15:21:37 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'QWERTLevel'.
+15:21:45 [ServerManager][0] DelServer (127.0.0.1)
+15:21:47 [ServerManager][1] AddServer (127.0.0.1)
+15:21:47 [ServerManager][1] ServerInfo (Pegasus-01) (55901) (0)
+15:41:30 [ServerManager][1] DelServer (127.0.0.1)
+15:42:00 [ServerManager][0] AddServer (127.0.0.1)
+15:42:00 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+15:44:50 [ServerManager][0] DelServer (127.0.0.1)
+15:45:09 [ServerManager][1] AddServer (127.0.0.1)
+15:45:09 [ServerManager][1] ServerInfo (Pegasus-01) (55901) (0)
+15:46:21 [ServerManager][1] DelServer (127.0.0.1)
+15:46:38 [ServerManager][0] AddServer (127.0.0.1)
+15:46:38 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+16:18:14 [SocketManager] Server started at port [55960]
+16:18:21 [ServerManager][0] AddServer (127.0.0.1)
+16:18:21 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+16:18:46 INSERT INTO OptionData (Name,SkillKey,GameOption,Qkey,Wkey,Ekey,ChatWindow,Rkey,QWERLevel,TKey,TKeyLevel) VALUES ('GameMaster',?,21,4,4,4,6,4,252645135,227)
+16:18:46 [QueryManager] State (21S01), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]There are more columns in the INSERT statement than values specified in the VALUES clause. The number of values in the VALUES clause must match the number of columns specified in the INSERT statement.
+16:19:06 INSERT INTO OptionData (Name,SkillKey,GameOption,Qkey,Wkey,Ekey,ChatWindow,Rkey,QWERLevel,TKey,TKeyLevel) VALUES ('GameMaster',?,21,4,255,255,6,255,251658240,227)
+16:19:06 [QueryManager] State (21S01), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]There are more columns in the INSERT statement than values specified in the VALUES clause. The number of values in the VALUES clause must match the number of columns specified in the INSERT statement.
+16:19:18 INSERT INTO OptionData (Name,SkillKey,GameOption,Qkey,Wkey,Ekey,ChatWindow,Rkey,QWERLevel,TKey,TKeyLevel) VALUES ('GameMaster',?,21,4,255,255,6,255,0,227)
+16:19:18 [QueryManager] State (21S01), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]There are more columns in the INSERT statement than values specified in the VALUES clause. The number of values in the VALUES clause must match the number of columns specified in the INSERT statement.
+16:19:55 INSERT INTO OptionData (Name,SkillKey,GameOption,Qkey,Wkey,Ekey,ChatWindow,Rkey,QWERLevel,TKey,TKeyLevel) VALUES ('GameMaster',?,21,255,255,255,6,255,0,227)
+16:19:55 [QueryManager] State (21S01), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]There are more columns in the INSERT statement than values specified in the VALUES clause. The number of values in the VALUES clause must match the number of columns specified in the INSERT statement.
+16:22:48 [SocketManager] Server started at port [55960]
+16:22:54 [ServerManager][0] AddServer (127.0.0.1)
+16:22:54 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+16:23:28 INSERT INTO OptionData (Name,SkillKey,GameOption,Qkey,Wkey,Ekey,ChatWindow,Rkey,QWERLevel,TKey,TKeyLevel) VALUES ('GameMaster',?,21,4,4,4,6,4,252645135,4)
+16:23:28 [QueryManager] State (21S01), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]There are more columns in the INSERT statement than values specified in the VALUES clause. The number of values in the VALUES clause must match the number of columns specified in the INSERT statement.
+16:23:55 INSERT INTO OptionData (Name,SkillKey,GameOption,Qkey,Wkey,Ekey,ChatWindow,Rkey,QWERLevel,TKey,TKeyLevel) VALUES ('GameMaster',?,21,4,4,4,6,4,252645135,4)
+16:23:55 [QueryManager] State (21S01), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]There are more columns in the INSERT statement than values specified in the VALUES clause. The number of values in the VALUES clause must match the number of columns specified in the INSERT statement.
+16:25:35 [SocketManager] Server started at port [55960]
+16:25:42 [ServerManager][0] AddServer (127.0.0.1)
+16:25:42 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+16:29:48 [ServerManager][0] DelServer (127.0.0.1)
+16:30:10 [ServerManager][0] AddServer (127.0.0.1)
+16:30:10 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+20:59:16 [SocketManager] Server started at port [55960]
+20:59:22 [ServerManager][0] AddServer (127.0.0.1)
+20:59:22 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+21:56:39 [ServerManager][0] DelServer (127.0.0.1)
+21:56:41 [ServerManager][1] AddServer (127.0.0.1)
+21:56:41 [ServerManager][1] ServerInfo (Pegasus-01) (55901) (0)
+22:14:47 [ServerManager][1] DelServer (127.0.0.1)
+22:15:12 [ServerManager][0] AddServer (127.0.0.1)
+22:15:12 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+22:16:23 [ServerManager][0] DelServer (127.0.0.1)
+22:16:24 [ServerManager][1] AddServer (127.0.0.1)
+22:16:24 [ServerManager][1] ServerInfo (Pegasus-01) (55901) (0)

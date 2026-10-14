@@ -1,0 +1,762 @@
+05:15:49 [SocketManager] Server started at port [55960]
+05:18:43 [SocketManager] Server started at port [55960]
+05:19:45 [SocketManager] Server started at port [55960]
+05:20:07 [SocketManager] Server started at port [55960]
+05:20:37 [SocketManager] Server started at port [55960]
+05:34:00 [SocketManager] Server started at port [55960]
+05:34:03 [ServerManager][0] AddServer (127.0.0.1)
+05:34:03 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+05:37:02 [SocketManager] Server started at port [55960]
+05:37:04 [ServerManager][0] AddServer (127.0.0.1)
+05:37:04 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+05:37:29 [SocketManager] Server started at port [55960]
+05:37:32 [ServerManager][0] AddServer (127.0.0.1)
+05:37:32 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+05:42:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:06 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:06 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:11 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:11 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:11 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:11 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:11 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:11 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:11 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:11 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:11 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:11 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:11 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:11 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:11 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:11 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:11 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:11 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:11 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:11 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:11 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:11 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:11 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:11 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:11 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:11 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:12 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:12 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:12 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:12 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:12 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:12 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:12 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:12 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:16 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:16 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:16 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:16 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:16 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:16 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:16 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:16 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:16 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:16 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:16 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:16 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:16 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:16 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:16 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:16 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:16 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:16 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:42:16 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:42:16 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:43:47 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:43:47 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:43:47 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:43:47 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:43:48 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:43:48 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:43:48 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:43:48 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:43:48 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:43:48 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:43:48 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:43:48 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:43:48 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:43:48 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:43:49 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:43:49 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:43:49 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:43:49 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:43:49 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:43:49 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:43:49 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:43:49 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:43:49 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:43:49 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:43:50 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:43:50 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:43:50 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:43:50 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:43:50 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:43:50 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:44:18 UPDATE OptionData SET SkillKey=?,GameOption=21,Qkey=255,Wkey=255,Ekey=255,ChatWindow=6,Rkey=255,QWERLevel=0,TKey=0,TKeyLevel=0 WHERE Name='Phanh'
+05:44:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'TKey'.
+05:44:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'TKeyLevel'.
+05:44:37 UPDATE OptionData SET SkillKey=?,GameOption=21,Qkey=255,Wkey=255,Ekey=255,ChatWindow=6,Rkey=255,QWERLevel=0,TKey=0,TKeyLevel=0 WHERE Name='Phanh'
+05:44:37 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'TKey'.
+05:44:37 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'TKeyLevel'.
+05:47:49 UPDATE OptionData SET SkillKey=?,GameOption=21,Qkey=255,Wkey=255,Ekey=255,ChatWindow=6,Rkey=255,QWERLevel=0,TKey=0,TKeyLevel=0 WHERE Name='Phanh'
+05:47:49 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'TKey'.
+05:47:49 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'TKeyLevel'.
+05:48:23 UPDATE OptionData SET SkillKey=?,GameOption=21,Qkey=255,Wkey=255,Ekey=255,ChatWindow=6,Rkey=255,QWERLevel=0,TKey=0,TKeyLevel=0 WHERE Name='TESTRF'
+05:48:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'TKey'.
+05:48:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'TKeyLevel'.
+05:50:21 [SocketManager] Server started at port [55960]
+05:50:23 [ServerManager][0] AddServer (127.0.0.1)
+05:50:23 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+05:51:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:34 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:34 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:37 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:37 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:37 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:37 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:37 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:37 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:37 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:37 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:37 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:37 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:37 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:37 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:37 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:37 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:37 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:37 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:37 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:37 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:37 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:37 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:38 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:38 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:39 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:39 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:43 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:43 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:43 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:43 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:43 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:43 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:43 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:43 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:46 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:46 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:46 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:46 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:46 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:46 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:46 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:46 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:46 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:46 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:46 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:46 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:46 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:46 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:46 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:46 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:46 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:46 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:46 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:46 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:46 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:46 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:46 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:46 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:46 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:46 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:47 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:47 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:49 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:49 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:49 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:49 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:49 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:49 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:49 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:49 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:49 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:49 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:49 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:49 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:49 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:49 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:49 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:49 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:49 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:49 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:50 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:50 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:50 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:50 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+05:51:52 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+05:51:52 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:00:54 [SocketManager] Server started at port [55960]
+06:00:56 [ServerManager][0] AddServer (127.0.0.1)
+06:00:56 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+06:02:06 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:06 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:09 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:09 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:09 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:09 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:09 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:09 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:09 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:09 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:09 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:09 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:09 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:09 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:09 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:09 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:09 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:09 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:09 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:09 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:09 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:09 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:09 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:09 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:09 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:09 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:09 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:09 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:09 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:09 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:10 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:10 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:10 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:10 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:10 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:10 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:10 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:10 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:10 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:10 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:10 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:10 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:10 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:10 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:11 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:11 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:12 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:12 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:12 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:12 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:12 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:12 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:12 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:12 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:12 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:12 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:02:12 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:02:12 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:09:30 [SocketManager] Server started at port [55960]
+06:09:33 [ServerManager][0] AddServer (127.0.0.1)
+06:09:33 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+06:11:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:31 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:31 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:31 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:31 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:31 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:31 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:31 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:31 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:33 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:33 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:34 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:34 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:34 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:34 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:11:34 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:11:34 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:01 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:01 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:01 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:01 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:01 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:01 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:01 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:01 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:01 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:01 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:01 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:01 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:01 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:01 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:01 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:01 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:01 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:01 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:01 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:01 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:01 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:01 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:01 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:01 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:01 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:01 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:01 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:01 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:01 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:01 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:01 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:01 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:01 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:01 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:02 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:02 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:02 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:02 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:02 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:02 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:02 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:02 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:02 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:02 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:14 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:14 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:14 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:14 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:14 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:14 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:14 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:14 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:14 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:14 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:14 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:14 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:14 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:14 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:14 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:14 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:14 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:14 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:14 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:14 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:14 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:14 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:14 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:14 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:14 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:14 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:14 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:14 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:14 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:14 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:14 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:14 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:14 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:14 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:14 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:14 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:15 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:15 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:15 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:15 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:15 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:15 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:12:15 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:12:15 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:34:53 [SocketManager] Server started at port [55960]
+06:34:55 [ServerManager][0] AddServer (127.0.0.1)
+06:34:55 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+06:35:16 [SocketManager] Server started at port [55960]
+06:35:18 [ServerManager][0] AddServer (127.0.0.1)
+06:35:18 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+06:35:33 SELECT ExtInventory FROM AccountCharacter WHERE Id='admin'
+06:35:33 [QueryManager] State (24000), Diagnostic: [Microsoft][ODBC Driver Manager] Invalid cursor state
+06:35:33 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+06:35:33 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+06:36:10 UPDATE OptionData SET SkillKey=?,GameOption=21,Qkey=255,Wkey=255,Ekey=255,ChatWindow=6,Rkey=255,QWERLevel=0,TKey=0,TKeyLevel=0 WHERE Name='Phanh'
+06:36:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'TKey'.
+06:36:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'TKeyLevel'.
+06:36:15 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+06:36:15 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+06:36:16 SELECT ExtInventory FROM AccountCharacter WHERE Id='admin'
+06:36:16 [QueryManager] State (24000), Diagnostic: [Microsoft][ODBC Driver Manager] Invalid cursor state
+06:36:16 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+06:36:16 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+06:37:34 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+06:37:34 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+06:38:37 SELECT ExtInventory FROM AccountCharacter WHERE Id='admin'
+06:38:37 [QueryManager] State (24000), Diagnostic: [Microsoft][ODBC Driver Manager] Invalid cursor state
+06:38:37 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+06:38:37 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+06:40:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:04 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:04 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:06 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:06 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:06 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:06 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:08 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:08 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:08 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:08 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:08 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:08 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:08 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:08 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:08 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:08 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:08 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:08 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:08 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:08 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:09 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:09 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:09 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:09 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:10 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:10 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:17 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:17 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:17 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:17 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:17 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:17 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:17 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:17 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:17 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:17 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:17 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:17 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:17 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:17 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:17 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:17 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:17 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:17 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:17 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:17 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:18 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:18 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:18 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:18 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:18 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:18 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:18 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:18 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:18 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:18 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:18 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:18 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:18 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:18 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:18 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:18 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:18 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:18 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:18 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:18 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:21 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:21 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:21 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:21 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:21 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:21 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:21 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:21 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:21 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:21 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:21 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:21 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:21 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:21 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:21 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:21 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:21 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:21 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:23 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:23 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:30 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:30 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:31 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:31 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:31 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:31 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:31 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:31 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:31 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:31 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:31 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:31 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:31 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:31 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:31 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:31 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:31 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:31 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:31 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:31 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:40:31 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+06:40:31 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+06:41:16 UPDATE OptionData SET SkillKey=?,GameOption=21,Qkey=255,Wkey=255,Ekey=255,ChatWindow=6,Rkey=255,QWERLevel=0,TKey=0,TKeyLevel=0 WHERE Name='Phanh'
+06:41:16 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'TKey'.
+06:41:16 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'TKeyLevel'.
+06:41:21 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+06:41:21 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+06:41:23 SELECT ExtInventory FROM AccountCharacter WHERE Id='admin'
+06:41:23 [QueryManager] State (24000), Diagnostic: [Microsoft][ODBC Driver Manager] Invalid cursor state
+06:41:23 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+06:41:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+06:42:13 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+06:42:13 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+06:59:50 SELECT ExtInventory FROM AccountCharacter WHERE Id='admin'
+06:59:50 [QueryManager] State (24000), Diagnostic: [Microsoft][ODBC Driver Manager] Invalid cursor state
+06:59:50 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+06:59:50 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+07:00:21 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+07:00:21 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+08:45:37 SELECT ExtInventory FROM AccountCharacter WHERE Id='admin'
+08:45:37 [QueryManager] State (24000), Diagnostic: [Microsoft][ODBC Driver Manager] Invalid cursor state
+08:45:37 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+08:45:37 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:05 EXEC WZ_CustomMonsterReward 'admin','Phanh','14','0','0','0','0','0'
+08:46:05 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:46:39 EXEC WZ_CustomMonsterReward 'admin','Phanh','42','0','0','0','0','0'
+08:46:39 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_CustomMonsterReward has too many arguments specified.
+08:52:17 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+08:52:17 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+09:56:53 SELECT ExtInventory FROM AccountCharacter WHERE Id='admin'
+09:56:53 [QueryManager] State (24000), Diagnostic: [Microsoft][ODBC Driver Manager] Invalid cursor state
+09:56:53 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+09:56:53 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+10:00:19 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+10:00:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+10:34:35 [SocketManager] Server started at port [55960]
+10:34:37 [ServerManager][0] AddServer (127.0.0.1)
+10:34:37 [ServerManager][0] ServerInfo (Pegasus-01) (55901) (0)
+10:35:15 SELECT ExtInventory FROM AccountCharacter WHERE Id='admin'
+10:35:15 [QueryManager] State (24000), Diagnostic: [Microsoft][ODBC Driver Manager] Invalid cursor state
+10:35:15 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+10:35:15 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+10:41:33 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+10:41:33 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+10:46:49 SELECT ExtInventory FROM AccountCharacter WHERE Id='admin'
+10:46:49 [QueryManager] State (24000), Diagnostic: [Microsoft][ODBC Driver Manager] Invalid cursor state
+10:46:49 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+10:46:49 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.
+10:49:31 UPDATE AccountCharacter SET ExtInventory=0,ExtWarehouse=0 WHERE Id='admin'
+10:49:31 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ExtInventory'.

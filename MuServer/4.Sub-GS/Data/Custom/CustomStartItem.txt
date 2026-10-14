@@ -1,0 +1,33 @@
+//==============================================================================
+// CustomStartItem.txt
+//
+// Items handed to a brand new character. Read by CCustomStartItem::Load in
+// GameServer\CustomStartItem.cpp - the column order below is taken straight
+// from that parser, in the order it calls GetAsNumber().
+//
+// Section 0, one row per item, "end" closes the section. A class may appear on
+// as many rows as it has starting items.
+//
+//   Class  - 0 DW   1 DK   2 Elf   3 MG   4 DL   5 SU   6 RF   7 GL
+//   Type   - item group: 0 Sword  1 Axe  2 Mace  3 Spear  4 Bow  5 Staff
+//                        6 Shield 7 Helm 8 Armor 9 Pants 10 Gloves 11 Boots
+//                        12 Wings 13 Misc 14 Potion/Jewel
+//   Index  - item number inside that group
+//   Time   - 0 for a permanent item, otherwise seconds until it expires
+//
+// Sockets are written as 255, which is the "empty socket" marker. If this
+// build uses -1 or 0 for empty instead, change all five columns to match.
+//==============================================================================
+
+0
+//        Item      Item                        Exce-  Anci-              Socket        Item
+// Class  Type  Index  Level  Luck  Dur  Skill  Option  llent  ent  JOH  OpEx  1    2    3    4    5    Time
+
+   0      5     0      0      0     0    0      0       0      0    0    0     255  255  255  255  255  0
+   1      0     0      0      0     0    0      0       0      0    0    0     255  255  255  255  255  0
+   2      4     0      0      0     0    0      0       0      0    0    0     255  255  255  255  255  0
+   3      0     0      0      0     0    0      0       0      0    0    0     255  255  255  255  255  0
+   4      0     0      0      0     0    0      0       0      0    0    0     255  255  255  255  255  0
+   5      5     0      0      0     0    0      0       0      0    0    0     255  255  255  255  255  0
+   6      0     0      0      0     0    0      0       0      0    0    0     255  255  255  255  255  0
+end

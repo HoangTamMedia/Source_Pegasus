@@ -1,0 +1,76 @@
+01:52:01 [ServerInfo] CashShop loaded successfully
+01:52:01 [ServerInfo] ChaosMix loaded successfully
+01:52:01 [ServerInfo] Character loaded successfully
+01:52:01 [ServerInfo] Custom loaded successfully
+01:52:01 [ServerInfo] Command loaded successfully
+01:52:01 [ServerInfo] Common loaded successfully
+01:52:01 [ Crywolf ] State (0) -> NONE
+01:52:01 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+01:52:01 [ServerInfo] Event loaded successfully
+01:52:01 [ServerInfo] EventItemBag loaded successfully
+01:52:01 [ServerInfo] Hack loaded successfully
+01:52:01 [ServerInfo] Item loaded successfully
+01:52:02 [ServerInfo] Monster loaded successfully
+01:52:02 [ServerInfo] Move loaded successfully
+01:52:02 [ServerInfo] Quest loaded successfully
+01:52:02 [ServerInfo] Shop loaded successfully
+01:52:02 [ServerInfo] Skill loaded successfully
+01:52:02 [ServerInfo] Util loaded successfully
+01:52:02 [ReadBotInfo] BotSystem loaded successfully
+01:52:10 [Obj][9000] AddClient (192.168.2.200)
+01:52:10 [Obj][9000] DelClient (192.168.2.200)
+01:52:10 [Obj][9001] AddClient (192.168.2.200)
+01:52:10 [Obj][9001] DelClient (192.168.2.200)
+01:52:24 [Obj][9000] AddClient (192.168.2.200)
+01:52:32 [Obj][9000] AddAccount (1)
+01:52:38 [Obj][9000] LogInCharacter (223333)
+01:52:40 [Obj][9001] AddClient (192.168.2.200)
+01:52:40 [Obj][9001] DelClient (192.168.2.200)
+01:52:40 [Obj][9002] AddClient (192.168.2.200)
+01:52:40 [Obj][9002] DelClient (192.168.2.200)
+01:52:49 [Obj][9000] LogOutCharacter (223333)
+01:52:49 [Obj][9000] LogOutCharacter ()
+01:53:03 [Obj][9000] LogInCharacter (2222333)
+01:53:10 [Obj][9001] AddClient (192.168.2.200)
+01:53:10 [Obj][9001] DelClient (192.168.2.200)
+01:53:10 [Obj][9002] AddClient (192.168.2.200)
+01:53:10 [Obj][9002] DelClient (192.168.2.200)
+01:53:40 [Obj][9001] AddClient (192.168.2.200)
+01:53:40 [Obj][9001] DelClient (192.168.2.200)
+01:53:41 [Obj][9002] AddClient (192.168.2.200)
+01:53:41 [Obj][9002] DelClient (192.168.2.200)
+01:53:50 [Obj][9000] LogOutCharacter (2222333)
+01:53:50 [Obj][9000] LogOutCharacter ()
+01:53:50 [Obj][9000] DelAccount (1)
+01:53:50 [Obj][9000] DelClient (192.168.2.200)
+20:18:42 [ServerInfo] CashShop loaded successfully
+20:18:42 [ServerInfo] ChaosMix loaded successfully
+20:18:42 [ServerInfo] Character loaded successfully
+20:18:42 [ServerInfo] Custom loaded successfully
+20:18:42 [ServerInfo] Command loaded successfully
+20:18:42 [ServerInfo] Common loaded successfully
+20:18:42 [ Crywolf ] State (0) -> NONE
+20:18:42 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+20:18:42 [ServerInfo] Event loaded successfully
+20:18:43 [ServerInfo] EventItemBag loaded successfully
+20:18:43 [ServerInfo] Hack loaded successfully
+20:18:43 [ServerInfo] Item loaded successfully
+20:18:43 [ServerInfo] Monster loaded successfully
+20:18:43 [ServerInfo] Move loaded successfully
+20:18:43 [ServerInfo] Quest loaded successfully
+20:18:43 [ServerInfo] Shop loaded successfully
+20:18:43 [ServerInfo] Skill loaded successfully
+20:18:43 [ServerInfo] Util loaded successfully
+20:18:43 [ReadBotInfo] BotSystem loaded successfully
+20:19:34 [Obj][9000] AddClient (192.168.2.200)
+20:19:37 [Obj][9000] AddAccount (1)
+20:19:40 [Obj][9000] LogInCharacter (233333)
+20:20:10 [Obj][9000] LogOutCharacter (233333)
+20:20:10 [Obj][9000] LogOutCharacter ()
+20:20:13 [Obj][9000] LogInCharacter (233333)
+20:21:14 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:21:14 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:21:30 [Obj][9000] LogOutCharacter (233333)
+20:21:30 [Obj][9000] LogOutCharacter ()
+20:21:30 [Obj][9000] DelAccount (1)
+20:21:30 [Obj][9000] DelClient (192.168.2.200)

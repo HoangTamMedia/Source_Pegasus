@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Processes>
+  <Process Run="True" Delay="1000" Path="F:\Mu Online\Full Source Pegasus Update New\MuServer\0.MHPServer\MHPServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="F:\Mu Online\Full Source Pegasus Update New\MuServer\1.ConnectServer\ConnectServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="F:\Mu Online\Full Source Pegasus Update New\MuServer\2.DataServer\DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="F:\Mu Online\Full Source Pegasus Update New\MuServer\3.JoinServer\JoinServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="F:\Mu Online\Full Source Pegasus Update New\MuServer\4.Sub-1\GameServer\GameServer.exe" Parameters="" />
+</Processes>

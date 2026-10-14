@@ -1,0 +1,51 @@
+12:00:50 [ServerInfo] CashShop loaded successfully
+12:00:50 [ServerInfo] ChaosMix loaded successfully
+12:00:50 [ServerInfo] Character loaded successfully
+12:00:50 [ServerInfo] Custom loaded successfully
+12:00:50 [ServerInfo] Command loaded successfully
+12:00:50 [ServerInfo] Common loaded successfully
+12:00:50 [ Crywolf ] State (0) -> NONE
+12:00:50 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+12:00:50 [ServerInfo] Event loaded successfully
+12:00:50 [ServerInfo] EventItemBag loaded successfully
+12:00:50 [ServerInfo] Hack loaded successfully
+12:00:50 [ServerInfo] Item loaded successfully
+12:00:50 [ServerInfo] Monster loaded successfully
+12:00:50 [ServerInfo] Move loaded successfully
+12:00:50 [ServerInfo] Quest loaded successfully
+12:00:50 [ServerInfo] Shop loaded successfully
+12:00:50 [ServerInfo] Skill loaded successfully
+12:00:50 [ServerInfo] Util loaded successfully
+12:00:50 [ReadBotInfo] BotSystem loaded successfully
+12:01:07 [Obj][9000] AddClient (192.168.2.200)
+12:01:12 [Obj][9000] AddAccount (2001)
+12:01:14 [Obj][9000] LogInCharacter (22222)
+12:02:16 [Obj][9000] LogOutCharacter (22222)
+12:02:16 [Obj][9000] LogOutCharacter ()
+12:02:16 [Obj][9000] DelAccount (2001)
+12:02:16 [Obj][9000] DelClient (192.168.2.200)
+12:03:21 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:03:21 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 200 Y: 78)
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 200 Y: 78)
+12:05:51 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:05:51 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:08:22 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:08:22 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:09:24 [Obj][9000] AddClient (192.168.2.200)
+12:09:29 [Obj][9000] AddAccount (2001)
+12:09:30 [Obj][9000] LogInCharacter (22222)
+12:10:00 [CustomQuiz] Start
+12:10:52 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:10:52 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:13:00 [CustomQuiz] Finish
+12:13:06 [Obj][9000] LogOutCharacter (22222)
+12:13:06 [Obj][9000] LogOutCharacter ()
+12:13:06 [Obj][9000] DelAccount (2001)
+12:13:06 [Obj][9000] DelClient (192.168.2.200)
+12:13:23 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:13:23 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 150 Y: 22)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 150 Y: 22)
+12:15:53 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:15:53 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87

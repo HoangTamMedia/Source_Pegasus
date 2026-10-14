@@ -1,0 +1,38 @@
+20:42:55 [SocketManager] Server started at port [55960]
+20:43:28 [ServerManager][0] AddServer (127.0.0.1)
+20:43:28 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+20:52:19 [ServerManager][0] DelServer (127.0.0.1)
+20:53:20 [SocketManager] Server started at port [55960]
+20:53:55 [ServerManager][0] AddServer (127.0.0.1)
+20:53:55 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+20:54:20 Send to DS
+20:54:28 Send to DS
+20:55:35 Send to DS
+20:55:43 Send to DS
+20:59:16 Send to DS
+20:59:22 Send to DS
+20:59:27 Send to DS
+21:00:06 [ServerManager][0] DelServer (127.0.0.1)
+21:01:13 [ServerManager][0] AddServer (127.0.0.1)
+21:01:13 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+21:01:32 Send to DS
+21:01:38 Send to DS
+21:01:54 [ServerManager][0] DelServer (127.0.0.1)
+21:02:48 [ServerManager][0] AddServer (127.0.0.1)
+21:02:48 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+21:03:07 Send to DS
+21:04:50 [ServerManager][0] DelServer (127.0.0.1)
+21:05:42 [ServerManager][0] AddServer (127.0.0.1)
+21:05:42 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+21:06:20 Send to DS
+21:06:38 [ServerManager][0] DelServer (127.0.0.1)
+21:07:47 [ServerManager][0] AddServer (127.0.0.1)
+21:07:47 [ServerManager][0] ServerInfo (MUMexico) (55901) (0)
+21:08:31 Send to DS
+21:08:41 Send to DS
+21:12:22 Send to DS
+21:12:26 Send to DS
+21:12:32 Send to DS
+21:12:48 Send to DS
+21:12:56 Send to DS
+22:23:19 [ServerManager][0] DelServer (127.0.0.1)

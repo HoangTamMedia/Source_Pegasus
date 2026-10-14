@@ -9,8 +9,10 @@
 *.tar.gz
 *.tgz
 
-# --- Database Large Log Files ---------------------------------
+# --- Database Files (locked by SQL Server) ---------------------
 *.ldf
+*.mdf
+*.ndf
 
 # --- Build Outputs & Caches -----------------------------------
 .vs/
