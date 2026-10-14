@@ -47,6 +47,17 @@ Source/**/bin/
 *.bsc
 *.sbr
 
+# --- Boost documentation, tests, examples & tools -------------
+**/boost_1_80_0/doc/
+**/boost_1_80_0/more/
+**/boost_1_80_0/status/
+**/boost_1_80_0/tools/
+**/boost_1_80_0/libs/*/doc/
+**/boost_1_80_0/libs/*/test/
+**/boost_1_80_0/libs/*/tests/
+**/boost_1_80_0/libs/*/example/
+**/boost_1_80_0/libs/*/examples/
+
 # --- Logs & OS Files ------------------------------------------
 *.log
 Thumbs.db
